@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import {
   Card,
-  CardContent,
   Typography,
   Box,
   IconButton,
@@ -98,28 +97,27 @@ export const FlashcardViewer = ({ flashcards }: FlashcardViewerProps) => {
         <LinearProgress variant="determinate" value={progress} />
       </Box>
 
-      {/* Card */}
-      <Card
+      {/* Card Container */}
+      <Box
         sx={{
-          minHeight: 300,
-          cursor: 'pointer',
           perspective: '1000px',
-          position: 'relative',
+          height: 320,
         }}
-        onClick={handleFlip}
       >
         <Box
+          onClick={handleFlip}
           sx={{
-            transition: 'transform 0.6s',
-            transformStyle: 'preserve-3d',
-            transform: isFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)',
             position: 'relative',
             width: '100%',
             height: '100%',
+            cursor: 'pointer',
+            transformStyle: 'preserve-3d',
+            transition: 'transform 0.6s',
+            transform: isFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)',
           }}
         >
           {/* Front */}
-          <CardContent
+          <Card
             sx={{
               position: 'absolute',
               width: '100%',
@@ -131,6 +129,7 @@ export const FlashcardViewer = ({ flashcards }: FlashcardViewerProps) => {
               alignItems: 'center',
               textAlign: 'center',
               p: 4,
+              boxSizing: 'border-box',
             }}
           >
             <Chip
@@ -139,16 +138,16 @@ export const FlashcardViewer = ({ flashcards }: FlashcardViewerProps) => {
               color={getDifficultyColor(currentFlashcard.dificuldade) as any}
               sx={{ mb: 2 }}
             />
-            <Typography variant="h6" sx={{ mb: 3 }}>
+            <Typography variant="h6" sx={{ mb: 3, px: 2 }}>
               {currentFlashcard.frente}
             </Typography>
             <Typography variant="caption" color="text.secondary">
               Clique para ver a resposta
             </Typography>
-          </CardContent>
+          </Card>
 
           {/* Back */}
-          <CardContent
+          <Card
             sx={{
               position: 'absolute',
               width: '100%',
@@ -161,18 +160,27 @@ export const FlashcardViewer = ({ flashcards }: FlashcardViewerProps) => {
               alignItems: 'center',
               textAlign: 'center',
               p: 4,
+              boxSizing: 'border-box',
               bgcolor: 'action.hover',
             }}
           >
-            <Typography variant="h6" color="primary" sx={{ mb: 2 }}>
+            <Typography variant="subtitle1" color="primary" fontWeight="bold" sx={{ mb: 2 }}>
               Resposta
             </Typography>
-            <Typography variant="body1" sx={{ whiteSpace: 'pre-line' }}>
+            <Typography
+              variant="body1"
+              sx={{
+                whiteSpace: 'pre-line',
+                px: 2,
+                overflow: 'auto',
+                maxHeight: '80%',
+              }}
+            >
               {currentFlashcard.verso}
             </Typography>
-          </CardContent>
+          </Card>
         </Box>
-      </Card>
+      </Box>
 
       {/* Controls */}
       <Box

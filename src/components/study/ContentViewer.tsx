@@ -25,6 +25,7 @@ import {
 import type { ConteudoTopico } from '../../types';
 import { FlashcardViewer } from './FlashcardViewer';
 import { QuestionViewer } from './QuestionViewer';
+import { MarkdownRenderer } from '../common/MarkdownRenderer';
 
 interface ContentViewerProps {
   conteudo: ConteudoTopico;
@@ -89,29 +90,19 @@ export const ContentViewer = ({
       <TabPanel value={activeTab} index={0}>
         <Card sx={{ mb: 3 }}>
           <CardContent>
-            <Typography variant="h6" gutterBottom color="primary">
+            <Typography variant="h6" gutterBottom color="primary" sx={{ mb: 2 }}>
               Resumo
             </Typography>
-            <Typography
-              variant="body1"
-              sx={{ lineHeight: 1.8, whiteSpace: 'pre-line' }}
-            >
-              {conteudo.resumo}
-            </Typography>
+            <MarkdownRenderer content={conteudo.resumo} />
           </CardContent>
         </Card>
 
         <Card sx={{ mb: 3 }}>
           <CardContent>
-            <Typography variant="h6" gutterBottom color="primary">
+            <Typography variant="h6" gutterBottom color="primary" sx={{ mb: 2 }}>
               Explicacao Didatica
             </Typography>
-            <Typography
-              variant="body1"
-              sx={{ lineHeight: 1.8, whiteSpace: 'pre-line' }}
-            >
-              {conteudo.explicacao}
-            </Typography>
+            <MarkdownRenderer content={conteudo.explicacao} />
           </CardContent>
         </Card>
 
@@ -121,25 +112,26 @@ export const ContentViewer = ({
               <Typography
                 variant="h6"
                 gutterBottom
-                sx={{ display: 'flex', alignItems: 'center', gap: 1 }}
+                sx={{ display: 'flex', alignItems: 'center', gap: 1, mb: 2 }}
               >
                 <Lightbulb color="warning" />
                 Mnemonicos
               </Typography>
-              <List>
+              <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
                 {conteudo.mnemonicos.map((mnemonic, index) => (
-                  <ListItem key={index}>
-                    <Alert severity="info" sx={{ width: '100%' }}>
-                      <Typography variant="subtitle2" fontWeight="bold">
-                        {mnemonic.termo}: {mnemonic.significado}
-                      </Typography>
-                      <Typography variant="body2">
-                        {mnemonic.frase}
-                      </Typography>
-                    </Alert>
-                  </ListItem>
+                  <Alert key={index} severity="info" icon={false}>
+                    <Typography variant="subtitle1" fontWeight="bold" color="primary">
+                      {mnemonic.termo}
+                    </Typography>
+                    <Typography variant="body2" sx={{ mt: 0.5 }}>
+                      <strong>Significado:</strong> {mnemonic.significado}
+                    </Typography>
+                    <Typography variant="body2" sx={{ mt: 0.5, fontStyle: 'italic' }}>
+                      "{mnemonic.frase}"
+                    </Typography>
+                  </Alert>
                 ))}
-              </List>
+              </Box>
             </CardContent>
           </Card>
         )}
@@ -196,27 +188,29 @@ export const ContentViewer = ({
             <Typography variant="h6" gutterBottom color="warning.main">
               Armadilhas Frequentes
             </Typography>
-            <List>
+            <Box sx={{ display: 'flex', flexDirection: 'column', gap: 3 }}>
               {conteudo.armadilhas.map((armadilha, index) => (
-                <ListItem key={index} sx={{ alignItems: 'flex-start', flexDirection: 'column' }}>
+                <Box key={index}>
                   <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, mb: 1 }}>
                     <Warning color="warning" />
                     <Typography variant="subtitle1" fontWeight="bold">
                       {armadilha.titulo}
                     </Typography>
                   </Box>
-                  <Typography variant="body2" sx={{ mb: 1 }}>
+                  <Typography variant="body2" sx={{ mb: 1.5, pl: 4 }}>
                     {armadilha.descricao}
                   </Typography>
-                  <Alert severity="info" sx={{ width: '100%' }}>
+                  <Alert severity="info" sx={{ ml: 4 }}>
                     <Typography variant="body2">
                       <strong>Dica:</strong> {armadilha.dica}
                     </Typography>
                   </Alert>
-                  <Divider sx={{ mt: 2, width: '100%' }} />
-                </ListItem>
+                  {index < conteudo.armadilhas.length - 1 && (
+                    <Divider sx={{ mt: 3 }} />
+                  )}
+                </Box>
               ))}
-            </List>
+            </Box>
           </CardContent>
         </Card>
       </TabPanel>
