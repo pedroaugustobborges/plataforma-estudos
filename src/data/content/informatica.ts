@@ -518,5 +518,576 @@ Traduz nomes de domínio em endereços IP.
         ],
       },
     },
+    {
+      id: 'inf-topico-2',
+      numero: 2,
+      titulo: 'Ferramentas e aplicativos de navegação, correio eletrônico, grupos de discussão, busca e pesquisa',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Navegadores Web (Browsers)
+
+| Navegador | Desenvolvedor | Características |
+|-----------|---------------|-----------------|
+| **Google Chrome** | Google | Mais usado, extensões, integração Google |
+| **Mozilla Firefox** | Mozilla | Código aberto, privacidade |
+| **Microsoft Edge** | Microsoft | Baseado em Chromium, Windows 10/11 |
+| **Safari** | Apple | Exclusivo Apple, otimizado iOS/macOS |
+| **Opera** | Opera Software | VPN integrada, leve |
+
+### Correio Eletrônico (E-mail)
+
+| Protocolo | Função | Porta |
+|-----------|--------|-------|
+| **SMTP** | ENVIAR e-mails | 25 ou 587 |
+| **POP3** | RECEBER (baixa e apaga do servidor) | 110 |
+| **IMAP** | RECEBER (sincroniza com servidor) | 143 |
+
+### Buscadores
+
+| Buscador | Características |
+|----------|-----------------|
+| **Google** | Mais usado, algoritmo PageRank |
+| **Bing** | Microsoft, integrado ao Edge |
+| **Yahoo** | Portal com busca |
+| **DuckDuckGo** | Foco em privacidade |
+
+### Para IADES:
+- SMTP = ENVIAR; POP3/IMAP = RECEBER
+- IMAP mantém no servidor; POP3 baixa e remove
+- Operadores de busca: "aspas", site:, -exclusão
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Navegadores Web (Browsers)
+
+**Navegador** é o software que permite acessar páginas na Internet (WWW).
+
+#### 1.1 Principais Navegadores
+
+**Google Chrome:**
+- Mais utilizado no mundo
+- Desenvolvido pelo Google
+- Extensões na Chrome Web Store
+- Sincronização com conta Google
+- Gerenciador de senhas integrado
+
+**Mozilla Firefox:**
+- Código aberto (open source)
+- Foco em privacidade
+- Extensões (add-ons)
+- Desenvolvido pela Mozilla Foundation
+
+**Microsoft Edge:**
+- Substituiu o Internet Explorer
+- Baseado no Chromium (mesmo do Chrome)
+- Integrado ao Windows 10/11
+- Modo IE para compatibilidade
+
+**Safari:**
+- Navegador da Apple
+- Exclusivo para macOS e iOS
+- Otimizado para dispositivos Apple
+
+#### 1.2 Funcionalidades Comuns
+
+| Funcionalidade | Descrição |
+|----------------|-----------|
+| **Abas (tabs)** | Múltiplas páginas na mesma janela |
+| **Favoritos** | Salvar sites frequentes |
+| **Histórico** | Registro de páginas visitadas |
+| **Downloads** | Gerenciar arquivos baixados |
+| **Extensões** | Adicionar funcionalidades |
+| **Modo anônimo** | Navegação privada |
+| **Sincronização** | Dados entre dispositivos |
+
+#### 1.3 Atalhos Importantes
+
+| Atalho | Função |
+|--------|--------|
+| **Ctrl + T** | Nova aba |
+| **Ctrl + W** | Fechar aba |
+| **Ctrl + N** | Nova janela |
+| **Ctrl + Shift + N** | Janela anônima (Chrome) |
+| **Ctrl + D** | Adicionar favorito |
+| **Ctrl + H** | Histórico |
+| **Ctrl + J** | Downloads |
+| **F5** | Atualizar página |
+| **Ctrl + F** | Buscar na página |
+
+### 2. Correio Eletrônico (E-mail)
+
+#### 2.1 Conceitos Básicos
+
+**E-mail** (Electronic Mail) é o sistema de envio e recebimento de mensagens eletrônicas.
+
+**Componentes do endereço:**
+> usuario@dominio.com
+- **usuario**: identificação do destinatário
+- **@**: separador (arroba)
+- **dominio.com**: servidor de e-mail
+
+#### 2.2 Protocolos de E-mail
+
+| Protocolo | Nome Completo | Função | Porta |
+|-----------|---------------|--------|-------|
+| **SMTP** | Simple Mail Transfer Protocol | ENVIAR e-mails | 25 ou 587 |
+| **POP3** | Post Office Protocol v3 | RECEBER e-mails | 110 |
+| **IMAP** | Internet Message Access Protocol | RECEBER e-mails | 143 |
+
+#### 2.3 POP3 vs. IMAP
+
+| Aspecto | POP3 | IMAP |
+|---------|------|------|
+| **Mensagens** | Baixa e REMOVE do servidor | MANTÉM no servidor |
+| **Acesso** | Um dispositivo | Múltiplos dispositivos |
+| **Armazenamento** | Local | No servidor |
+| **Uso offline** | Melhor | Limitado |
+| **Sincronização** | Não sincroniza | Sincroniza pastas |
+
+**Quando usar cada um:**
+- **POP3**: um único computador, quer manter local
+- **IMAP**: vários dispositivos, acesso de qualquer lugar
+
+#### 2.4 Clientes de E-mail
+
+**Webmail (acesso pelo navegador):**
+- Gmail, Outlook.com, Yahoo Mail
+
+**Aplicativos instalados:**
+- Microsoft Outlook
+- Mozilla Thunderbird
+- Apple Mail
+
+#### 2.5 Estrutura de uma Mensagem
+
+| Campo | Descrição |
+|-------|-----------|
+| **Para (To)** | Destinatário principal |
+| **Cc** | Cópia (visível a todos) |
+| **Cco/Bcc** | Cópia oculta (invisível aos outros) |
+| **Assunto** | Título da mensagem |
+| **Anexo** | Arquivos enviados junto |
+| **Corpo** | Conteúdo da mensagem |
+
+### 3. Grupos de Discussão
+
+#### 3.1 Conceitos
+
+**Grupos de discussão** são espaços virtuais para troca de informações sobre temas específicos.
+
+**Tipos:**
+- **Fóruns**: discussões organizadas por tópicos
+- **Listas de e-mail**: mensagens distribuídas por e-mail
+- **Newsgroups (Usenet)**: sistema antigo de discussão
+- **Grupos em redes sociais**: Facebook, LinkedIn, WhatsApp
+
+#### 3.2 Características
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Tema específico** | Foco em assunto determinado |
+| **Moderação** | Pode ter moderadores |
+| **Assincrono** | Não precisa estar online ao mesmo tempo |
+| **Histórico** | Mensagens anteriores ficam disponíveis |
+
+### 4. Ferramentas de Busca e Pesquisa
+
+#### 4.1 Buscadores (Search Engines)
+
+**Google:**
+- Líder mundial (>90% das buscas)
+- Algoritmo PageRank
+- Indexa bilhões de páginas
+
+**Bing:**
+- Microsoft
+- Integrado ao Windows e Edge
+- Rewards para usuários
+
+**DuckDuckGo:**
+- Foco em privacidade
+- Não rastreia usuários
+
+#### 4.2 Operadores de Busca (Google)
+
+| Operador | Função | Exemplo |
+|----------|--------|---------|
+| **"aspas"** | Busca frase exata | "vigilância sanitária" |
+| **-** | Exclui termo | anvisa -medicamentos |
+| **site:** | Busca em site específico | site:gov.br anvisa |
+| **filetype:** | Busca tipo de arquivo | edital filetype:pdf |
+| **OR** | Um OU outro termo | anvisa OR vigilância |
+| ***** | Curinga (palavra qualquer) | "fiscal de * pública" |
+| **define:** | Definição de palavra | define:autarquia |
+| **intitle:** | Termo no título | intitle:concurso |
+
+#### 4.3 Dicas de Pesquisa
+
+1. **Seja específico**: use palavras-chave relevantes
+2. **Use aspas**: para frases exatas
+3. **Exclua termos**: use o sinal de menos (-)
+4. **Filtre resultados**: por data, tipo, região
+5. **Use operadores**: combine técnicas
+
+#### 4.4 Exemplos Práticos (VISA)
+
+| Busca | Resultado esperado |
+|-------|-------------------|
+| "vigilância sanitária" site:gov.br | Páginas oficiais sobre VISA |
+| anvisa concurso filetype:pdf | PDFs de concursos da ANVISA |
+| legislação sanitária -estadual | Legislação federal |
+| "fiscal de saúde" OR "agente sanitário" | Ambos os termos |
+
+### 5. Segurança na Navegação e E-mail
+
+#### 5.1 Ameaças Comuns
+
+| Ameaça | Descrição | Prevenção |
+|--------|-----------|-----------|
+| **Phishing** | E-mails falsos para roubar dados | Verificar remetente, não clicar em links suspeitos |
+| **Malware** | Software malicioso | Antivírus, não baixar de fontes duvidosas |
+| **Spam** | E-mails indesejados | Filtros de spam, não divulgar e-mail |
+
+#### 5.2 Boas Práticas
+
+- Use senhas **fortes** e **diferentes**
+- Ative a **autenticação de dois fatores**
+- Verifique o **cadeado** (HTTPS) em sites
+- **Não clique** em links suspeitos
+- Mantenha **software atualizado**
+- Use **antivírus** atualizado
+        `,
+
+        pontosChave: [
+          'Navegadores principais: Chrome, Firefox, Edge, Safari, Opera',
+          'Modo anônimo/privativo: não salva histórico localmente',
+          'SMTP = ENVIAR e-mails (porta 25 ou 587)',
+          'POP3 = RECEBER e-mails, BAIXA e REMOVE do servidor (porta 110)',
+          'IMAP = RECEBER e-mails, MANTÉM no servidor, sincroniza (porta 143)',
+          'Para (To) = destinatário; Cc = cópia visível; Cco/Bcc = cópia OCULTA',
+          'Google: operador "aspas" busca frase exata',
+          'Operador site: limita busca a um domínio específico',
+          'Operador filetype: busca por tipo de arquivo (pdf, doc)',
+          'Phishing: e-mails falsos que tentam roubar informações',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir SMTP com POP3/IMAP',
+            descricao: 'SMTP ENVIA. POP3 e IMAP RECEBEM.',
+            dica: 'SMTP = Send Mail (envia). POP/IMAP = recebe.',
+          },
+          {
+            titulo: 'Confundir POP3 com IMAP',
+            descricao: 'POP3 baixa e REMOVE do servidor. IMAP MANTÉM no servidor.',
+            dica: 'POP = Puxa e Apaga. IMAP = Internet MAntém no servidor.',
+          },
+          {
+            titulo: 'Achar que modo anônimo protege totalmente',
+            descricao: 'O modo anônimo não salva histórico LOCAL, mas seu provedor e sites visitados ainda podem rastrear.',
+            dica: 'Modo anônimo = privacidade local, não anonimato total.',
+          },
+          {
+            titulo: 'Confundir Cc com Cco',
+            descricao: 'Cc (cópia) é visível a todos. Cco/Bcc (cópia oculta) é invisível.',
+            dica: 'Cco = Cópia Com Ocultação.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'SMTP-SEND',
+            significado: 'SMTP = Send Mail Transfer Protocol',
+            frase: 'SMTP ENVIA (Send Mail)',
+          },
+          {
+            termo: 'POP-PUXA',
+            significado: 'POP3 puxa o e-mail e remove do servidor',
+            frase: 'POP Puxa e Remove',
+          },
+          {
+            termo: 'IMAP-INTERNET',
+            significado: 'IMAP mantém no servidor (acesso de qualquer lugar)',
+            frase: 'IMAP = Internet MAntém no servidor Permanentemente',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'inf-fc-2-1',
+            frente: 'Qual protocolo é usado para ENVIAR e-mails?',
+            verso: '**SMTP** (Simple Mail Transfer Protocol)\n\nPorta: 25 ou 587\n\nDica: SMTP = Send Mail (envia)\n\nPOP3 e IMAP são para RECEBER.',
+            tags: ['e-mail', 'SMTP'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-2-2',
+            frente: 'Qual a diferença entre POP3 e IMAP?',
+            verso: '**POP3:**\n- BAIXA e REMOVE do servidor\n- Um dispositivo\n- Porta 110\n\n**IMAP:**\n- MANTÉM no servidor\n- Múltiplos dispositivos\n- Sincroniza\n- Porta 143',
+            tags: ['e-mail', 'POP3', 'IMAP'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-2-3',
+            frente: 'O que é o campo Cco (ou Bcc) no e-mail?',
+            verso: '**Cco = Cópia OCULTA**\n(Bcc = Blind Carbon Copy)\n\nOs destinatários em Cco NÃO são visíveis para os outros.\n\nÚtil para enviar para muitos sem expor e-mails.\n\nCc = cópia VISÍVEL a todos.',
+            tags: ['e-mail', 'Cco'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-2-4',
+            frente: 'Como buscar uma FRASE EXATA no Google?',
+            verso: 'Use **"aspas"** para buscar frase exata.\n\nExemplo:\n"vigilância sanitária"\n\nIsso retorna apenas páginas com essa frase exata, na ordem especificada.',
+            tags: ['busca', 'Google'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-2-5',
+            frente: 'Para que serve o operador site: no Google?',
+            verso: '**site:** limita a busca a um domínio específico.\n\nExemplo:\nsite:gov.br concurso anvisa\n\nRetorna apenas resultados do domínio gov.br',
+            tags: ['busca', 'operadores'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-2-6',
+            frente: 'Para que serve o operador filetype: no Google?',
+            verso: '**filetype:** busca por tipo de arquivo.\n\nExemplos:\nedital filetype:pdf\nplanilha filetype:xlsx\n\nRetorna apenas arquivos do tipo especificado.',
+            tags: ['busca', 'operadores'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-2-7',
+            frente: 'O que é PHISHING?',
+            verso: '**Phishing** = tentativa de roubar informações usando e-mails ou sites FALSOS que imitam os verdadeiros.\n\nExemplo: e-mail falso do banco pedindo senha.\n\nPrevenção:\n- Verificar remetente\n- Não clicar em links suspeitos\n- Verificar URL',
+            tags: ['segurança', 'phishing'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-2-8',
+            frente: 'Quais os principais atalhos de navegador?',
+            verso: '**Ctrl + T** = nova aba\n**Ctrl + W** = fechar aba\n**Ctrl + Shift + N** = janela anônima\n**Ctrl + D** = favorito\n**Ctrl + H** = histórico\n**F5** = atualizar\n**Ctrl + F** = buscar na página',
+            tags: ['navegador', 'atalhos'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'inf-q-2-1',
+            enunciado: 'O protocolo utilizado para o ENVIO de mensagens de correio eletrônico é o:',
+            alternativas: [
+              { letra: 'A', texto: 'POP3' },
+              { letra: 'B', texto: 'IMAP' },
+              { letra: 'C', texto: 'SMTP' },
+              { letra: 'D', texto: 'FTP' },
+              { letra: 'E', texto: 'HTTP' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O SMTP (Simple Mail Transfer Protocol) é o protocolo usado para ENVIAR e-mails. POP3 e IMAP são usados para RECEBER e-mails.',
+            dificuldade: 'Fácil',
+            competencia: 'Protocolos de e-mail',
+            banca: 'IADES',
+            tags: ['SMTP', 'e-mail'],
+          },
+          {
+            id: 'inf-q-2-2',
+            enunciado: 'A principal diferença entre os protocolos POP3 e IMAP é que:',
+            alternativas: [
+              { letra: 'A', texto: 'O POP3 é usado para enviar e o IMAP para receber e-mails.' },
+              { letra: 'B', texto: 'O POP3 baixa e remove as mensagens do servidor, enquanto o IMAP as mantém.' },
+              { letra: 'C', texto: 'O IMAP é mais antigo que o POP3.' },
+              { letra: 'D', texto: 'Não há diferença significativa entre eles.' },
+              { letra: 'E', texto: 'O POP3 é usado apenas em dispositivos móveis.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A principal diferença é que o POP3 BAIXA e REMOVE as mensagens do servidor (acesso em um dispositivo), enquanto o IMAP MANTÉM as mensagens no servidor (acesso em múltiplos dispositivos).',
+            dificuldade: 'Média',
+            competencia: 'POP3 vs IMAP',
+            banca: 'IADES',
+            tags: ['POP3', 'IMAP'],
+          },
+          {
+            id: 'inf-q-2-3',
+            enunciado: 'No campo Cco (ou Bcc) de um e-mail, os destinatários inseridos:',
+            alternativas: [
+              { letra: 'A', texto: 'Recebem a mensagem e são visíveis para todos os outros destinatários.' },
+              { letra: 'B', texto: 'Não recebem a mensagem, apenas uma notificação.' },
+              { letra: 'C', texto: 'Recebem a mensagem, mas NÃO são visíveis para os outros destinatários.' },
+              { letra: 'D', texto: 'Recebem a mensagem com atraso de 24 horas.' },
+              { letra: 'E', texto: 'São automaticamente adicionados à lista de contatos.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O campo Cco (Cópia Oculta) ou Bcc (Blind Carbon Copy) permite enviar cópia da mensagem para destinatários que NÃO são visíveis para os demais. Útil para preservar privacidade.',
+            dificuldade: 'Fácil',
+            competencia: 'Campos do e-mail',
+            banca: 'IADES',
+            tags: ['e-mail', 'Cco'],
+          },
+          {
+            id: 'inf-q-2-4',
+            enunciado: 'Para buscar no Google apenas páginas de sites governamentais brasileiros (.gov.br), deve-se utilizar o operador:',
+            alternativas: [
+              { letra: 'A', texto: 'filetype:gov.br' },
+              { letra: 'B', texto: 'site:gov.br' },
+              { letra: 'C', texto: 'domain:gov.br' },
+              { letra: 'D', texto: 'url:gov.br' },
+              { letra: 'E', texto: 'in:gov.br' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O operador "site:" limita a busca a um domínio específico. Exemplo: site:gov.br vigilância sanitária retornará apenas resultados de sites governamentais.',
+            dificuldade: 'Fácil',
+            competencia: 'Operadores de busca',
+            banca: 'IADES',
+            tags: ['Google', 'operadores'],
+          },
+          {
+            id: 'inf-q-2-5',
+            enunciado: 'Para buscar no Google apenas arquivos em formato PDF, deve-se utilizar:',
+            alternativas: [
+              { letra: 'A', texto: 'type:pdf' },
+              { letra: 'B', texto: 'format:pdf' },
+              { letra: 'C', texto: 'filetype:pdf' },
+              { letra: 'D', texto: 'ext:pdf' },
+              { letra: 'E', texto: 'file:pdf' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O operador "filetype:" permite buscar arquivos de um tipo específico. Exemplo: edital filetype:pdf retornará apenas arquivos PDF.',
+            dificuldade: 'Fácil',
+            competencia: 'Operadores de busca',
+            banca: 'IADES',
+            tags: ['Google', 'filetype'],
+          },
+          {
+            id: 'inf-q-2-6',
+            enunciado: 'O atalho Ctrl + Shift + N em navegadores como Google Chrome abre:',
+            alternativas: [
+              { letra: 'A', texto: 'Uma nova aba.' },
+              { letra: 'B', texto: 'Uma nova janela normal.' },
+              { letra: 'C', texto: 'Uma janela de navegação anônima/privativa.' },
+              { letra: 'D', texto: 'O gerenciador de downloads.' },
+              { letra: 'E', texto: 'As configurações do navegador.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O atalho Ctrl + Shift + N abre uma janela de navegação anônima (Chrome) ou privativa (Firefox usa Ctrl + Shift + P). Nesse modo, o histórico não é salvo localmente.',
+            dificuldade: 'Média',
+            competencia: 'Atalhos de navegador',
+            banca: 'IADES',
+            tags: ['navegador', 'atalhos'],
+          },
+          {
+            id: 'inf-q-2-7',
+            enunciado: 'O phishing é uma técnica de ataque que consiste em:',
+            alternativas: [
+              { letra: 'A', texto: 'Invadir computadores por força bruta.' },
+              { letra: 'B', texto: 'Enviar e-mails ou criar sites falsos para roubar informações.' },
+              { letra: 'C', texto: 'Sobrecarregar servidores com requisições.' },
+              { letra: 'D', texto: 'Instalar programas espiões fisicamente.' },
+              { letra: 'E', texto: 'Interceptar comunicações de rede.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Phishing é uma técnica de engenharia social que usa e-mails ou sites FALSOS que imitam os legítimos para enganar usuários e roubar informações como senhas e dados bancários.',
+            dificuldade: 'Fácil',
+            competencia: 'Segurança - Phishing',
+            banca: 'IADES',
+            tags: ['segurança', 'phishing'],
+          },
+          {
+            id: 'inf-q-2-8',
+            enunciado: 'Para buscar no Google a frase exata "fiscal de saúde pública", deve-se digitar:',
+            alternativas: [
+              { letra: 'A', texto: 'fiscal de saúde pública (sem aspas)' },
+              { letra: 'B', texto: '"fiscal de saúde pública" (com aspas)' },
+              { letra: 'C', texto: 'fiscal AND saúde AND pública' },
+              { letra: 'D', texto: '+fiscal +saúde +pública' },
+              { letra: 'E', texto: 'exact:fiscal de saúde pública' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Para buscar uma frase exata no Google, deve-se usar ASPAS. Isso retorna apenas páginas que contêm a frase exatamente como digitada.',
+            dificuldade: 'Fácil',
+            competencia: 'Busca com aspas',
+            banca: 'IADES',
+            tags: ['Google', 'aspas'],
+          },
+          {
+            id: 'inf-q-2-9',
+            enunciado: 'O protocolo IMAP é mais indicado que o POP3 quando:',
+            alternativas: [
+              { letra: 'A', texto: 'O usuário acessa e-mails de um único computador.' },
+              { letra: 'B', texto: 'Há necessidade de economizar espaço no servidor.' },
+              { letra: 'C', texto: 'O usuário acessa e-mails de múltiplos dispositivos.' },
+              { letra: 'D', texto: 'Não há conexão frequente com a Internet.' },
+              { letra: 'E', texto: 'O servidor de e-mail é muito antigo.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O IMAP mantém as mensagens no SERVIDOR, permitindo acesso de MÚLTIPLOS dispositivos com sincronização. Ideal para quem usa celular, computador e tablet.',
+            dificuldade: 'Média',
+            competencia: 'IMAP',
+            banca: 'IADES',
+            tags: ['IMAP', 'e-mail'],
+          },
+          {
+            id: 'inf-q-2-10',
+            enunciado: 'Assinale a alternativa que apresenta um navegador de Internet desenvolvido pela Mozilla Foundation:',
+            alternativas: [
+              { letra: 'A', texto: 'Google Chrome' },
+              { letra: 'B', texto: 'Microsoft Edge' },
+              { letra: 'C', texto: 'Safari' },
+              { letra: 'D', texto: 'Mozilla Firefox' },
+              { letra: 'E', texto: 'Internet Explorer' },
+            ],
+            gabarito: 'D',
+            justificativa: 'O Mozilla Firefox é desenvolvido pela Mozilla Foundation. Chrome é do Google, Edge e IE são da Microsoft, e Safari é da Apple.',
+            dificuldade: 'Fácil',
+            competencia: 'Navegadores',
+            banca: 'IADES',
+            tags: ['Firefox', 'navegador'],
+          },
+        ],
+      },
+    },
   ],
 };

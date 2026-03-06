@@ -540,5 +540,629 @@ A Vigilância em Saúde integra o SUS e compreende:
         ],
       },
     },
+    {
+      id: 'ce-topico-2',
+      numero: 2,
+      titulo: 'Sistema Único de Saúde (SUS): princípios, diretrizes, organização, níveis de atenção e participação social',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### O SUS em Números
+
+| Aspecto | Dado |
+|---------|------|
+| **Criação** | CF/1988, regulamentado em 1990 |
+| **Cobertura** | ~190 milhões de brasileiros |
+| **Princípios** | Universalidade, Integralidade, Equidade |
+| **Gestão** | Tripartite (União, Estados, Municípios) |
+
+### Princípios e Diretrizes
+
+| Princípios DOUTRINÁRIOS | Diretrizes ORGANIZACIONAIS |
+|-------------------------|---------------------------|
+| Universalidade | Descentralização |
+| Integralidade | Regionalização |
+| Equidade | Hierarquização |
+| | Participação da comunidade |
+
+### Níveis de Atenção
+
+| Nível | Complexidade | Exemplo |
+|-------|--------------|---------|
+| **Primário/Básico** | Baixa | UBS, ESF, ACS |
+| **Secundário** | Média | Policlínicas, CAPS |
+| **Terciário** | Alta | Hospitais, UTI |
+
+### Participação Social
+
+| Instância | Caráter | Periodicidade |
+|-----------|---------|---------------|
+| **Conselhos de Saúde** | Deliberativo | Permanente |
+| **Conferências de Saúde** | Propositivo | A cada 4 anos |
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. O Sistema Único de Saúde (SUS)
+
+#### 1.1 Base Legal
+
+| Norma | Conteúdo |
+|-------|----------|
+| **CF/1988 (arts. 196-200)** | Criação do SUS, direito à saúde |
+| **Lei 8.080/1990** | Organização e funcionamento |
+| **Lei 8.142/1990** | Participação social e financiamento |
+| **Decreto 7.508/2011** | Regulamentação da Lei 8.080 |
+| **LC 141/2012** | Financiamento mínimo da saúde |
+
+#### 1.2 Conceito
+
+O **SUS** é um sistema público de saúde brasileiro, considerado um dos maiores do mundo, que oferece acesso integral, universal e gratuito para toda a população.
+
+**Características:**
+- **Público**: financiado com recursos públicos
+- **Universal**: para todos, sem discriminação
+- **Integral**: promoção, prevenção, cura e reabilitação
+- **Gratuito**: sem cobrança no ponto de atendimento
+
+### 2. Princípios Doutrinários (Ideológicos)
+
+São os valores que fundamentam o SUS:
+
+#### 2.1 UNIVERSALIDADE
+
+> "A saúde é direito de TODOS"
+
+- Acesso a todas as pessoas
+- Independente de contribuição
+- Brasileiros E estrangeiros em território nacional
+- Sem discriminação de qualquer natureza
+
+#### 2.2 INTEGRALIDADE
+
+> "Atenção COMPLETA"
+
+- Promoção, prevenção, cura e reabilitação
+- Serviços individuais e coletivos
+- Ver o indivíduo como um todo
+- Não fragmentar o cuidado
+
+**Dimensões:**
+- **Vertical**: todos os níveis (básica, média, alta complexidade)
+- **Horizontal**: todos os aspectos (físico, mental, social)
+
+#### 2.3 EQUIDADE
+
+> "Tratar os DESIGUAIS de forma DESIGUAL"
+
+- Investir mais onde há maior necessidade
+- Priorizar populações vulneráveis
+- Buscar a justiça social
+- Diferente de igualdade (tratar todos igual)
+
+**Exemplo:**
+> Investir mais em saúde em regiões mais carentes é EQUIDADE.
+
+### 3. Diretrizes Organizacionais (Operacionais)
+
+São os princípios que orientam a organização do SUS:
+
+#### 3.1 DESCENTRALIZAÇÃO
+
+Distribuição de responsabilidades entre as três esferas de governo.
+
+| Esfera | Gestor | Atribuições principais |
+|--------|--------|------------------------|
+| **Federal** | Ministério da Saúde | Normatização, coordenação nacional |
+| **Estadual** | Secretaria Estadual (SES) | Coordenação regional, alta complexidade |
+| **Municipal** | Secretaria Municipal (SMS) | Execução, atenção básica |
+
+**Direção Única:**
+- Cada esfera tem UM gestor
+- Não há subordinação entre eles
+- Atuação coordenada
+
+#### 3.2 REGIONALIZAÇÃO
+
+Organização dos serviços em **regiões de saúde** para garantir acesso a todos os níveis.
+
+**Região de Saúde:**
+- Espaço geográfico contínuo
+- Conjunto de municípios
+- Rede de serviços integrados
+- Referência para atenção especializada
+
+#### 3.3 HIERARQUIZAÇÃO
+
+Organização por **níveis de complexidade** crescente:
+
+| Nível | Complexidade | Serviços | Acesso |
+|-------|--------------|----------|--------|
+| **Atenção Básica** | Baixa | UBS, ESF | Porta de entrada |
+| **Média Complexidade** | Média | Policlínicas, CAPS | Referência |
+| **Alta Complexidade** | Alta | Hospitais, UTI | Referência |
+
+#### 3.4 PARTICIPAÇÃO DA COMUNIDADE
+
+Garantia de participação popular na gestão do SUS.
+
+**Instâncias:**
+- **Conselhos de Saúde**: deliberativos e permanentes
+- **Conferências de Saúde**: propositivas, a cada 4 anos
+
+### 4. Níveis de Atenção à Saúde
+
+#### 4.1 ATENÇÃO PRIMÁRIA / BÁSICA
+
+É a **porta de entrada** preferencial do SUS.
+
+**Características:**
+- Primeiro contato
+- Longitudinalidade (acompanhamento contínuo)
+- Coordenação do cuidado
+- Território definido
+
+**Serviços:**
+| Serviço | Sigla | Descrição |
+|---------|-------|-----------|
+| Unidade Básica de Saúde | UBS | Consultas, vacinas, curativos |
+| Estratégia Saúde da Família | ESF | Equipes multidisciplinares |
+| Agente Comunitário de Saúde | ACS | Visitas domiciliares |
+| Núcleo de Apoio à Saúde da Família | NASF | Equipe de apoio |
+
+**Ações:**
+- Promoção da saúde
+- Prevenção de doenças
+- Diagnóstico precoce
+- Tratamento de casos simples
+- Encaminhamento (referência)
+
+#### 4.2 ATENÇÃO SECUNDÁRIA / MÉDIA COMPLEXIDADE
+
+Serviços especializados que exigem mais recursos.
+
+**Características:**
+- Atendimento especializado
+- Procedimentos ambulatoriais
+- Acesso por encaminhamento (referência)
+
+**Exemplos:**
+- Consultas com especialistas
+- Exames diagnósticos
+- Pequenas cirurgias
+- CAPS (saúde mental)
+- CEO (saúde bucal)
+
+#### 4.3 ATENÇÃO TERCIÁRIA / ALTA COMPLEXIDADE
+
+Procedimentos de alto custo e alta tecnologia.
+
+**Características:**
+- Hospitais especializados
+- Alta densidade tecnológica
+- Profissionais especializados
+- Alto custo
+
+**Exemplos:**
+- Internação hospitalar
+- UTI
+- Cirurgias complexas
+- Transplantes
+- Tratamento oncológico
+- Hemodiálise
+
+### 5. Redes de Atenção à Saúde (RAS)
+
+#### 5.1 Conceito
+
+As **RAS** são arranjos organizativos que integram ações e serviços de saúde de diferentes densidades tecnológicas.
+
+#### 5.2 Características
+
+- Atenção Básica como **coordenadora**
+- Sistema de apoio (diagnóstico, farmacêutico)
+- Sistema logístico (regulação, transporte)
+- Governança
+
+#### 5.3 Redes Temáticas
+
+| Rede | Foco |
+|------|------|
+| **Rede Cegonha** | Materno-infantil |
+| **Rede de Urgência e Emergência** | SAMU, UPA |
+| **Rede de Atenção Psicossocial** | Saúde mental |
+| **Rede de Cuidados à Pessoa com Deficiência** | Reabilitação |
+| **Rede de Atenção às Doenças Crônicas** | Diabetes, hipertensão |
+
+### 6. Participação Social
+
+#### 6.1 Conselhos de Saúde
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Natureza** | Colegiado |
+| **Caráter** | DELIBERATIVO e permanente |
+| **Composição** | 50% usuários, 25% trabalhadores, 25% gestores/prestadores |
+| **Função** | Formular estratégias, controlar execução |
+| **Níveis** | Nacional, estadual, municipal |
+
+**Composição paritária:**
+- 50% representantes dos **USUÁRIOS**
+- 25% representantes dos **trabalhadores de saúde**
+- 25% representantes do **governo e prestadores**
+
+#### 6.2 Conferências de Saúde
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Periodicidade** | A cada **4 anos** |
+| **Caráter** | Propositivo |
+| **Convocação** | Pelo Poder Executivo ou pelo Conselho |
+| **Função** | Avaliar situação e propor diretrizes |
+| **Níveis** | Municipal → Estadual → Nacional |
+
+### 7. Instâncias de Pactuação
+
+| Instância | Composição | Nível |
+|-----------|------------|-------|
+| **CIT** | MS + CONASS + CONASEMS | Federal |
+| **CIB** | SES + COSEMS | Estadual |
+| **CIR** | SES + SMS (região) | Regional |
+
+**Legenda:**
+- CIT: Comissão Intergestores Tripartite
+- CIB: Comissão Intergestores Bipartite
+- CIR: Comissão Intergestores Regional
+- CONASS: Conselho Nacional de Secretários de Saúde
+- CONASEMS: Conselho Nacional de Secretarias Municipais de Saúde
+
+### 8. Vigilância Sanitária no SUS
+
+A **Vigilância Sanitária** é parte integrante do SUS:
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Base legal** | Lei 8.080/1990, art. 6º |
+| **Conceito** | Ações de controle de riscos à saúde |
+| **SNVS** | Sistema Nacional de Vigilância Sanitária |
+| **ANVISA** | Coordena o SNVS (nível federal) |
+| **VISA estadual** | Complementa e fiscaliza |
+| **VISA municipal** | Executa ações locais |
+        `,
+
+        pontosChave: [
+          'SUS criado pela CF/88, regulamentado pelas Leis 8.080 e 8.142 de 1990',
+          'Princípios DOUTRINÁRIOS: Universalidade, Integralidade, Equidade (UIE)',
+          'Diretrizes ORGANIZACIONAIS: Descentralização, Regionalização, Hierarquização, Participação',
+          'Atenção Básica = porta de entrada preferencial, coordenadora do cuidado',
+          'Níveis: Primário (UBS, ESF) → Secundário (especialidades) → Terciário (hospitais, UTI)',
+          'Conselhos de Saúde: DELIBERATIVOS, permanentes, 50% usuários',
+          'Conferências de Saúde: propositivas, a cada 4 ANOS',
+          'Gestão tripartite: União (MS), Estados (SES), Municípios (SMS)',
+          'CIT (tripartite), CIB (bipartite), CIR (regional) = instâncias de pactuação',
+          'VISA integra o SUS como parte da Vigilância em Saúde',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir Conselho com Conferência',
+            descricao: 'Conselho = deliberativo, permanente. Conferência = propositiva, a cada 4 anos.',
+            dica: 'Conselho DECIDE (delibera). Conferência PROPÕE.',
+          },
+          {
+            titulo: 'Errar a composição do Conselho',
+            descricao: 'A composição é paritária: 50% usuários, 25% trabalhadores, 25% gestores/prestadores.',
+            dica: 'USUÁRIOS = sempre METADE (50%).',
+          },
+          {
+            titulo: 'Confundir hierarquização com subordinação',
+            descricao: 'Hierarquização refere-se aos níveis de complexidade, não à subordinação entre gestores.',
+            dica: 'Hierarquização = níveis de atenção. Não há hierarquia entre MS, SES e SMS.',
+          },
+          {
+            titulo: 'Trocar porta de entrada',
+            descricao: 'A Atenção Básica é a PORTA DE ENTRADA preferencial, não o hospital.',
+            dica: 'Atenção Básica = primeiro contato, coordenadora do cuidado.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'UIE',
+            significado: 'Universalidade, Integralidade, Equidade',
+            frase: 'Princípios doutrinários: UIE (ui-e!)',
+          },
+          {
+            termo: 'DRHP',
+            significado: 'Descentralização, Regionalização, Hierarquização, Participação',
+            frase: 'Diretrizes organizacionais: DRHP (o DRª HP)',
+          },
+          {
+            termo: '50-25-25',
+            significado: 'Composição do Conselho: 50% usuários, 25% trabalhadores, 25% gestores',
+            frase: 'Conselho: 50% usuários é METADE',
+          },
+          {
+            termo: 'BMA',
+            significado: 'Básica, Média, Alta (níveis de atenção)',
+            frase: 'Níveis de atenção: BMA (do mais simples ao complexo)',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-2-1',
+            frente: 'Quais são os três princípios DOUTRINÁRIOS do SUS?',
+            verso: '**1. UNIVERSALIDADE**\n→ Saúde para TODOS\n\n**2. INTEGRALIDADE**\n→ Atenção COMPLETA\n\n**3. EQUIDADE**\n→ Tratar desiguais DESIGUALMENTE\n\nMnemônico: UIE',
+            tags: ['SUS', 'princípios'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-2-2',
+            frente: 'Quais são as diretrizes ORGANIZACIONAIS do SUS?',
+            verso: '**1. DESCENTRALIZAÇÃO**\n→ Divisão entre União, Estados, Municípios\n\n**2. REGIONALIZAÇÃO**\n→ Organização por regiões de saúde\n\n**3. HIERARQUIZAÇÃO**\n→ Níveis de complexidade\n\n**4. PARTICIPAÇÃO DA COMUNIDADE**\n→ Conselhos e Conferências',
+            tags: ['SUS', 'diretrizes'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-2-3',
+            frente: 'Quais são os três níveis de atenção à saúde?',
+            verso: '**PRIMÁRIO/BÁSICO:**\n- UBS, ESF, ACS\n- Porta de entrada\n\n**SECUNDÁRIO:**\n- Especialidades, CAPS\n- Média complexidade\n\n**TERCIÁRIO:**\n- Hospitais, UTI\n- Alta complexidade',
+            tags: ['níveis de atenção', 'SUS'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-2-4',
+            frente: 'Qual a composição dos Conselhos de Saúde?',
+            verso: '**COMPOSIÇÃO PARITÁRIA:**\n\n- **50% USUÁRIOS** (metade!)\n- 25% Trabalhadores de saúde\n- 25% Gestores e prestadores\n\nCaráter: **DELIBERATIVO** e **PERMANENTE**',
+            tags: ['participação social', 'conselho'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-2-5',
+            frente: 'Qual a diferença entre Conselhos e Conferências de Saúde?',
+            verso: '**CONSELHOS:**\n- Deliberativos (decidem)\n- Permanentes\n- 50% usuários\n\n**CONFERÊNCIAS:**\n- Propositivas (propõem)\n- A cada 4 ANOS\n- Avaliam e propõem diretrizes',
+            tags: ['participação social', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-2-6',
+            frente: 'O que é a Atenção Básica/Primária?',
+            verso: '**PORTA DE ENTRADA** preferencial do SUS.\n\nCaracterísticas:\n- Primeiro contato\n- Longitudinalidade\n- Coordenação do cuidado\n- Território definido\n\nServiços: UBS, ESF, ACS, NASF',
+            tags: ['atenção básica', 'níveis'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-2-7',
+            frente: 'O que são as instâncias CIT, CIB e CIR?',
+            verso: '**Instâncias de PACTUAÇÃO:**\n\n**CIT** (Tripartite):\n- MS + CONASS + CONASEMS\n- Nível federal\n\n**CIB** (Bipartite):\n- SES + COSEMS\n- Nível estadual\n\n**CIR** (Regional):\n- SES + SMS da região',
+            tags: ['gestão', 'pactuação'],
+            dificuldade: 'dificil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-2-8',
+            frente: 'O que são as Redes de Atenção à Saúde (RAS)?',
+            verso: '**RAS** = arranjos que integram serviços de diferentes complexidades.\n\nCaracterísticas:\n- Atenção Básica como COORDENADORA\n- Integração dos níveis\n- Sistema de apoio\n\nRedes temáticas: Cegonha, Urgência, Psicossocial, etc.',
+            tags: ['RAS', 'organização'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-2-1',
+            enunciado: 'São princípios DOUTRINÁRIOS do SUS, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'Universalidade.' },
+              { letra: 'B', texto: 'Integralidade.' },
+              { letra: 'C', texto: 'Descentralização.' },
+              { letra: 'D', texto: 'Equidade.' },
+              { letra: 'E', texto: 'Todas são princípios doutrinários.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'DESCENTRALIZAÇÃO é uma diretriz ORGANIZACIONAL, não um princípio doutrinário. Os princípios doutrinários são: Universalidade, Integralidade e Equidade (UIE).',
+            dificuldade: 'Fácil',
+            competencia: 'Princípios do SUS',
+            banca: 'IADES',
+            tags: ['SUS', 'princípios'],
+          },
+          {
+            id: 'ce-q-2-2',
+            enunciado: 'A Atenção Básica é considerada a porta de entrada preferencial do SUS. Assinale a alternativa que apresenta um serviço desse nível de atenção:',
+            alternativas: [
+              { letra: 'A', texto: 'UTI (Unidade de Terapia Intensiva).' },
+              { letra: 'B', texto: 'Centro cirúrgico hospitalar.' },
+              { letra: 'C', texto: 'Unidade Básica de Saúde (UBS).' },
+              { letra: 'D', texto: 'Serviço de hemodiálise.' },
+              { letra: 'E', texto: 'Centro de transplante.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A UBS (Unidade Básica de Saúde) é um serviço de ATENÇÃO BÁSICA/PRIMÁRIA. As demais opções são serviços de alta complexidade (terciário).',
+            dificuldade: 'Fácil',
+            competencia: 'Níveis de atenção',
+            banca: 'IADES',
+            tags: ['atenção básica', 'UBS'],
+          },
+          {
+            id: 'ce-q-2-3',
+            enunciado: 'Sobre os Conselhos de Saúde, é CORRETO afirmar que:',
+            alternativas: [
+              { letra: 'A', texto: 'Possuem caráter apenas consultivo.' },
+              { letra: 'B', texto: 'Reúnem-se a cada 4 anos.' },
+              { letra: 'C', texto: 'São compostos exclusivamente por gestores.' },
+              { letra: 'D', texto: 'Têm caráter deliberativo e permanente.' },
+              { letra: 'E', texto: 'Os usuários representam 25% da composição.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Os Conselhos de Saúde têm caráter DELIBERATIVO (não apenas consultivo) e PERMANENTE. A composição é paritária: 50% usuários, 25% trabalhadores, 25% gestores.',
+            dificuldade: 'Média',
+            competencia: 'Participação social',
+            banca: 'IADES',
+            tags: ['conselho', 'participação'],
+          },
+          {
+            id: 'ce-q-2-4',
+            enunciado: 'A diretriz organizacional do SUS que se refere à organização dos serviços por níveis de complexidade crescente denomina-se:',
+            alternativas: [
+              { letra: 'A', texto: 'Descentralização.' },
+              { letra: 'B', texto: 'Regionalização.' },
+              { letra: 'C', texto: 'Hierarquização.' },
+              { letra: 'D', texto: 'Participação social.' },
+              { letra: 'E', texto: 'Integralidade.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'HIERARQUIZAÇÃO é a diretriz que organiza os serviços por níveis de complexidade: atenção básica, média complexidade e alta complexidade.',
+            dificuldade: 'Fácil',
+            competencia: 'Diretrizes do SUS',
+            banca: 'IADES',
+            tags: ['hierarquização', 'diretrizes'],
+          },
+          {
+            id: 'ce-q-2-5',
+            enunciado: 'As Conferências de Saúde, conforme a Lei 8.142/1990, devem ser realizadas com periodicidade de:',
+            alternativas: [
+              { letra: 'A', texto: '1 ano.' },
+              { letra: 'B', texto: '2 anos.' },
+              { letra: 'C', texto: '3 anos.' },
+              { letra: 'D', texto: '4 anos.' },
+              { letra: 'E', texto: '5 anos.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'As Conferências de Saúde devem ser realizadas a cada 4 ANOS, com representação dos vários segmentos sociais, para avaliar a situação de saúde e propor diretrizes.',
+            dificuldade: 'Fácil',
+            competencia: 'Conferências de Saúde',
+            banca: 'IADES',
+            tags: ['conferência', 'periodicidade'],
+          },
+          {
+            id: 'ce-q-2-6',
+            enunciado: 'O princípio do SUS que garante que todos tenham direito ao acesso aos serviços de saúde é denominado:',
+            alternativas: [
+              { letra: 'A', texto: 'Equidade.' },
+              { letra: 'B', texto: 'Integralidade.' },
+              { letra: 'C', texto: 'Universalidade.' },
+              { letra: 'D', texto: 'Descentralização.' },
+              { letra: 'E', texto: 'Regionalização.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'UNIVERSALIDADE é o princípio que garante que a saúde é direito de TODOS, independentemente de contribuição, raça, gênero ou qualquer outra condição.',
+            dificuldade: 'Fácil',
+            competencia: 'Princípio da universalidade',
+            banca: 'IADES',
+            tags: ['universalidade', 'princípios'],
+          },
+          {
+            id: 'ce-q-2-7',
+            enunciado: 'A Comissão Intergestores Tripartite (CIT) é composta por representantes de:',
+            alternativas: [
+              { letra: 'A', texto: 'Apenas Estados e Municípios.' },
+              { letra: 'B', texto: 'União, Estados e Municípios.' },
+              { letra: 'C', texto: 'Apenas União e Estados.' },
+              { letra: 'D', texto: 'Usuários, trabalhadores e gestores.' },
+              { letra: 'E', texto: 'Apenas Municípios da mesma região.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A CIT (Comissão Intergestores TRIPARTITE) é composta por representantes das três esferas: União (MS), Estados (CONASS) e Municípios (CONASEMS).',
+            dificuldade: 'Média',
+            competencia: 'Instâncias de pactuação',
+            banca: 'IADES',
+            tags: ['CIT', 'gestão'],
+          },
+          {
+            id: 'ce-q-2-8',
+            enunciado: 'A Estratégia Saúde da Família (ESF) é considerada um serviço de:',
+            alternativas: [
+              { letra: 'A', texto: 'Alta complexidade.' },
+              { letra: 'B', texto: 'Média complexidade.' },
+              { letra: 'C', texto: 'Atenção Básica/Primária.' },
+              { letra: 'D', texto: 'Urgência e emergência.' },
+              { letra: 'E', texto: 'Reabilitação especializada.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A ESF (Estratégia Saúde da Família) é um serviço de ATENÇÃO BÁSICA/PRIMÁRIA, considerada a principal estratégia de reorganização da atenção à saúde no Brasil.',
+            dificuldade: 'Fácil',
+            competencia: 'Atenção Básica',
+            banca: 'IADES',
+            tags: ['ESF', 'atenção básica'],
+          },
+          {
+            id: 'ce-q-2-9',
+            enunciado: 'O princípio da EQUIDADE no SUS significa:',
+            alternativas: [
+              { letra: 'A', texto: 'Tratar todos de forma absolutamente igual.' },
+              { letra: 'B', texto: 'Atender apenas quem contribui com a previdência.' },
+              { letra: 'C', texto: 'Investir mais onde há maior necessidade, buscando justiça social.' },
+              { letra: 'D', texto: 'Oferecer apenas serviços de alta complexidade.' },
+              { letra: 'E', texto: 'Centralizar todos os serviços na capital.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'EQUIDADE significa tratar os DESIGUAIS de forma DESIGUAL, investindo mais onde há maior necessidade para reduzir as desigualdades. É diferente de IGUALDADE (tratar todos igual).',
+            dificuldade: 'Média',
+            competencia: 'Princípio da equidade',
+            banca: 'IADES',
+            tags: ['equidade', 'princípios'],
+          },
+          {
+            id: 'ce-q-2-10',
+            enunciado: 'No contexto das Redes de Atenção à Saúde (RAS), qual nível de atenção atua como COORDENADOR do cuidado?',
+            alternativas: [
+              { letra: 'A', texto: 'Atenção hospitalar de alta complexidade.' },
+              { letra: 'B', texto: 'Serviços de urgência e emergência.' },
+              { letra: 'C', texto: 'Atenção Básica/Primária.' },
+              { letra: 'D', texto: 'Serviços de média complexidade.' },
+              { letra: 'E', texto: 'Centros de referência especializados.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Nas RAS, a ATENÇÃO BÁSICA atua como COORDENADORA do cuidado, sendo responsável por ordenar os fluxos e contrafluxos de pessoas, produtos e informações na rede.',
+            dificuldade: 'Média',
+            competencia: 'Redes de Atenção à Saúde',
+            banca: 'IADES',
+            tags: ['RAS', 'atenção básica'],
+          },
+        ],
+      },
+    },
   ],
 };

@@ -517,5 +517,549 @@ Se 8 fiscais fazem 240 inspeções, quantas inspeções fazem 12 fiscais?
         ],
       },
     },
+    {
+      id: 'rl-topico-2',
+      numero: 2,
+      titulo: 'Princípios de contagem e probabilidade',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Princípios de Contagem
+
+| Princípio | Quando usar | Fórmula |
+|-----------|-------------|---------|
+| **Aditivo (OU)** | Alternativas excludentes | n₁ + n₂ + ... |
+| **Multiplicativo (E)** | Etapas sucessivas | n₁ × n₂ × ... |
+| **Permutação** | Ordenar todos os elementos | P(n) = n! |
+| **Arranjo** | Escolher e ordenar | A(n,p) = n!/(n-p)! |
+| **Combinação** | Escolher sem ordenar | C(n,p) = n!/[p!(n-p)!] |
+
+### Probabilidade
+
+| Conceito | Fórmula |
+|----------|---------|
+| **Probabilidade simples** | P(A) = casos favoráveis / casos possíveis |
+| **Probabilidade complementar** | P(não A) = 1 - P(A) |
+| **Eventos independentes** | P(A e B) = P(A) × P(B) |
+| **Eventos mutuamente exclusivos** | P(A ou B) = P(A) + P(B) |
+
+### Para IADES:
+- 0 ≤ P(A) ≤ 1 (probabilidade sempre entre 0 e 1)
+- Fatorial: n! = n × (n-1) × (n-2) × ... × 1
+- 0! = 1 (por definição)
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Princípio Aditivo (OU)
+
+Usado quando há alternativas **mutuamente excludentes** (uma OU outra).
+
+**Fórmula:**
+> Total = n₁ + n₂ + n₃ + ...
+
+**Exemplo:**
+> Um fiscal pode ir a uma inspeção de carro (3 opções) OU de moto (2 opções). Quantas opções ele tem?
+> Total = 3 + 2 = **5 opções**
+
+**Palavra-chave:** OU (alternativas)
+
+### 2. Princípio Multiplicativo (E)
+
+Usado quando há **etapas sucessivas** (uma E outra).
+
+**Fórmula:**
+> Total = n₁ × n₂ × n₃ × ...
+
+**Exemplo:**
+> Um fiscal escolhe 1 camisa (4 opções) E 1 calça (3 opções) E 1 sapato (2 opções). Quantas combinações?
+> Total = 4 × 3 × 2 = **24 combinações**
+
+**Palavra-chave:** E (etapas)
+
+### 3. Fatorial
+
+O **fatorial** de um número n (n!) é o produto de todos os inteiros positivos até n.
+
+**Fórmula:**
+> n! = n × (n-1) × (n-2) × ... × 2 × 1
+
+**Valores importantes:**
+
+| n | n! | Cálculo |
+|---|----|---------|
+| 0 | 1 | Por definição |
+| 1 | 1 | 1 |
+| 2 | 2 | 2 × 1 |
+| 3 | 6 | 3 × 2 × 1 |
+| 4 | 24 | 4 × 3 × 2 × 1 |
+| 5 | 120 | 5 × 4 × 3 × 2 × 1 |
+| 6 | 720 | 6! |
+| 10 | 3.628.800 | 10! |
+
+**Propriedade útil:**
+> n! = n × (n-1)!
+> Exemplo: 5! = 5 × 4! = 5 × 24 = 120
+
+### 4. Permutação Simples
+
+**Permutação** é o número de maneiras de **ordenar** todos os elementos de um conjunto.
+
+**Fórmula:**
+> P(n) = n!
+
+**Exemplo:**
+> De quantas maneiras 5 fiscais podem formar uma fila?
+> P(5) = 5! = 120 maneiras
+
+**Uso:** Quando TODOS os elementos são usados e a ORDEM importa.
+
+### 5. Permutação com Repetição
+
+Quando há elementos **repetidos** no conjunto.
+
+**Fórmula:**
+> P(n; a, b, c...) = n! / (a! × b! × c! × ...)
+
+**Exemplo:**
+> Quantos anagramas tem a palavra "BANANA"?
+> Letras: B(1), A(3), N(2) = total 6 letras
+> P(6; 3, 2) = 6! / (3! × 2!) = 720 / (6 × 2) = 720/12 = **60 anagramas**
+
+### 6. Arranjo
+
+**Arranjo** é escolher p elementos de um conjunto de n elementos, **com ordenação**.
+
+**Fórmula:**
+> A(n,p) = n! / (n-p)!
+
+**Exemplo:**
+> De 10 fiscais, de quantas formas podemos escolher presidente, vice e secretário?
+> A(10,3) = 10! / 7! = 10 × 9 × 8 = **720 maneiras**
+
+**Uso:** Quando escolho ALGUNS elementos e a ORDEM importa.
+
+### 7. Combinação
+
+**Combinação** é escolher p elementos de n elementos, **sem ordenação**.
+
+**Fórmula:**
+> C(n,p) = n! / [p! × (n-p)!]
+
+**Exemplo:**
+> De 10 fiscais, de quantas formas podemos escolher uma comissão de 3?
+> C(10,3) = 10! / (3! × 7!) = (10 × 9 × 8) / (3 × 2 × 1) = 720/6 = **120 comissões**
+
+**Uso:** Quando escolho ALGUNS elementos e a ORDEM NÃO importa.
+
+### 8. Arranjo vs. Combinação
+
+| Critério | Arranjo | Combinação |
+|----------|---------|------------|
+| **Ordem** | IMPORTA | NÃO importa |
+| **Exemplo** | Presidente e Vice | Comissão |
+| **Fórmula** | A = n!/(n-p)! | C = n!/[p!(n-p)!] |
+| **Relação** | A = C × p! | C = A / p! |
+
+**Macete:**
+- Cargos diferentes = ARRANJO (ordem importa)
+- Grupo/equipe = COMBINAÇÃO (ordem não importa)
+
+### 9. Probabilidade
+
+**Probabilidade** é a medida da chance de um evento ocorrer.
+
+#### 9.1 Probabilidade Simples
+
+**Fórmula:**
+> P(A) = número de casos favoráveis / número de casos possíveis
+
+**Propriedades:**
+- 0 ≤ P(A) ≤ 1
+- P(certo) = 1
+- P(impossível) = 0
+
+**Exemplo:**
+> Qual a probabilidade de tirar um 6 em um dado?
+> P(6) = 1/6 ≈ 0,167 ou 16,7%
+
+#### 9.2 Probabilidade Complementar
+
+**Fórmula:**
+> P(não A) = 1 - P(A)
+
+**Exemplo:**
+> Qual a probabilidade de NÃO tirar 6 no dado?
+> P(não 6) = 1 - 1/6 = 5/6 ≈ 83,3%
+
+#### 9.3 Eventos Independentes (E)
+
+Quando a ocorrência de um evento **não afeta** o outro.
+
+**Fórmula:**
+> P(A e B) = P(A) × P(B)
+
+**Exemplo:**
+> Qual a probabilidade de tirar cara em 2 lançamentos de moeda?
+> P(cara e cara) = 1/2 × 1/2 = **1/4 = 25%**
+
+#### 9.4 Eventos Mutuamente Exclusivos (OU)
+
+Quando os eventos **não podem ocorrer juntos**.
+
+**Fórmula:**
+> P(A ou B) = P(A) + P(B)
+
+**Exemplo:**
+> Qual a probabilidade de tirar 1 OU 2 em um dado?
+> P(1 ou 2) = 1/6 + 1/6 = **2/6 = 1/3 ≈ 33,3%**
+
+#### 9.5 Eventos Não Exclusivos
+
+Quando podem ocorrer juntos.
+
+**Fórmula:**
+> P(A ou B) = P(A) + P(B) - P(A e B)
+
+### 10. Aplicações Práticas
+
+**Exemplo VISA:**
+> Uma equipe de fiscalização tem 8 fiscais. De quantas formas podemos formar duplas para inspeções?
+> C(8,2) = 8!/(2! × 6!) = (8 × 7)/(2 × 1) = 56/2 = **28 duplas**
+
+**Exemplo Probabilidade:**
+> Em um lote de 100 produtos, 5 estão com defeito. Se um fiscal escolhe 1 produto ao acaso, qual a probabilidade de estar com defeito?
+> P(defeito) = 5/100 = **1/20 = 5%**
+        `,
+
+        pontosChave: [
+          'Princípio ADITIVO (OU): soma as alternativas excludentes',
+          'Princípio MULTIPLICATIVO (E): multiplica as etapas sucessivas',
+          'Fatorial: n! = n × (n-1) × ... × 1; lembre que 0! = 1',
+          'Permutação: ordena TODOS os elementos → P(n) = n!',
+          'Arranjo: escolhe e ordena ALGUNS → A(n,p) = n!/(n-p)!',
+          'Combinação: escolhe ALGUNS sem ordenar → C(n,p) = n!/[p!(n-p)!]',
+          'Arranjo = ordem IMPORTA (cargos); Combinação = ordem NÃO importa (grupos)',
+          'Probabilidade = favoráveis / possíveis (sempre entre 0 e 1)',
+          'P(não A) = 1 - P(A) → probabilidade complementar',
+          'Eventos independentes: P(A e B) = P(A) × P(B)',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir arranjo com combinação',
+            descricao: 'Arranjo: ordem importa (presidente ≠ vice). Combinação: ordem não importa (equipe).',
+            dica: 'Pergunta-se: trocar a ordem muda o resultado? Sim = arranjo. Não = combinação.',
+          },
+          {
+            titulo: 'Esquecer que 0! = 1',
+            descricao: 'Por definição matemática, 0! = 1, não 0.',
+            dica: '0! = 1 é convenção. Memorize!',
+          },
+          {
+            titulo: 'Confundir E com OU em probabilidade',
+            descricao: 'E (simultaneidade) = multiplica. OU (alternativa) = soma.',
+            dica: 'E = × (multiplica). OU = + (soma).',
+          },
+          {
+            titulo: 'Esquecer de subtrair interseção em eventos não exclusivos',
+            descricao: 'P(A ou B) = P(A) + P(B) - P(A e B) quando podem ocorrer juntos.',
+            dica: 'Se os eventos podem acontecer juntos, subtraia a interseção.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'PACo',
+            significado: 'Permutação = Tudo, Arranjo = Cargos, Combinação = Grupo',
+            frase: 'PACo: Permuta tudo, Arranja cargos, Combina grupos',
+          },
+          {
+            termo: 'E-x-OU-+',
+            significado: 'E multiplica (×), OU soma (+)',
+            frase: 'Probabilidade: E = ×, OU = +',
+          },
+          {
+            termo: '0!=1',
+            significado: 'Zero fatorial é igual a um',
+            frase: 'Zero fatorial = Um (0! = 1)',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'rl-fc-2-1',
+            frente: 'Quando usar o princípio ADITIVO e quando usar o MULTIPLICATIVO?',
+            verso: '**ADITIVO (OU):**\nAlternativas excludentes\nSoma: n₁ + n₂ + ...\n\n**MULTIPLICATIVO (E):**\nEtapas sucessivas\nMultiplica: n₁ × n₂ × ...\n\nDica: OU = + | E = ×',
+            tags: ['princípios', 'contagem'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-2-2',
+            frente: 'Quanto vale 0! (zero fatorial)?',
+            verso: '**0! = 1**\n\nÉ uma definição matemática (convenção).\n\nNão é zero, é UM.\n\nIsso garante que as fórmulas de combinação e arranjo funcionem corretamente.',
+            tags: ['fatorial', 'definição'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-2-3',
+            frente: 'Qual a diferença entre PERMUTAÇÃO, ARRANJO e COMBINAÇÃO?',
+            verso: '**PERMUTAÇÃO:** ordena TODOS\n→ P(n) = n!\n\n**ARRANJO:** escolhe alguns, ORDEM importa\n→ A(n,p) = n!/(n-p)!\n\n**COMBINAÇÃO:** escolhe alguns, ORDEM NÃO importa\n→ C(n,p) = n!/[p!(n-p)!]',
+            tags: ['permutação', 'arranjo', 'combinação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-2-4',
+            frente: 'Quando usar ARRANJO e quando usar COMBINAÇÃO?',
+            verso: '**ARRANJO** (ordem importa):\n- Escolher presidente e vice\n- Formar uma senha\n- Pódio de uma corrida\n\n**COMBINAÇÃO** (ordem NÃO importa):\n- Formar uma comissão\n- Escolher uma equipe\n- Selecionar produtos',
+            tags: ['arranjo', 'combinação', 'aplicação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-2-5',
+            frente: 'Como calcular probabilidade simples?',
+            verso: '**P(A) = favoráveis / possíveis**\n\nExemplo: probabilidade de tirar 6 no dado:\nP(6) = 1/6\n\nPropriedades:\n- 0 ≤ P(A) ≤ 1\n- P(certo) = 1\n- P(impossível) = 0',
+            tags: ['probabilidade', 'fórmula'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-2-6',
+            frente: 'Como calcular probabilidade de eventos INDEPENDENTES (E)?',
+            verso: '**P(A e B) = P(A) × P(B)**\n\nEventos independentes: um não afeta o outro.\n\nExemplo: tirar cara duas vezes:\nP(cara E cara) = 1/2 × 1/2 = 1/4\n\nPalavra-chave: E = multiplica',
+            tags: ['probabilidade', 'independentes'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-2-7',
+            frente: 'O que é probabilidade COMPLEMENTAR?',
+            verso: '**P(não A) = 1 - P(A)**\n\nÉ a probabilidade do evento NÃO ocorrer.\n\nExemplo: P(não tirar 6) = 1 - 1/6 = 5/6\n\nÚtil quando é mais fácil calcular o complemento.',
+            tags: ['probabilidade', 'complementar'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-2-8',
+            frente: 'Qual a fórmula de COMBINAÇÃO C(n,p)?',
+            verso: '**C(n,p) = n! / [p! × (n-p)!]**\n\nExemplo: C(5,2) = 5!/(2!×3!)\n= (5×4×3!)/(2×1×3!)\n= 20/2 = **10**\n\nDica: cancele os fatoriais iguais!',
+            tags: ['combinação', 'fórmula'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'rl-q-2-1',
+            enunciado: 'Um fiscal pode ir ao trabalho de carro (por 3 rotas diferentes) ou de ônibus (por 2 linhas diferentes). De quantas maneiras diferentes ele pode ir ao trabalho?',
+            alternativas: [
+              { letra: 'A', texto: '5' },
+              { letra: 'B', texto: '6' },
+              { letra: 'C', texto: '3' },
+              { letra: 'D', texto: '2' },
+              { letra: 'E', texto: '1' },
+            ],
+            gabarito: 'A',
+            justificativa: 'Princípio ADITIVO (OU): como são alternativas excludentes (carro OU ônibus), somamos: 3 + 2 = 5 maneiras.',
+            dificuldade: 'Fácil',
+            competencia: 'Princípio aditivo',
+            banca: 'IADES',
+            tags: ['princípio aditivo', 'contagem'],
+          },
+          {
+            id: 'rl-q-2-2',
+            enunciado: 'Para uma inspeção, um fiscal deve escolher 1 camisa (entre 4), 1 calça (entre 3) e 1 sapato (entre 2). De quantas formas diferentes ele pode se vestir?',
+            alternativas: [
+              { letra: 'A', texto: '9' },
+              { letra: 'B', texto: '24' },
+              { letra: 'C', texto: '12' },
+              { letra: 'D', texto: '14' },
+              { letra: 'E', texto: '10' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Princípio MULTIPLICATIVO (E): são etapas sucessivas (camisa E calça E sapato), então multiplicamos: 4 × 3 × 2 = 24 formas.',
+            dificuldade: 'Fácil',
+            competencia: 'Princípio multiplicativo',
+            banca: 'IADES',
+            tags: ['princípio multiplicativo', 'contagem'],
+          },
+          {
+            id: 'rl-q-2-3',
+            enunciado: 'De quantas maneiras 4 fiscais podem formar uma fila para atendimento?',
+            alternativas: [
+              { letra: 'A', texto: '4' },
+              { letra: 'B', texto: '12' },
+              { letra: 'C', texto: '24' },
+              { letra: 'D', texto: '16' },
+              { letra: 'E', texto: '8' },
+            ],
+            gabarito: 'C',
+            justificativa: 'É uma PERMUTAÇÃO simples (ordenar todos os elementos). P(4) = 4! = 4 × 3 × 2 × 1 = 24 maneiras.',
+            dificuldade: 'Fácil',
+            competencia: 'Permutação',
+            banca: 'IADES',
+            tags: ['permutação', 'fatorial'],
+          },
+          {
+            id: 'rl-q-2-4',
+            enunciado: 'De um grupo de 8 fiscais, de quantas formas podemos escolher um presidente e um vice-presidente?',
+            alternativas: [
+              { letra: 'A', texto: '28' },
+              { letra: 'B', texto: '56' },
+              { letra: 'C', texto: '64' },
+              { letra: 'D', texto: '72' },
+              { letra: 'E', texto: '16' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A ORDEM importa (presidente ≠ vice), então usamos ARRANJO. A(8,2) = 8!/(8-2)! = 8!/6! = 8 × 7 = 56 formas.',
+            dificuldade: 'Média',
+            competencia: 'Arranjo',
+            banca: 'IADES',
+            tags: ['arranjo', 'contagem'],
+          },
+          {
+            id: 'rl-q-2-5',
+            enunciado: 'De quantas formas podemos formar uma comissão de 3 fiscais a partir de um grupo de 6?',
+            alternativas: [
+              { letra: 'A', texto: '20' },
+              { letra: 'B', texto: '120' },
+              { letra: 'C', texto: '18' },
+              { letra: 'D', texto: '15' },
+              { letra: 'E', texto: '6' },
+            ],
+            gabarito: 'A',
+            justificativa: 'A ORDEM não importa (comissão), então usamos COMBINAÇÃO. C(6,3) = 6!/(3!×3!) = (6×5×4)/(3×2×1) = 120/6 = 20 formas.',
+            dificuldade: 'Média',
+            competencia: 'Combinação',
+            banca: 'IADES',
+            tags: ['combinação', 'contagem'],
+          },
+          {
+            id: 'rl-q-2-6',
+            enunciado: 'Ao lançar um dado honesto, qual a probabilidade de obter um número PAR?',
+            alternativas: [
+              { letra: 'A', texto: '1/6' },
+              { letra: 'B', texto: '1/3' },
+              { letra: 'C', texto: '1/2' },
+              { letra: 'D', texto: '2/3' },
+              { letra: 'E', texto: '1/4' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Números pares em um dado: 2, 4, 6 (3 casos favoráveis). Total de casos: 6. P(par) = 3/6 = 1/2 = 50%.',
+            dificuldade: 'Fácil',
+            competencia: 'Probabilidade simples',
+            banca: 'IADES',
+            tags: ['probabilidade', 'dado'],
+          },
+          {
+            id: 'rl-q-2-7',
+            enunciado: 'Ao lançar uma moeda 3 vezes, qual a probabilidade de obter CARA nas 3 vezes?',
+            alternativas: [
+              { letra: 'A', texto: '1/2' },
+              { letra: 'B', texto: '1/4' },
+              { letra: 'C', texto: '1/8' },
+              { letra: 'D', texto: '3/8' },
+              { letra: 'E', texto: '1/3' },
+            ],
+            gabarito: 'C',
+            justificativa: 'São eventos INDEPENDENTES, então multiplicamos: P(cara E cara E cara) = 1/2 × 1/2 × 1/2 = 1/8.',
+            dificuldade: 'Média',
+            competencia: 'Eventos independentes',
+            banca: 'IADES',
+            tags: ['probabilidade', 'independentes'],
+          },
+          {
+            id: 'rl-q-2-8',
+            enunciado: 'Em um lote de 20 produtos, 4 estão com defeito. Qual a probabilidade de, ao escolher um produto ao acaso, ele NÃO estar com defeito?',
+            alternativas: [
+              { letra: 'A', texto: '1/5' },
+              { letra: 'B', texto: '4/5' },
+              { letra: 'C', texto: '1/4' },
+              { letra: 'D', texto: '3/4' },
+              { letra: 'E', texto: '1/20' },
+            ],
+            gabarito: 'B',
+            justificativa: 'P(defeito) = 4/20 = 1/5. P(NÃO defeito) = 1 - 1/5 = 4/5 = 80%. Ou diretamente: 16 bons / 20 total = 4/5.',
+            dificuldade: 'Fácil',
+            competencia: 'Probabilidade complementar',
+            banca: 'IADES',
+            tags: ['probabilidade', 'complementar'],
+          },
+          {
+            id: 'rl-q-2-9',
+            enunciado: 'Quantos anagramas podem ser formados com a palavra "FISCAL"?',
+            alternativas: [
+              { letra: 'A', texto: '720' },
+              { letra: 'B', texto: '360' },
+              { letra: 'C', texto: '120' },
+              { letra: 'D', texto: '60' },
+              { letra: 'E', texto: '6' },
+            ],
+            gabarito: 'A',
+            justificativa: 'A palavra FISCAL tem 6 letras diferentes. É uma permutação simples: P(6) = 6! = 6 × 5 × 4 × 3 × 2 × 1 = 720 anagramas.',
+            dificuldade: 'Média',
+            competencia: 'Permutação',
+            banca: 'IADES',
+            tags: ['permutação', 'anagramas'],
+          },
+          {
+            id: 'rl-q-2-10',
+            enunciado: 'Ao lançar um dado, qual a probabilidade de obter um número MENOR QUE 3 ou um número MAIOR QUE 4?',
+            alternativas: [
+              { letra: 'A', texto: '1/2' },
+              { letra: 'B', texto: '2/3' },
+              { letra: 'C', texto: '1/3' },
+              { letra: 'D', texto: '5/6' },
+              { letra: 'E', texto: '1/6' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Menor que 3: {1, 2} = 2 casos. Maior que 4: {5, 6} = 2 casos. São mutuamente exclusivos, então somamos: P = (2+2)/6 = 4/6 = 2/3.',
+            dificuldade: 'Média',
+            competencia: 'Eventos exclusivos',
+            banca: 'IADES',
+            tags: ['probabilidade', 'exclusivos'],
+          },
+        ],
+      },
+    },
   ],
 };

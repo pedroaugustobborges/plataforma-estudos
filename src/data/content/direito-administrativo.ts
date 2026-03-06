@@ -488,5 +488,566 @@ A **fiscalização sanitária** é exercício da função administrativa (funç�
         ],
       },
     },
+    {
+      id: 'da-topico-2',
+      numero: 2,
+      titulo: 'Direito Administrativo: Conceito, Objeto e Fontes',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Conceito de Direito Administrativo
+
+O **Direito Administrativo** é o ramo do direito público que regula a organização e a atividade da Administração Pública.
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Natureza** | Direito PÚBLICO interno |
+| **Objeto** | Administração Pública e suas relações |
+| **Finalidade** | Regular o exercício da função administrativa |
+| **Regime jurídico** | Prerrogativas e sujeições do poder público |
+
+### Fontes do Direito Administrativo
+
+| Fonte | Tipo | Exemplo |
+|-------|------|---------|
+| **Lei** | Primária/Principal | Constituição, leis ordinárias |
+| **Doutrina** | Secundária | Obras de juristas |
+| **Jurisprudência** | Secundária | Decisões dos tribunais |
+| **Costumes** | Secundária | Praxe administrativa |
+| **Princípios gerais** | Secundária | Boa-fé, segurança jurídica |
+
+### Para IADES:
+- Direito Administrativo = ramo do direito PÚBLICO (não privado)
+- LEI é a fonte PRIMÁRIA e principal
+- Direito Administrativo brasileiro é NÃO CODIFICADO
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito de Direito Administrativo
+
+#### 1.1 Definições Doutrinárias
+
+**Hely Lopes Meirelles:**
+> "Conjunto harmônico de princípios jurídicos que regem os órgãos, os agentes e as atividades públicas tendentes a realizar concreta, direta e imediatamente os fins desejados pelo Estado."
+
+**Maria Sylvia Zanella Di Pietro:**
+> "Ramo do direito público que tem por objeto os órgãos, agentes e pessoas jurídicas administrativas que integram a Administração Pública, a atividade jurídica não contenciosa que exerce e os bens de que se utiliza para a consecução de seus fins, de natureza pública."
+
+**Celso Antônio Bandeira de Mello:**
+> "Ramo do direito público que disciplina a função administrativa, bem como pessoas e órgãos que a exercem."
+
+#### 1.2 Características do Direito Administrativo
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Ramo do Direito Público** | Relações Estado-particular com supremacia estatal |
+| **Direito interno** | Aplica-se no território nacional |
+| **Não codificado** | Não existe um "Código Administrativo" no Brasil |
+| **Parcialmente legislado** | Muitas normas esparsas |
+| **Em constante evolução** | Adaptação às mudanças sociais |
+
+#### 1.3 Direito Público vs. Direito Privado
+
+| Aspecto | Direito PÚBLICO | Direito PRIVADO |
+|---------|-----------------|-----------------|
+| **Relações** | Estado x particular | Particular x particular |
+| **Interesse** | Coletivo/público | Individual |
+| **Posição das partes** | Desigualdade (Estado prevalece) | Igualdade |
+| **Autonomia** | Limitada pela lei | Ampla (o que não é proibido é permitido) |
+| **Exemplos** | Administrativo, Constitucional | Civil, Empresarial |
+
+### 2. Objeto do Direito Administrativo
+
+O **objeto** do Direito Administrativo é a **Administração Pública** em todos os seus aspectos.
+
+#### 2.1 Abrangência do Objeto
+
+**Sentido SUBJETIVO (quem):**
+- Órgãos públicos
+- Entidades da Administração Indireta
+- Agentes públicos
+
+**Sentido OBJETIVO (o que):**
+- Atividade administrativa
+- Serviços públicos
+- Poder de polícia
+- Intervenção no domínio econômico
+- Fomento
+
+#### 2.2 Atividades Reguladas
+
+| Atividade | Descrição | Exemplo em VISA |
+|-----------|-----------|-----------------|
+| **Polícia administrativa** | Limitação de direitos individuais | Fiscalização sanitária |
+| **Serviço público** | Prestação de utilidades | Vacinação |
+| **Fomento** | Incentivo a atividades privadas | Incentivos à pesquisa |
+| **Intervenção** | Atuação no domínio econômico | Regulação de preços |
+
+#### 2.3 Relações Jurídicas
+
+O Direito Administrativo rege:
+1. **Relações internas**: entre órgãos e agentes
+2. **Relações externas**: entre Estado e particulares
+3. **Relações interadministrativas**: entre entidades públicas
+
+### 3. Fontes do Direito Administrativo
+
+**Fonte** é o meio pelo qual o Direito se manifesta, a origem das normas jurídicas.
+
+#### 3.1 Classificação das Fontes
+
+| Tipo | Característica | Exemplos |
+|------|----------------|----------|
+| **Primária/Principal** | Cria o direito | Lei |
+| **Secundária/Acessória** | Interpreta, complementa | Doutrina, jurisprudência |
+| **Escrita** | Expressa em texto | Lei, regulamento |
+| **Não escrita** | Prática, costume | Praxe administrativa |
+
+#### 3.2 A Lei como Fonte Primária
+
+A **LEI** é a fonte primária e mais importante do Direito Administrativo.
+
+**Hierarquia normativa:**
+1. **Constituição Federal** (norma suprema)
+2. **Emendas Constitucionais**
+3. **Leis Complementares**
+4. **Leis Ordinárias**
+5. **Medidas Provisórias** (força de lei)
+6. **Leis Delegadas**
+7. **Decretos** (regulamentam leis)
+8. **Resoluções, Portarias** (atos normativos infralegais)
+
+**Exemplos importantes:**
+- CF/88 (art. 37 e seguintes)
+- Lei 8.112/90 (Servidores Federais)
+- Lei 14.133/21 (Licitações)
+- Lei 9.784/99 (Processo Administrativo)
+- Lei 8.429/92 (Improbidade)
+
+#### 3.3 A Doutrina
+
+**Doutrina** é o conjunto de obras, estudos e pareceres elaborados por estudiosos do Direito.
+
+**Características:**
+- Fonte SECUNDÁRIA (não cria norma)
+- Interpreta e sistematiza o direito
+- Influencia legisladores e juízes
+- Orienta a aplicação da lei
+
+**Doutrinadores importantes:**
+- Hely Lopes Meirelles
+- Celso Antônio Bandeira de Mello
+- Maria Sylvia Zanella Di Pietro
+- José dos Santos Carvalho Filho
+
+#### 3.4 A Jurisprudência
+
+**Jurisprudência** é o conjunto de decisões reiteradas dos tribunais sobre determinada matéria.
+
+**Características:**
+- Fonte SECUNDÁRIA
+- Orienta a aplicação do direito
+- Uniformiza entendimentos
+
+**Súmulas Vinculantes:**
+- Aprovadas pelo STF
+- Vinculam toda a Administração Pública
+- Exemplo: SV 13 (nepotismo)
+
+#### 3.5 Os Costumes
+
+**Costume** é a prática reiterada de comportamentos com convicção de obrigatoriedade.
+
+**Tipos:**
+| Costume | Relação com a lei | Validade |
+|---------|-------------------|----------|
+| **Secundum legem** | Conforme a lei | Válido |
+| **Praeter legem** | Além da lei (preenche lacuna) | Discutível |
+| **Contra legem** | Contrário à lei | Inválido |
+
+**Praxe administrativa:**
+- Práticas habituais da Administração
+- Deve ser compatível com a lei
+
+#### 3.6 Os Princípios Gerais do Direito
+
+São normas de caráter geral que orientam o ordenamento jurídico.
+
+**Exemplos:**
+- Boa-fé
+- Vedação ao enriquecimento ilícito
+- Segurança jurídica
+- Proporcionalidade
+- Razoabilidade
+
+### 4. Regime Jurídico-Administrativo
+
+O **regime jurídico-administrativo** é o conjunto de prerrogativas e sujeições a que está submetida a Administração Pública.
+
+#### 4.1 Binômio do Regime
+
+| Elemento | Descrição | Fundamento |
+|----------|-----------|------------|
+| **PRERROGATIVAS** | Poderes especiais da Administração | Supremacia do interesse público |
+| **SUJEIÇÕES** | Limitações à atuação administrativa | Indisponibilidade do interesse público |
+
+#### 4.2 Exemplos de Prerrogativas
+
+- Autotutela (anular próprios atos)
+- Autoexecutoriedade (executar sem autorização judicial)
+- Imperatividade (impor obrigações unilateralmente)
+- Presunção de legitimidade dos atos
+
+#### 4.3 Exemplos de Sujeições
+
+- Licitação obrigatória
+- Concurso público
+- Motivação dos atos
+- Responsabilidade civil objetiva
+- Controle pelos Tribunais de Contas
+
+### 5. Direito Administrativo e Vigilância Sanitária
+
+A **fiscalização sanitária** é exercício típico do Direito Administrativo:
+
+| Conceito | Aplicação na VISA |
+|----------|-------------------|
+| **Poder de polícia** | Fiscalização de estabelecimentos |
+| **Ato administrativo** | Auto de infração, alvará |
+| **Processo administrativo** | Apuração de infrações |
+| **Responsabilidade** | Penalidades sanitárias |
+| **Regime jurídico** | Prerrogativas do fiscal |
+        `,
+
+        pontosChave: [
+          'Direito Administrativo = ramo do DIREITO PÚBLICO interno',
+          'Objeto = Administração Pública (órgãos, agentes, atividades)',
+          'Característica: NÃO CODIFICADO (não existe Código Administrativo)',
+          'Fonte PRIMÁRIA e principal = LEI',
+          'Fontes secundárias = doutrina, jurisprudência, costumes, princípios',
+          'Hierarquia: CF → LC → LO → Decretos → Resoluções/Portarias',
+          'Regime jurídico-administrativo = PRERROGATIVAS + SUJEIÇÕES',
+          'Prerrogativas decorrem da SUPREMACIA do interesse público',
+          'Sujeições decorrem da INDISPONIBILIDADE do interesse público',
+          'Fiscalização sanitária = exercício do poder de polícia administrativa',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Achar que existe Código Administrativo',
+            descricao: 'O Direito Administrativo brasileiro NÃO é codificado. Existem leis esparsas.',
+            dica: 'Diferente do Direito Civil e Penal, não temos "Código Administrativo".',
+          },
+          {
+            titulo: 'Confundir fontes primárias com secundárias',
+            descricao: 'Apenas a LEI é fonte primária. Doutrina e jurisprudência são secundárias.',
+            dica: 'Fonte primária CRIA o direito. Secundária INTERPRETA.',
+          },
+          {
+            titulo: 'Inverter prerrogativas e sujeições',
+            descricao: 'Prerrogativas = poderes. Sujeições = limitações.',
+            dica: 'Prerrogativa vem de "privilegium" (privilégio). Sujeição é submissão.',
+          },
+          {
+            titulo: 'Aceitar costume contra legem',
+            descricao: 'Costume contrário à lei NÃO é válido no Direito Administrativo.',
+            dica: 'A Administração deve obediência estrita à lei (legalidade).',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'PIN-SUP',
+            significado: 'Prerrogativas vêm da Supremacia; Sujeições vêm da Indisponibilidade',
+            frase: 'PIN-SUP: Prerrogativas = Supremacia, Sujeições = indisponibilidade',
+          },
+          {
+            termo: 'LDJCP',
+            significado: 'Lei, Doutrina, Jurisprudência, Costumes, Princípios',
+            frase: 'Fontes do Dir. Adm.: LDJCP (Lei é a principal)',
+          },
+          {
+            termo: 'CF-LC-LO-D-R',
+            significado: 'Constituição, Lei Complementar, Lei Ordinária, Decreto, Resolução',
+            frase: 'Hierarquia normativa: CF-LC-LO-D-R (do maior ao menor)',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'da-fc-2-1',
+            frente: 'O que é Direito Administrativo?',
+            verso: '**Ramo do DIREITO PÚBLICO** que regula a organização e a atividade da Administração Pública.\n\nCaracterísticas:\n- Direito público INTERNO\n- NÃO codificado\n- Regime de prerrogativas e sujeições',
+            tags: ['conceito', 'direito público'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-2-2',
+            frente: 'Qual é o OBJETO do Direito Administrativo?',
+            verso: 'A **ADMINISTRAÇÃO PÚBLICA** em todos os seus aspectos:\n\n**Subjetivo (quem):**\n- Órgãos, entidades, agentes\n\n**Objetivo (o quê):**\n- Atividade administrativa\n- Serviços públicos\n- Poder de polícia',
+            tags: ['objeto', 'administração'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-2-3',
+            frente: 'Qual é a fonte PRIMÁRIA do Direito Administrativo?',
+            verso: 'A **LEI** é a fonte primária e principal.\n\nHierarquia:\n1. Constituição Federal\n2. Emendas Constitucionais\n3. Leis Complementares\n4. Leis Ordinárias\n5. Decretos\n6. Resoluções/Portarias',
+            tags: ['fontes', 'lei'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-2-4',
+            frente: 'Quais são as fontes SECUNDÁRIAS do Direito Administrativo?',
+            verso: '**Fontes secundárias:**\n\n1. **DOUTRINA**: estudos de juristas\n2. **JURISPRUDÊNCIA**: decisões dos tribunais\n3. **COSTUMES**: praxe administrativa\n4. **PRINCÍPIOS GERAIS**: boa-fé, proporcionalidade\n\nNão CRIAM direito, apenas interpretam.',
+            tags: ['fontes', 'secundárias'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-2-5',
+            frente: 'O Direito Administrativo brasileiro é codificado?',
+            verso: '**NÃO!**\n\nO Direito Administrativo brasileiro é parcialmente legislado, mas NÃO codificado.\n\nNão existe um "Código Administrativo".\n\nAs normas estão em leis esparsas:\n- CF/88 (art. 37+)\n- Lei 8.112/90\n- Lei 14.133/21\n- Lei 9.784/99',
+            tags: ['codificação', 'leis'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-2-6',
+            frente: 'O que é o regime jurídico-administrativo?',
+            verso: 'É o conjunto de **PRERROGATIVAS e SUJEIÇÕES** da Administração.\n\n**PRERROGATIVAS** (poderes):\n→ Supremacia do interesse público\n\n**SUJEIÇÕES** (limitações):\n→ Indisponibilidade do interesse público\n\nBinômio: poder + limite',
+            tags: ['regime jurídico', 'prerrogativas'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-2-7',
+            frente: 'O costume pode ser fonte do Direito Administrativo?',
+            verso: '**Sim, mas com limitações:**\n\n✅ **Secundum legem**: conforme a lei = válido\n⚠️ **Praeter legem**: preenche lacuna = discutível\n❌ **Contra legem**: contrário à lei = INVÁLIDO\n\nO princípio da legalidade limita o costume.',
+            tags: ['costumes', 'fontes'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-2-8',
+            frente: 'Dê exemplos de prerrogativas e sujeições da Administração.',
+            verso: '**PRERROGATIVAS:**\n- Autotutela (anular próprios atos)\n- Autoexecutoriedade\n- Imperatividade\n- Presunção de legitimidade\n\n**SUJEIÇÕES:**\n- Licitação obrigatória\n- Concurso público\n- Motivação dos atos\n- Responsabilidade objetiva',
+            tags: ['prerrogativas', 'sujeições'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'da-q-2-1',
+            enunciado: 'O Direito Administrativo é ramo do:',
+            alternativas: [
+              { letra: 'A', texto: 'Direito privado, por regular relações entre particulares.' },
+              { letra: 'B', texto: 'Direito público interno, regulando a Administração Pública.' },
+              { letra: 'C', texto: 'Direito internacional, por ter aplicação mundial.' },
+              { letra: 'D', texto: 'Direito comercial, por regular atividades econômicas.' },
+              { letra: 'E', texto: 'Direito misto, com natureza pública e privada.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O Direito Administrativo é ramo do DIREITO PÚBLICO interno, pois regula a organização e a atividade da Administração Pública dentro do território nacional, com supremacia do interesse público.',
+            dificuldade: 'Fácil',
+            competencia: 'Natureza do Direito Administrativo',
+            banca: 'IADES',
+            tags: ['conceito', 'direito público'],
+          },
+          {
+            id: 'da-q-2-2',
+            enunciado: 'Sobre as fontes do Direito Administrativo, é CORRETO afirmar que:',
+            alternativas: [
+              { letra: 'A', texto: 'A doutrina é a fonte primária e mais importante.' },
+              { letra: 'B', texto: 'A lei é a fonte primária, e doutrina e jurisprudência são secundárias.' },
+              { letra: 'C', texto: 'A jurisprudência tem força de lei e cria normas obrigatórias.' },
+              { letra: 'D', texto: 'Os costumes contra legem são válidos quando consolidados.' },
+              { letra: 'E', texto: 'Não existem fontes secundárias no Direito Administrativo.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A LEI é a fonte primária do Direito Administrativo. Doutrina, jurisprudência, costumes e princípios são fontes secundárias que interpretam e complementam, mas não criam normas jurídicas.',
+            dificuldade: 'Fácil',
+            competencia: 'Fontes do Direito Administrativo',
+            banca: 'IADES',
+            tags: ['fontes', 'lei'],
+          },
+          {
+            id: 'da-q-2-3',
+            enunciado: 'O objeto do Direito Administrativo é:',
+            alternativas: [
+              { letra: 'A', texto: 'Exclusivamente as relações entre particulares.' },
+              { letra: 'B', texto: 'A Administração Pública, seus órgãos, agentes e atividades.' },
+              { letra: 'C', texto: 'Apenas os crimes contra a Administração Pública.' },
+              { letra: 'D', texto: 'As relações internacionais do Estado brasileiro.' },
+              { letra: 'E', texto: 'Somente as empresas estatais e suas atividades.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O objeto do Direito Administrativo é a Administração Pública em todos os seus aspectos: órgãos, entidades, agentes públicos e suas atividades (serviços públicos, poder de polícia, fomento, intervenção).',
+            dificuldade: 'Fácil',
+            competencia: 'Objeto do Direito Administrativo',
+            banca: 'IADES',
+            tags: ['objeto', 'administração'],
+          },
+          {
+            id: 'da-q-2-4',
+            enunciado: 'O Direito Administrativo brasileiro caracteriza-se por ser:',
+            alternativas: [
+              { letra: 'A', texto: 'Codificado em um único diploma legal.' },
+              { letra: 'B', texto: 'Não codificado, com normas em diversas leis esparsas.' },
+              { letra: 'C', texto: 'Baseado exclusivamente em costumes.' },
+              { letra: 'D', texto: 'Ramo do direito privado.' },
+              { letra: 'E', texto: 'Imutável desde a Constituição de 1988.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O Direito Administrativo brasileiro é NÃO CODIFICADO. Não existe um "Código Administrativo". As normas estão dispersas em diversas leis (CF/88, Lei 8.112/90, Lei 14.133/21, etc.).',
+            dificuldade: 'Fácil',
+            competencia: 'Características',
+            banca: 'IADES',
+            tags: ['codificação', 'características'],
+          },
+          {
+            id: 'da-q-2-5',
+            enunciado: 'O regime jurídico-administrativo é composto por:',
+            alternativas: [
+              { letra: 'A', texto: 'Apenas prerrogativas, sem limitações.' },
+              { letra: 'B', texto: 'Apenas sujeições, sem poderes especiais.' },
+              { letra: 'C', texto: 'Prerrogativas (poderes) e sujeições (limitações).' },
+              { letra: 'D', texto: 'Normas de direito privado aplicadas ao Estado.' },
+              { letra: 'E', texto: 'Exclusivamente a Constituição Federal.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O regime jurídico-administrativo é o binômio PRERROGATIVAS (poderes especiais decorrentes da supremacia do interesse público) e SUJEIÇÕES (limitações decorrentes da indisponibilidade do interesse público).',
+            dificuldade: 'Média',
+            competencia: 'Regime jurídico-administrativo',
+            banca: 'IADES',
+            tags: ['regime jurídico', 'prerrogativas'],
+          },
+          {
+            id: 'da-q-2-6',
+            enunciado: 'A hierarquia normativa no Direito Administrativo estabelece que:',
+            alternativas: [
+              { letra: 'A', texto: 'Decretos prevalecem sobre leis ordinárias.' },
+              { letra: 'B', texto: 'Resoluções têm força de Emenda Constitucional.' },
+              { letra: 'C', texto: 'A Constituição é a norma suprema, seguida de leis e decretos.' },
+              { letra: 'D', texto: 'Não existe hierarquia entre as normas administrativas.' },
+              { letra: 'E', texto: 'Portarias prevalecem sobre a Constituição.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A hierarquia normativa é: CF (suprema) → EC → LC → LO → MP → Decretos → Resoluções/Portarias. Normas inferiores devem respeitar as superiores.',
+            dificuldade: 'Fácil',
+            competencia: 'Hierarquia normativa',
+            banca: 'IADES',
+            tags: ['hierarquia', 'normas'],
+          },
+          {
+            id: 'da-q-2-7',
+            enunciado: 'Sobre os costumes como fonte do Direito Administrativo, é CORRETO afirmar que:',
+            alternativas: [
+              { letra: 'A', texto: 'Costumes contrários à lei são aceitos se reiterados.' },
+              { letra: 'B', texto: 'Não são considerados fontes em nenhuma hipótese.' },
+              { letra: 'C', texto: 'São fonte secundária e não podem contrariar a lei.' },
+              { letra: 'D', texto: 'Substituem a lei quando mais convenientes.' },
+              { letra: 'E', texto: 'São fonte primária, assim como a lei.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Os costumes são fonte SECUNDÁRIA do Direito Administrativo. Podem ser aceitos quando conformes à lei (secundum legem) ou para preencher lacunas (praeter legem), mas NUNCA contra a lei (contra legem).',
+            dificuldade: 'Média',
+            competencia: 'Costumes como fonte',
+            banca: 'IADES',
+            tags: ['costumes', 'fontes'],
+          },
+          {
+            id: 'da-q-2-8',
+            enunciado: 'São exemplos de PRERROGATIVAS da Administração Pública:',
+            alternativas: [
+              { letra: 'A', texto: 'Obrigatoriedade de licitação e concurso público.' },
+              { letra: 'B', texto: 'Autoexecutoriedade, imperatividade e autotutela.' },
+              { letra: 'C', texto: 'Motivação dos atos e controle pelo Tribunal de Contas.' },
+              { letra: 'D', texto: 'Responsabilidade civil objetiva e publicidade.' },
+              { letra: 'E', texto: 'Observância do devido processo legal.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'PRERROGATIVAS são poderes especiais da Administração: autoexecutoriedade (executar sem Judiciário), imperatividade (impor obrigações), autotutela (revisar próprios atos). As demais opções são SUJEIÇÕES (limitações).',
+            dificuldade: 'Média',
+            competencia: 'Prerrogativas',
+            banca: 'IADES',
+            tags: ['prerrogativas', 'regime jurídico'],
+          },
+          {
+            id: 'da-q-2-9',
+            enunciado: 'A fiscalização sanitária exercida pelo Fiscal de Saúde Pública fundamenta-se, no Direito Administrativo, no conceito de:',
+            alternativas: [
+              { letra: 'A', texto: 'Fomento público.' },
+              { letra: 'B', texto: 'Intervenção no domínio econômico.' },
+              { letra: 'C', texto: 'Poder de polícia administrativa.' },
+              { letra: 'D', texto: 'Serviço público essencial.' },
+              { letra: 'E', texto: 'Ato jurisdicional.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A fiscalização sanitária é manifestação do PODER DE POLÍCIA administrativa, que permite à Administração limitar direitos individuais em prol do interesse coletivo (saúde pública).',
+            dificuldade: 'Fácil',
+            competencia: 'Poder de polícia',
+            banca: 'IADES',
+            tags: ['poder de polícia', 'vigilância sanitária'],
+          },
+          {
+            id: 'da-q-2-10',
+            enunciado: 'As SUJEIÇÕES a que se submete a Administração Pública decorrem do princípio da:',
+            alternativas: [
+              { letra: 'A', texto: 'Supremacia do interesse público.' },
+              { letra: 'B', texto: 'Indisponibilidade do interesse público.' },
+              { letra: 'C', texto: 'Autotutela administrativa.' },
+              { letra: 'D', texto: 'Presunção de legitimidade.' },
+              { letra: 'E', texto: 'Autoexecutoriedade.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'As SUJEIÇÕES (licitação, concurso, motivação) decorrem da INDISPONIBILIDADE do interesse público, que impede o administrador de dispor livremente dos bens e interesses públicos. As prerrogativas decorrem da supremacia.',
+            dificuldade: 'Média',
+            competencia: 'Sujeições',
+            banca: 'IADES',
+            tags: ['sujeições', 'indisponibilidade'],
+          },
+        ],
+      },
+    },
   ],
 };

@@ -480,5 +480,557 @@ A formação econômica de Goiás pode ser dividida em **grandes ciclos**:
         ],
       },
     },
+    {
+      id: 'go-topico-2',
+      numero: 2,
+      titulo: 'Modernização da agricultura e urbanização do território goiano',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+A **modernização agrícola** e a **urbanização** transformaram profundamente Goiás a partir da década de 1970, tornando o estado uma potência do agronegócio.
+
+### Cronologia da Modernização
+
+| Período | Evento | Impacto |
+|---------|--------|---------|
+| 1970s | Revolução Verde | Mecanização e insumos modernos |
+| 1973 | Criação da EMBRAPA | Tecnologia para o Cerrado |
+| 1975+ | POLOCENTRO/PRODECER | Ocupação do Cerrado |
+| 1980s | Expansão da soja | Goiás no agronegócio mundial |
+| 1990s+ | Agroindústria | Cadeias produtivas integradas |
+
+### Urbanização de Goiás
+
+- **1940**: 18% urbano → **2022**: 92% urbano
+- Eixo Goiânia-Anápolis-Brasília = maior concentração
+- Região Metropolitana de Goiânia: 2,7 milhões de habitantes
+- Entorno do DF: crescimento acelerado (dormitórios)
+
+### Para IADES:
+- EMBRAPA = correção de solos ácidos do Cerrado
+- Soja, milho, cana = principais commodities
+- Urbanização intensa após Brasília (1960)
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. A Modernização da Agricultura em Goiás
+
+#### 1.1 Contexto Histórico
+
+Até os anos 1960, a agricultura goiana era predominantemente:
+- **Extensiva**: grandes áreas, baixa produtividade
+- **Tradicional**: técnicas rudimentares
+- **Voltada para subsistência**: excedente mínimo
+
+#### 1.2 A Revolução Verde no Brasil
+
+A partir dos anos 1970, o Brasil adotou o modelo da **Revolução Verde**:
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Mecanização** | Tratores, colheitadeiras |
+| **Insumos químicos** | Fertilizantes, agrotóxicos |
+| **Sementes melhoradas** | Variedades adaptadas |
+| **Irrigação** | Pivôs centrais |
+| **Crédito rural** | Financiamento estatal |
+
+#### 1.3 O Papel da EMBRAPA
+
+A **Empresa Brasileira de Pesquisa Agropecuária** (EMBRAPA), criada em **1973**, foi fundamental para viabilizar a agricultura no Cerrado:
+
+**Principais contribuições:**
+1. **Correção de solos ácidos** com calagem (calcário)
+2. **Fixação biológica de nitrogênio** na soja
+3. **Variedades de soja adaptadas** ao Cerrado
+4. **Técnicas de plantio direto**
+5. **Integração lavoura-pecuária-floresta (ILPF)**
+
+> A EMBRAPA transformou o Cerrado de "terra improdutiva" em "celeiro do mundo".
+
+#### 1.4 Programas de Ocupação do Cerrado
+
+| Programa | Período | Objetivo |
+|----------|---------|----------|
+| **POLOCENTRO** | 1975-1979 | Desenvolvimento de polos agrícolas no Centro-Oeste |
+| **PRODECER** | 1979-2001 | Parceria Brasil-Japão para ocupação do Cerrado |
+
+**Impactos:**
+- Financiamento subsidiado
+- Infraestrutura (estradas, armazéns)
+- Atração de migrantes sulistas
+- Concentração fundiária
+
+### 2. A Agricultura Moderna em Goiás
+
+#### 2.1 Principais Produtos
+
+| Produto | Posição Nacional | Observação |
+|---------|------------------|------------|
+| **Sorgo** | 1º produtor | Liderança absoluta |
+| **Tomate** | 1º produtor | Especialmente processamento |
+| **Cana-de-açúcar** | 2º produtor | Etanol e açúcar |
+| **Soja** | 4º produtor | Principal commodity |
+| **Milho** | 4º produtor | Safra e safrinha |
+| **Algodão** | 4º produtor | Algodão em pluma |
+
+#### 2.2 Agroindústria
+
+A **agroindústria** agrega valor à produção agrícola:
+
+**Setores principais:**
+- **Frigoríficos**: JBS, Marfrig (Goiânia, Jataí)
+- **Usinas de etanol/açúcar**: Cosan, São Martinho (Goiás é o 2º produtor de etanol)
+- **Processamento de grãos**: Cargill, Bunge, ADM
+- **Laticínios**: Italac, Batavo
+- **Processamento de tomate**: Fugini, Quero
+
+#### 2.3 Impactos Ambientais
+
+| Impacto | Descrição |
+|---------|-----------|
+| **Desmatamento** | Perda de ~60% do Cerrado original |
+| **Erosão do solo** | Manejo inadequado em algumas áreas |
+| **Contaminação de águas** | Agrotóxicos e fertilizantes |
+| **Perda de biodiversidade** | Espécies endêmicas ameaçadas |
+
+### 3. A Urbanização de Goiás
+
+#### 3.1 Evolução da População Urbana
+
+| Ano | População Urbana | Porcentagem |
+|-----|------------------|-------------|
+| 1940 | ~175 mil | 18% |
+| 1970 | ~1,3 milhão | 45% |
+| 2000 | ~4,4 milhões | 88% |
+| 2022 | ~6,8 milhões | 92% |
+
+#### 3.2 Fatores da Urbanização
+
+1. **Construção de Goiânia (1933)**
+   - Planejamento urbanístico
+   - Atração de migrantes
+
+2. **Construção de Brasília (1960)**
+   - Abertura de rodovias
+   - Cidades-dormitório no Entorno
+
+3. **Modernização agrícola**
+   - Mecanização expulsou trabalhadores rurais
+   - Êxodo rural intenso
+
+4. **Industrialização**
+   - Anápolis: polo farmacêutico e industrial
+   - Goiânia: serviços e comércio
+
+#### 3.3 Região Metropolitana de Goiânia
+
+Criada em **1999**, é a mais importante concentração urbana de Goiás:
+
+| Município | População (2022) |
+|-----------|------------------|
+| Goiânia | ~1,4 milhão |
+| Aparecida de Goiânia | ~590 mil |
+| Anápolis | ~400 mil |
+| Senador Canedo | ~120 mil |
+| Trindade | ~130 mil |
+
+**Características:**
+- Centro de serviços e comércio
+- Polo educacional (UFG, IFG, PUC-GO)
+- Sistema de saúde referência para o Centro-Oeste
+
+#### 3.4 O Entorno do Distrito Federal
+
+A região do **Entorno do DF** (RIDE) apresenta características específicas:
+
+**Municípios principais:**
+- Luziânia, Valparaíso de Goiás, Águas Lindas, Planaltina
+
+**Características:**
+- Crescimento populacional explosivo
+- Cidades-dormitório (trabalham em Brasília)
+- Problemas sociais: violência, infraestrutura precária
+- Dependência econômica do DF
+
+### 4. Rede Urbana de Goiás
+
+#### 4.1 Hierarquia das Cidades
+
+| Nível | Exemplo | Função |
+|-------|---------|--------|
+| **Metrópole** | Goiânia | Centro regional, serviços especializados |
+| **Capital regional** | Anápolis | Polo industrial, entroncamento |
+| **Centro sub-regional** | Rio Verde, Itumbiara | Polos agroindustriais |
+| **Centros locais** | Jataí, Catalão | Serviços básicos regionais |
+
+#### 4.2 Polos Regionais
+
+**Sudoeste Goiano** (agronegócio):
+- Rio Verde, Jataí, Mineiros
+- Maior produtor de grãos do estado
+
+**Sudeste Goiano** (mineração + agro):
+- Catalão (nióbio, fosfato)
+- Montadora automotiva (Mitsubishi/HPE)
+
+**Norte Goiano**:
+- Uruaçu, Niquelândia
+- Mineração e agropecuária
+
+### 5. Impactos Socioespaciais
+
+#### 5.1 Concentração Fundiária
+
+A modernização agrícola intensificou a concentração de terras:
+- Pequenos produtores foram substituídos
+- Agricultura familiar marginalizada
+- Conflitos agrários
+
+#### 5.2 Migração
+
+**Origem dos migrantes:**
+- Nordeste (mão de obra urbana)
+- Sul (agricultores tecnificados)
+- Minas Gerais (tradição histórica)
+
+#### 5.3 Desigualdades Regionais
+
+| Região | Característica |
+|--------|----------------|
+| Centro-Sul | Mais desenvolvido, industrializado |
+| Norte | Menor desenvolvimento, agropecuária tradicional |
+| Entorno do DF | Periferização, problemas sociais |
+        `,
+
+        pontosChave: [
+          'EMBRAPA (1973) viabilizou agricultura no Cerrado com correção de solos ácidos',
+          'POLOCENTRO e PRODECER = programas de ocupação do Cerrado (1975+)',
+          'Goiás: 1º em sorgo e tomate; 2º em cana-de-açúcar; 4º em soja',
+          'Modernização agrícola = mecanização + insumos + crédito rural',
+          'Urbanização: 18% (1940) → 92% (2022) de população urbana',
+          'Goiânia + Brasília = principais vetores de urbanização',
+          'Região Metropolitana de Goiânia: ~2,7 milhões de habitantes',
+          'Entorno do DF: crescimento acelerado, cidades-dormitório',
+          'Migração sulista trouxe técnicas modernas de agricultura',
+          'Impactos ambientais: desmatamento de ~60% do Cerrado',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir EMBRAPA com órgão estadual',
+            descricao: 'A EMBRAPA é uma empresa FEDERAL, não estadual. Atua em todo o Brasil.',
+            dica: 'EMBRAPA = Empresa Brasileira (federal), criada em 1973.',
+          },
+          {
+            titulo: 'Errar ranking de produção agrícola',
+            descricao: 'Goiás é 1º em sorgo/tomate, 2º em cana, 4º em soja. Não é líder em tudo.',
+            dica: 'Lembre: SORGO e TOMATE = liderança. Cana = 2º. Soja = 4º.',
+          },
+          {
+            titulo: 'Atribuir urbanização apenas a Brasília',
+            descricao: 'A urbanização começou antes de Brasília, com Goiânia (1933) e a ferrovia.',
+            dica: 'Goiânia (1933-37) já era vetor de urbanização antes de Brasília (1960).',
+          },
+          {
+            titulo: 'Ignorar problemas do Entorno do DF',
+            descricao: 'O Entorno não é apenas crescimento, mas também problemas sociais graves.',
+            dica: 'Entorno = cidades-dormitório com violência e infraestrutura precária.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'EMBRAPA-73',
+            significado: 'EMBRAPA criada em 1973',
+            frase: 'EMBRAPA em 73: o Cerrado virou potência agrícola',
+          },
+          {
+            termo: 'SoTo-CaSo',
+            significado: 'Sorgo e Tomate = 1º; Cana = 2º; Soja = 4º',
+            frase: 'SoTo (1º) - CaSo (2º-4º): ranking agrícola de Goiás',
+          },
+          {
+            termo: 'GB-60',
+            significado: 'Goiânia-Brasília, eixo de urbanização, Brasília 1960',
+            frase: 'O eixo GB (Goiânia-Brasília) define a urbanização',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'go-fc-2-1',
+            frente: 'Qual o papel da EMBRAPA na agricultura do Cerrado?',
+            verso: '**EMBRAPA** (1973) desenvolveu tecnologias que viabilizaram a agricultura no Cerrado:\n\n- Correção de solos ÁCIDOS (calagem)\n- Variedades de soja ADAPTADAS\n- Fixação biológica de nitrogênio\n- Plantio direto\n\nTransformou "terra improdutiva" em celeiro.',
+            tags: ['EMBRAPA', 'Cerrado', 'agricultura'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-2-2',
+            frente: 'Em quais produtos agrícolas Goiás é líder nacional?',
+            verso: '**1º LUGAR:**\n- SORGO (liderança absoluta)\n- TOMATE (especialmente para processamento)\n\n**2º lugar:** Cana-de-açúcar\n**4º lugar:** Soja, milho, algodão\n\nMnemônico: SoTo-CaSo',
+            tags: ['agricultura', 'ranking', 'produção'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-2-3',
+            frente: 'O que foram os programas POLOCENTRO e PRODECER?',
+            verso: '**POLOCENTRO** (1975-1979):\nPrograma de desenvolvimento de polos agrícolas no Centro-Oeste\n\n**PRODECER** (1979-2001):\nCooperação Brasil-Japão para ocupação do Cerrado\n\nAmbos ofereceram crédito subsidiado e infraestrutura.',
+            tags: ['POLOCENTRO', 'PRODECER', 'Cerrado'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-2-4',
+            frente: 'Como evoluiu a urbanização de Goiás?',
+            verso: '**Evolução:**\n- 1940: 18% urbano\n- 1970: 45% urbano\n- 2000: 88% urbano\n- 2022: 92% urbano\n\n**Fatores:**\n- Goiânia (1933)\n- Brasília (1960)\n- Modernização agrícola (êxodo rural)',
+            tags: ['urbanização', 'população'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-2-5',
+            frente: 'O que é a Região Metropolitana de Goiânia?',
+            verso: 'Criada em **1999**, é a maior concentração urbana de Goiás.\n\n**Principais municípios:**\n- Goiânia (~1,4 mi)\n- Aparecida de Goiânia (~590 mil)\n- Anápolis (~400 mil)\n\n**Total:** ~2,7 milhões de habitantes',
+            tags: ['Região Metropolitana', 'Goiânia'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-2-6',
+            frente: 'Quais as características do Entorno do DF?',
+            verso: '**Características:**\n- Crescimento populacional explosivo\n- Cidades-dormitório (trabalham em Brasília)\n- Problemas sociais: violência, infraestrutura precária\n- Dependência econômica do DF\n\n**Municípios:** Luziânia, Valparaíso, Águas Lindas',
+            tags: ['Entorno do DF', 'urbanização'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-2-7',
+            frente: 'Quais os impactos ambientais da modernização agrícola?',
+            verso: '**Impactos negativos:**\n- Desmatamento de ~60% do Cerrado original\n- Erosão do solo\n- Contaminação de águas (agrotóxicos)\n- Perda de biodiversidade\n\nO Cerrado é o bioma mais ameaçado do Brasil.',
+            tags: ['meio ambiente', 'impactos'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-2-8',
+            frente: 'Quais os principais polos agroindustriais de Goiás?',
+            verso: '**Sudoeste Goiano:**\n- Rio Verde, Jataí, Mineiros\n- Maior produtor de grãos\n\n**Sudeste Goiano:**\n- Catalão (mineração + indústria)\n\n**Centro:**\n- Anápolis (farmacêutico, DAIA)\n- Goiânia (serviços)',
+            tags: ['polos', 'agroindústria'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'go-q-2-1',
+            enunciado: 'A modernização agrícola do Cerrado goiano foi viabilizada principalmente pelo(a):',
+            alternativas: [
+              { letra: 'A', texto: 'Descoberta de ouro em novas regiões.' },
+              { letra: 'B', texto: 'Tecnologias desenvolvidas pela EMBRAPA para correção de solos.' },
+              { letra: 'C', texto: 'Abandono da mecanização em favor do trabalho manual.' },
+              { letra: 'D', texto: 'Proibição do uso de fertilizantes químicos.' },
+              { letra: 'E', texto: 'Retorno ao modelo de agricultura de subsistência.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A EMBRAPA (criada em 1973) desenvolveu tecnologias fundamentais para a agricultura no Cerrado, especialmente a correção dos solos ácidos através da calagem e variedades adaptadas de soja.',
+            dificuldade: 'Fácil',
+            competencia: 'Modernização agrícola',
+            banca: 'IADES',
+            tags: ['EMBRAPA', 'agricultura'],
+          },
+          {
+            id: 'go-q-2-2',
+            enunciado: 'Sobre a produção agrícola de Goiás, é CORRETO afirmar que o estado é líder nacional na produção de:',
+            alternativas: [
+              { letra: 'A', texto: 'Soja e milho.' },
+              { letra: 'B', texto: 'Café e trigo.' },
+              { letra: 'C', texto: 'Sorgo e tomate.' },
+              { letra: 'D', texto: 'Arroz e feijão.' },
+              { letra: 'E', texto: 'Cana-de-açúcar e algodão.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Goiás é o maior produtor nacional de sorgo e tomate. Em cana-de-açúcar, é o 2º maior; em soja, milho e algodão, ocupa o 4º lugar.',
+            dificuldade: 'Média',
+            competencia: 'Produção agrícola',
+            banca: 'IADES',
+            tags: ['agricultura', 'ranking'],
+          },
+          {
+            id: 'go-q-2-3',
+            enunciado: 'O processo de urbanização de Goiás intensificou-se a partir de 1960, principalmente devido:',
+            alternativas: [
+              { letra: 'A', texto: 'À descoberta de novas jazidas de ouro.' },
+              { letra: 'B', texto: 'À construção de Brasília e à modernização agrícola.' },
+              { letra: 'C', texto: 'Ao retorno da economia mineradora.' },
+              { letra: 'D', texto: 'À diminuição do êxodo rural.' },
+              { letra: 'E', texto: 'Ao isolamento geográfico do estado.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A construção de Brasília (1960) e a modernização agrícola (mecanização) intensificaram a urbanização. Brasília atraiu migrantes e criou cidades-dormitório; a mecanização expulsou trabalhadores do campo.',
+            dificuldade: 'Fácil',
+            competencia: 'Urbanização',
+            banca: 'IADES',
+            tags: ['urbanização', 'Brasília'],
+          },
+          {
+            id: 'go-q-2-4',
+            enunciado: 'Os programas POLOCENTRO e PRODECER, implementados a partir da década de 1970, tiveram como objetivo:',
+            alternativas: [
+              { letra: 'A', texto: 'Incentivar a mineração de ouro em Goiás.' },
+              { letra: 'B', texto: 'Promover a ocupação agrícola do Cerrado.' },
+              { letra: 'C', texto: 'Desenvolver a indústria de transformação.' },
+              { letra: 'D', texto: 'Construir novas capitais no Centro-Oeste.' },
+              { letra: 'E', texto: 'Reduzir a produção de commodities agrícolas.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O POLOCENTRO (1975-1979) e o PRODECER (1979-2001) foram programas governamentais que ofereceram crédito subsidiado e infraestrutura para promover a ocupação agrícola do Cerrado.',
+            dificuldade: 'Média',
+            competencia: 'Políticas agrícolas',
+            banca: 'IADES',
+            tags: ['POLOCENTRO', 'PRODECER'],
+          },
+          {
+            id: 'go-q-2-5',
+            enunciado: 'A Região do Entorno do Distrito Federal caracteriza-se por:',
+            alternativas: [
+              { letra: 'A', texto: 'Desenvolvimento industrial diversificado e autônomo.' },
+              { letra: 'B', texto: 'População predominantemente rural e baixa densidade demográfica.' },
+              { letra: 'C', texto: 'Cidades-dormitório com forte dependência econômica de Brasília.' },
+              { letra: 'D', texto: 'Liderança na produção agrícola do estado.' },
+              { letra: 'E', texto: 'Infraestrutura urbana completa e bem planejada.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O Entorno do DF é caracterizado por cidades-dormitório cujos moradores trabalham em Brasília. A região enfrenta problemas de infraestrutura, violência e dependência econômica do DF.',
+            dificuldade: 'Fácil',
+            competencia: 'Entorno do DF',
+            banca: 'IADES',
+            tags: ['Entorno do DF', 'urbanização'],
+          },
+          {
+            id: 'go-q-2-6',
+            enunciado: 'A evolução da taxa de urbanização de Goiás demonstra que o estado:',
+            alternativas: [
+              { letra: 'A', texto: 'Permanece predominantemente rural.' },
+              { letra: 'B', texto: 'Passou de 18% de população urbana em 1940 para mais de 90% atualmente.' },
+              { letra: 'C', texto: 'Apresentou redução da população urbana nas últimas décadas.' },
+              { letra: 'D', texto: 'Manteve estável sua taxa de urbanização desde 1960.' },
+              { letra: 'E', texto: 'É o estado menos urbanizado do Centro-Oeste.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Goiás passou de 18% de população urbana em 1940 para aproximadamente 92% em 2022, demonstrando um processo intenso de urbanização ao longo do século XX.',
+            dificuldade: 'Fácil',
+            competencia: 'Dados de urbanização',
+            banca: 'IADES',
+            tags: ['urbanização', 'estatísticas'],
+          },
+          {
+            id: 'go-q-2-7',
+            enunciado: 'Sobre os impactos ambientais da modernização agrícola no Cerrado goiano, é CORRETO afirmar que:',
+            alternativas: [
+              { letra: 'A', texto: 'Não houve desmatamento significativo.' },
+              { letra: 'B', texto: 'O bioma Cerrado foi totalmente preservado.' },
+              { letra: 'C', texto: 'Cerca de 60% da vegetação original foi suprimida.' },
+              { letra: 'D', texto: 'A agricultura melhorou a qualidade dos recursos hídricos.' },
+              { letra: 'E', texto: 'Os agrotóxicos beneficiaram a biodiversidade.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A expansão agrícola no Cerrado provocou o desmatamento de aproximadamente 60% da vegetação original, além de outros impactos como erosão, contaminação de águas e perda de biodiversidade.',
+            dificuldade: 'Média',
+            competencia: 'Impactos ambientais',
+            banca: 'IADES',
+            tags: ['meio ambiente', 'Cerrado'],
+          },
+          {
+            id: 'go-q-2-8',
+            enunciado: 'A Região Metropolitana de Goiânia foi criada em:',
+            alternativas: [
+              { letra: 'A', texto: '1933, junto com a fundação de Goiânia.' },
+              { letra: 'B', texto: '1960, após a construção de Brasília.' },
+              { letra: 'C', texto: '1988, pela Constituição Federal.' },
+              { letra: 'D', texto: '1999, por lei complementar estadual.' },
+              { letra: 'E', texto: '2010, pelo novo censo demográfico.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'A Região Metropolitana de Goiânia foi criada em 1999 por lei complementar estadual. Hoje abriga cerca de 2,7 milhões de habitantes, sendo a maior concentração urbana de Goiás.',
+            dificuldade: 'Média',
+            competencia: 'Região Metropolitana',
+            banca: 'IADES',
+            tags: ['Região Metropolitana', 'Goiânia'],
+          },
+          {
+            id: 'go-q-2-9',
+            enunciado: 'O polo agroindustrial do Sudoeste Goiano, com destaque para Rio Verde e Jataí, é reconhecido pela:',
+            alternativas: [
+              { letra: 'A', texto: 'Produção de minério de ferro.' },
+              { letra: 'B', texto: 'Maior produção de grãos do estado.' },
+              { letra: 'C', texto: 'Indústria farmacêutica.' },
+              { letra: 'D', texto: 'Extração de ouro.' },
+              { letra: 'E', texto: 'Produção de café de alta qualidade.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O Sudoeste Goiano, especialmente Rio Verde, Jataí e Mineiros, é o maior polo produtor de grãos do estado, com destaque para soja e milho, além de importante parque agroindustrial.',
+            dificuldade: 'Média',
+            competencia: 'Polos regionais',
+            banca: 'IADES',
+            tags: ['Sudoeste Goiano', 'agroindústria'],
+          },
+          {
+            id: 'go-q-2-10',
+            enunciado: 'A migração de agricultores sulistas para Goiás, a partir da década de 1970, contribuiu para:',
+            alternativas: [
+              { letra: 'A', texto: 'O retorno à agricultura de subsistência.' },
+              { letra: 'B', texto: 'A introdução de técnicas modernas de cultivo.' },
+              { letra: 'C', texto: 'A redução da produção de commodities.' },
+              { letra: 'D', texto: 'O abandono das áreas de Cerrado.' },
+              { letra: 'E', texto: 'A diminuição da mecanização agrícola.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Os migrantes sulistas trouxeram experiência em agricultura moderna, técnicas de mecanização e conhecimento de mercado, contribuindo para a modernização e expansão da fronteira agrícola no Cerrado goiano.',
+            dificuldade: 'Fácil',
+            competencia: 'Migração e modernização',
+            banca: 'IADES',
+            tags: ['migração', 'modernização'],
+          },
+        ],
+      },
+    },
   ],
 };
