@@ -1089,5 +1089,636 @@ Traduz nomes de domínio em endereços IP.
         ],
       },
     },
+    {
+      id: 'inf-topico-3',
+      numero: 3,
+      titulo: 'Principais aplicativos para edição de textos, planilhas eletrônicas, geração de material escrito e audiovisual',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Suítes de Escritório
+
+| Suíte | Desenvolvedor | Aplicativos |
+|-------|---------------|-------------|
+| **Microsoft Office** | Microsoft | Word, Excel, PowerPoint |
+| **LibreOffice** | The Document Foundation | Writer, Calc, Impress |
+| **Google Workspace** | Google | Docs, Sheets, Slides |
+
+### Principais Aplicativos
+
+| Função | Microsoft | LibreOffice | Google |
+|--------|-----------|-------------|--------|
+| **Texto** | Word | Writer | Docs |
+| **Planilha** | Excel | Calc | Sheets |
+| **Apresentação** | PowerPoint | Impress | Slides |
+
+### Extensões de Arquivo
+
+| Tipo | Microsoft | LibreOffice/Padrão |
+|------|-----------|-------------------|
+| Texto | .docx (.doc) | .odt |
+| Planilha | .xlsx (.xls) | .ods |
+| Apresentação | .pptx (.ppt) | .odp |
+| PDF | - | .pdf (universal) |
+
+### Para IADES:
+- LibreOffice = software LIVRE (gratuito e código aberto)
+- Google Workspace = trabalho COLABORATIVO em nuvem
+- Excel: fórmulas iniciam com = (igual)
+- PDF = formato UNIVERSAL de documento
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Suítes de Escritório
+
+**Suíte de escritório** é um conjunto de aplicativos para produtividade, incluindo editor de texto, planilha eletrônica e apresentações.
+
+#### 1.1 Microsoft Office
+
+A suíte mais popular no ambiente corporativo.
+
+| Aplicativo | Função | Extensão |
+|------------|--------|----------|
+| **Word** | Editor de textos | .docx |
+| **Excel** | Planilhas eletrônicas | .xlsx |
+| **PowerPoint** | Apresentações | .pptx |
+| **Outlook** | E-mail e calendário | - |
+| **Access** | Banco de dados | .accdb |
+
+**Características:**
+- Software proprietário (pago)
+- Versões: Desktop e Microsoft 365 (nuvem)
+- Padrão no mercado corporativo
+- Integração com Windows
+
+#### 1.2 LibreOffice
+
+Alternativa **gratuita e de código aberto** ao Microsoft Office.
+
+| Aplicativo | Equivalente MS | Extensão |
+|------------|----------------|----------|
+| **Writer** | Word | .odt |
+| **Calc** | Excel | .ods |
+| **Impress** | PowerPoint | .odp |
+| **Draw** | Visio (parcial) | .odg |
+| **Base** | Access | .odb |
+| **Math** | Editor de fórmulas | .odf |
+
+**Características:**
+- **Software livre** (gratuito e código aberto)
+- Desenvolvido pela The Document Foundation
+- Formato padrão: **ODF** (Open Document Format)
+- Compatível com formatos Microsoft
+- Multiplataforma (Windows, Linux, macOS)
+
+#### 1.3 Google Workspace (antigo G Suite)
+
+Ferramentas na **nuvem** para trabalho colaborativo.
+
+| Aplicativo | Função | Acesso |
+|------------|--------|--------|
+| **Google Docs** | Editor de textos | Navegador |
+| **Google Sheets** | Planilhas | Navegador |
+| **Google Slides** | Apresentações | Navegador |
+| **Google Drive** | Armazenamento em nuvem | Navegador |
+| **Google Forms** | Formulários | Navegador |
+
+**Características:**
+- Trabalho **colaborativo em tempo real**
+- Armazenamento na **nuvem**
+- Acesso de qualquer dispositivo
+- Salvamento automático
+- Histórico de versões
+
+### 2. Editor de Texto (Word/Writer/Docs)
+
+#### 2.1 Funções Principais
+
+| Função | Descrição |
+|--------|-----------|
+| **Formatação** | Fonte, tamanho, cor, negrito, itálico |
+| **Parágrafos** | Alinhamento, espaçamento, recuo |
+| **Inserção** | Imagens, tabelas, gráficos, links |
+| **Revisão** | Corretor ortográfico, controle de alterações |
+| **Referências** | Sumário, notas de rodapé, citações |
+
+#### 2.2 Atalhos Importantes (Word)
+
+| Atalho | Função |
+|--------|--------|
+| **Ctrl + N** | Negrito |
+| **Ctrl + I** | Itálico |
+| **Ctrl + S** | Sublinhado |
+| **Ctrl + B** | Salvar |
+| **Ctrl + P** | Imprimir |
+| **Ctrl + Z** | Desfazer |
+| **Ctrl + Y** | Refazer |
+| **Ctrl + C** | Copiar |
+| **Ctrl + V** | Colar |
+| **Ctrl + X** | Recortar |
+| **Ctrl + A** | Selecionar tudo |
+
+#### 2.3 Mala Direta
+
+Recurso para gerar documentos personalizados em massa (cartas, etiquetas, e-mails).
+
+**Componentes:**
+1. Documento principal (modelo)
+2. Fonte de dados (lista de destinatários)
+3. Campos de mesclagem
+
+### 3. Planilha Eletrônica (Excel/Calc/Sheets)
+
+#### 3.1 Conceitos Básicos
+
+| Termo | Definição |
+|-------|-----------|
+| **Célula** | Interseção de linha e coluna (ex: A1, B2) |
+| **Linha** | Horizontal, identificada por números (1, 2, 3...) |
+| **Coluna** | Vertical, identificada por letras (A, B, C...) |
+| **Planilha** | Conjunto de células (aba) |
+| **Pasta de trabalho** | Arquivo com planilhas (.xlsx) |
+
+#### 3.2 Fórmulas e Funções
+
+**As fórmulas SEMPRE começam com = (igual)**
+
+| Função | Sintaxe | Descrição |
+|--------|---------|-----------|
+| **SOMA** | =SOMA(A1:A10) | Soma valores |
+| **MÉDIA** | =MÉDIA(A1:A10) | Calcula média |
+| **MÁXIMO** | =MÁXIMO(A1:A10) | Maior valor |
+| **MÍNIMO** | =MÍNIMO(A1:A10) | Menor valor |
+| **CONT.SE** | =CONT.SE(A:A;"critério") | Conta se condição |
+| **SE** | =SE(A1>10;"Sim";"Não") | Condição |
+| **PROCV** | =PROCV(valor;tabela;coluna;0) | Procura vertical |
+| **PROCH** | =PROCH(valor;tabela;linha;0) | Procura horizontal |
+
+#### 3.3 Referências de Células
+
+| Tipo | Exemplo | Comportamento ao copiar |
+|------|---------|------------------------|
+| **Relativa** | A1 | Muda conforme posição |
+| **Absoluta** | $A$1 | Não muda (fixa) |
+| **Mista** | $A1 ou A$1 | Fixa coluna ou linha |
+
+**O símbolo $ "trava" a referência.**
+
+#### 3.4 Gráficos
+
+| Tipo | Uso |
+|------|-----|
+| **Colunas/Barras** | Comparação de valores |
+| **Linhas** | Tendências ao longo do tempo |
+| **Pizza** | Proporção do todo |
+| **Dispersão** | Correlação entre variáveis |
+
+### 4. Apresentações (PowerPoint/Impress/Slides)
+
+#### 4.1 Elementos
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Slide** | Cada "página" da apresentação |
+| **Layout** | Estrutura predefinida do slide |
+| **Tema** | Design visual aplicado |
+| **Transição** | Efeito entre slides |
+| **Animação** | Efeito em elementos do slide |
+
+#### 4.2 Modo de Exibição
+
+| Modo | Uso |
+|------|-----|
+| **Normal** | Edição |
+| **Classificação** | Organizar slides |
+| **Apresentação** | Exibir para público (F5) |
+| **Anotações** | Adicionar notas do apresentador |
+
+### 5. PDF (Portable Document Format)
+
+#### 5.1 Características
+
+- Formato **universal** de documento
+- Mantém formatação independente do dispositivo
+- Desenvolvido pela Adobe (hoje padrão ISO)
+- Pode ser protegido por senha
+- Ideal para documentos finais
+
+#### 5.2 Criação de PDF
+
+| Software | Como criar |
+|----------|------------|
+| **Word/Writer** | Salvar como PDF |
+| **Navegador** | Imprimir → PDF |
+| **Adobe Acrobat** | Criar/editar PDF |
+| **PDFCreator** | Impressora virtual |
+
+### 6. Ferramentas de Mídia
+
+#### 6.1 Edição de Imagens
+
+| Software | Tipo | Uso |
+|----------|------|-----|
+| **Paint** | Básico, Windows | Edições simples |
+| **GIMP** | Livre, avançado | Alternativa ao Photoshop |
+| **Photoshop** | Profissional | Edição avançada |
+| **Canva** | Online | Design gráfico simplificado |
+
+#### 6.2 Edição de Vídeo
+
+| Software | Tipo |
+|----------|------|
+| **Movie Maker** | Básico (descontinuado) |
+| **Clipchamp** | Windows 11 |
+| **DaVinci Resolve** | Profissional, gratuito |
+| **Premiere** | Profissional, pago |
+
+#### 6.3 Edição de Áudio
+
+| Software | Tipo |
+|----------|------|
+| **Audacity** | Livre, multiplataforma |
+| **Adobe Audition** | Profissional |
+
+### 7. Formatos de Arquivo
+
+#### 7.1 Documentos
+
+| Extensão | Tipo |
+|----------|------|
+| **.docx** | Word (novo) |
+| **.doc** | Word (antigo) |
+| **.odt** | Writer/OpenDocument |
+| **.pdf** | Documento portátil |
+| **.txt** | Texto puro |
+| **.rtf** | Texto formatado |
+
+#### 7.2 Planilhas
+
+| Extensão | Tipo |
+|----------|------|
+| **.xlsx** | Excel (novo) |
+| **.xls** | Excel (antigo) |
+| **.ods** | Calc/OpenDocument |
+| **.csv** | Valores separados por vírgula |
+
+#### 7.3 Apresentações
+
+| Extensão | Tipo |
+|----------|------|
+| **.pptx** | PowerPoint (novo) |
+| **.ppt** | PowerPoint (antigo) |
+| **.odp** | Impress/OpenDocument |
+
+#### 7.4 Imagens
+
+| Extensão | Tipo | Característica |
+|----------|------|----------------|
+| **.jpg/.jpeg** | Foto | Compressão com perda |
+| **.png** | Imagem | Suporta transparência |
+| **.gif** | Animação | Suporta animação |
+| **.bmp** | Bitmap | Sem compressão |
+| **.svg** | Vetor | Escalável |
+
+#### 7.5 Áudio e Vídeo
+
+| Extensão | Tipo |
+|----------|------|
+| **.mp3** | Áudio comprimido |
+| **.mp4** | Vídeo |
+| **.avi** | Vídeo (antigo) |
+| **.wav** | Áudio sem compressão |
+        `,
+
+        pontosChave: [
+          'Microsoft Office = suíte proprietária (Word, Excel, PowerPoint)',
+          'LibreOffice = suíte LIVRE e gratuita (Writer, Calc, Impress)',
+          'Google Workspace = nuvem, colaboração em TEMPO REAL',
+          'Fórmulas em planilhas SEMPRE começam com = (igual)',
+          'Referência absoluta usa $ para TRAVAR célula ($A$1)',
+          'SOMA, MÉDIA, SE, PROCV = funções mais cobradas em Excel',
+          'PDF = formato UNIVERSAL, mantém formatação em qualquer dispositivo',
+          'ODF = Open Document Format (padrão do LibreOffice)',
+          '.docx/.xlsx/.pptx = formatos novos do Microsoft Office',
+          'F5 = iniciar apresentação de slides no PowerPoint',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir LibreOffice com OpenOffice',
+            descricao: 'LibreOffice é a continuação do projeto OpenOffice.org. São diferentes, embora com origem comum.',
+            dica: 'LibreOffice = mais atualizado, mantido pela The Document Foundation.',
+          },
+          {
+            titulo: 'Esquecer o = nas fórmulas',
+            descricao: 'Toda fórmula em planilhas DEVE começar com = (igual). Sem ele, vira texto.',
+            dica: '=SOMA(A1:A10) ✓    SOMA(A1:A10) ✗',
+          },
+          {
+            titulo: 'Confundir referência absoluta com relativa',
+            descricao: 'Absoluta ($A$1) não muda ao copiar. Relativa (A1) muda conforme posição.',
+            dica: '$ = trava. $A$1 = coluna E linha travadas.',
+          },
+          {
+            titulo: 'Achar que Google Docs é offline',
+            descricao: 'Google Workspace funciona na NUVEM, requer internet. Há modo offline limitado.',
+            dica: 'Google = nuvem. Microsoft/LibreOffice = instalados localmente.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'WEC-WCI',
+            significado: 'Word-Excel-PowerPoint (MS) / Writer-Calc-Impress (Libre)',
+            frase: 'Microsoft WEC vs LibreOffice WCI',
+          },
+          {
+            termo: 'DOLAR-TRAVA',
+            significado: '$ trava a referência de célula no Excel',
+            frase: 'Dólar ($) trava a célula: $A$1',
+          },
+          {
+            termo: 'ODF-LIVRE',
+            significado: 'Open Document Format = formato do LibreOffice',
+            frase: 'ODF = formato LIVRE (odt, ods, odp)',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'inf-fc-3-1',
+            frente: 'Quais são os aplicativos equivalentes entre Microsoft Office e LibreOffice?',
+            verso: '**Microsoft Office ↔ LibreOffice:**\n\n- **Word** ↔ Writer\n- **Excel** ↔ Calc\n- **PowerPoint** ↔ Impress\n- **Access** ↔ Base\n\nLibreOffice é **LIVRE e GRATUITO**.',
+            tags: ['office', 'LibreOffice'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-3-2',
+            frente: 'Como as fórmulas devem começar em planilhas eletrônicas?',
+            verso: 'As fórmulas SEMPRE começam com **= (igual)**.\n\nExemplos:\n- =SOMA(A1:A10)\n- =MÉDIA(B1:B5)\n- =SE(A1>10;"Sim";"Não")\n\nSem o =, o Excel interpreta como TEXTO.',
+            tags: ['Excel', 'fórmulas'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-3-3',
+            frente: 'Qual a diferença entre referência ABSOLUTA e RELATIVA?',
+            verso: '**RELATIVA (A1):**\nMuda conforme a posição ao copiar.\n\n**ABSOLUTA ($A$1):**\nNão muda, fica travada.\n\n**MISTA ($A1 ou A$1):**\nTrava só coluna ou só linha.\n\nDica: **$ = TRAVA**',
+            tags: ['Excel', 'referência'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-3-4',
+            frente: 'Para que serve a função PROCV no Excel?',
+            verso: '**PROCV** = Procura Vertical\n\nSintaxe:\n=PROCV(valor_procurado; tabela; coluna_retorno; 0)\n\nProcura um valor na PRIMEIRA coluna e retorna um valor da coluna especificada.\n\nO 0 significa correspondência EXATA.',
+            tags: ['Excel', 'PROCV'],
+            dificuldade: 'dificil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-3-5',
+            frente: 'Quais são as extensões do Microsoft Office e LibreOffice?',
+            verso: '**Microsoft Office:**\n- .docx (Word)\n- .xlsx (Excel)\n- .pptx (PowerPoint)\n\n**LibreOffice/ODF:**\n- .odt (Writer)\n- .ods (Calc)\n- .odp (Impress)\n\nODF = Open Document Format',
+            tags: ['extensões', 'formatos'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-3-6',
+            frente: 'Qual a principal característica do Google Workspace?',
+            verso: '**Google Workspace:**\n\n- Trabalho na **NUVEM**\n- **Colaboração em TEMPO REAL**\n- Salvamento AUTOMÁTICO\n- Acesso de qualquer dispositivo\n- Requer Internet\n\nAplicativos: Docs, Sheets, Slides, Drive',
+            tags: ['Google', 'nuvem'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-3-7',
+            frente: 'O que é PDF e por que é usado?',
+            verso: '**PDF** = Portable Document Format\n\nCaracterísticas:\n- Formato **UNIVERSAL**\n- Mantém formatação em qualquer dispositivo\n- Ideal para documentos finais\n- Pode ter senha de proteção\n\nCriado pela Adobe, hoje é padrão ISO.',
+            tags: ['PDF', 'formato'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'inf-fc-3-8',
+            frente: 'Quais as funções mais usadas em planilhas?',
+            verso: '**Funções básicas:**\n- =SOMA(A1:A10) → soma valores\n- =MÉDIA(A1:A10) → média\n- =MÁXIMO(A1:A10) → maior\n- =MÍNIMO(A1:A10) → menor\n\n**Funções lógicas:**\n- =SE(condição;"sim";"não")\n- =CONT.SE(intervalo;"critério")',
+            tags: ['Excel', 'funções'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'inf-q-3-1',
+            enunciado: 'Assinale a alternativa que apresenta uma suíte de escritório de código aberto e gratuita:',
+            alternativas: [
+              { letra: 'A', texto: 'Microsoft Office' },
+              { letra: 'B', texto: 'Adobe Creative Suite' },
+              { letra: 'C', texto: 'LibreOffice' },
+              { letra: 'D', texto: 'Corel WordPerfect' },
+              { letra: 'E', texto: 'iWork' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O LibreOffice é uma suíte de escritório de CÓDIGO ABERTO e GRATUITA, mantida pela The Document Foundation. As demais são proprietárias (pagas).',
+            dificuldade: 'Fácil',
+            competencia: 'Suítes de escritório',
+            banca: 'IADES',
+            tags: ['LibreOffice', 'software livre'],
+          },
+          {
+            id: 'inf-q-3-2',
+            enunciado: 'No Microsoft Excel, para que uma fórmula seja reconhecida como tal, ela deve começar com:',
+            alternativas: [
+              { letra: 'A', texto: '+ (mais)' },
+              { letra: 'B', texto: '- (menos)' },
+              { letra: 'C', texto: '= (igual)' },
+              { letra: 'D', texto: '# (cerquilha)' },
+              { letra: 'E', texto: '@ (arroba)' },
+            ],
+            gabarito: 'C',
+            justificativa: 'No Excel (e em outras planilhas), toda fórmula DEVE começar com o sinal de = (igual). Sem ele, o conteúdo é interpretado como texto.',
+            dificuldade: 'Fácil',
+            competencia: 'Fórmulas em planilhas',
+            banca: 'IADES',
+            tags: ['Excel', 'fórmulas'],
+          },
+          {
+            id: 'inf-q-3-3',
+            enunciado: 'No Excel, a referência $A$1 é denominada:',
+            alternativas: [
+              { letra: 'A', texto: 'Referência relativa.' },
+              { letra: 'B', texto: 'Referência absoluta.' },
+              { letra: 'C', texto: 'Referência circular.' },
+              { letra: 'D', texto: 'Referência externa.' },
+              { letra: 'E', texto: 'Referência nominal.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A referência $A$1 é ABSOLUTA, pois o $ (cifrão) "trava" a referência. Ao copiar a fórmula, a célula referenciada NÃO muda. Referência relativa (A1) muda conforme posição.',
+            dificuldade: 'Fácil',
+            competencia: 'Referências em planilhas',
+            banca: 'IADES',
+            tags: ['Excel', 'referência absoluta'],
+          },
+          {
+            id: 'inf-q-3-4',
+            enunciado: 'No contexto das suítes de escritório, o aplicativo equivalente ao Microsoft Word no LibreOffice é:',
+            alternativas: [
+              { letra: 'A', texto: 'Calc' },
+              { letra: 'B', texto: 'Impress' },
+              { letra: 'C', texto: 'Writer' },
+              { letra: 'D', texto: 'Draw' },
+              { letra: 'E', texto: 'Base' },
+            ],
+            gabarito: 'C',
+            justificativa: 'No LibreOffice, o WRITER é o editor de textos, equivalente ao Microsoft Word. Calc = Excel, Impress = PowerPoint, Base = Access.',
+            dificuldade: 'Fácil',
+            competencia: 'Aplicativos equivalentes',
+            banca: 'IADES',
+            tags: ['LibreOffice', 'Writer'],
+          },
+          {
+            id: 'inf-q-3-5',
+            enunciado: 'A principal característica do Google Workspace (antigo G Suite) que o diferencia das suítes instaladas localmente é:',
+            alternativas: [
+              { letra: 'A', texto: 'Funcionar apenas offline.' },
+              { letra: 'B', texto: 'Permitir trabalho colaborativo em tempo real na nuvem.' },
+              { letra: 'C', texto: 'Ser incompatível com formatos do Microsoft Office.' },
+              { letra: 'D', texto: 'Não possuir editor de planilhas.' },
+              { letra: 'E', texto: 'Exigir instalação local no computador.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O Google Workspace permite trabalho COLABORATIVO em TEMPO REAL na NUVEM. Múltiplos usuários podem editar o mesmo documento simultaneamente.',
+            dificuldade: 'Fácil',
+            competencia: 'Google Workspace',
+            banca: 'IADES',
+            tags: ['Google', 'colaboração'],
+          },
+          {
+            id: 'inf-q-3-6',
+            enunciado: 'A função do Excel que soma valores em um intervalo de células é:',
+            alternativas: [
+              { letra: 'A', texto: '=MÉDIA(A1:A10)' },
+              { letra: 'B', texto: '=SOMA(A1:A10)' },
+              { letra: 'C', texto: '=CONT.VALORES(A1:A10)' },
+              { letra: 'D', texto: '=MÁXIMO(A1:A10)' },
+              { letra: 'E', texto: '=MULT(A1:A10)' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A função SOMA calcula a soma dos valores no intervalo especificado. MÉDIA calcula a média, MÁXIMO retorna o maior valor, CONT.VALORES conta células não vazias.',
+            dificuldade: 'Fácil',
+            competencia: 'Função SOMA',
+            banca: 'IADES',
+            tags: ['Excel', 'SOMA'],
+          },
+          {
+            id: 'inf-q-3-7',
+            enunciado: 'O formato de arquivo que preserva a formatação do documento e pode ser visualizado em praticamente qualquer dispositivo é o:',
+            alternativas: [
+              { letra: 'A', texto: '.docx' },
+              { letra: 'B', texto: '.txt' },
+              { letra: 'C', texto: '.pdf' },
+              { letra: 'D', texto: '.odt' },
+              { letra: 'E', texto: '.rtf' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O PDF (Portable Document Format) é o formato UNIVERSAL que preserva a formatação em qualquer dispositivo, sendo ideal para documentos finais.',
+            dificuldade: 'Fácil',
+            competencia: 'Formato PDF',
+            banca: 'IADES',
+            tags: ['PDF', 'formato'],
+          },
+          {
+            id: 'inf-q-3-8',
+            enunciado: 'No PowerPoint, para iniciar uma apresentação de slides a partir do primeiro slide, utiliza-se a tecla:',
+            alternativas: [
+              { letra: 'A', texto: 'F1' },
+              { letra: 'B', texto: 'F3' },
+              { letra: 'C', texto: 'F5' },
+              { letra: 'D', texto: 'F7' },
+              { letra: 'E', texto: 'F12' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A tecla F5 inicia a apresentação de slides do início no PowerPoint. Shift+F5 inicia a partir do slide atual.',
+            dificuldade: 'Fácil',
+            competencia: 'Atalhos PowerPoint',
+            banca: 'IADES',
+            tags: ['PowerPoint', 'atalhos'],
+          },
+          {
+            id: 'inf-q-3-9',
+            enunciado: 'A função PROCV no Excel é utilizada para:',
+            alternativas: [
+              { letra: 'A', texto: 'Somar valores de acordo com uma condição.' },
+              { letra: 'B', texto: 'Procurar um valor na primeira coluna de uma tabela e retornar um valor correspondente.' },
+              { letra: 'C', texto: 'Contar células que contêm números.' },
+              { letra: 'D', texto: 'Calcular a média de valores numéricos.' },
+              { letra: 'E', texto: 'Concatenar textos de várias células.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A função PROCV (Procura Vertical) busca um valor na PRIMEIRA coluna de uma tabela e retorna um valor da coluna especificada na mesma linha.',
+            dificuldade: 'Média',
+            competencia: 'Função PROCV',
+            banca: 'IADES',
+            tags: ['Excel', 'PROCV'],
+          },
+          {
+            id: 'inf-q-3-10',
+            enunciado: 'As extensões .odt, .ods e .odp são formatos nativos de qual suíte de escritório?',
+            alternativas: [
+              { letra: 'A', texto: 'Microsoft Office' },
+              { letra: 'B', texto: 'LibreOffice' },
+              { letra: 'C', texto: 'Google Docs' },
+              { letra: 'D', texto: 'Apple iWork' },
+              { letra: 'E', texto: 'Corel WordPerfect' },
+            ],
+            gabarito: 'B',
+            justificativa: 'As extensões .odt (texto), .ods (planilha) e .odp (apresentação) são do formato ODF (Open Document Format), nativo do LibreOffice. Microsoft usa .docx, .xlsx, .pptx.',
+            dificuldade: 'Fácil',
+            competencia: 'Formatos de arquivo',
+            banca: 'IADES',
+            tags: ['LibreOffice', 'ODF'],
+          },
+        ],
+      },
+    },
   ],
 };

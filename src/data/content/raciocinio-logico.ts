@@ -1061,5 +1061,618 @@ Quando podem ocorrer juntos.
         ],
       },
     },
+    {
+      id: 'rl-topico-3',
+      numero: 3,
+      titulo: 'Arranjos e permutações',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Fórmulas Principais
+
+| Tipo | Fórmula | Quando usar |
+|------|---------|-------------|
+| **Permutação simples** | P(n) = n! | Ordenar TODOS os n elementos |
+| **Permutação com repetição** | P(n; a,b,...) = n!/(a!·b!·...) | Elementos repetidos |
+| **Permutação circular** | PC(n) = (n-1)! | Dispor em círculo |
+| **Arranjo** | A(n,p) = n!/(n-p)! | Escolher p de n, ORDEM importa |
+
+### Quando usar cada fórmula
+
+| Situação | Fórmula | Exemplo |
+|----------|---------|---------|
+| **Fila com todos** | Permutação P(n) | 5 pessoas em fila |
+| **Senha de 4 dígitos** | Arranjo A(10,4) | 4 dígitos de 0-9 |
+| **Anagrama com letras iguais** | Perm. repetição | BANANA |
+| **Mesa redonda** | Perm. circular | 6 pessoas em roda |
+| **Cargos diferentes** | Arranjo | Presidente, vice, secretário |
+
+### Para IADES:
+- Permutação = usa TODOS os elementos
+- Arranjo = usa ALGUNS elementos, ordem IMPORTA
+- Circular = fixa UM elemento, permuta os outros
+- Repetição = divide pelo fatorial das repetições
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Revisão do Fatorial
+
+O **fatorial** de n (n!) é o produto de todos os inteiros positivos de 1 até n.
+
+**Fórmula:**
+> n! = n × (n-1) × (n-2) × ... × 2 × 1
+
+**Valores importantes (decorar!):**
+
+| n | n! |
+|---|-----|
+| 0 | 1 (definição) |
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 6 |
+| 4 | 24 |
+| 5 | 120 |
+| 6 | 720 |
+| 7 | 5.040 |
+| 8 | 40.320 |
+| 9 | 362.880 |
+| 10 | 3.628.800 |
+
+**Propriedade útil:**
+> n! = n × (n-1)!
+
+### 2. Permutação Simples
+
+#### 2.1 Conceito
+
+**Permutação simples** é o número de maneiras de ordenar **todos** os n elementos de um conjunto.
+
+**Fórmula:**
+> P(n) = n!
+
+#### 2.2 Quando usar
+
+- Ordenar TODOS os elementos
+- A ordem IMPORTA
+- Elementos distintos
+
+#### 2.3 Exemplos
+
+**Exemplo 1: Fila**
+> De quantas maneiras 5 fiscais podem formar uma fila?
+> P(5) = 5! = 120 maneiras
+
+**Exemplo 2: Livros na estante**
+> De quantas formas 4 livros diferentes podem ser organizados em uma prateleira?
+> P(4) = 4! = 24 formas
+
+**Exemplo 3: Ordem de apresentação**
+> Em quantas ordens diferentes 6 candidatos podem se apresentar em uma entrevista?
+> P(6) = 6! = 720 ordens
+
+### 3. Permutação com Repetição
+
+#### 3.1 Conceito
+
+Usada quando há elementos **repetidos** no conjunto.
+
+**Fórmula:**
+> P(n; a, b, c, ...) = n! / (a! × b! × c! × ...)
+
+Onde:
+- n = total de elementos
+- a, b, c = quantidades de cada elemento repetido
+
+#### 3.2 Exemplos
+
+**Exemplo 1: Anagramas de BANANA**
+> Letras: B(1), A(3), N(2) → total = 6 letras
+> P(6; 3, 2) = 6! / (3! × 2!) = 720 / (6 × 2) = 720/12 = **60 anagramas**
+
+**Exemplo 2: Anagramas de MISSISSIPPI**
+> Letras: M(1), I(4), S(4), P(2) → total = 11 letras
+> P(11; 4, 4, 2) = 11! / (4! × 4! × 2!)
+> = 39.916.800 / (24 × 24 × 2)
+> = 39.916.800 / 1.152 = **34.650 anagramas**
+
+**Exemplo 3: Anagramas de FISCAL**
+> Todas as letras são diferentes → total = 6 letras
+> P(6) = 6! = **720 anagramas**
+
+### 4. Permutação Circular
+
+#### 4.1 Conceito
+
+Usada quando os elementos são dispostos em **círculo** (mesa redonda, roda).
+
+**Fórmula:**
+> PC(n) = (n-1)!
+
+**Por que (n-1)?**
+> Em um círculo, não há "primeiro" da fila. Fixamos um elemento e permutamos os outros.
+
+#### 4.2 Exemplos
+
+**Exemplo 1: Mesa redonda**
+> De quantas maneiras 6 pessoas podem sentar-se em uma mesa redonda?
+> PC(6) = (6-1)! = 5! = **120 maneiras**
+
+**Exemplo 2: Roda de conversa**
+> De quantas formas 5 fiscais podem se dispor em uma roda?
+> PC(5) = (5-1)! = 4! = **24 formas**
+
+**Exemplo 3: Colar de pérolas**
+> ⚠️ Se o colar pode ser virado (frente/verso), divide por 2:
+> PC(n)/2 = (n-1)!/2
+
+### 5. Arranjo Simples
+
+#### 5.1 Conceito
+
+**Arranjo** é o número de maneiras de escolher p elementos de um conjunto de n elementos, onde a **ordem importa**.
+
+**Fórmula:**
+> A(n,p) = n! / (n-p)!
+
+Ou calculando diretamente:
+> A(n,p) = n × (n-1) × (n-2) × ... × (n-p+1)  [p fatores]
+
+#### 5.2 Quando usar
+
+- Escolher ALGUNS elementos (p de n)
+- A ORDEM importa
+- Cargos diferentes, posições diferentes, senhas
+
+#### 5.3 Exemplos
+
+**Exemplo 1: Cargos**
+> De 10 fiscais, de quantas formas podemos escolher presidente, vice e secretário?
+> A(10,3) = 10! / 7! = 10 × 9 × 8 = **720 formas**
+
+**Exemplo 2: Senha numérica**
+> Quantas senhas de 4 dígitos distintos podem ser formadas (0-9)?
+> A(10,4) = 10! / 6! = 10 × 9 × 8 × 7 = **5.040 senhas**
+
+**Exemplo 3: Pódio de corrida**
+> De 8 corredores, de quantas formas pode ser o pódio (1º, 2º, 3º)?
+> A(8,3) = 8! / 5! = 8 × 7 × 6 = **336 formas**
+
+### 6. Permutação vs. Arranjo
+
+| Aspecto | Permutação | Arranjo |
+|---------|-----------|---------|
+| **Elementos usados** | TODOS (n) | ALGUNS (p de n) |
+| **Ordem** | IMPORTA | IMPORTA |
+| **Fórmula** | P(n) = n! | A(n,p) = n!/(n-p)! |
+| **Relação** | P(n) = A(n,n) | - |
+
+**Quando a permutação é um caso particular do arranjo:**
+> P(n) = A(n,n) = n!/0! = n!/1 = n!
+
+### 7. Problemas com Restrições
+
+#### 7.1 Elementos juntos (agrupamento)
+
+**Técnica:** Trate os elementos que devem ficar juntos como UM só, depois permute internamente.
+
+**Exemplo:**
+> 5 pessoas em fila, 2 devem ficar juntas.
+> Considere as 2 como uma unidade: 4 "elementos"
+> Permuta externa: P(4) = 24
+> Permuta interna das 2: P(2) = 2
+> Total: 24 × 2 = **48 maneiras**
+
+#### 7.2 Elementos separados (complemento)
+
+**Técnica:** Total - casos em que estão juntos.
+
+**Exemplo:**
+> 5 pessoas em fila, 2 NÃO podem ficar juntas.
+> Total: P(5) = 120
+> Juntas: 48 (calculado acima)
+> Separadas: 120 - 48 = **72 maneiras**
+
+#### 7.3 Posição fixa
+
+**Técnica:** Fixe o elemento, permute os outros.
+
+**Exemplo:**
+> 5 pessoas em fila, o fiscal deve ser o primeiro.
+> Fiscal fixo: 1 posição
+> Outros 4: P(4) = 24
+> Total: 1 × 24 = **24 maneiras**
+
+### 8. Problemas Comuns IADES
+
+#### 8.1 Anagramas que começam com vogal
+
+**Exemplo:**
+> Quantos anagramas de "FISCAL" começam com vogal?
+> Vogais em FISCAL: I, A (2 vogais)
+> Para cada vogal na 1ª posição, permutamos as 5 restantes:
+> 2 × P(5) = 2 × 120 = **240 anagramas**
+
+#### 8.2 Senhas com restrições
+
+**Exemplo:**
+> Senhas de 4 dígitos que começam com número par (2,4,6,8)?
+> 1ª posição: 4 opções (2,4,6,8)
+> Outras 3 posições: A(9,3) = 504 (não repete)
+> Total: 4 × 504 = **2.016 senhas**
+
+#### 8.3 Comissão vs. Cargos
+
+| Situação | Fórmula | Motivo |
+|----------|---------|--------|
+| **Comissão de 3** | C(n,3) | Ordem NÃO importa |
+| **Presidente, vice, secretário** | A(n,3) | Ordem IMPORTA |
+
+### 9. Resumo das Fórmulas
+
+| Tipo | Fórmula | Quando usar |
+|------|---------|-------------|
+| **P(n)** | n! | Ordenar todos, distintos |
+| **P(n; a,b,...)** | n!/(a!×b!×...) | Ordenar todos, repetidos |
+| **PC(n)** | (n-1)! | Circular |
+| **A(n,p)** | n!/(n-p)! | Alguns, ordem importa |
+| **C(n,p)** | n!/[p!×(n-p)!] | Alguns, ordem NÃO importa |
+
+### 10. Macetes de Resolução
+
+1. **Pergunta se a ordem importa?**
+   - SIM → Arranjo ou Permutação
+   - NÃO → Combinação
+
+2. **Usa todos os elementos?**
+   - SIM → Permutação
+   - NÃO → Arranjo
+
+3. **Há elementos repetidos?**
+   - SIM → Permutação com repetição
+
+4. **É disposição em círculo?**
+   - SIM → Permutação circular
+
+5. **Há restrições?**
+   - Juntos → Agrupa
+   - Separados → Total - Juntos
+   - Posição fixa → Fixa e permuta o resto
+        `,
+
+        pontosChave: [
+          'Permutação simples: P(n) = n! → ordenar TODOS os n elementos distintos',
+          'Permutação com repetição: P(n; a,b,...) = n!/(a!×b!×...) → elementos repetidos',
+          'Permutação circular: PC(n) = (n-1)! → disposição em círculo/roda',
+          'Arranjo: A(n,p) = n!/(n-p)! → escolher p de n, ORDEM importa',
+          'Diferença: Permutação usa TODOS; Arranjo usa ALGUNS',
+          'Juntos: agrupa como 1, depois permuta internamente',
+          'Separados: Total - Juntos (princípio do complemento)',
+          '0! = 1 (por definição)',
+          'Cargos diferentes = Arranjo; Comissão/equipe = Combinação',
+          'Senhas distintas = Arranjo; Senhas com repetição = potência',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir permutação com arranjo',
+            descricao: 'Permutação usa TODOS os elementos. Arranjo usa ALGUNS.',
+            dica: 'Permutação = P = Perfeito, usa tudo. Arranjo = Alguns.',
+          },
+          {
+            titulo: 'Esquecer de dividir na repetição',
+            descricao: 'Anagramas de palavras com letras repetidas precisam dividir pelos fatoriais das repetições.',
+            dica: 'BANANA: divide por 3! (três As) e 2! (dois Ns).',
+          },
+          {
+            titulo: 'Errar permutação circular',
+            descricao: 'Em círculo usa (n-1)!, não n!.',
+            dica: 'Círculo não tem "primeiro" → fixa um, permuta (n-1) restantes.',
+          },
+          {
+            titulo: 'Não identificar se ordem importa',
+            descricao: 'Cargos = ordem importa (arranjo). Equipe = ordem não importa (combinação).',
+            dica: 'Presidente-Vice ≠ Vice-Presidente? Se sim, é arranjo.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'PA-CO',
+            significado: 'Permutação/Arranjo = Ordem importa, COmbinação = Ordem não importa',
+            frase: 'PA = ordem importa, CO = ordem não importa',
+          },
+          {
+            termo: 'CIR-M1',
+            significado: 'CIRcular = Menos 1 no fatorial',
+            frase: 'Circular = (n-1)!, menos um no fatorial',
+          },
+          {
+            termo: 'REP-DIV',
+            significado: 'REPetição = DIVide pelo fatorial da repetição',
+            frase: 'Letra repete? Divide pelo fatorial dela!',
+          },
+          {
+            termo: 'JAS',
+            significado: 'Juntos = Agrupa; Separados = Total - Juntos',
+            frase: 'Juntos Agrupa, Separados subtrai',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'rl-fc-3-1',
+            frente: 'Qual a fórmula da PERMUTAÇÃO SIMPLES?',
+            verso: '**P(n) = n!**\n\nUsa-se quando:\n- Ordenamos TODOS os n elementos\n- Elementos são DISTINTOS\n- A ordem IMPORTA\n\nExemplo: P(5) = 5! = 120',
+            tags: ['permutação', 'fórmula'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-3-2',
+            frente: 'Qual a fórmula do ARRANJO?',
+            verso: '**A(n,p) = n! / (n-p)!**\n\nOu: n × (n-1) × ... [p fatores]\n\nUsa-se quando:\n- Escolhemos p de n elementos\n- A ordem IMPORTA\n\nExemplo: A(10,3) = 10×9×8 = 720',
+            tags: ['arranjo', 'fórmula'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-3-3',
+            frente: 'Qual a fórmula da PERMUTAÇÃO COM REPETIÇÃO?',
+            verso: '**P(n; a, b, c, ...) = n! / (a! × b! × c! × ...)**\n\nUsa-se quando há elementos repetidos.\n\nExemplo: BANANA\nP(6; 3, 2) = 6!/(3!×2!) = 720/12 = 60',
+            tags: ['permutação', 'repetição'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-3-4',
+            frente: 'Qual a fórmula da PERMUTAÇÃO CIRCULAR?',
+            verso: '**PC(n) = (n-1)!**\n\nUsa-se para disposição em círculo/roda/mesa redonda.\n\nPor quê (n-1)?\n→ No círculo não há "primeiro"\n→ Fixamos um, permutamos os outros\n\nExemplo: PC(6) = 5! = 120',
+            tags: ['permutação', 'circular'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-3-5',
+            frente: 'Qual a diferença entre PERMUTAÇÃO e ARRANJO?',
+            verso: '**PERMUTAÇÃO:**\n- Usa TODOS os elementos\n- P(n) = n!\n\n**ARRANJO:**\n- Usa ALGUNS elementos (p de n)\n- A(n,p) = n!/(n-p)!\n\nAmbos: a ORDEM importa!\n\nRelação: P(n) = A(n,n)',
+            tags: ['permutação', 'arranjo', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-3-6',
+            frente: 'Como resolver problemas com elementos que devem ficar JUNTOS?',
+            verso: '**Técnica: Agrupar**\n\n1. Considere os elementos juntos como UMA unidade\n2. Permute as "unidades"\n3. Multiplique pela permutação INTERNA do grupo\n\nExemplo: 5 pessoas, 2 juntas\n→ 4 unidades: P(4) = 24\n→ Internas: P(2) = 2\n→ Total: 24 × 2 = 48',
+            tags: ['restrições', 'juntos'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-3-7',
+            frente: 'Como resolver problemas com elementos SEPARADOS?',
+            verso: '**Técnica: Complemento**\n\n1. Calcule o TOTAL (sem restrição)\n2. Calcule quando estão JUNTOS\n3. Subtraia: Total - Juntos = Separados\n\nExemplo: 5 pessoas, 2 separadas\n→ Total: P(5) = 120\n→ Juntas: 48\n→ Separadas: 120 - 48 = 72',
+            tags: ['restrições', 'separados'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-3-8',
+            frente: 'Quando usar ARRANJO e quando usar COMBINAÇÃO?',
+            verso: '**ARRANJO** (ordem importa):\n- Cargos: presidente ≠ vice\n- Senhas com dígitos distintos\n- Pódio de corrida\n\n**COMBINAÇÃO** (ordem NÃO importa):\n- Comissões\n- Equipes\n- Grupos de trabalho\n\nPergunta: trocar a ordem muda o resultado?',
+            tags: ['arranjo', 'combinação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'rl-q-3-1',
+            enunciado: 'De quantas maneiras 6 fiscais podem formar uma fila única?',
+            alternativas: [
+              { letra: 'A', texto: '6' },
+              { letra: 'B', texto: '36' },
+              { letra: 'C', texto: '120' },
+              { letra: 'D', texto: '720' },
+              { letra: 'E', texto: '5.040' },
+            ],
+            gabarito: 'D',
+            justificativa: 'É uma PERMUTAÇÃO simples (ordenar todos). P(6) = 6! = 6 × 5 × 4 × 3 × 2 × 1 = 720 maneiras.',
+            dificuldade: 'Fácil',
+            competencia: 'Permutação simples',
+            banca: 'IADES',
+            tags: ['permutação', 'fatorial'],
+          },
+          {
+            id: 'rl-q-3-2',
+            enunciado: 'Quantos anagramas podem ser formados com a palavra "SAÚDE"?',
+            alternativas: [
+              { letra: 'A', texto: '24' },
+              { letra: 'B', texto: '60' },
+              { letra: 'C', texto: '120' },
+              { letra: 'D', texto: '720' },
+              { letra: 'E', texto: '5' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A palavra SAÚDE tem 5 letras DISTINTAS. É uma permutação simples: P(5) = 5! = 120 anagramas.',
+            dificuldade: 'Fácil',
+            competencia: 'Permutação simples',
+            banca: 'IADES',
+            tags: ['permutação', 'anagramas'],
+          },
+          {
+            id: 'rl-q-3-3',
+            enunciado: 'Quantos anagramas podem ser formados com a palavra "ASSESSOR"?',
+            alternativas: [
+              { letra: 'A', texto: '40.320' },
+              { letra: 'B', texto: '3.360' },
+              { letra: 'C', texto: '1.680' },
+              { letra: 'D', texto: '840' },
+              { letra: 'E', texto: '420' },
+            ],
+            gabarito: 'B',
+            justificativa: 'ASSESSOR: A(1), S(4), E(1), O(1), R(1) = 8 letras.\nP(8; 4) = 8!/4! = 40.320/24 = 3.360 anagramas.',
+            dificuldade: 'Média',
+            competencia: 'Permutação com repetição',
+            banca: 'IADES',
+            tags: ['permutação', 'repetição'],
+          },
+          {
+            id: 'rl-q-3-4',
+            enunciado: 'De quantas maneiras 5 pessoas podem sentar-se em uma mesa redonda?',
+            alternativas: [
+              { letra: 'A', texto: '5' },
+              { letra: 'B', texto: '24' },
+              { letra: 'C', texto: '120' },
+              { letra: 'D', texto: '60' },
+              { letra: 'E', texto: '20' },
+            ],
+            gabarito: 'B',
+            justificativa: 'É uma PERMUTAÇÃO CIRCULAR. PC(5) = (5-1)! = 4! = 24 maneiras.',
+            dificuldade: 'Média',
+            competencia: 'Permutação circular',
+            banca: 'IADES',
+            tags: ['permutação', 'circular'],
+          },
+          {
+            id: 'rl-q-3-5',
+            enunciado: 'De um grupo de 8 candidatos, de quantas formas podemos escolher o 1º, 2º e 3º colocados?',
+            alternativas: [
+              { letra: 'A', texto: '56' },
+              { letra: 'B', texto: '168' },
+              { letra: 'C', texto: '336' },
+              { letra: 'D', texto: '512' },
+              { letra: 'E', texto: '504' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A ORDEM importa (1º ≠ 2º ≠ 3º), então usamos ARRANJO. A(8,3) = 8!/5! = 8 × 7 × 6 = 336 formas.',
+            dificuldade: 'Média',
+            competencia: 'Arranjo',
+            banca: 'IADES',
+            tags: ['arranjo'],
+          },
+          {
+            id: 'rl-q-3-6',
+            enunciado: 'Quantas senhas de 4 dígitos distintos podem ser formadas usando algarismos de 0 a 9?',
+            alternativas: [
+              { letra: 'A', texto: '210' },
+              { letra: 'B', texto: '5.040' },
+              { letra: 'C', texto: '10.000' },
+              { letra: 'D', texto: '3.024' },
+              { letra: 'E', texto: '2.520' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Dígitos distintos → ordem importa → ARRANJO. A(10,4) = 10!/6! = 10 × 9 × 8 × 7 = 5.040 senhas.',
+            dificuldade: 'Média',
+            competencia: 'Arranjo',
+            banca: 'IADES',
+            tags: ['arranjo', 'senhas'],
+          },
+          {
+            id: 'rl-q-3-7',
+            enunciado: 'Em uma fila de 5 pessoas, de quantas maneiras elas podem se organizar se João e Maria devem ficar juntos?',
+            alternativas: [
+              { letra: 'A', texto: '120' },
+              { letra: 'B', texto: '48' },
+              { letra: 'C', texto: '24' },
+              { letra: 'D', texto: '72' },
+              { letra: 'E', texto: '60' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Juntos = agrupa. Considere João-Maria como 1 unidade: 4 "elementos". P(4) = 24. Permutação interna: P(2) = 2. Total: 24 × 2 = 48.',
+            dificuldade: 'Média',
+            competencia: 'Permutação com restrição',
+            banca: 'IADES',
+            tags: ['permutação', 'restrição', 'juntos'],
+          },
+          {
+            id: 'rl-q-3-8',
+            enunciado: 'Em uma fila de 5 pessoas, de quantas maneiras elas podem se organizar se João e Maria NÃO podem ficar juntos?',
+            alternativas: [
+              { letra: 'A', texto: '72' },
+              { letra: 'B', texto: '48' },
+              { letra: 'C', texto: '96' },
+              { letra: 'D', texto: '60' },
+              { letra: 'E', texto: '84' },
+            ],
+            gabarito: 'A',
+            justificativa: 'Separados = Total - Juntos. Total: P(5) = 120. Juntos: 48 (questão anterior). Separados: 120 - 48 = 72.',
+            dificuldade: 'Média',
+            competencia: 'Permutação com restrição',
+            banca: 'IADES',
+            tags: ['permutação', 'restrição', 'separados'],
+          },
+          {
+            id: 'rl-q-3-9',
+            enunciado: 'Quantos anagramas da palavra "PROVA" começam com vogal?',
+            alternativas: [
+              { letra: 'A', texto: '24' },
+              { letra: 'B', texto: '48' },
+              { letra: 'C', texto: '60' },
+              { letra: 'D', texto: '12' },
+              { letra: 'E', texto: '120' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Vogais em PROVA: O, A (2 vogais). Para cada vogal no início, permutamos as 4 letras restantes: 2 × P(4) = 2 × 24 = 48 anagramas.',
+            dificuldade: 'Média',
+            competencia: 'Permutação com restrição',
+            banca: 'IADES',
+            tags: ['permutação', 'vogais'],
+          },
+          {
+            id: 'rl-q-3-10',
+            enunciado: 'De um grupo de 10 fiscais, de quantas formas diferentes podemos formar uma equipe de fiscalização com coordenador, fiscal líder e fiscal auxiliar?',
+            alternativas: [
+              { letra: 'A', texto: '120' },
+              { letra: 'B', texto: '720' },
+              { letra: 'C', texto: '1.000' },
+              { letra: 'D', texto: '90' },
+              { letra: 'E', texto: '30' },
+            ],
+            gabarito: 'B',
+            justificativa: 'São cargos diferentes, então a ORDEM importa → ARRANJO. A(10,3) = 10!/7! = 10 × 9 × 8 = 720 formas.',
+            dificuldade: 'Fácil',
+            competencia: 'Arranjo',
+            banca: 'IADES',
+            tags: ['arranjo', 'cargos'],
+          },
+        ],
+      },
+    },
   ],
 };

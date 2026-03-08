@@ -493,10 +493,12 @@ O **domínio da ortografia oficial** é fundamental para concursos. A banca IADE
 | Mudança | Antes | Depois |
 |---------|-------|--------|
 | Trema | freqüente, lingüiça | frequente, linguiça |
-| Hífen (prefixo + vogal igual) | auto-observação | autoobservação |
-| Hífen (prefixo + r/s) | anti-religioso | antirreligioso |
+| Hífen (prefixo + vogal diferente) | auto-escola, auto-estrada | autoescola, autoestrada |
+| Hífen (prefixo + r/s) | anti-religioso, auto-retrato | antirreligioso, autorretrato |
 | Acentos diferenciais | pára, pêlo, pólo | para, pelo, polo |
 | Ditongos abertos (paroxítonas) | idéia, assembléia | ideia, assembleia |
+
+**⚠️ MANTÉM hífen (vogais iguais):** anti-inflamatório, micro-ondas, auto-observação, contra-ataque
 
 ### Regras de Acentuação (Válidas!)
 
@@ -980,6 +982,564 @@ Acentuam-se os monossílabos tônicos terminados em:
             competencia: 'Ortografia aplicada',
             banca: 'IADES',
             tags: ['ortografia', 'vigilância sanitária'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'lp-topico-3',
+      numero: 3,
+      titulo: 'Reconhecimento de tipos e gêneros textuais',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Tipos Textuais vs. Gêneros Textuais
+
+| Conceito | Definição | Exemplos |
+|----------|-----------|----------|
+| **Tipo textual** | Estrutura linguística | Narrativo, descritivo, argumentativo, expositivo, injuntivo |
+| **Gênero textual** | Forma concreta de texto | Crônica, editorial, lei, receita, notícia |
+
+### Os 5 Tipos Textuais
+
+| Tipo | Função | Características |
+|------|--------|-----------------|
+| **Narrativo** | Contar fatos | Tempo, espaço, personagens, enredo |
+| **Descritivo** | Caracterizar | Adjetivos, detalhamento, imagem |
+| **Argumentativo** | Convencer | Tese, argumentos, conclusão |
+| **Expositivo** | Informar/explicar | Objetividade, clareza |
+| **Injuntivo** | Instruir/ordenar | Verbos no imperativo, passos |
+
+### Gêneros Textuais Importantes para Concursos
+
+| Gênero | Tipo predominante | Contexto |
+|--------|-------------------|----------|
+| Editorial | Argumentativo | Jornalismo |
+| Notícia | Narrativo/expositivo | Jornalismo |
+| Lei/Norma | Injuntivo | Jurídico |
+| Relatório | Expositivo | Técnico/administrativo |
+| Crônica | Narrativo | Literatura |
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Diferença entre Tipo e Gênero Textual
+
+#### 1.1 Tipo Textual
+
+**Tipo textual** é uma classificação baseada na **estrutura linguística** e na **intenção comunicativa**. São apenas **cinco tipos**:
+
+1. Narrativo
+2. Descritivo
+3. Argumentativo (ou dissertativo-argumentativo)
+4. Expositivo (ou dissertativo-expositivo)
+5. Injuntivo (ou instrucional)
+
+#### 1.2 Gênero Textual
+
+**Gênero textual** é a forma **concreta** como os textos se manifestam na sociedade. São **inúmeros** e surgem das práticas sociais.
+
+**Exemplos:** carta, e-mail, notícia, editorial, lei, receita, romance, crônica, relatório, ata, memorando, edital.
+
+#### 1.3 Quadro Comparativo
+
+| Aspecto | Tipo Textual | Gênero Textual |
+|---------|--------------|----------------|
+| **Quantidade** | 5 tipos fixos | Inúmeros (infinitos) |
+| **Base** | Estrutura linguística | Prática social |
+| **Natureza** | Abstrata | Concreta |
+| **Exemplo** | Narrativo | Romance, conto, fábula |
+
+### 2. Os Cinco Tipos Textuais
+
+#### 2.1 Tipo NARRATIVO
+
+**Função:** Contar fatos, relatar acontecimentos.
+
+**Elementos da narrativa:**
+- **Narrador:** quem conta (1ª ou 3ª pessoa)
+- **Personagens:** quem participa
+- **Tempo:** quando ocorre (cronológico ou psicológico)
+- **Espaço:** onde ocorre
+- **Enredo:** sequência de fatos (início, conflito, clímax, desfecho)
+
+**Marcas linguísticas:**
+- Verbos de ação no passado (pretérito perfeito)
+- Advérbios de tempo e lugar
+- Sequência temporal
+
+**Gêneros narrativos:** conto, crônica, romance, fábula, notícia, relato.
+
+**Exemplo:**
+> "O fiscal chegou ao estabelecimento às 9h. Verificou as condições de higiene e encontrou irregularidades no armazenamento de alimentos."
+
+#### 2.2 Tipo DESCRITIVO
+
+**Função:** Caracterizar seres, objetos, lugares, sensações.
+
+**Características:**
+- Abundância de **adjetivos**
+- Verbos de **estado** (ser, estar, parecer)
+- Linguagem sensorial (visão, audição, tato)
+- Pode ser objetiva ou subjetiva
+
+**Tipos de descrição:**
+| Tipo | Característica |
+|------|----------------|
+| **Objetiva** | Imparcial, técnica |
+| **Subjetiva** | Impressões pessoais |
+| **Física** | Aparência externa |
+| **Psicológica** | Personalidade, emoções |
+
+**Gêneros descritivos:** laudo técnico, retrato, cardápio, anúncio classificado.
+
+**Exemplo:**
+> "O estabelecimento possui 50m², com paredes brancas, piso cerâmico e iluminação artificial. O ambiente apresenta-se limpo e organizado."
+
+#### 2.3 Tipo ARGUMENTATIVO (Dissertativo-argumentativo)
+
+**Função:** Defender um ponto de vista, convencer o leitor.
+
+**Estrutura:**
+1. **Tese:** opinião a ser defendida
+2. **Argumentos:** justificativas, provas, exemplos
+3. **Conclusão:** reafirmação ou proposta
+
+**Marcas linguísticas:**
+- Verbos no presente do indicativo
+- Conectivos argumentativos (portanto, assim, logo)
+- Linguagem impessoal (geralmente)
+- Operadores de causa, consequência, oposição
+
+**Gêneros argumentativos:** editorial, artigo de opinião, dissertação, resenha crítica, carta argumentativa.
+
+**Exemplo:**
+> "A fiscalização sanitária é essencial para a saúde pública. Sem ela, a população ficaria exposta a riscos evitáveis. Portanto, investir em vigilância sanitária é investir em qualidade de vida."
+
+#### 2.4 Tipo EXPOSITIVO (Dissertativo-expositivo)
+
+**Função:** Informar, explicar, esclarecer, sem defender posição.
+
+**Características:**
+- Linguagem **objetiva** e clara
+- Apresentação de dados, conceitos, informações
+- Não há defesa de tese
+- Imparcialidade
+
+**Gêneros expositivos:** verbete de dicionário, resumo, texto didático, notícia (parte informativa), relatório técnico.
+
+**Exemplo:**
+> "A vigilância sanitária é o conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde. Está prevista na Lei 8.080/1990 e integra o Sistema Único de Saúde."
+
+#### 2.5 Tipo INJUNTIVO (Instrucional)
+
+**Função:** Instruir, orientar, ordenar, dar comandos.
+
+**Características:**
+- Verbos no **imperativo** ou infinitivo
+- Linguagem direta e objetiva
+- Sequência de passos/instruções
+- Pode haver proibições
+
+**Gêneros injuntivos:** receita, manual de instruções, bula, regulamento, lei, edital.
+
+**Exemplo:**
+> "Lave as mãos antes de manipular alimentos. Armazene produtos perecíveis sob refrigeração. Não utilize produtos com prazo de validade vencido."
+
+### 3. Gêneros Textuais Importantes para Concursos
+
+#### 3.1 Gêneros Jornalísticos
+
+| Gênero | Tipo predominante | Características |
+|--------|-------------------|-----------------|
+| **Notícia** | Expositivo/Narrativo | Fatos, imparcialidade, lide (quem, o quê, quando, onde, como, por quê) |
+| **Reportagem** | Expositivo/Narrativo | Aprofundamento, múltiplas fontes |
+| **Editorial** | Argumentativo | Opinião do jornal, sem assinatura |
+| **Artigo de opinião** | Argumentativo | Opinião assinada |
+| **Crônica** | Narrativo | Fato cotidiano, reflexão, tom pessoal |
+| **Entrevista** | Expositivo | Perguntas e respostas |
+
+#### 3.2 Gêneros Jurídico-Administrativos
+
+| Gênero | Tipo predominante | Características |
+|--------|-------------------|-----------------|
+| **Lei** | Injuntivo | Normas obrigatórias, artigos, parágrafos |
+| **Portaria** | Injuntivo | Ato administrativo interno |
+| **Edital** | Injuntivo/Expositivo | Regras de concurso/licitação |
+| **Relatório** | Expositivo | Descrição de atividades |
+| **Parecer** | Argumentativo | Opinião técnica fundamentada |
+| **Ata** | Narrativo/Expositivo | Registro de reunião |
+| **Memorando** | Expositivo | Comunicação interna |
+| **Ofício** | Expositivo | Comunicação externa |
+
+#### 3.3 Gêneros Técnico-Científicos
+
+| Gênero | Tipo predominante | Características |
+|--------|-------------------|-----------------|
+| **Artigo científico** | Expositivo/Argumentativo | Pesquisa, metodologia |
+| **Resumo/Abstract** | Expositivo | Síntese de trabalho |
+| **Resenha** | Argumentativo/Expositivo | Análise crítica |
+| **Laudo técnico** | Descritivo/Expositivo | Análise especializada |
+
+### 4. Reconhecendo Tipos e Gêneros nas Provas
+
+#### 4.1 Estratégias para Identificação
+
+**Para identificar o TIPO:**
+1. Qual a **intenção** do autor? (contar, descrever, convencer, informar, instruir)
+2. Quais as **marcas linguísticas**? (verbos, conectivos, adjetivos)
+3. Qual a **estrutura**? (sequência, argumentação, descrição)
+
+**Para identificar o GÊNERO:**
+1. Onde o texto **circula**? (jornal, revista, documento oficial)
+2. Qual a **forma/estrutura** concreta? (manchete, artigos numerados)
+3. Quem é o **público-alvo**?
+
+#### 4.2 Armadilhas Comuns em Provas
+
+| Armadilha | Como evitar |
+|-----------|-------------|
+| Confundir tipo com gênero | Tipo = 5 estruturas; Gênero = formas concretas |
+| Achar que um texto tem só um tipo | Textos combinam tipos (predominante + secundários) |
+| Confundir expositivo com argumentativo | Expositivo informa; Argumentativo defende tese |
+| Confundir descritivo com narrativo | Descritivo caracteriza; Narrativo conta fatos |
+
+### 5. Aplicação na Vigilância Sanitária
+
+| Gênero | Uso na VISA | Tipo predominante |
+|--------|-------------|-------------------|
+| **Auto de infração** | Registrar irregularidades | Descritivo/Narrativo |
+| **Relatório de inspeção** | Documentar vistoria | Descritivo/Expositivo |
+| **Termo de intimação** | Ordenar correções | Injuntivo |
+| **Resolução da ANVISA** | Estabelecer normas | Injuntivo |
+| **Parecer técnico** | Fundamentar decisões | Argumentativo |
+        `,
+
+        pontosChave: [
+          'TIPO textual = 5 estruturas (narrativo, descritivo, argumentativo, expositivo, injuntivo)',
+          'GÊNERO textual = formas concretas (crônica, lei, notícia, edital) - são inúmeros',
+          'Narrativo: conta fatos, verbos no passado, enredo com início/conflito/clímax/desfecho',
+          'Descritivo: caracteriza, abundância de adjetivos, verbos de estado',
+          'Argumentativo: defende tese + argumentos + conclusão, objetivo é convencer',
+          'Expositivo: informa/explica sem defender posição, linguagem objetiva',
+          'Injuntivo: instrui/ordena, verbos no imperativo, sequência de passos',
+          'Um texto pode combinar tipos, mas há sempre um PREDOMINANTE',
+          'Editorial = opinião do jornal (argumentativo); Notícia = fatos (expositivo)',
+          'Lei, edital, manual = injuntivo; Relatório = expositivo; Parecer = argumentativo',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir tipo com gênero textual',
+            descricao: 'Tipo são as 5 estruturas básicas; gênero são as formas concretas como crônica, lei, e-mail.',
+            dica: 'Tipos são CINCO e abstratos; Gêneros são MUITOS e concretos.',
+          },
+          {
+            titulo: 'Achar que texto tem apenas um tipo',
+            descricao: 'Um romance pode ter narração, descrição e diálogos. Um editorial pode ter exposição e argumentação.',
+            dica: 'Identifique o tipo PREDOMINANTE, mas reconheça que há combinação.',
+          },
+          {
+            titulo: 'Confundir expositivo com argumentativo',
+            descricao: 'Expositivo apenas INFORMA; Argumentativo DEFENDE uma posição.',
+            dica: 'Pergunte: há uma TESE sendo defendida? Sim = argumentativo. Não = expositivo.',
+          },
+          {
+            titulo: 'Confundir notícia com editorial',
+            descricao: 'Notícia é informativa (expositivo); Editorial é opinião do jornal (argumentativo).',
+            dica: 'Notícia = fatos, imparcial. Editorial = opinião, parcial.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'NADEI',
+            significado: 'Narrativo, Argumentativo, Descritivo, Expositivo, Injuntivo',
+            frase: 'Os 5 tipos textuais: NADEI no texto',
+          },
+          {
+            termo: 'CONTE-DESCREVA-CONVENÇA-INFORME-INSTRUA',
+            significado: 'Funções dos 5 tipos textuais',
+            frase: 'Narrativo conta, Descritivo descreve, Argumentativo convence, Expositivo informa, Injuntivo instrui',
+          },
+          {
+            termo: 'TiGe',
+            significado: 'Tipo = estrutura; Gênero = forma concreta',
+            frase: 'TIpo é a estrutura, GÊnero é a forma real',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'lp-fc-3-1',
+            frente: 'Qual a diferença entre TIPO textual e GÊNERO textual?',
+            verso: '**TIPO TEXTUAL:**\n- Estrutura linguística\n- São apenas 5 (NADEI)\n- Abstrato\n\n**GÊNERO TEXTUAL:**\n- Forma concreta na sociedade\n- São inúmeros\n- Concreto\n\nExemplo: Romance (gênero) é predominantemente narrativo (tipo).',
+            tags: ['tipo', 'gênero', 'diferença'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'lp-fc-3-2',
+            frente: 'Quais são os 5 tipos textuais?',
+            verso: '**NADEI:**\n\n1. **N**arrativo - conta fatos\n2. **A**rgumentativo - convence\n3. **D**escritivo - caracteriza\n4. **E**xpositivo - informa\n5. **I**njuntivo - instrui/ordena\n\nSão apenas esses 5!',
+            tags: ['tipos textuais', 'NADEI'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'lp-fc-3-3',
+            frente: 'Quais as características do texto NARRATIVO?',
+            verso: '**Função:** Contar fatos\n\n**Elementos:**\n- Narrador, personagens\n- Tempo, espaço\n- Enredo (conflito, clímax)\n\n**Marcas:**\n- Verbos de ação no passado\n- Advérbios de tempo/lugar\n\n**Gêneros:** conto, crônica, notícia',
+            tags: ['narrativo', 'características'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'lp-fc-3-4',
+            frente: 'Quais as características do texto ARGUMENTATIVO?',
+            verso: '**Função:** Convencer, defender tese\n\n**Estrutura:**\n1. Tese (opinião)\n2. Argumentos (provas)\n3. Conclusão\n\n**Marcas:**\n- Conectivos (portanto, logo)\n- Verbos no presente\n\n**Gêneros:** editorial, artigo de opinião',
+            tags: ['argumentativo', 'características'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'lp-fc-3-5',
+            frente: 'Qual a diferença entre EXPOSITIVO e ARGUMENTATIVO?',
+            verso: '**EXPOSITIVO:**\n- INFORMA, explica\n- NÃO defende posição\n- Imparcial, objetivo\n- Ex: verbete, resumo\n\n**ARGUMENTATIVO:**\n- CONVENCE, defende tese\n- TEM posição clara\n- Parcial\n- Ex: editorial, artigo de opinião',
+            tags: ['expositivo', 'argumentativo', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'lp-fc-3-6',
+            frente: 'Quais as características do texto INJUNTIVO?',
+            verso: '**Função:** Instruir, ordenar, orientar\n\n**Marcas:**\n- Verbos no IMPERATIVO\n- Verbos no infinitivo\n- Sequência de passos\n- Linguagem direta\n\n**Gêneros:** receita, manual, bula, lei, edital, regulamento',
+            tags: ['injuntivo', 'características'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'lp-fc-3-7',
+            frente: 'Qual a diferença entre NOTÍCIA e EDITORIAL?',
+            verso: '**NOTÍCIA:**\n- Expositivo/Narrativo\n- Informa FATOS\n- Imparcial\n- Responde: quem, o quê, quando, onde, como, por quê\n\n**EDITORIAL:**\n- Argumentativo\n- OPINIÃO do jornal\n- Parcial\n- Não tem assinatura individual',
+            tags: ['notícia', 'editorial', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'lp-fc-3-8',
+            frente: 'Quais gêneros textuais são usados na Vigilância Sanitária?',
+            verso: '**Auto de infração:**\nDescritivo/Narrativo\n\n**Relatório de inspeção:**\nDescritivo/Expositivo\n\n**Termo de intimação:**\nInjuntivo\n\n**Resolução ANVISA:**\nInjuntivo\n\n**Parecer técnico:**\nArgumentativo',
+            tags: ['vigilância sanitária', 'gêneros'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'lp-q-3-1',
+            enunciado: 'Sobre tipos e gêneros textuais, é CORRETO afirmar que:',
+            alternativas: [
+              { letra: 'A', texto: 'Tipo textual e gênero textual são sinônimos.' },
+              { letra: 'B', texto: 'Os tipos textuais são estruturas linguísticas, enquanto os gêneros são formas concretas de textos.' },
+              { letra: 'C', texto: 'Existem centenas de tipos textuais diferentes.' },
+              { letra: 'D', texto: 'Os gêneros textuais são apenas cinco: narrativo, descritivo, argumentativo, expositivo e injuntivo.' },
+              { letra: 'E', texto: 'Um texto pertence a apenas um tipo e um gênero.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Tipos textuais são estruturas linguísticas (apenas 5). Gêneros textuais são as formas concretas como os textos se manifestam na sociedade (inúmeros). A alternativa A confunde os conceitos, C e D invertem as quantidades.',
+            dificuldade: 'Fácil',
+            competencia: 'Tipo vs. Gênero',
+            banca: 'IADES',
+            tags: ['tipo', 'gênero'],
+          },
+          {
+            id: 'lp-q-3-2',
+            enunciado: 'Assinale a alternativa que apresenta os cinco tipos textuais:',
+            alternativas: [
+              { letra: 'A', texto: 'Crônica, conto, romance, fábula e novela.' },
+              { letra: 'B', texto: 'Notícia, editorial, artigo, reportagem e entrevista.' },
+              { letra: 'C', texto: 'Narrativo, descritivo, argumentativo, expositivo e injuntivo.' },
+              { letra: 'D', texto: 'Jornalístico, literário, científico, jurídico e publicitário.' },
+              { letra: 'E', texto: 'Formal, informal, coloquial, culto e técnico.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Os cinco tipos textuais são: Narrativo, Descritivo, Argumentativo, Expositivo e Injuntivo. As demais alternativas apresentam gêneros textuais (A, B), domínios discursivos (D) ou variações linguísticas (E).',
+            dificuldade: 'Fácil',
+            competencia: 'Tipos textuais',
+            banca: 'IADES',
+            tags: ['tipos textuais'],
+          },
+          {
+            id: 'lp-q-3-3',
+            enunciado: 'O tipo textual que tem como função principal defender um ponto de vista por meio de argumentos é o:',
+            alternativas: [
+              { letra: 'A', texto: 'Narrativo.' },
+              { letra: 'B', texto: 'Descritivo.' },
+              { letra: 'C', texto: 'Expositivo.' },
+              { letra: 'D', texto: 'Argumentativo.' },
+              { letra: 'E', texto: 'Injuntivo.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'O texto ARGUMENTATIVO tem como função defender uma tese (ponto de vista) por meio de argumentos, com o objetivo de convencer o leitor. Sua estrutura é: tese + argumentos + conclusão.',
+            dificuldade: 'Fácil',
+            competencia: 'Texto argumentativo',
+            banca: 'IADES',
+            tags: ['argumentativo'],
+          },
+          {
+            id: 'lp-q-3-4',
+            enunciado: 'Considere o seguinte trecho: "Lave as mãos antes de manipular alimentos. Armazene produtos perecíveis em temperatura adequada. Descarte embalagens danificadas." O tipo textual predominante é:',
+            alternativas: [
+              { letra: 'A', texto: 'Narrativo.' },
+              { letra: 'B', texto: 'Descritivo.' },
+              { letra: 'C', texto: 'Argumentativo.' },
+              { letra: 'D', texto: 'Expositivo.' },
+              { letra: 'E', texto: 'Injuntivo.' },
+            ],
+            gabarito: 'E',
+            justificativa: 'O texto apresenta instruções e comandos com verbos no imperativo (lave, armazene, descarte), característica do texto INJUNTIVO, que tem a função de instruir, orientar ou ordenar.',
+            dificuldade: 'Fácil',
+            competencia: 'Texto injuntivo',
+            banca: 'IADES',
+            tags: ['injuntivo'],
+          },
+          {
+            id: 'lp-q-3-5',
+            enunciado: 'O gênero textual que apresenta a opinião institucional de um veículo de comunicação, sem assinatura individual, é o(a):',
+            alternativas: [
+              { letra: 'A', texto: 'Notícia.' },
+              { letra: 'B', texto: 'Reportagem.' },
+              { letra: 'C', texto: 'Editorial.' },
+              { letra: 'D', texto: 'Crônica.' },
+              { letra: 'E', texto: 'Artigo de opinião.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O EDITORIAL é o gênero que expressa a opinião institucional do veículo (jornal, revista), não de um indivíduo. Por isso, não é assinado. É predominantemente argumentativo.',
+            dificuldade: 'Média',
+            competencia: 'Gêneros jornalísticos',
+            banca: 'IADES',
+            tags: ['editorial', 'gêneros'],
+          },
+          {
+            id: 'lp-q-3-6',
+            enunciado: 'A diferença entre o texto expositivo e o argumentativo é que:',
+            alternativas: [
+              { letra: 'A', texto: 'O expositivo usa apenas verbos no passado.' },
+              { letra: 'B', texto: 'O argumentativo é sempre imparcial.' },
+              { letra: 'C', texto: 'O expositivo informa sem defender posição; o argumentativo defende uma tese.' },
+              { letra: 'D', texto: 'O expositivo é literário; o argumentativo é jornalístico.' },
+              { letra: 'E', texto: 'Não há diferença significativa entre eles.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O texto EXPOSITIVO tem função informativa, explicando conceitos sem tomar partido. O texto ARGUMENTATIVO defende uma tese com argumentos, buscando convencer o leitor.',
+            dificuldade: 'Média',
+            competencia: 'Expositivo vs. Argumentativo',
+            banca: 'IADES',
+            tags: ['expositivo', 'argumentativo'],
+          },
+          {
+            id: 'lp-q-3-7',
+            enunciado: 'O texto descritivo caracteriza-se principalmente pela:',
+            alternativas: [
+              { letra: 'A', texto: 'Presença de verbos no imperativo.' },
+              { letra: 'B', texto: 'Sequência de fatos com início, meio e fim.' },
+              { letra: 'C', texto: 'Defesa de uma tese com argumentos.' },
+              { letra: 'D', texto: 'Caracterização de seres, objetos ou ambientes com uso de adjetivos.' },
+              { letra: 'E', texto: 'Apresentação de informações objetivas em ordem cronológica.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'O texto DESCRITIVO tem como função caracterizar seres, objetos, lugares. Suas marcas são: abundância de adjetivos, verbos de estado (ser, estar), linguagem sensorial.',
+            dificuldade: 'Fácil',
+            competencia: 'Texto descritivo',
+            banca: 'IADES',
+            tags: ['descritivo'],
+          },
+          {
+            id: 'lp-q-3-8',
+            enunciado: 'Uma Resolução da ANVISA que estabelece normas para o funcionamento de estabelecimentos de alimentação é predominantemente um texto:',
+            alternativas: [
+              { letra: 'A', texto: 'Narrativo, pois conta a história da regulamentação.' },
+              { letra: 'B', texto: 'Descritivo, pois descreve os estabelecimentos.' },
+              { letra: 'C', texto: 'Argumentativo, pois defende a importância das normas.' },
+              { letra: 'D', texto: 'Injuntivo, pois estabelece obrigações e procedimentos.' },
+              { letra: 'E', texto: 'Expositivo, pois apenas informa sobre o tema.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Normas, leis, resoluções e regulamentos são textos INJUNTIVOS porque estabelecem obrigações, proibições e procedimentos a serem seguidos. Usam linguagem prescritiva.',
+            dificuldade: 'Média',
+            competencia: 'Texto injuntivo',
+            banca: 'IADES',
+            tags: ['injuntivo', 'vigilância sanitária'],
+          },
+          {
+            id: 'lp-q-3-9',
+            enunciado: 'O texto narrativo apresenta como elementos essenciais:',
+            alternativas: [
+              { letra: 'A', texto: 'Tese, argumentos e conclusão.' },
+              { letra: 'B', texto: 'Narrador, personagens, tempo, espaço e enredo.' },
+              { letra: 'C', texto: 'Apenas descrições detalhadas de objetos.' },
+              { letra: 'D', texto: 'Instruções e comandos no imperativo.' },
+              { letra: 'E', texto: 'Conceitos e definições técnicas.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Os elementos da narrativa são: narrador (quem conta), personagens (quem participa), tempo (quando), espaço (onde) e enredo (sequência de fatos com conflito).',
+            dificuldade: 'Fácil',
+            competencia: 'Elementos da narrativa',
+            banca: 'IADES',
+            tags: ['narrativo', 'elementos'],
+          },
+          {
+            id: 'lp-q-3-10',
+            enunciado: 'Um fiscal de saúde pública elaborou um documento técnico analisando as condições de um estabelecimento e concluindo pela necessidade de interdição, fundamentando sua decisão. Esse documento é um exemplo de texto predominantemente:',
+            alternativas: [
+              { letra: 'A', texto: 'Narrativo, pois relata a inspeção.' },
+              { letra: 'B', texto: 'Descritivo, pois caracteriza o estabelecimento.' },
+              { letra: 'C', texto: 'Argumentativo, pois fundamenta e defende uma conclusão.' },
+              { letra: 'D', texto: 'Injuntivo, pois ordena a interdição.' },
+              { letra: 'E', texto: 'Expositivo, pois apenas informa a situação.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Um parecer técnico que analisa, fundamenta e conclui defendendo uma posição é predominantemente ARGUMENTATIVO. Há uma tese (interdição necessária) sustentada por argumentos (condições encontradas).',
+            dificuldade: 'Média',
+            competencia: 'Aplicação na VISA',
+            banca: 'IADES',
+            tags: ['argumentativo', 'vigilância sanitária'],
           },
         ],
       },

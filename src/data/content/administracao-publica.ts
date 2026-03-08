@@ -1204,5 +1204,599 @@ A **Administração Indireta** é composta por entidades com personalidade jurí
         ],
       },
     },
+    {
+      id: "ap-topico-3",
+      numero: 3,
+      titulo: "Centralização, descentralização, desconcentração e delegação",
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Quadro Comparativo Principal
+
+| Conceito | O que cria | Vínculo | Hierarquia |
+|----------|-----------|---------|------------|
+| **Centralização** | - | Estado executa diretamente | - |
+| **Descentralização** | Nova PESSOA jurídica | Vinculação (tutela) | NÃO há |
+| **Desconcentração** | Novo ÓRGÃO | Subordinação | SIM |
+| **Delegação** | Transferência de competência | Temporária | Depende |
+
+### Descentralização vs. Desconcentração
+
+| Aspecto | DesCENTRALIZAÇÃO | DesCONCENTRAÇÃO |
+|---------|-----------------|-----------------|
+| **Cria** | Entidade (pessoa) | Órgão |
+| **Resultado** | Adm. INDIRETA | Dentro da Adm. DIRETA |
+| **Relação** | Vinculação | Subordinação |
+| **Controle** | Tutela (finalístico) | Hierárquico |
+
+### Para IADES:
+- Descentralização = nova PESSOA (entidade)
+- Desconcentração = novo ÓRGÃO (mesma pessoa)
+- Delegação = transferência de COMPETÊNCIA
+- Avocação = superior toma para si competência do subordinado
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Centralização e Descentralização
+
+#### 1.1 Centralização
+
+**Conceito:** O Estado executa suas funções diretamente, por meio de seus próprios órgãos e agentes.
+
+**Características:**
+- Concentração de atividades no ente político (União, Estado, Município)
+- Execução através de órgãos internos
+- Administração Direta em ação
+- Maior controle direto
+
+**Exemplo:**
+> A SES-GO fiscalizando diretamente estabelecimentos de saúde (órgão da Administração Direta estadual).
+
+#### 1.2 Descentralização
+
+**Conceito:** O Estado transfere a execução de atividades para outras pessoas jurídicas.
+
+**Criação de NOVA PESSOA:**
+- Entidades da Administração Indireta
+- Ou entidades privadas (delegação)
+
+**Formas de Descentralização:**
+
+| Forma | Descrição | Resultado |
+|-------|-----------|-----------|
+| **Por outorga** | Lei cria entidade e transfere titularidade | Autarquias, fundações |
+| **Por delegação** | Contrato/ato transfere apenas execução | Concessionárias, permissionárias |
+| **Territorial** | Criação de territórios | Territórios federais |
+
+#### 1.3 Descentralização por Outorga
+
+**Características:**
+- Criação por **lei**
+- Transfere **titularidade** + execução
+- Prazo **indeterminado**
+- Resulta em Administração Indireta
+
+**Entidades criadas:**
+- Autarquias
+- Fundações públicas
+- Empresas públicas
+- Sociedades de economia mista
+
+#### 1.4 Descentralização por Delegação (Colaboração)
+
+**Características:**
+- Por **contrato ou ato**
+- Transfere apenas **execução** (não titularidade)
+- Prazo **determinado**
+- Pessoa **privada**
+
+**Modalidades:**
+| Modalidade | Instrumento | Exemplo |
+|------------|-------------|---------|
+| **Concessão** | Contrato | Concessionária de rodovia |
+| **Permissão** | Contrato (precário) | Transporte coletivo |
+| **Autorização** | Ato unilateral | Serviço de táxi |
+
+### 2. Desconcentração
+
+#### 2.1 Conceito
+
+**Desconcentração** é a distribuição interna de competências dentro da **mesma pessoa jurídica**, criando novos órgãos.
+
+**Características:**
+- Não cria nova pessoa jurídica
+- Cria **ÓRGÃOS**
+- Relação de **hierarquia e subordinação**
+- Dentro da Administração Direta ou Indireta
+
+#### 2.2 Formas de Desconcentração
+
+| Critério | Descrição | Exemplo |
+|----------|-----------|---------|
+| **Territorial** | Por área geográfica | Superintendências regionais |
+| **Material** | Por matéria/assunto | Ministérios por tema |
+| **Hierárquico** | Por grau de autoridade | Secretarias, departamentos |
+
+#### 2.3 Exemplos
+
+**Na Administração Direta:**
+- Ministério da Saúde → Secretarias → Departamentos
+- Secretaria Estadual → Superintendências → Gerências
+
+**Na Administração Indireta:**
+- ANVISA (autarquia) → Gerências Regionais
+- Banco do Brasil (SEM) → Agências
+
+### 3. Comparativo Fundamental
+
+#### 3.1 Descentralização vs. Desconcentração
+
+| Aspecto | DESCENTRALIZAÇÃO | DESCONCENTRAÇÃO |
+|---------|------------------|-----------------|
+| **O que cria** | Nova PESSOA jurídica | Novo ÓRGÃO |
+| **Resultado** | Administração Indireta | Mesma pessoa jurídica |
+| **Relação** | Vinculação (tutela) | Subordinação (hierarquia) |
+| **Controle** | Finalístico | Hierárquico |
+| **Personalidade** | Entidade tem | Órgão não tem |
+
+#### 3.2 Macete
+
+> **Des-C-entralização** = **C**ria entidade (pessoa)
+> **Des-C-oncentração** = **C**ria órgão (mesma pessoa)
+
+Ou ainda:
+> **Descentralização** = **E**ntidade (sai para fora)
+> **Desconcentração** = **Ó**rgão (distribui dentro)
+
+### 4. Delegação de Competência
+
+#### 4.1 Conceito
+
+**Delegação** é a transferência temporária de competência de um órgão/agente para outro, normalmente de hierarquia inferior.
+
+**Base legal:** Lei 9.784/99, arts. 11-14
+
+#### 4.2 Características
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Natureza** | Transferência temporária |
+| **Revogabilidade** | A qualquer tempo |
+| **Responsabilidade** | Do delegado (quem recebe) |
+| **Formalização** | Deve ser publicada |
+| **Hierarquia** | Não precisa (pode ser horizontal) |
+
+#### 4.3 Competências Indelegáveis (art. 13, Lei 9.784)
+
+| Competência | Motivo |
+|-------------|--------|
+| **Edição de atos normativos** | Natureza legislativa |
+| **Decisão de recursos administrativos** | Competência recursal |
+| **Matérias de competência exclusiva** | Definição legal |
+
+> **Mnemônico:** "NÃO delega: **NR-E**" (Normativos, Recursos, Exclusivos)
+
+#### 4.4 Requisitos da Delegação
+
+1. **Não ser competência exclusiva** do delegante
+2. **Publicação** no meio oficial
+3. **Especificação** das matérias e poderes
+4. **Ressalva de avocação** pelo delegante
+
+### 5. Avocação de Competência
+
+#### 5.1 Conceito
+
+**Avocação** é o movimento inverso da delegação: o superior **atrai para si** competência de órgão/agente hierarquicamente inferior.
+
+**Base legal:** Lei 9.784/99, art. 15
+
+#### 5.2 Características
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Direção** | De baixo para cima |
+| **Requisito** | Motivos relevantes e justificados |
+| **Caráter** | Excepcional e temporário |
+| **Pressuposto** | Relação de hierarquia |
+
+#### 5.3 Requisitos
+
+- **Motivos relevantes** (não é livre)
+- Caráter **temporário**
+- **Hierarquia** (só em relação de subordinação)
+- **Publicidade**
+
+### 6. Delegação vs. Avocação
+
+| Aspecto | DELEGAÇÃO | AVOCAÇÃO |
+|---------|-----------|----------|
+| **Direção** | Superior → inferior | Inferior → superior |
+| **Requisito** | Conveniência | Motivos relevantes |
+| **Hierarquia** | Não exige | Exige |
+| **Excepcionalidade** | Normal | Excepcional |
+| **Competência** | Vai para baixo | Vem para cima |
+
+### 7. Controle
+
+#### 7.1 Controle Hierárquico
+
+Exercido dentro da **mesma pessoa jurídica** (desconcentração).
+
+**Características:**
+- Automático e permanente
+- Pleno (legalidade e mérito)
+- Independe de lei específica
+
+**Poderes do superior:**
+- Ordenar, revisar, avocar, delegar
+- Anular e revogar atos
+- Aplicar sanções disciplinares
+
+#### 7.2 Controle Finalístico (Tutela/Supervisão)
+
+Exercido pela Administração Direta sobre a **Indireta** (descentralização).
+
+**Características:**
+- Não há hierarquia
+- Depende de lei
+- Limitado aos fins (não é pleno)
+- Verifica cumprimento da finalidade
+
+**Exemplo:**
+> Ministério da Saúde supervisiona a ANVISA (autarquia).
+
+### 8. Aplicação na Vigilância Sanitária
+
+#### 8.1 Descentralização no SNVS
+
+| Nível | Entidade/Órgão | Natureza |
+|-------|----------------|----------|
+| **Federal** | ANVISA | Autarquia (descentralização) |
+| **Estadual** | VISA-GO (SES-GO) | Órgão (desconcentração) |
+| **Municipal** | VISA Municipal | Órgão (desconcentração) |
+
+#### 8.2 Delegação na VISA
+
+- Fiscal pode receber delegação para praticar atos específicos
+- Competências indelegáveis: interdição definitiva (em regra, autoridade superior)
+- Avocação: coordenador pode avocar caso de fiscalização em situações especiais
+        `,
+
+        pontosChave: [
+          "Centralização: Estado executa diretamente por seus órgãos",
+          "Descentralização: cria nova PESSOA jurídica (entidade)",
+          "Desconcentração: cria novo ÓRGÃO (mesma pessoa jurídica)",
+          "Descentralização por outorga: lei cria, transfere titularidade (Adm. Indireta)",
+          "Descentralização por delegação: contrato/ato, só execução (concessionárias)",
+          "Descentralização → vinculação (tutela); Desconcentração → subordinação (hierarquia)",
+          "Delegação: transferência temporária de competência, revogável",
+          "NÃO se delega: atos normativos, recursos, competência exclusiva",
+          "Avocação: superior atrai competência do inferior (excepcional, temporária)",
+          "ANVISA = descentralização (autarquia); VISA estadual/municipal = desconcentração",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir descentralização com desconcentração",
+            descricao: "Descentralização CRIA pessoa jurídica. Desconcentração cria ÓRGÃO.",
+            dica: "DesCENTRALIZAÇÃO = Entidade. DesCONCENTRAÇÃO = Órgão.",
+          },
+          {
+            titulo: "Achar que há hierarquia na Administração Indireta",
+            descricao: "Entre Ministério e Autarquia há VINCULAÇÃO (tutela), não hierarquia.",
+            dica: "Hierarquia só dentro da mesma pessoa jurídica.",
+          },
+          {
+            titulo: "Confundir delegação com avocação",
+            descricao: "Delegação transfere para baixo/lado. Avocação puxa para cima.",
+            dica: "Delega (dá). Avoca (toma).",
+          },
+          {
+            titulo: "Tentar delegar competência exclusiva",
+            descricao: "Competências exclusivas, atos normativos e decisões recursais NÃO podem ser delegadas.",
+            dica: "Mnemônico: NRE - Normativos, Recursos, Exclusivos.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "DC-DE",
+            significado: "DesCentralização = Entidade; DesCOncentração = Órgão",
+            frase: "DesCentralização cria Entidade, DesCOncentração cria Órgão",
+          },
+          {
+            termo: "NRE",
+            significado: "Não delega: Normativos, Recursos, Exclusivos",
+            frase: "Competências NRE não podem ser delegadas",
+          },
+          {
+            termo: "DAVA",
+            significado: "Delegação=Dá, Avocação=Vem pra cima Atrai",
+            frase: "Delega (dá pra baixo), Avoca (atrai pra cima)",
+          },
+          {
+            termo: "VH",
+            significado: "Vinculação (Adm. Indireta), Hierarquia (Desconcentração)",
+            frase: "Descentralização = Vinculação; Desconcentração = Hierarquia",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "ap-fc-3-1",
+            frente: "Qual a diferença entre DESCENTRALIZAÇÃO e DESCONCENTRAÇÃO?",
+            verso: "**DESCENTRALIZAÇÃO:**\n- Cria nova PESSOA jurídica\n- Resulta em Adm. Indireta\n- Relação de VINCULAÇÃO\n\n**DESCONCENTRAÇÃO:**\n- Cria novo ÓRGÃO\n- Mesma pessoa jurídica\n- Relação de SUBORDINAÇÃO",
+            tags: ["descentralização", "desconcentração"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-3-2",
+            frente: "O que é DESCENTRALIZAÇÃO POR OUTORGA?",
+            verso: "**Outorga:**\n\n- Criação por LEI\n- Transfere TITULARIDADE + execução\n- Prazo INDETERMINADO\n- Cria entidades da Adm. Indireta\n\nExemplos: ANVISA, INSS, Petrobras",
+            tags: ["outorga", "descentralização"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-3-3",
+            frente: "O que é DESCENTRALIZAÇÃO POR DELEGAÇÃO?",
+            verso: "**Delegação/Colaboração:**\n\n- Por CONTRATO ou ato\n- Transfere apenas EXECUÇÃO (não titularidade)\n- Prazo DETERMINADO\n- Pessoa PRIVADA\n\nExemplos: Concessionárias, permissionárias",
+            tags: ["delegação", "descentralização"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-3-4",
+            frente: "Quais competências NÃO podem ser delegadas?",
+            verso: "**Art. 13, Lei 9.784/99:**\n\n1. **N**ormativos - edição de atos normativos\n2. **R**ecursos - decisão de recursos\n3. **E**xclusivas - competência exclusiva\n\nMnemônico: **NRE**",
+            tags: ["delegação", "indelegável"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-3-5",
+            frente: "Qual a diferença entre DELEGAÇÃO e AVOCAÇÃO?",
+            verso: "**DELEGAÇÃO:**\n- Competência vai PARA BAIXO/lado\n- Não exige hierarquia\n- Conveniência\n\n**AVOCAÇÃO:**\n- Competência vem PARA CIMA\n- EXIGE hierarquia\n- Motivos relevantes\n- Excepcional",
+            tags: ["delegação", "avocação"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-3-6",
+            frente: "Qual a diferença entre TUTELA e HIERARQUIA?",
+            verso: "**TUTELA (Supervisão):**\n- Adm. Direta sobre INDIRETA\n- NÃO há subordinação\n- Controle finalístico\n- Depende de lei\n\n**HIERARQUIA:**\n- Dentro da MESMA pessoa\n- Relação de subordinação\n- Controle pleno\n- Automático",
+            tags: ["tutela", "hierarquia"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-3-7",
+            frente: "O que é CENTRALIZAÇÃO administrativa?",
+            verso: "**Centralização:**\n\nO Estado executa suas funções DIRETAMENTE, por meio de seus próprios órgãos e agentes.\n\n- Administração DIRETA\n- Maior controle\n- Órgãos internos executam",
+            tags: ["centralização"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-3-8",
+            frente: "A ANVISA é exemplo de centralização, descentralização ou desconcentração?",
+            verso: "**DESCENTRALIZAÇÃO**\n\nA ANVISA é uma **AUTARQUIA** federal (pessoa jurídica própria).\n\n- Criada por lei (outorga)\n- Vinculada ao Ministério da Saúde\n- Administração INDIRETA\n\nNÃO há hierarquia entre MS e ANVISA.",
+            tags: ["ANVISA", "descentralização"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "ap-q-3-1",
+            enunciado: "A criação de uma autarquia federal representa um exemplo de:",
+            alternativas: [
+              { letra: "A", texto: "Centralização administrativa." },
+              { letra: "B", texto: "Desconcentração administrativa." },
+              { letra: "C", texto: "Descentralização por outorga." },
+              { letra: "D", texto: "Delegação de competência." },
+              { letra: "E", texto: "Avocação de competência." },
+            ],
+            gabarito: "C",
+            justificativa: "A criação de autarquia é DESCENTRALIZAÇÃO POR OUTORGA: a lei cria nova pessoa jurídica e transfere a titularidade e execução de serviço público.",
+            dificuldade: "Fácil",
+            competencia: "Descentralização",
+            banca: "IADES",
+            tags: ["descentralização", "outorga"],
+          },
+          {
+            id: "ap-q-3-2",
+            enunciado: "A diferença fundamental entre descentralização e desconcentração administrativa está em que:",
+            alternativas: [
+              { letra: "A", texto: "A descentralização cria órgãos e a desconcentração cria entidades." },
+              { letra: "B", texto: "A descentralização cria nova pessoa jurídica e a desconcentração distribui competências dentro da mesma pessoa." },
+              { letra: "C", texto: "Ambas criam novas pessoas jurídicas." },
+              { letra: "D", texto: "A desconcentração sempre é temporária." },
+              { letra: "E", texto: "A descentralização não cria vínculos jurídicos." },
+            ],
+            gabarito: "B",
+            justificativa: "DESCENTRALIZAÇÃO cria nova PESSOA jurídica (entidade). DESCONCENTRAÇÃO cria ÓRGÃOS dentro da mesma pessoa jurídica, distribuindo competências internamente.",
+            dificuldade: "Fácil",
+            competencia: "Distinção conceitual",
+            banca: "IADES",
+            tags: ["descentralização", "desconcentração"],
+          },
+          {
+            id: "ap-q-3-3",
+            enunciado: "Conforme a Lei 9.784/99, NÃO podem ser objeto de delegação:",
+            alternativas: [
+              { letra: "A", texto: "Atos de expediente." },
+              { letra: "B", texto: "Atos de instrução processual." },
+              { letra: "C", texto: "Edição de atos normativos e decisão de recursos administrativos." },
+              { letra: "D", texto: "Atos vinculados de qualquer natureza." },
+              { letra: "E", texto: "Atos praticados em regime de urgência." },
+            ],
+            gabarito: "C",
+            justificativa: "O art. 13 da Lei 9.784/99 veda a delegação de: edição de atos normativos, decisão de recursos administrativos e matérias de competência exclusiva (NRE).",
+            dificuldade: "Média",
+            competencia: "Delegação",
+            banca: "IADES",
+            tags: ["delegação", "indelegável"],
+          },
+          {
+            id: "ap-q-3-4",
+            enunciado: "A avocação de competência caracteriza-se por:",
+            alternativas: [
+              { letra: "A", texto: "Ser transferência permanente de competência para órgão inferior." },
+              { letra: "B", texto: "Ser atração temporária de competência de órgão inferior para o superior, em caráter excepcional." },
+              { letra: "C", texto: "Não depender de hierarquia entre os órgãos." },
+              { letra: "D", texto: "Criar nova pessoa jurídica." },
+              { letra: "E", texto: "Ser obrigatória sempre que solicitada." },
+            ],
+            gabarito: "B",
+            justificativa: "AVOCAÇÃO é a atração TEMPORÁRIA de competência de órgão INFERIOR para o SUPERIOR, em caráter EXCEPCIONAL e por motivos relevantes. Exige relação de hierarquia.",
+            dificuldade: "Média",
+            competencia: "Avocação",
+            banca: "IADES",
+            tags: ["avocação", "competência"],
+          },
+          {
+            id: "ap-q-3-5",
+            enunciado: "O controle exercido pelo Ministério da Saúde sobre a ANVISA denomina-se:",
+            alternativas: [
+              { letra: "A", texto: "Controle hierárquico." },
+              { letra: "B", texto: "Tutela ou supervisão ministerial." },
+              { letra: "C", texto: "Controle autárquico." },
+              { letra: "D", texto: "Subordinação administrativa." },
+              { letra: "E", texto: "Autotutela." },
+            ],
+            gabarito: "B",
+            justificativa: "O controle da Adm. Direta sobre a Indireta é chamado de TUTELA ou SUPERVISÃO MINISTERIAL. Não há hierarquia entre eles, mas vinculação para verificar o cumprimento das finalidades.",
+            dificuldade: "Fácil",
+            competencia: "Tutela administrativa",
+            banca: "IADES",
+            tags: ["tutela", "supervisão"],
+          },
+          {
+            id: "ap-q-3-6",
+            enunciado: "A criação de departamentos e divisões dentro de um ministério é exemplo de:",
+            alternativas: [
+              { letra: "A", texto: "Descentralização por outorga." },
+              { letra: "B", texto: "Descentralização por delegação." },
+              { letra: "C", texto: "Desconcentração administrativa." },
+              { letra: "D", texto: "Desestatização." },
+              { letra: "E", texto: "Privatização." },
+            ],
+            gabarito: "C",
+            justificativa: "A criação de departamentos e divisões dentro do mesmo ministério é DESCONCENTRAÇÃO: distribuição interna de competências, criando órgãos dentro da mesma pessoa jurídica.",
+            dificuldade: "Fácil",
+            competencia: "Desconcentração",
+            banca: "IADES",
+            tags: ["desconcentração", "órgãos"],
+          },
+          {
+            id: "ap-q-3-7",
+            enunciado: "A concessão de serviço público a uma empresa privada representa:",
+            alternativas: [
+              { letra: "A", texto: "Descentralização por outorga." },
+              { letra: "B", texto: "Descentralização por delegação." },
+              { letra: "C", texto: "Desconcentração administrativa." },
+              { letra: "D", texto: "Centralização administrativa." },
+              { letra: "E", texto: "Avocação de competência." },
+            ],
+            gabarito: "B",
+            justificativa: "A CONCESSÃO de serviço público é DESCENTRALIZAÇÃO POR DELEGAÇÃO (ou colaboração): por contrato, transfere-se apenas a EXECUÇÃO (não a titularidade) para pessoa privada.",
+            dificuldade: "Média",
+            competencia: "Descentralização por delegação",
+            banca: "IADES",
+            tags: ["concessão", "delegação"],
+          },
+          {
+            id: "ap-q-3-8",
+            enunciado: "Sobre a delegação de competência, é CORRETO afirmar que:",
+            alternativas: [
+              { letra: "A", texto: "É irrevogável após formalizada." },
+              { letra: "B", texto: "Depende necessariamente de relação hierárquica." },
+              { letra: "C", texto: "Pode ser revogada a qualquer tempo pelo delegante." },
+              { letra: "D", texto: "Transfere definitivamente a competência." },
+              { letra: "E", texto: "Não precisa ser publicada." },
+            ],
+            gabarito: "C",
+            justificativa: "A delegação é REVOGÁVEL a qualquer tempo pelo delegante. É temporária, não transfere definitivamente e deve ser publicada. Não exige hierarquia necessariamente.",
+            dificuldade: "Média",
+            competencia: "Delegação",
+            banca: "IADES",
+            tags: ["delegação", "revogação"],
+          },
+          {
+            id: "ap-q-3-9",
+            enunciado: "A relação entre a Secretaria Estadual de Saúde (SES-GO) e sua Superintendência de Vigilância Sanitária é de:",
+            alternativas: [
+              { letra: "A", texto: "Vinculação (tutela)." },
+              { letra: "B", texto: "Hierarquia e subordinação." },
+              { letra: "C", texto: "Independência total." },
+              { letra: "D", texto: "Descentralização por outorga." },
+              { letra: "E", texto: "Delegação de serviços." },
+            ],
+            gabarito: "B",
+            justificativa: "A Superintendência é ÓRGÃO dentro da SES-GO (desconcentração), portanto há relação de HIERARQUIA e SUBORDINAÇÃO. Vinculação só existe entre pessoas jurídicas diferentes.",
+            dificuldade: "Média",
+            competencia: "Hierarquia",
+            banca: "IADES",
+            tags: ["hierarquia", "órgãos"],
+          },
+          {
+            id: "ap-q-3-10",
+            enunciado: "A descentralização por outorga diferencia-se da descentralização por delegação porque:",
+            alternativas: [
+              { letra: "A", texto: "A outorga transfere apenas a execução do serviço." },
+              { letra: "B", texto: "A delegação cria nova pessoa jurídica de direito público." },
+              { letra: "C", texto: "A outorga transfere a titularidade e a execução; a delegação transfere apenas a execução." },
+              { letra: "D", texto: "Ambas criam entidades da Administração Indireta." },
+              { letra: "E", texto: "A delegação tem prazo indeterminado." },
+            ],
+            gabarito: "C",
+            justificativa: "OUTORGA: lei cria entidade e transfere TITULARIDADE + execução. DELEGAÇÃO: contrato/ato transfere apenas EXECUÇÃO para pessoa privada, mantendo a titularidade com o Estado.",
+            dificuldade: "Média",
+            competencia: "Outorga vs. delegação",
+            banca: "IADES",
+            tags: ["outorga", "delegação"],
+          },
+        ],
+      },
+    },
   ],
 };

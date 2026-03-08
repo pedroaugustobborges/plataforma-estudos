@@ -1049,5 +1049,730 @@ A **fiscalização sanitária** é exercício típico do Direito Administrativo:
         ],
       },
     },
+    {
+      id: 'da-topico-3',
+      numero: 3,
+      titulo: 'Ato administrativo: conceito, requisitos, atributos, classificação, espécies, extinção e decadência',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Conceito de Ato Administrativo
+
+**Ato administrativo** é toda manifestação unilateral de vontade da Administração Pública que, agindo nessa qualidade, tenha por fim imediato adquirir, resguardar, transferir, modificar, extinguir e declarar direitos, ou impor obrigações.
+
+### Os 5 Requisitos (Elementos) - COMFIFORM
+
+| Requisito | O que é | Vício = |
+|-----------|---------|---------|
+| **CO**mpetência | Quem pode praticar | Excesso de poder |
+| **M**otivo | Por que foi praticado | Ausência de motivação |
+| **FI**nalidade | Para que foi praticado | Desvio de poder |
+| **FOR**ma | Como foi praticado | Vício de forma |
+| **M**otivo → Objeto | O que foi praticado | Objeto ilícito |
+
+### Os 4 Atributos - PATI
+
+| Atributo | Significado |
+|----------|-------------|
+| **P**resunção de legitimidade | Presume-se legal até prova em contrário |
+| **A**utoexecutoriedade | Executar sem autorização judicial |
+| **T**ipicidade | Corresponder a figura legal prevista |
+| **I**mperatividade | Impor obrigações unilateralmente |
+
+### Para IADES:
+- **Excesso de poder** = vício de COMPETÊNCIA
+- **Desvio de poder** = vício de FINALIDADE
+- Competência e finalidade são SEMPRE vinculados
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito de Ato Administrativo
+
+#### 1.1 Definição Doutrinária
+
+**Hely Lopes Meirelles:**
+> "Ato administrativo é toda manifestação unilateral de vontade da Administração Pública que, agindo nessa qualidade, tenha por fim imediato adquirir, resguardar, transferir, modificar, extinguir e declarar direitos, ou impor obrigações aos administrados ou a si própria."
+
+**Celso Antônio Bandeira de Mello:**
+> "Declaração do Estado ou de quem o represente, que produz efeitos jurídicos imediatos, com observância da lei, sob regime jurídico de direito público e sujeita a controle pelo Poder Judiciário."
+
+#### 1.2 Características Essenciais
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Manifestação de vontade** | Exteriorização de uma decisão |
+| **Unilateral** | Não depende de concordância do particular |
+| **Da Administração** | Praticado por agente público |
+| **Regime de direito público** | Prerrogativas e sujeições |
+| **Produz efeitos jurídicos** | Cria, modifica ou extingue direitos |
+| **Sujeito a controle** | Judicial, administrativo, legislativo |
+
+#### 1.3 Ato Administrativo vs. Outras Figuras
+
+| Figura | Diferença do Ato Administrativo |
+|--------|--------------------------------|
+| **Fato administrativo** | Acontecimento, não manifestação de vontade |
+| **Ato da Administração** | Gênero mais amplo (inclui atos privados) |
+| **Ato de governo** | Natureza política, não administrativa |
+| **Contrato administrativo** | Bilateral (acordo de vontades) |
+
+### 2. Requisitos (Elementos) do Ato Administrativo
+
+São as condições de validade do ato. Mnemônico: **COMFIFORM** ou **COFIFOMO**
+
+#### 2.1 COMPETÊNCIA
+
+**Conceito:** Atribuição legal do agente para praticar o ato.
+
+**Características:**
+- Definida em **lei** (irrenunciável)
+- **Improrrogável** (não se estende pelo não uso)
+- **Inderrogável** (não pode ser transferida por acordo)
+- Pode ser **delegada** ou **avocada** (quando permitido)
+
+**Vício:** Incompetência → **Excesso de poder** (espécie de abuso de poder)
+
+**Exemplo em VISA:**
+> O fiscal de nível superior não pode delegar ao auxiliar a competência para interditar estabelecimento.
+
+#### 2.2 FINALIDADE
+
+**Conceito:** Resultado que a Administração pretende alcançar.
+
+**Dimensões:**
+- **Finalidade geral:** interesse público (sempre)
+- **Finalidade específica:** definida em lei para cada ato
+
+**Vício:** Desvio de finalidade → **Desvio de poder** (espécie de abuso de poder)
+
+**Exemplo em VISA:**
+> Interditar estabelecimento por vingança pessoal, e não por motivo sanitário, é desvio de poder.
+
+#### 2.3 FORMA
+
+**Conceito:** Modo de exteriorização do ato.
+
+**Regra geral:**
+- Forma **escrita** (princípio da documentação)
+- Motivação expressa
+- Observância de procedimentos legais
+
+**Exceções:**
+- Atos urgentes podem ser verbais
+- Sinais de trânsito (gestuais)
+
+**Vício:** Inobservância da forma legal
+
+**Exemplo em VISA:**
+> Auto de infração deve ser lavrado por escrito, com todos os elementos exigidos em lei.
+
+#### 2.4 MOTIVO
+
+**Conceito:** Pressupostos de fato e de direito que autorizam a prática do ato.
+
+**Componentes:**
+- **Motivo de fato:** situação concreta
+- **Motivo de direito:** previsão legal
+
+**Motivação:**
+- É a **exposição** dos motivos (deve ser expressa)
+- Diferente de motivo (que são os fatos/fundamentos)
+
+**Teoria dos Motivos Determinantes:**
+> A validade do ato fica vinculada aos motivos declarados. Se falsos, o ato é nulo.
+
+**Exemplo em VISA:**
+> Se o fiscal interdita por "risco sanitário grave" e não há risco, o ato é nulo.
+
+#### 2.5 OBJETO (Conteúdo)
+
+**Conceito:** Efeito jurídico imediato que o ato produz.
+
+**Requisitos do objeto:**
+- **Lícito:** previsto em lei
+- **Possível:** realizável
+- **Certo:** determinado ou determinável
+- **Moral:** conforme a ética
+
+**Exemplo em VISA:**
+> Objeto do auto de infração = aplicação de penalidade específica.
+
+### 3. Vinculação vs. Discricionariedade
+
+| Elemento | Vinculado | Discricionário |
+|----------|-----------|----------------|
+| **Competência** | SEMPRE | - |
+| **Finalidade** | SEMPRE | - |
+| **Forma** | Em regra | Às vezes |
+| **Motivo** | Às vezes | Às vezes |
+| **Objeto** | Às vezes | Às vezes |
+
+**Mérito administrativo:**
+- Presente nos atos discricionários
+- Juízo de **conveniência e oportunidade**
+- NÃO pode ser controlado pelo Judiciário
+- Judiciário controla apenas **legalidade**, não mérito
+
+### 4. Atributos do Ato Administrativo
+
+Mnemônico: **PATI**
+
+#### 4.1 PRESUNÇÃO DE LEGITIMIDADE (e veracidade)
+
+**Conceito:** Os atos presumem-se legais e verdadeiros até prova em contrário.
+
+**Características:**
+- Presunção **relativa** (juris tantum)
+- Inverte o **ônus da prova** (particular deve provar)
+- Permite **execução imediata**
+- Presente em **todos** os atos
+
+**Exemplo em VISA:**
+> O auto de infração presume-se válido; cabe ao autuado provar irregularidade.
+
+#### 4.2 AUTOEXECUTORIEDADE
+
+**Conceito:** Administração pode executar diretamente suas decisões, sem autorização judicial.
+
+**Subdivisões:**
+- **Exigibilidade:** impor obrigações (meios indiretos)
+- **Executoriedade:** usar força (meios diretos)
+
+**Limitações:**
+- Não está presente em todos os atos
+- Cobrança de multa: precisa de execução fiscal
+- Deve ser proporcional
+
+**Exemplo em VISA:**
+> Interditar estabelecimento e lacrar portas pode ser feito de imediato.
+
+#### 4.3 TIPICIDADE
+
+**Conceito:** O ato deve corresponder a figuras previamente definidas em lei.
+
+**Finalidade:**
+- Impedir atos inominados
+- Garantir segurança jurídica
+- Previsibilidade
+
+**Exemplo em VISA:**
+> Advertência, multa, interdição, cancelamento são tipos previstos em lei.
+
+#### 4.4 IMPERATIVIDADE
+
+**Conceito:** O ato impõe obrigações independentemente da concordância do particular.
+
+**Características:**
+- Decorre da **supremacia do interesse público**
+- Não está em todos os atos (ex: certidões, atestados)
+- Unilateralidade
+
+**Exemplo em VISA:**
+> Determinação para adequação sanitária obriga o particular mesmo sem concordância.
+
+### 5. Classificação dos Atos Administrativos
+
+#### 5.1 Quanto aos Destinatários
+
+| Tipo | Característica | Exemplo |
+|------|----------------|---------|
+| **Gerais** | Destinatários indeterminados | Regulamento, edital |
+| **Individuais** | Destinatários determinados | Nomeação, licença |
+
+#### 5.2 Quanto ao Alcance
+
+| Tipo | Característica | Exemplo |
+|------|----------------|---------|
+| **Internos** | Efeitos dentro da Administração | Portaria de férias |
+| **Externos** | Efeitos para terceiros | Auto de infração |
+
+#### 5.3 Quanto ao Objeto
+
+| Tipo | Característica | Exemplo |
+|------|----------------|---------|
+| **Império** | Supremacia estatal | Interdição, multa |
+| **Gestão** | Administração de bens | Contrato, alienação |
+| **Expediente** | Rotina administrativa | Memorando, ofício |
+
+#### 5.4 Quanto à Liberdade
+
+| Tipo | Característica | Controle |
+|------|----------------|----------|
+| **Vinculado** | Sem margem de escolha | Total pelo Judiciário |
+| **Discricionário** | Margem de escolha | Legalidade, não mérito |
+
+#### 5.5 Quanto à Formação
+
+| Tipo | Característica | Exemplo |
+|------|----------------|---------|
+| **Simples** | Uma vontade | Despacho |
+| **Complexo** | Duas vontades para UM ato | Nomeação de ministro (PR + Senado) |
+| **Composto** | Um ato principal + um acessório | Ato que depende de visto |
+
+### 6. Espécies de Atos Administrativos
+
+#### 6.1 Atos Normativos
+
+Estabelecem normas gerais e abstratas.
+
+| Espécie | Característica |
+|---------|----------------|
+| **Decreto** | Regulamenta lei, competência do chefe do Executivo |
+| **Regulamento** | Complementa lei |
+| **Instrução normativa** | Orienta execução |
+| **Resolução** | Deliberação de órgão colegiado |
+| **Portaria** | Ato interno de autoridade |
+
+#### 6.2 Atos Ordinatórios
+
+Disciplinam o funcionamento interno.
+
+| Espécie | Característica |
+|---------|----------------|
+| **Aviso** | Comunicação ministerial |
+| **Circular** | Ordem escrita uniforme |
+| **Memorando** | Comunicação interna |
+| **Ofício** | Comunicação externa |
+
+#### 6.3 Atos Negociais
+
+Coincidem com pretensão do particular.
+
+| Espécie | Característica |
+|---------|----------------|
+| **Licença** | Ato vinculado, definitivo |
+| **Autorização** | Ato discricionário, precário |
+| **Permissão** | Ato discricionário, precário |
+| **Admissão** | Ingresso em estabelecimento público |
+| **Aprovação** | Controle a priori ou a posteriori |
+| **Homologação** | Controle a posteriori |
+
+#### 6.4 Atos Enunciativos
+
+Certificam ou atestam situações.
+
+| Espécie | Característica |
+|---------|----------------|
+| **Certidão** | Cópia fiel de dados |
+| **Atestado** | Comprova fato ou situação |
+| **Parecer** | Opinião técnica |
+| **Apostila** | Averbação, anotação |
+
+#### 6.5 Atos Punitivos
+
+Aplicam sanções.
+
+| Espécie | Característica |
+|---------|----------------|
+| **Multa** | Penalidade pecuniária |
+| **Interdição** | Vedação de atividade |
+| **Destruição** | Inutilização de bens |
+| **Demolição** | Destruição de obras |
+
+### 7. Extinção dos Atos Administrativos
+
+#### 7.1 Formas de Extinção
+
+| Forma | Descrição | Quem pode |
+|-------|-----------|-----------|
+| **Cumprimento** | Esgotamento natural | - |
+| **Desaparecimento** | Objeto ou sujeito deixa de existir | - |
+| **Renúncia** | Beneficiário abre mão | Particular |
+| **Anulação** | Vício de legalidade | Administração ou Judiciário |
+| **Revogação** | Conveniência e oportunidade | Apenas Administração |
+| **Cassação** | Descumprimento de condições | Administração |
+| **Caducidade** | Lei nova torna ato ilegal | Administração |
+| **Contraposição** | Ato posterior incompatível | Administração |
+
+#### 7.2 Anulação vs. Revogação
+
+| Aspecto | ANULAÇÃO | REVOGAÇÃO |
+|---------|----------|-----------|
+| **Motivo** | Ilegalidade (vício) | Conveniência/oportunidade |
+| **Efeitos** | Ex tunc (retroage) | Ex nunc (não retroage) |
+| **Quem pode** | Administração ou Judiciário | Só Administração |
+| **Prazo** | 5 anos (Lei 9.784, art. 54) | Não há prazo |
+| **Atos atingidos** | Ilegais | Legais, mas inconvenientes |
+
+#### 7.3 Súmula 473 do STF
+
+> "A Administração pode anular seus próprios atos quando eivados de vícios que os tornem ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos."
+
+### 8. Decadência Administrativa
+
+#### 8.1 Conceito (Lei 9.784/99, art. 54)
+
+> "O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários **decai em 5 anos**, contados da data em que foram praticados, salvo comprovada má-fé."
+
+#### 8.2 Características
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Prazo** | 5 anos |
+| **Início** | Data da prática do ato |
+| **Exceção** | Má-fé do beneficiário (não há prazo) |
+| **Efeito** | Estabilização do ato |
+
+#### 8.3 Aplicação
+
+- Atos de que decorram **efeitos favoráveis**
+- Prazo de **5 anos** para anular
+- Se ultrapassado: ato se torna estável
+- Princípio da **segurança jurídica**
+
+### 9. Convalidação
+
+**Conceito:** Correção de vício sanável, com efeitos retroativos.
+
+**Requisitos:**
+- Defeito sanável (competência, forma)
+- Não prejudicar terceiros
+- Não causar lesão ao interesse público
+
+**Atos passíveis de convalidação:**
+- Competência: ratificação
+- Forma: reforma
+
+**Atos NÃO passíveis de convalidação:**
+- Motivo
+- Finalidade
+- Objeto ilícito
+        `,
+
+        pontosChave: [
+          'Requisitos (COMFIFORM): Competência, Motivo, Finalidade, Forma, Objeto',
+          'Competência e Finalidade são SEMPRE vinculados',
+          'Excesso de poder = vício de COMPETÊNCIA; Desvio de poder = vício de FINALIDADE',
+          'Atributos (PATI): Presunção de legitimidade, Autoexecutoriedade, Tipicidade, Imperatividade',
+          'Presunção de legitimidade: relativa (juris tantum), presente em TODOS os atos',
+          'Mérito administrativo: conveniência e oportunidade, NÃO controlado pelo Judiciário',
+          'Anulação: ilegalidade, ex tunc, prazo de 5 anos (decadência)',
+          'Revogação: conveniência, ex nunc, só pela Administração, sem prazo',
+          'Súmula 473/STF: autotutela (anular ou revogar próprios atos)',
+          'Licença = vinculada; Autorização e Permissão = discricionárias',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir excesso com desvio de poder',
+            descricao: 'Excesso = competência (agente não tem poder). Desvio = finalidade (usa poder para fim diverso).',
+            dica: 'Excesso = Extrapola competência. Desvio = Desvia a finalidade.',
+          },
+          {
+            titulo: 'Achar que Judiciário pode revogar ato',
+            descricao: 'Revogação é exclusiva da Administração. Judiciário só ANULA (por ilegalidade).',
+            dica: 'Judiciário julga LEGALIDADE, não mérito.',
+          },
+          {
+            titulo: 'Confundir efeitos de anulação e revogação',
+            descricao: 'Anulação = ex tunc (retroage). Revogação = ex nunc (não retroage).',
+            dica: 'Anulação apaga o passado (TUnc). Revogação só vale daqui pra frente (NUnc).',
+          },
+          {
+            titulo: 'Esquecer o prazo de decadência',
+            descricao: 'A Administração tem 5 anos para anular atos que geram efeitos favoráveis.',
+            dica: 'Lei 9.784, art. 54: 5 anos para anular, salvo má-fé.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'COMFIFORM',
+            significado: 'COmpetência, Motivo, FInalidade, FORma, Motivo→Objeto',
+            frase: 'Os 5 requisitos do ato: COMFIFORM',
+          },
+          {
+            termo: 'PATI',
+            significado: 'Presunção, Autoexecutoriedade, Tipicidade, Imperatividade',
+            frase: 'Os atributos do ato: PATI',
+          },
+          {
+            termo: 'ED-CF',
+            significado: 'Excesso=Competência, Desvio=Finalidade',
+            frase: 'Abuso de poder: Excesso (C), Desvio (F)',
+          },
+          {
+            termo: 'A-TUnc R-NUnc',
+            significado: 'Anulação=ex tunc, Revogação=ex nunc',
+            frase: 'Anula retroage (tunc), Revoga não (nunc)',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'da-fc-3-1',
+            frente: 'Quais são os 5 REQUISITOS (elementos) do ato administrativo?',
+            verso: '**COMFIFORM:**\n\n1. **CO**mpetência - Quem\n2. **M**otivo - Por quê\n3. **FI**nalidade - Para quê\n4. **FOR**ma - Como\n5. Objeto - O quê\n\nCompetência e Finalidade são SEMPRE vinculados.',
+            tags: ['requisitos', 'ato administrativo'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-3-2',
+            frente: 'Quais são os 4 ATRIBUTOS do ato administrativo?',
+            verso: '**PATI:**\n\n1. **P**resunção de legitimidade (relativa)\n2. **A**utoexecutoriedade (executar sem Judiciário)\n3. **T**ipicidade (previsto em lei)\n4. **I**mperatividade (impor obrigações)\n\nPresunção está em TODOS os atos.',
+            tags: ['atributos', 'ato administrativo'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-3-3',
+            frente: 'Qual a diferença entre EXCESSO e DESVIO de poder?',
+            verso: '**EXCESSO de poder:**\n- Vício de COMPETÊNCIA\n- Agente extrapola suas atribuições\n\n**DESVIO de poder:**\n- Vício de FINALIDADE\n- Agente usa competência para fim diverso\n\nAmbos = ABUSO DE PODER',
+            tags: ['abuso de poder', 'vícios'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-3-4',
+            frente: 'Qual a diferença entre ANULAÇÃO e REVOGAÇÃO?',
+            verso: '**ANULAÇÃO:**\n- Motivo: ILEGALIDADE\n- Efeitos: ex TUNC (retroage)\n- Quem: Administração OU Judiciário\n\n**REVOGAÇÃO:**\n- Motivo: CONVENIÊNCIA\n- Efeitos: ex NUNC (não retroage)\n- Quem: SÓ Administração',
+            tags: ['extinção', 'anulação', 'revogação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-3-5',
+            frente: 'O que diz a Súmula 473 do STF?',
+            verso: '**AUTOTUTELA:**\n\nA Administração PODE:\n- **ANULAR** atos ilegais (não geram direitos)\n- **REVOGAR** atos legais por conveniência\n\nDevem ser respeitados os direitos adquiridos.',
+            tags: ['Súmula 473', 'autotutela'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-3-6',
+            frente: 'O que é a DECADÊNCIA administrativa (Lei 9.784)?',
+            verso: '**Art. 54:**\n\nA Administração tem **5 ANOS** para anular atos que produzam efeitos FAVORÁVEIS.\n\nApós 5 anos: ato se torna ESTÁVEL.\n\n**Exceção:** má-fé do beneficiário (não há prazo).',
+            tags: ['decadência', 'prazo'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-3-7',
+            frente: 'Qual a diferença entre LICENÇA e AUTORIZAÇÃO?',
+            verso: '**LICENÇA:**\n- Ato VINCULADO\n- Definitivo (só anulável)\n- Direito subjetivo\n- Ex: licença para construir\n\n**AUTORIZAÇÃO:**\n- Ato DISCRICIONÁRIO\n- PRECÁRIO (revogável)\n- Interesse do particular\n- Ex: autorização para evento',
+            tags: ['licença', 'autorização'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-3-8',
+            frente: 'O que é MÉRITO ADMINISTRATIVO?',
+            verso: '**Mérito** = juízo de CONVENIÊNCIA e OPORTUNIDADE.\n\nPresente nos atos DISCRICIONÁRIOS.\n\n⚠️ O Judiciário NÃO pode controlar o mérito!\n\nJudiciário controla apenas LEGALIDADE.',
+            tags: ['mérito', 'discricionariedade'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'da-q-3-1',
+            enunciado: 'São requisitos (elementos) de validade do ato administrativo:',
+            alternativas: [
+              { letra: 'A', texto: 'Presunção de legitimidade, autoexecutoriedade, tipicidade e imperatividade.' },
+              { letra: 'B', texto: 'Competência, finalidade, forma, motivo e objeto.' },
+              { letra: 'C', texto: 'Legalidade, impessoalidade, moralidade, publicidade e eficiência.' },
+              { letra: 'D', texto: 'Anulação, revogação, cassação e caducidade.' },
+              { letra: 'E', texto: 'Licença, autorização, permissão e admissão.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Os requisitos (elementos) do ato administrativo são: Competência, Finalidade, Forma, Motivo e Objeto (COMFIFORM). A alternativa A traz os ATRIBUTOS, não os requisitos.',
+            dificuldade: 'Fácil',
+            competencia: 'Requisitos do ato',
+            banca: 'IADES',
+            tags: ['requisitos', 'elementos'],
+          },
+          {
+            id: 'da-q-3-2',
+            enunciado: 'O vício de FINALIDADE no ato administrativo caracteriza o chamado:',
+            alternativas: [
+              { letra: 'A', texto: 'Excesso de poder.' },
+              { letra: 'B', texto: 'Desvio de poder.' },
+              { letra: 'C', texto: 'Abuso de autoridade.' },
+              { letra: 'D', texto: 'Incompetência absoluta.' },
+              { letra: 'E', texto: 'Vício de forma.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O DESVIO DE PODER é o vício de finalidade, quando o agente usa sua competência para fim diverso do previsto em lei. O excesso de poder é vício de COMPETÊNCIA.',
+            dificuldade: 'Média',
+            competencia: 'Vícios do ato',
+            banca: 'IADES',
+            tags: ['desvio de poder', 'finalidade'],
+          },
+          {
+            id: 'da-q-3-3',
+            enunciado: 'A presunção de legitimidade dos atos administrativos é considerada:',
+            alternativas: [
+              { letra: 'A', texto: 'Absoluta, não admitindo prova em contrário.' },
+              { letra: 'B', texto: 'Relativa, admitindo prova em contrário pelo interessado.' },
+              { letra: 'C', texto: 'Inexistente, dependendo de confirmação judicial.' },
+              { letra: 'D', texto: 'Aplicável apenas aos atos vinculados.' },
+              { letra: 'E', texto: 'Dispensável nos atos discricionários.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A presunção de legitimidade é RELATIVA (juris tantum), admitindo prova em contrário. Ela inverte o ônus da prova, cabendo ao particular demonstrar eventual ilegalidade.',
+            dificuldade: 'Fácil',
+            competencia: 'Presunção de legitimidade',
+            banca: 'IADES',
+            tags: ['presunção', 'atributo'],
+          },
+          {
+            id: 'da-q-3-4',
+            enunciado: 'Sobre a anulação e a revogação dos atos administrativos, é CORRETO afirmar que:',
+            alternativas: [
+              { letra: 'A', texto: 'Ambas podem ser realizadas pelo Poder Judiciário.' },
+              { letra: 'B', texto: 'A anulação opera efeitos ex nunc e a revogação ex tunc.' },
+              { letra: 'C', texto: 'A anulação decorre de ilegalidade e produz efeitos ex tunc.' },
+              { letra: 'D', texto: 'A revogação atinge atos ilegais e a anulação atos inconvenientes.' },
+              { letra: 'E', texto: 'Não há diferença prática entre anulação e revogação.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A ANULAÇÃO decorre de ILEGALIDADE e opera efeitos EX TUNC (retroativos). A revogação decorre de conveniência e opera efeitos EX NUNC (não retroativos). Só a Administração revoga.',
+            dificuldade: 'Média',
+            competencia: 'Anulação e revogação',
+            banca: 'IADES',
+            tags: ['anulação', 'revogação'],
+          },
+          {
+            id: 'da-q-3-5',
+            enunciado: 'De acordo com a Lei 9.784/99, o direito da Administração de anular atos administrativos de que decorram efeitos favoráveis decai em:',
+            alternativas: [
+              { letra: 'A', texto: '1 ano.' },
+              { letra: 'B', texto: '2 anos.' },
+              { letra: 'C', texto: '3 anos.' },
+              { letra: 'D', texto: '5 anos.' },
+              { letra: 'E', texto: '10 anos.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Conforme o art. 54 da Lei 9.784/99, o direito da Administração de anular atos que produzam efeitos favoráveis DECAI em 5 ANOS, salvo comprovada má-fé.',
+            dificuldade: 'Fácil',
+            competencia: 'Decadência administrativa',
+            banca: 'IADES',
+            tags: ['decadência', 'prazo'],
+          },
+          {
+            id: 'da-q-3-6',
+            enunciado: 'O atributo do ato administrativo que permite à Administração executar diretamente suas decisões, sem necessidade de autorização judicial, denomina-se:',
+            alternativas: [
+              { letra: 'A', texto: 'Presunção de legitimidade.' },
+              { letra: 'B', texto: 'Imperatividade.' },
+              { letra: 'C', texto: 'Autoexecutoriedade.' },
+              { letra: 'D', texto: 'Tipicidade.' },
+              { letra: 'E', texto: 'Coercibilidade.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A AUTOEXECUTORIEDADE permite que a Administração execute suas decisões diretamente, sem recorrer ao Judiciário. Exemplo: interdição de estabelecimento, demolição de obra irregular.',
+            dificuldade: 'Fácil',
+            competencia: 'Atributos',
+            banca: 'IADES',
+            tags: ['autoexecutoriedade', 'atributo'],
+          },
+          {
+            id: 'da-q-3-7',
+            enunciado: 'A licença administrativa caracteriza-se por ser um ato:',
+            alternativas: [
+              { letra: 'A', texto: 'Discricionário e precário.' },
+              { letra: 'B', texto: 'Vinculado e definitivo.' },
+              { letra: 'C', texto: 'Complexo e revogável.' },
+              { letra: 'D', texto: 'Normativo e abstrato.' },
+              { letra: 'E', texto: 'Enunciativo e bilateral.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A LICENÇA é ato VINCULADO (cumpridos os requisitos legais, deve ser concedida) e DEFINITIVO (só pode ser anulada, não revogada). Já a autorização é discricionária e precária.',
+            dificuldade: 'Média',
+            competencia: 'Espécies de atos',
+            banca: 'IADES',
+            tags: ['licença', 'vinculado'],
+          },
+          {
+            id: 'da-q-3-8',
+            enunciado: 'A Súmula 473 do STF consagra o princípio da:',
+            alternativas: [
+              { letra: 'A', texto: 'Legalidade.' },
+              { letra: 'B', texto: 'Impessoalidade.' },
+              { letra: 'C', texto: 'Autotutela.' },
+              { letra: 'D', texto: 'Eficiência.' },
+              { letra: 'E', texto: 'Publicidade.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A Súmula 473/STF consagra a AUTOTUTELA: a Administração pode anular seus atos ilegais ou revogá-los por conveniência, respeitados os direitos adquiridos.',
+            dificuldade: 'Média',
+            competencia: 'Súmula 473',
+            banca: 'IADES',
+            tags: ['Súmula 473', 'autotutela'],
+          },
+          {
+            id: 'da-q-3-9',
+            enunciado: 'No exercício do poder de polícia sanitária, o fiscal que interdita um estabelecimento por motivo de vingança pessoal, ainda que exista irregularidade sanitária, pratica:',
+            alternativas: [
+              { letra: 'A', texto: 'Ato regular de polícia.' },
+              { letra: 'B', texto: 'Excesso de poder.' },
+              { letra: 'C', texto: 'Desvio de poder.' },
+              { letra: 'D', texto: 'Ato vinculado legítimo.' },
+              { letra: 'E', texto: 'Exercício regular de direito.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Quando o agente usa sua competência para fim diverso do previsto (vingança pessoal em vez de proteção à saúde pública), há DESVIO DE PODER (vício de finalidade), mesmo que haja irregularidade.',
+            dificuldade: 'Média',
+            competencia: 'Desvio de poder',
+            banca: 'IADES',
+            tags: ['desvio de poder', 'vigilância sanitária'],
+          },
+          {
+            id: 'da-q-3-10',
+            enunciado: 'Sobre o mérito administrativo, é CORRETO afirmar que:',
+            alternativas: [
+              { letra: 'A', texto: 'Pode ser controlado amplamente pelo Poder Judiciário.' },
+              { letra: 'B', texto: 'Está presente em todos os atos administrativos.' },
+              { letra: 'C', texto: 'Refere-se ao juízo de conveniência e oportunidade nos atos discricionários.' },
+              { letra: 'D', texto: 'É sinônimo de legalidade do ato.' },
+              { letra: 'E', texto: 'Não sofre qualquer limitação.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O MÉRITO ADMINISTRATIVO é o juízo de conveniência e oportunidade presente nos atos DISCRICIONÁRIOS. O Judiciário NÃO pode controlar o mérito, apenas a legalidade.',
+            dificuldade: 'Média',
+            competencia: 'Mérito administrativo',
+            banca: 'IADES',
+            tags: ['mérito', 'discricionariedade'],
+          },
+        ],
+      },
+    },
   ],
 };

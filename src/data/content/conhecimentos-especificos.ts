@@ -1164,5 +1164,623 @@ A **Vigilância Sanitária** é parte integrante do SUS:
         ],
       },
     },
+    {
+      id: 'ce-topico-3',
+      numero: 3,
+      titulo: 'Vigilância em Saúde: vigilância epidemiológica, sanitária, ambiental e saúde do trabalhador',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Componentes da Vigilância em Saúde
+
+| Componente | Objeto | Ação Principal |
+|------------|--------|----------------|
+| **Vigilância Epidemiológica** | Doenças e agravos | Notificar, investigar, controlar |
+| **Vigilância Sanitária** | Produtos, serviços, ambientes | Regular, fiscalizar, punir |
+| **Vigilância Ambiental** | Fatores ambientais de risco | Monitorar, prevenir |
+| **Saúde do Trabalhador** | Riscos ocupacionais | Proteger, promover saúde |
+
+### Base Legal
+
+| Norma | Conteúdo |
+|-------|----------|
+| **Lei 8.080/1990, art. 6º** | Define vigilância em saúde no SUS |
+| **Lei 9.782/1999** | Cria ANVISA e SNVS |
+| **Lei 6.437/1977** | Infrações sanitárias e penalidades |
+| **Portaria GM/MS 1.378/2013** | Política Nacional de Vigilância em Saúde |
+
+### Para IADES:
+- Vigilância Epidemiológica = DOENÇAS (notificação compulsória)
+- Vigilância Sanitária = PRODUTOS e SERVIÇOS (poder de polícia)
+- Vigilância Ambiental = AMBIENTE (água, ar, solo)
+- Saúde do Trabalhador = TRABALHO (acidentes, doenças ocupacionais)
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Vigilância em Saúde: Conceito
+
+A **Vigilância em Saúde** é um conjunto de ações que proporcionam o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes da saúde individual ou coletiva.
+
+#### 1.1 Base Legal
+
+**Lei 8.080/1990, art. 6º:**
+> Define o campo de atuação do SUS, incluindo a vigilância em saúde.
+
+**Portaria GM/MS 1.378/2013:**
+> Estabelece a Política Nacional de Vigilância em Saúde (PNVS).
+
+#### 1.2 Componentes
+
+| Componente | Foco |
+|------------|------|
+| **Vigilância Epidemiológica** | Doenças e agravos |
+| **Vigilância Sanitária** | Produtos, serviços, ambientes |
+| **Vigilância Ambiental** | Fatores ambientais |
+| **Saúde do Trabalhador** | Riscos ocupacionais |
+| **Vigilância Situacional** | Análise de situação de saúde |
+
+### 2. Vigilância Epidemiológica
+
+#### 2.1 Conceito (Lei 8.080/1990, art. 6º, §2º)
+
+> "Conjunto de ações que proporcionam o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes de saúde individual ou coletiva, com a finalidade de recomendar e adotar as medidas de prevenção e controle das doenças ou agravos."
+
+#### 2.2 Funções
+
+| Função | Descrição |
+|--------|-----------|
+| **Coleta de dados** | Notificação, busca ativa |
+| **Processamento** | Consolidação, análise |
+| **Análise e interpretação** | Indicadores, tendências |
+| **Recomendação** | Medidas de controle |
+| **Promoção de ações** | Prevenção e controle |
+| **Divulgação** | Informes, boletins |
+| **Avaliação** | Eficácia das medidas |
+
+#### 2.3 Notificação Compulsória
+
+**Doenças de Notificação Compulsória (DNC):**
+Lista definida pelo Ministério da Saúde (Portaria de Consolidação nº 4/2017).
+
+| Tipo | Prazo | Exemplos |
+|------|-------|----------|
+| **Imediata (até 24h)** | 24 horas | Sarampo, dengue grave, óbito materno |
+| **Semanal** | Semana epidemiológica | Dengue, tuberculose, hanseníase |
+
+**Quem deve notificar:**
+- Profissionais de saúde
+- Responsáveis por estabelecimentos de saúde
+- Cidadãos (opcionalmente)
+
+#### 2.4 Investigação Epidemiológica
+
+**Objetivo:** Identificar fonte de infecção e modo de transmissão para adotar medidas de controle.
+
+**Etapas:**
+1. Coleta de dados sobre o caso
+2. Busca de casos secundários
+3. Análise dos dados
+4. Medidas de controle
+5. Encerramento e relatório
+
+#### 2.5 Sistemas de Informação
+
+| Sistema | Sigla | Função |
+|---------|-------|--------|
+| Sistema de Informação de Agravos de Notificação | **SINAN** | Notificação e investigação de doenças |
+| Sistema de Informação sobre Mortalidade | **SIM** | Óbitos |
+| Sistema de Informações sobre Nascidos Vivos | **SINASC** | Nascimentos |
+| Sistema de Informações Hospitalares | **SIH** | Internações |
+
+### 3. Vigilância Sanitária
+
+#### 3.1 Conceito (Lei 8.080/1990, art. 6º, §1º)
+
+> "Entende-se por vigilância sanitária um conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde."
+
+#### 3.2 Abrangência
+
+**Produtos:**
+- Medicamentos
+- Alimentos
+- Cosméticos
+- Saneantes
+- Equipamentos médicos
+
+**Serviços:**
+- Hospitais, clínicas
+- Laboratórios
+- Farmácias
+- Estabelecimentos de alimentação
+- Salões de beleza
+
+**Ambientes:**
+- Locais de trabalho
+- Espaços públicos
+- Portos, aeroportos, fronteiras
+
+#### 3.3 Sistema Nacional de Vigilância Sanitária (SNVS)
+
+| Nível | Órgão | Competências |
+|-------|-------|--------------|
+| **Federal** | ANVISA | Coordenar, normatizar, fiscalizar em âmbito nacional |
+| **Estadual** | VISA Estadual (SES) | Complementar, fiscalizar, coordenar regionalmente |
+| **Municipal** | VISA Municipal (SMS) | Executar ações locais, fiscalizar |
+
+#### 3.4 ANVISA
+
+**Agência Nacional de Vigilância Sanitária:**
+- Criada pela **Lei 9.782/1999**
+- **Autarquia** federal sob regime especial
+- Vinculada ao Ministério da Saúde
+- Autonomia administrativa e financeira
+- Mandato fixo de dirigentes
+
+**Competências:**
+- Registro de produtos
+- Autorização de funcionamento
+- Inspeção e fiscalização
+- Normatização (RDCs)
+- Controle de portos e aeroportos
+
+#### 3.5 Poder de Polícia Sanitária
+
+A VISA exerce **poder de polícia administrativa** para:
+- Licenciar estabelecimentos
+- Fiscalizar condições sanitárias
+- Aplicar sanções (advertência, multa, apreensão, interdição)
+- Inutilizar produtos
+
+**Base legal:** Lei 6.437/1977 (infrações sanitárias).
+
+#### 3.6 Infrações e Penalidades (Lei 6.437/1977)
+
+| Penalidade | Descrição |
+|------------|-----------|
+| **Advertência** | Infração leve, primeira vez |
+| **Multa** | Valores atualizados periodicamente |
+| **Apreensão** | Produtos irregulares |
+| **Inutilização** | Destruição de produtos |
+| **Interdição** | Suspensão de funcionamento |
+| **Cancelamento de registro** | Produto ou empresa |
+| **Proibição de propaganda** | Publicidade irregular |
+
+#### 3.7 Alvará Sanitário
+
+**Licença Sanitária** ou **Alvará de Funcionamento:**
+- Documento que autoriza funcionamento
+- Emitido pela VISA local
+- Renovação periódica
+- Condicionado ao cumprimento de normas
+
+### 4. Vigilância Ambiental em Saúde
+
+#### 4.1 Conceito
+
+Conjunto de ações que proporcionam o conhecimento e a detecção de mudanças nos fatores determinantes e condicionantes do meio ambiente que interferem na saúde humana.
+
+#### 4.2 Áreas de Atuação
+
+| Área | Objeto |
+|------|--------|
+| **Qualidade da água** | Água para consumo humano (VIGIAGUA) |
+| **Qualidade do ar** | Poluição atmosférica (VIGIAR) |
+| **Qualidade do solo** | Contaminação (VIGISOLO) |
+| **Desastres naturais** | Inundações, secas (VIGIDESASTRES) |
+| **Substâncias químicas** | Produtos perigosos (VIGIQUIM) |
+
+#### 4.3 VIGIAGUA
+
+Programa Nacional de Vigilância da Qualidade da Água para Consumo Humano.
+
+**Ações:**
+- Monitoramento da qualidade
+- Controle de doenças de veiculação hídrica
+- Fiscalização de sistemas de abastecimento
+
+**Parâmetros:**
+- Coliformes totais e E. coli
+- Cloro residual
+- Turbidez
+- Fluoreto
+
+### 5. Saúde do Trabalhador
+
+#### 5.1 Conceito (Lei 8.080/1990, art. 6º, §3º)
+
+> "Entende-se por saúde do trabalhador, para fins desta lei, um conjunto de atividades que se destina, através das ações de vigilância epidemiológica e vigilância sanitária, à promoção e proteção da saúde dos trabalhadores, assim como visa à recuperação e reabilitação da saúde dos trabalhadores submetidos aos riscos e agravos advindos das condições de trabalho."
+
+#### 5.2 Abrangência
+
+- **Todos os trabalhadores**: formais, informais, temporários, autônomos
+- Independente do vínculo empregatício
+- Inclui desempregados e aposentados
+
+#### 5.3 Rede Nacional de Atenção Integral à Saúde do Trabalhador (RENAST)
+
+| Componente | Função |
+|------------|--------|
+| **CEREST** (Centro de Referência) | Suporte técnico, educação, fiscalização |
+| **Atenção Básica** | Identificação, notificação |
+| **Hospitais/especialidades** | Atendimento de casos graves |
+
+#### 5.4 Agravos Relacionados ao Trabalho
+
+| Agravo | Descrição |
+|--------|-----------|
+| **Acidente de trabalho** | Lesão durante o trabalho |
+| **Doença ocupacional** | Causada pelo trabalho |
+| **Doença do trabalho** | Agravada pelo trabalho |
+| **LER/DORT** | Lesões por esforço repetitivo |
+| **Perda auditiva** | Exposição a ruído |
+| **Intoxicações** | Agrotóxicos, químicos |
+| **Pneumoconioses** | Inalação de poeiras |
+
+#### 5.5 Notificação no SINAN
+
+Agravos de notificação compulsória relacionados ao trabalho:
+- Acidente de trabalho (grave, fatal, em menores)
+- Acidente com exposição a material biológico
+- Intoxicação por agrotóxicos
+- LER/DORT
+- Perda auditiva induzida por ruído (PAIR)
+- Pneumoconioses
+- Câncer relacionado ao trabalho
+
+### 6. Integração das Vigilâncias
+
+#### 6.1 Atuação Integrada
+
+As vigilâncias devem atuar de forma **integrada**, pois:
+- Mesmos determinantes de saúde
+- Ações complementares
+- Territorialização comum
+- Base de dados compartilhada
+
+#### 6.2 Exemplos de Integração
+
+| Situação | Vigilâncias Envolvidas |
+|----------|------------------------|
+| Surto de intoxicação alimentar | Epidemiológica + Sanitária |
+| Dengue | Epidemiológica + Ambiental |
+| Acidente com produto químico | Ambiental + Saúde do Trabalhador |
+| Tuberculose em trabalhadores | Epidemiológica + Saúde do Trabalhador |
+        `,
+
+        pontosChave: [
+          'Vigilância em Saúde = Epidemiológica + Sanitária + Ambiental + Saúde do Trabalhador',
+          'Vigilância Epidemiológica: doenças e agravos, notificação compulsória, SINAN',
+          'Vigilância Sanitária: produtos, serviços, ambientes - poder de polícia',
+          'ANVISA: autarquia federal, Lei 9.782/1999, coordena o SNVS',
+          'Vigilância Ambiental: água (VIGIAGUA), ar (VIGIAR), solo (VIGISOLO)',
+          'Saúde do Trabalhador: TODOS os trabalhadores, CEREST, RENAST',
+          'Lei 6.437/1977: infrações sanitárias e penalidades',
+          'Notificação compulsória: imediata (24h) ou semanal, SINAN',
+          'SNVS: ANVISA (federal) + VISA estadual + VISA municipal',
+          'As vigilâncias devem atuar de forma INTEGRADA',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir vigilância epidemiológica com sanitária',
+            descricao: 'Epidemiológica = DOENÇAS e agravos. Sanitária = PRODUTOS, serviços e ambientes.',
+            dica: 'Epidemiológica = EPIdemia (doença). Sanitária = SANidade de produtos/serviços.',
+          },
+          {
+            titulo: 'Achar que saúde do trabalhador é só para trabalhadores formais',
+            descricao: 'A saúde do trabalhador abrange TODOS: formais, informais, autônomos, temporários.',
+            dica: 'Saúde do Trabalhador = UNIVERSAL, independente do vínculo.',
+          },
+          {
+            titulo: 'Esquecer que VISA tem poder de polícia',
+            descricao: 'A Vigilância Sanitária exerce poder de POLÍCIA ADMINISTRATIVA: licencia, fiscaliza, pune.',
+            dica: 'VISA = pode interditar, multar, apreender, cancelar registro.',
+          },
+          {
+            titulo: 'Confundir SNVS com SUS',
+            descricao: 'SNVS = Sistema Nacional de Vigilância SANITÁRIA. SUS = Sistema Único de SAÚDE.',
+            dica: 'SNVS está dentro do SUS, mas é específico para vigilância sanitária.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'VESA-T',
+            significado: 'Vigilância Epidemiológica, Sanitária, Ambiental + Saúde do Trabalhador',
+            frase: 'Componentes da Vigilância em Saúde: VESA + T (trabalhador)',
+          },
+          {
+            termo: 'EPIdemia-SANidade',
+            significado: 'Epidemiológica = doenças (epidemias); Sanitária = sanidade de produtos',
+            frase: 'EPI para doenças, SAN para produtos',
+          },
+          {
+            termo: 'ANVISA-9782',
+            significado: 'ANVISA criada pela Lei 9.782/1999',
+            frase: '9-7-82 → 1999 (inverte) = Lei da ANVISA',
+          },
+          {
+            termo: 'VIGI-AAA',
+            significado: 'VIGIAGUA (água), VIGIAR (ar), VIGISOLO (solo)',
+            frase: 'Vigilância Ambiental: Água, Ar, Área (solo)',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-3-1',
+            frente: 'Quais são os quatro componentes da Vigilância em Saúde?',
+            verso: '**1. Vigilância EPIDEMIOLÓGICA**\n→ Doenças e agravos\n\n**2. Vigilância SANITÁRIA**\n→ Produtos, serviços, ambientes\n\n**3. Vigilância AMBIENTAL**\n→ Água, ar, solo\n\n**4. Saúde do TRABALHADOR**\n→ Riscos ocupacionais',
+            tags: ['vigilância', 'componentes'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-3-2',
+            frente: 'O que é Vigilância Epidemiológica?',
+            verso: 'Conjunto de ações para **conhecer, detectar e prevenir** mudanças nos fatores de saúde individual/coletiva.\n\nFoco: **DOENÇAS e AGRAVOS**\n\nAções: notificação, investigação, controle.\n\nSistema: SINAN',
+            tags: ['vigilância epidemiológica', 'conceito'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-3-3',
+            frente: 'O que é Vigilância Sanitária?',
+            verso: 'Conjunto de ações para **eliminar, diminuir ou prevenir riscos** decorrentes de:\n\n- Meio ambiente\n- Produção e circulação de BENS\n- Prestação de SERVIÇOS\n\nExerce **poder de polícia**: licencia, fiscaliza, pune.',
+            tags: ['vigilância sanitária', 'conceito'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-3-4',
+            frente: 'O que é a ANVISA e qual lei a criou?',
+            verso: '**ANVISA** = Agência Nacional de Vigilância Sanitária\n\n- Criada pela **Lei 9.782/1999**\n- **Autarquia** sob regime especial\n- Coordena o **SNVS**\n- Vinculada ao Ministério da Saúde\n\nCompetências: registro, fiscalização, normatização.',
+            tags: ['ANVISA', 'legislação'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-3-5',
+            frente: 'Quais são as penalidades previstas na Lei 6.437/1977?',
+            verso: '**Infrações Sanitárias:**\n\n- Advertência\n- **Multa**\n- **Apreensão** de produto\n- **Inutilização** de produto\n- **Interdição** de estabelecimento\n- Cancelamento de registro\n- Proibição de propaganda',
+            tags: ['penalidades', 'Lei 6.437'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-3-6',
+            frente: 'O que é o SINAN?',
+            verso: '**SINAN** = Sistema de Informação de Agravos de Notificação\n\nFunção: registrar doenças e agravos de **notificação compulsória**.\n\nNotificação:\n- **Imediata**: até 24h (sarampo, dengue grave)\n- **Semanal**: até final da semana epidemiológica',
+            tags: ['SINAN', 'notificação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-3-7',
+            frente: 'Quais são os programas de Vigilância Ambiental?',
+            verso: '**Vigilância Ambiental:**\n\n- **VIGIAGUA**: água para consumo\n- **VIGIAR**: qualidade do ar\n- **VIGISOLO**: contaminação do solo\n- **VIGIDESASTRES**: desastres naturais\n- **VIGIQUIM**: substâncias químicas',
+            tags: ['vigilância ambiental', 'programas'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-3-8',
+            frente: 'O que é a RENAST e o CEREST?',
+            verso: '**RENAST** = Rede Nacional de Atenção Integral à Saúde do Trabalhador\n\n**CEREST** = Centro de Referência em Saúde do Trabalhador\n\nFunções do CEREST:\n- Suporte técnico\n- Educação permanente\n- Apoio a fiscalização\n- Atendimento de casos',
+            tags: ['saúde do trabalhador', 'RENAST'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-3-1',
+            enunciado: 'São componentes da Vigilância em Saúde, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'Vigilância Epidemiológica.' },
+              { letra: 'B', texto: 'Vigilância Sanitária.' },
+              { letra: 'C', texto: 'Vigilância Ambiental em Saúde.' },
+              { letra: 'D', texto: 'Saúde do Trabalhador.' },
+              { letra: 'E', texto: 'Vigilância Financeira.' },
+            ],
+            gabarito: 'E',
+            justificativa: 'Os componentes da Vigilância em Saúde são: Vigilância Epidemiológica, Vigilância Sanitária, Vigilância Ambiental e Saúde do Trabalhador. Não existe "Vigilância Financeira" no campo da saúde.',
+            dificuldade: 'Fácil',
+            competencia: 'Componentes da Vigilância em Saúde',
+            banca: 'IADES',
+            tags: ['vigilância', 'componentes'],
+          },
+          {
+            id: 'ce-q-3-2',
+            enunciado: 'A Vigilância Sanitária tem como objeto de atuação:',
+            alternativas: [
+              { letra: 'A', texto: 'Apenas doenças transmissíveis.' },
+              { letra: 'B', texto: 'Produtos, serviços e ambientes de interesse da saúde.' },
+              { letra: 'C', texto: 'Exclusivamente medicamentos.' },
+              { letra: 'D', texto: 'Apenas estabelecimentos hospitalares.' },
+              { letra: 'E', texto: 'Somente qualidade da água.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A Vigilância Sanitária atua sobre PRODUTOS (medicamentos, alimentos, cosméticos), SERVIÇOS (hospitais, clínicas, laboratórios) e AMBIENTES (locais de trabalho, espaços públicos).',
+            dificuldade: 'Fácil',
+            competencia: 'Objeto da Vigilância Sanitária',
+            banca: 'IADES',
+            tags: ['vigilância sanitária', 'abrangência'],
+          },
+          {
+            id: 'ce-q-3-3',
+            enunciado: 'A Lei 9.782/1999 criou qual órgão do Sistema Nacional de Vigilância Sanitária?',
+            alternativas: [
+              { letra: 'A', texto: 'Ministério da Saúde.' },
+              { letra: 'B', texto: 'Secretarias Estaduais de Saúde.' },
+              { letra: 'C', texto: 'Agência Nacional de Vigilância Sanitária (ANVISA).' },
+              { letra: 'D', texto: 'Conselho Nacional de Saúde.' },
+              { letra: 'E', texto: 'Fundo Nacional de Saúde.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A Lei 9.782/1999 define o Sistema Nacional de Vigilância Sanitária (SNVS) e cria a ANVISA como autarquia federal sob regime especial, vinculada ao Ministério da Saúde.',
+            dificuldade: 'Fácil',
+            competencia: 'Legislação ANVISA',
+            banca: 'IADES',
+            tags: ['ANVISA', 'Lei 9.782'],
+          },
+          {
+            id: 'ce-q-3-4',
+            enunciado: 'O Sistema de Informação de Agravos de Notificação (SINAN) é utilizado para:',
+            alternativas: [
+              { letra: 'A', texto: 'Registrar procedimentos hospitalares.' },
+              { letra: 'B', texto: 'Controlar o estoque de medicamentos.' },
+              { letra: 'C', texto: 'Registrar doenças e agravos de notificação compulsória.' },
+              { letra: 'D', texto: 'Cadastrar profissionais de saúde.' },
+              { letra: 'E', texto: 'Controlar transferências financeiras.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O SINAN é o sistema da Vigilância Epidemiológica utilizado para registro e investigação de DOENÇAS e AGRAVOS de notificação compulsória.',
+            dificuldade: 'Fácil',
+            competencia: 'SINAN',
+            banca: 'IADES',
+            tags: ['SINAN', 'vigilância epidemiológica'],
+          },
+          {
+            id: 'ce-q-3-5',
+            enunciado: 'A Lei 6.437/1977 dispõe sobre:',
+            alternativas: [
+              { letra: 'A', texto: 'Organização do SUS.' },
+              { letra: 'B', texto: 'Criação da ANVISA.' },
+              { letra: 'C', texto: 'Infrações à legislação sanitária e suas penalidades.' },
+              { letra: 'D', texto: 'Participação da comunidade na saúde.' },
+              { letra: 'E', texto: 'Financiamento da saúde pública.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A Lei 6.437/1977 configura INFRAÇÕES à legislação sanitária federal e estabelece as PENALIDADES: advertência, multa, apreensão, inutilização, interdição, entre outras.',
+            dificuldade: 'Fácil',
+            competencia: 'Lei 6.437/1977',
+            banca: 'IADES',
+            tags: ['infrações', 'penalidades'],
+          },
+          {
+            id: 'ce-q-3-6',
+            enunciado: 'O programa VIGIAGUA tem como objetivo monitorar:',
+            alternativas: [
+              { letra: 'A', texto: 'A qualidade do ar nas cidades.' },
+              { letra: 'B', texto: 'A qualidade da água para consumo humano.' },
+              { letra: 'C', texto: 'As condições de trabalho nas indústrias.' },
+              { letra: 'D', texto: 'A contaminação do solo urbano.' },
+              { letra: 'E', texto: 'Os surtos de doenças transmissíveis.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O VIGIAGUA é o Programa Nacional de Vigilância da Qualidade da Água para Consumo Humano, que monitora parâmetros como coliformes, cloro residual, turbidez e fluoreto.',
+            dificuldade: 'Fácil',
+            competencia: 'VIGIAGUA',
+            banca: 'IADES',
+            tags: ['vigilância ambiental', 'água'],
+          },
+          {
+            id: 'ce-q-3-7',
+            enunciado: 'A Saúde do Trabalhador, conforme a Lei 8.080/1990, abrange:',
+            alternativas: [
+              { letra: 'A', texto: 'Apenas trabalhadores com carteira assinada.' },
+              { letra: 'B', texto: 'Somente trabalhadores da área da saúde.' },
+              { letra: 'C', texto: 'Todos os trabalhadores, independentemente do vínculo empregatício.' },
+              { letra: 'D', texto: 'Apenas servidores públicos.' },
+              { letra: 'E', texto: 'Somente trabalhadores da indústria.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A Saúde do Trabalhador abrange TODOS os trabalhadores: formais, informais, autônomos, temporários, domésticos, rurais, urbanos, independentemente do vínculo empregatício.',
+            dificuldade: 'Fácil',
+            competencia: 'Saúde do Trabalhador',
+            banca: 'IADES',
+            tags: ['saúde do trabalhador', 'abrangência'],
+          },
+          {
+            id: 'ce-q-3-8',
+            enunciado: 'O CEREST (Centro de Referência em Saúde do Trabalhador) tem como função:',
+            alternativas: [
+              { letra: 'A', texto: 'Registrar nascimentos e óbitos.' },
+              { letra: 'B', texto: 'Emitir alvarás sanitários para empresas.' },
+              { letra: 'C', texto: 'Prestar suporte técnico e educação permanente em saúde do trabalhador.' },
+              { letra: 'D', texto: 'Controlar a qualidade da água.' },
+              { letra: 'E', texto: 'Fiscalizar estabelecimentos de alimentação.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O CEREST é parte da RENAST e tem como funções: suporte técnico à rede de saúde, educação permanente, apoio a ações de vigilância e atendimento de casos de doenças relacionadas ao trabalho.',
+            dificuldade: 'Média',
+            competencia: 'CEREST',
+            banca: 'IADES',
+            tags: ['CEREST', 'RENAST'],
+          },
+          {
+            id: 'ce-q-3-9',
+            enunciado: 'A Vigilância Sanitária exerce o chamado poder de polícia sanitária, que inclui:',
+            alternativas: [
+              { letra: 'A', texto: 'Apenas ações educativas.' },
+              { letra: 'B', texto: 'Licenciamento, fiscalização e aplicação de penalidades.' },
+              { letra: 'C', texto: 'Somente registro de medicamentos.' },
+              { letra: 'D', texto: 'Apenas investigação de surtos.' },
+              { letra: 'E', texto: 'Exclusivamente controle de fronteiras.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O poder de polícia sanitária permite à VISA: licenciar estabelecimentos, fiscalizar condições sanitárias e aplicar PENALIDADES (advertência, multa, apreensão, interdição, cancelamento de registro).',
+            dificuldade: 'Fácil',
+            competencia: 'Poder de polícia',
+            banca: 'IADES',
+            tags: ['vigilância sanitária', 'poder de polícia'],
+          },
+          {
+            id: 'ce-q-3-10',
+            enunciado: 'A notificação compulsória de doenças é uma atividade típica da:',
+            alternativas: [
+              { letra: 'A', texto: 'Vigilância Sanitária.' },
+              { letra: 'B', texto: 'Vigilância Epidemiológica.' },
+              { letra: 'C', texto: 'Vigilância Ambiental.' },
+              { letra: 'D', texto: 'Assistência farmacêutica.' },
+              { letra: 'E', texto: 'Atenção hospitalar.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A NOTIFICAÇÃO COMPULSÓRIA de doenças e agravos é atividade da VIGILÂNCIA EPIDEMIOLÓGICA, registrada no SINAN. A Vigilância Sanitária atua sobre produtos e serviços, não sobre doenças.',
+            dificuldade: 'Fácil',
+            competencia: 'Vigilância Epidemiológica',
+            banca: 'IADES',
+            tags: ['notificação', 'vigilância epidemiológica'],
+          },
+        ],
+      },
+    },
   ],
 };

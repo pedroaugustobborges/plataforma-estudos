@@ -1032,5 +1032,586 @@ A modernização agrícola intensificou a concentração de terras:
         ],
       },
     },
+    {
+      id: 'go-topico-3',
+      numero: 3,
+      titulo: 'A população goiana: povoamento, movimentos migratórios e densidade demográfica',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Dados Populacionais de Goiás (Censo 2022)
+
+| Dado | Valor |
+|------|-------|
+| **População total** | ~7,1 milhões de habitantes |
+| **Posição nacional** | 12º estado mais populoso |
+| **Densidade demográfica** | ~20,8 hab/km² |
+| **Taxa de urbanização** | ~92% |
+| **Área territorial** | ~340.086 km² |
+
+### Fases do Povoamento
+
+| Período | Fase | Característica |
+|---------|------|----------------|
+| Séc. XVIII | **Mineração** | Povoamento inicial pelo ouro |
+| Séc. XIX | **Agropecuária** | Expansão para áreas rurais |
+| Séc. XX | **Urbanização** | Goiânia, Brasília, modernização |
+| Séc. XXI | **Metropolização** | Concentração na RM Goiânia |
+
+### Para IADES:
+- Goiás: 12º estado mais populoso
+- Densidade baixa (~20 hab/km²) comparada à média nacional (~23)
+- Maior concentração: RM Goiânia e Entorno do DF
+- Migrantes: Sul (agricultura), Nordeste (mão de obra urbana)
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Evolução Histórica do Povoamento
+
+#### 1.1 Período Pré-Colonial
+- Território habitado por povos indígenas
+- Principais grupos: Kayapó, Xavante, Karajá, Avá-Canoeiro
+- Economia de caça, pesca e agricultura de subsistência
+
+#### 1.2 Povoamento Colonial (Século XVIII)
+
+**A Mineração como Vetor de Ocupação:**
+- **1722**: Descoberta do ouro por Anhanguera (filho)
+- Formação dos primeiros arraiais: Sant'Anna (Cidade de Goiás), Pirenópolis, Meia Ponte
+- Povoamento desordenado seguindo veios de ouro
+
+**Composição populacional:**
+| Grupo | Origem | Função |
+|-------|--------|--------|
+| Portugueses | Europa | Mineradores, administradores |
+| Africanos escravizados | África | Trabalho forçado nas minas |
+| Mestiços | Local | Diversas atividades |
+| Indígenas | Local | Aldeamentos, trabalho |
+
+**Características:**
+- População concentrada nos núcleos mineradores
+- Alta mortalidade, baixa natalidade
+- Declínio populacional com esgotamento do ouro (fim séc. XVIII)
+
+#### 1.3 Período Imperial e República Velha (Séculos XIX-XX)
+
+**Transição para a Agropecuária:**
+- Decadência da mineração → êxodo
+- Pecuária extensiva como nova base econômica
+- Povoamento mais disperso (grandes fazendas)
+- Isolamento geográfico
+
+**População:**
+| Ano | População estimada |
+|-----|-------------------|
+| 1804 | ~50.000 |
+| 1872 | ~160.000 |
+| 1900 | ~255.000 |
+| 1920 | ~511.000 |
+
+### 2. Movimentos Migratórios
+
+#### 2.1 Fluxos Históricos
+
+**Século XX - Primeiros grandes fluxos:**
+
+| Período | Origem | Destino | Motivação |
+|---------|--------|---------|-----------|
+| 1930s | Nordeste, MG | Goiânia | Construção da nova capital |
+| 1950s-60s | Brasil | Entorno | Construção de Brasília |
+| 1970s-80s | Sul | Interior | Fronteira agrícola |
+| 1990s+ | Nordeste | RM Goiânia | Emprego urbano |
+
+#### 2.2 Migração Sulista (1970-1990)
+
+**Características:**
+- Agricultores do RS, SC, PR
+- Experiência em agricultura mecanizada
+- Atraídos por terras baratas no Cerrado
+- Programas governamentais (POLOCENTRO, PRODECER)
+
+**Impactos:**
+- Modernização agrícola
+- Concentração fundiária
+- Transformação cultural do interior
+- Desenvolvimento do Sudoeste Goiano (Rio Verde, Jataí)
+
+#### 2.3 Migração Nordestina
+
+**Características:**
+- Principalmente de BA, PI, MA, CE
+- Mão de obra para construção civil e serviços
+- Destino: áreas urbanas (Goiânia, Anápolis, Entorno)
+
+**Impactos:**
+- Crescimento das periferias urbanas
+- Diversidade cultural
+- Pressão por serviços públicos
+
+#### 2.4 Migração para o Entorno do DF
+
+**Características peculiares:**
+- Crescimento explosivo após 1980
+- Cidades-dormitório
+- Dependência econômica de Brasília
+- Problemas sociais (violência, infraestrutura)
+
+**Municípios mais afetados:**
+- Luziânia, Valparaíso de Goiás, Águas Lindas de Goiás, Novo Gama
+
+### 3. Densidade Demográfica
+
+#### 3.1 Conceito
+
+**Densidade demográfica** = População / Área
+> Mede a concentração populacional por km²
+
+#### 3.2 Densidade de Goiás
+
+| Dado | Valor |
+|------|-------|
+| **População (2022)** | ~7,1 milhões |
+| **Área** | ~340.086 km² |
+| **Densidade** | ~20,8 hab/km² |
+| **Comparação Brasil** | ~23,8 hab/km² |
+
+#### 3.3 Distribuição Espacial
+
+**Regiões mais densas:**
+| Região | Densidade | Característica |
+|--------|-----------|----------------|
+| RM Goiânia | >300 hab/km² | Maior concentração |
+| Entorno do DF | >100 hab/km² | Cidades-dormitório |
+| Sudeste Goiano | Média | Catalão, industrialização |
+| Sudoeste Goiano | Média-baixa | Agronegócio |
+| Norte Goiano | <5 hab/km² | Menor densidade |
+
+**Fatores de concentração:**
+1. Eixo Goiânia-Anápolis-Brasília
+2. Proximidade com o DF
+3. Áreas agroindustriais
+4. Infraestrutura de transportes
+
+### 4. Composição da População
+
+#### 4.1 Por Sexo
+- Equilíbrio, leve predomínio feminino nas áreas urbanas
+- Predomínio masculino em áreas rurais agrícolas
+
+#### 4.2 Por Faixa Etária
+**Pirâmide em transição:**
+- Diminuição da base (menos jovens)
+- Aumento do topo (envelhecimento)
+- Bônus demográfico atual
+
+#### 4.3 Por Raça/Cor (IBGE)
+| Categoria | Percentual aproximado |
+|-----------|----------------------|
+| Pardos | ~50% |
+| Brancos | ~40% |
+| Pretos | ~8% |
+| Indígenas e outros | ~2% |
+
+### 5. Características Regionais
+
+#### 5.1 Região Metropolitana de Goiânia
+
+| Aspecto | Dados |
+|---------|-------|
+| **População** | ~2,7 milhões |
+| **Municípios** | 21 |
+| **Criação** | 1999 |
+| **Característica** | Maior concentração do estado |
+
+**Principais municípios:**
+1. Goiânia (~1,4 milhão)
+2. Aparecida de Goiânia (~590 mil)
+3. Anápolis (~400 mil)
+4. Senador Canedo (~120 mil)
+5. Trindade (~130 mil)
+
+#### 5.2 Entorno do Distrito Federal (RIDE)
+
+| Aspecto | Dados |
+|---------|-------|
+| **População goiana** | ~1,2 milhão |
+| **Municípios GO** | 20 |
+| **Característica** | Cidades-dormitório |
+
+**Municípios mais populosos:**
+- Luziânia, Valparaíso de Goiás, Águas Lindas de Goiás
+
+#### 5.3 Interior
+
+**Polo Sudoeste:**
+- Rio Verde, Jataí, Mineiros
+- Agronegócio, agroindústria
+- Crescimento populacional
+
+**Polo Sudeste:**
+- Catalão, Ipameri
+- Mineração e indústria
+
+### 6. Tendências Demográficas
+
+#### 6.1 Urbanização
+- 92% da população em áreas urbanas
+- Continuidade do êxodo rural
+- Verticalização nas grandes cidades
+
+#### 6.2 Envelhecimento
+- Aumento da expectativa de vida
+- Diminuição da taxa de fecundidade
+- Desafios para previdência e saúde
+
+#### 6.3 Redistribuição
+- Crescimento de cidades médias
+- Desconcentração relativa da capital
+- Fortalecimento de polos regionais
+
+### 7. Povos Tradicionais
+
+#### 7.1 Comunidades Quilombolas
+- Kalunga (maior quilombo do Brasil)
+- Localização: nordeste goiano (Cavalcante, Teresina, Monte Alegre)
+- ~8.000 pessoas
+- Reconhecimento: Constituição de 1988
+
+#### 7.2 Comunidades Indígenas
+- Populações reduzidas
+- Terras indígenas demarcadas
+- Grupos: Avá-Canoeiro, Tapuia, Karajá
+        `,
+
+        pontosChave: [
+          'Goiás: ~7,1 milhões de habitantes (Censo 2022), 12º estado mais populoso',
+          'Densidade demográfica: ~20,8 hab/km² (menor que a média nacional)',
+          'Taxa de urbanização: ~92% (população predominantemente urbana)',
+          'Povoamento inicial: mineração séc. XVIII (Anhanguera, 1722)',
+          'Migração sulista (1970s): modernização agrícola, fronteira agrícola',
+          'Migração nordestina: mão de obra urbana, Goiânia e Entorno',
+          'RM Goiânia: ~2,7 milhões, maior concentração populacional',
+          'Entorno do DF: crescimento explosivo, cidades-dormitório',
+          'Kalunga: maior comunidade quilombola do Brasil (nordeste goiano)',
+          'Tendência: urbanização crescente, envelhecimento, crescimento de cidades médias',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir densidade com população total',
+            descricao: 'Goiás tem população grande (~7 milhões), mas densidade BAIXA (~20 hab/km²) devido à grande área.',
+            dica: 'Densidade = população/área. Goiás é grande, por isso a densidade é baixa.',
+          },
+          {
+            titulo: 'Errar a posição de Goiás no ranking populacional',
+            descricao: 'Goiás é o 12º estado mais populoso, não está entre os 10 maiores.',
+            dica: 'SP, MG, RJ, BA, PR, RS, PE, CE, PA, SC, MA vêm antes de GO.',
+          },
+          {
+            titulo: 'Achar que o Norte goiano é densamente povoado',
+            descricao: 'O Norte goiano tem a MENOR densidade do estado (<5 hab/km²).',
+            dica: 'Maior concentração está no eixo Goiânia-Anápolis-Brasília.',
+          },
+          {
+            titulo: 'Confundir RIDE com RM Goiânia',
+            descricao: 'RIDE é o Entorno do DF (inclui GO, MG e DF). RM Goiânia é exclusivamente goiana.',
+            dica: 'RIDE = região em torno de Brasília. RM Goiânia = em torno de Goiânia.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: '7-20-92',
+            significado: '7 milhões de habitantes, 20 hab/km², 92% urbano',
+            frase: 'Goiás: 7 milhões, 20 de densidade, 92% urbano',
+          },
+          {
+            termo: 'SNEG',
+            significado: 'Sul (agricultura), Nordeste (urbano), Entorno (dormitório), Goiânia (concentração)',
+            frase: 'Migrações em Goiás: SNEG define os fluxos',
+          },
+          {
+            termo: 'KAL',
+            significado: 'Kalunga = maior quilombo do Brasil',
+            frase: 'KALunga = quilombo no nordeste goiano',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'go-fc-3-1',
+            frente: 'Qual a população e a densidade demográfica de Goiás (Censo 2022)?',
+            verso: '**População:** ~7,1 milhões de habitantes\n\n**Densidade:** ~20,8 hab/km²\n\n**Comparação:** Menor que a média nacional (~23,8 hab/km²)\n\n**Posição:** 12º estado mais populoso',
+            tags: ['população', 'densidade'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-3-2',
+            frente: 'Qual a taxa de urbanização de Goiás?',
+            verso: '**Aproximadamente 92%**\n\nIsso significa que apenas ~8% da população vive em áreas rurais.\n\nFatores:\n- Mecanização agrícola (êxodo rural)\n- Atração das cidades (emprego, serviços)\n- Concentração na RM Goiânia',
+            tags: ['urbanização', 'população'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-3-3',
+            frente: 'Como foi a migração sulista para Goiás?',
+            verso: '**Período:** 1970-1990\n\n**Origem:** RS, SC, PR\n\n**Destino:** Interior (Sudoeste Goiano)\n\n**Motivação:**\n- Terras baratas no Cerrado\n- Programas governamentais\n- Expansão da fronteira agrícola\n\n**Impacto:** Modernização agrícola',
+            tags: ['migração', 'sul'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-3-4',
+            frente: 'Quais são as características do Entorno do DF?',
+            verso: '**Características:**\n- Crescimento explosivo pós-1980\n- Cidades-dormitório\n- Dependência de Brasília\n- Problemas de infraestrutura\n\n**Municípios:**\n- Luziânia\n- Valparaíso de Goiás\n- Águas Lindas de Goiás\n- Novo Gama',
+            tags: ['Entorno', 'migração'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-3-5',
+            frente: 'O que é a comunidade Kalunga?',
+            verso: '**Kalunga:**\n- **MAIOR comunidade quilombola do Brasil**\n- Localização: Nordeste goiano\n- Municípios: Cavalcante, Teresina de Goiás, Monte Alegre\n- População: ~8.000 pessoas\n- Reconhecimento: CF/1988',
+            tags: ['Kalunga', 'quilombo'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-3-6',
+            frente: 'Qual a região de maior concentração populacional em Goiás?',
+            verso: '**Região Metropolitana de Goiânia:**\n\n- ~2,7 milhões de habitantes\n- ~38% da população do estado\n- 21 municípios\n\n**Principais:**\n1. Goiânia (~1,4 mi)\n2. Aparecida de Goiânia (~590 mil)\n3. Anápolis (~400 mil)',
+            tags: ['RM Goiânia', 'concentração'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-3-7',
+            frente: 'Como foi o povoamento inicial de Goiás?',
+            verso: '**Século XVIII (Mineração):**\n\n- 1722: Descoberta de ouro (Anhanguera filho)\n- Formação de arraiais mineradores\n- População: portugueses, africanos escravizados, mestiços\n- Povoamento desordenado\n- Declínio com esgotamento do ouro',
+            tags: ['povoamento', 'mineração'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'go-fc-3-8',
+            frente: 'Qual região de Goiás tem a MENOR densidade demográfica?',
+            verso: '**NORTE GOIANO**\n\n- Densidade: <5 hab/km²\n- Municípios: Uruaçu, Niquelândia, Porangatu\n- Economia: agropecuária tradicional, mineração\n\n⚠️ O antigo norte goiano (hoje Tocantins) foi desmembrado em 1988.',
+            tags: ['densidade', 'norte'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'go-q-3-1',
+            enunciado: 'A população de Goiás, segundo o Censo 2022, é de aproximadamente:',
+            alternativas: [
+              { letra: 'A', texto: '3 milhões de habitantes.' },
+              { letra: 'B', texto: '5 milhões de habitantes.' },
+              { letra: 'C', texto: '7 milhões de habitantes.' },
+              { letra: 'D', texto: '10 milhões de habitantes.' },
+              { letra: 'E', texto: '15 milhões de habitantes.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Segundo o Censo 2022 do IBGE, Goiás possui aproximadamente 7,1 milhões de habitantes, sendo o 12º estado mais populoso do Brasil.',
+            dificuldade: 'Fácil',
+            competencia: 'Dados populacionais',
+            banca: 'IADES',
+            tags: ['população', 'Censo'],
+          },
+          {
+            id: 'go-q-3-2',
+            enunciado: 'A densidade demográfica de Goiás caracteriza-se por ser:',
+            alternativas: [
+              { letra: 'A', texto: 'Uma das mais altas do Brasil, superior a 100 hab/km².' },
+              { letra: 'B', texto: 'Relativamente baixa, em torno de 20 hab/km².' },
+              { letra: 'C', texto: 'Extremamente baixa, inferior a 5 hab/km².' },
+              { letra: 'D', texto: 'Igual à média nacional de 50 hab/km².' },
+              { letra: 'E', texto: 'A mais alta do Centro-Oeste.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A densidade demográfica de Goiás é de aproximadamente 20,8 hab/km², considerada relativamente baixa quando comparada à média nacional (~23,8 hab/km²). Isso se deve à grande extensão territorial do estado.',
+            dificuldade: 'Média',
+            competencia: 'Densidade demográfica',
+            banca: 'IADES',
+            tags: ['densidade', 'território'],
+          },
+          {
+            id: 'go-q-3-3',
+            enunciado: 'O povoamento inicial do território goiano, no século XVIII, foi motivado principalmente pela:',
+            alternativas: [
+              { letra: 'A', texto: 'Expansão da agricultura de exportação.' },
+              { letra: 'B', texto: 'Descoberta de jazidas de ouro.' },
+              { letra: 'C', texto: 'Construção de ferrovias.' },
+              { letra: 'D', texto: 'Instalação de indústrias.' },
+              { letra: 'E', texto: 'Fundação de Brasília.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O povoamento de Goiás no século XVIII foi motivado pela descoberta de ouro por Bartolomeu Bueno da Silva (Anhanguera filho) em 1722, que atraiu mineradores e originou os primeiros arraiais.',
+            dificuldade: 'Fácil',
+            competencia: 'Povoamento histórico',
+            banca: 'IADES',
+            tags: ['povoamento', 'mineração'],
+          },
+          {
+            id: 'go-q-3-4',
+            enunciado: 'A migração de agricultores sulistas para Goiás, a partir da década de 1970, contribuiu principalmente para:',
+            alternativas: [
+              { letra: 'A', texto: 'O crescimento das favelas urbanas.' },
+              { letra: 'B', texto: 'A modernização agrícola e expansão da fronteira no Cerrado.' },
+              { letra: 'C', texto: 'O desenvolvimento da mineração de ouro.' },
+              { letra: 'D', texto: 'A construção de Goiânia.' },
+              { letra: 'E', texto: 'O declínio da pecuária extensiva.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Os migrantes sulistas trouxeram experiência em agricultura mecanizada e foram atraídos por terras baratas no Cerrado e programas governamentais (POLOCENTRO, PRODECER), contribuindo para a modernização agrícola.',
+            dificuldade: 'Média',
+            competencia: 'Migração sulista',
+            banca: 'IADES',
+            tags: ['migração', 'agricultura'],
+          },
+          {
+            id: 'go-q-3-5',
+            enunciado: 'A Região do Entorno do Distrito Federal caracteriza-se por:',
+            alternativas: [
+              { letra: 'A', texto: 'Baixa densidade populacional e economia mineradora.' },
+              { letra: 'B', texto: 'Crescimento populacional explosivo e presença de cidades-dormitório.' },
+              { letra: 'C', texto: 'Predomínio de população rural e agricultura familiar.' },
+              { letra: 'D', texto: 'Industrialização avançada e independência econômica.' },
+              { letra: 'E', texto: 'Decréscimo populacional nas últimas décadas.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O Entorno do DF caracteriza-se pelo crescimento populacional explosivo após 1980, formação de cidades-dormitório cujos moradores trabalham em Brasília, e problemas de infraestrutura e violência.',
+            dificuldade: 'Média',
+            competencia: 'Entorno do DF',
+            banca: 'IADES',
+            tags: ['Entorno', 'urbanização'],
+          },
+          {
+            id: 'go-q-3-6',
+            enunciado: 'A maior comunidade quilombola do Brasil localiza-se em Goiás e é conhecida como:',
+            alternativas: [
+              { letra: 'A', texto: 'Palmares.' },
+              { letra: 'B', texto: 'Kalunga.' },
+              { letra: 'C', texto: 'Xavante.' },
+              { letra: 'D', texto: 'Kayapó.' },
+              { letra: 'E', texto: 'Pirenópolis.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A comunidade Kalunga, localizada no nordeste goiano (Cavalcante, Teresina de Goiás e Monte Alegre de Goiás), é a maior comunidade quilombola do Brasil, com aproximadamente 8.000 pessoas.',
+            dificuldade: 'Média',
+            competencia: 'Povos tradicionais',
+            banca: 'IADES',
+            tags: ['Kalunga', 'quilombo'],
+          },
+          {
+            id: 'go-q-3-7',
+            enunciado: 'A taxa de urbanização de Goiás é de aproximadamente:',
+            alternativas: [
+              { letra: 'A', texto: '50%' },
+              { letra: 'B', texto: '65%' },
+              { letra: 'C', texto: '75%' },
+              { letra: 'D', texto: '92%' },
+              { letra: 'E', texto: '100%' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Goiás possui taxa de urbanização de aproximadamente 92%, significando que apenas cerca de 8% da população vive em áreas rurais. Isso reflete a mecanização agrícola e a atração das cidades.',
+            dificuldade: 'Fácil',
+            competencia: 'Urbanização',
+            banca: 'IADES',
+            tags: ['urbanização', 'dados'],
+          },
+          {
+            id: 'go-q-3-8',
+            enunciado: 'A Região Metropolitana de Goiânia concentra aproximadamente:',
+            alternativas: [
+              { letra: 'A', texto: '500 mil habitantes.' },
+              { letra: 'B', texto: '1 milhão de habitantes.' },
+              { letra: 'C', texto: '2,7 milhões de habitantes.' },
+              { letra: 'D', texto: '5 milhões de habitantes.' },
+              { letra: 'E', texto: '7 milhões de habitantes.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A Região Metropolitana de Goiânia concentra aproximadamente 2,7 milhões de habitantes, representando cerca de 38% da população total do estado, sendo a maior concentração populacional de Goiás.',
+            dificuldade: 'Média',
+            competencia: 'RM Goiânia',
+            banca: 'IADES',
+            tags: ['RM Goiânia', 'população'],
+          },
+          {
+            id: 'go-q-3-9',
+            enunciado: 'Sobre a migração nordestina para Goiás, é CORRETO afirmar que:',
+            alternativas: [
+              { letra: 'A', texto: 'Destinou-se principalmente às áreas rurais para trabalho agrícola mecanizado.' },
+              { letra: 'B', texto: 'Trouxe agricultores especializados em cultivo de soja.' },
+              { letra: 'C', texto: 'Concentrou-se nas áreas urbanas, especialmente Goiânia e Entorno do DF.' },
+              { letra: 'D', texto: 'Ocorreu principalmente no século XIX.' },
+              { letra: 'E', texto: 'Não teve impacto significativo na formação da população goiana.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A migração nordestina para Goiás concentrou-se principalmente nas áreas urbanas (Goiânia, Anápolis, Entorno do DF), fornecendo mão de obra para construção civil, comércio e serviços.',
+            dificuldade: 'Média',
+            competencia: 'Migração nordestina',
+            banca: 'IADES',
+            tags: ['migração', 'nordeste'],
+          },
+          {
+            id: 'go-q-3-10',
+            enunciado: 'A região de Goiás com MENOR densidade demográfica é:',
+            alternativas: [
+              { letra: 'A', texto: 'A Região Metropolitana de Goiânia.' },
+              { letra: 'B', texto: 'O Entorno do Distrito Federal.' },
+              { letra: 'C', texto: 'O Sudoeste Goiano.' },
+              { letra: 'D', texto: 'O Norte Goiano.' },
+              { letra: 'E', texto: 'O Sudeste Goiano.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'O Norte Goiano apresenta a menor densidade demográfica do estado, com valores inferiores a 5 hab/km². A maior concentração está na RM Goiânia e no Entorno do DF.',
+            dificuldade: 'Média',
+            competencia: 'Distribuição espacial',
+            banca: 'IADES',
+            tags: ['densidade', 'regiões'],
+          },
+        ],
+      },
+    },
   ],
 };
