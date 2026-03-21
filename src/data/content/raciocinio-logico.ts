@@ -5141,5 +5141,648 @@ Um sólido é formado por um cilindro de r = 3 cm e h = 10 cm sobre um cubo de a
         ],
       },
     },
+    {
+      id: 'rl-topico-10',
+      numero: 10,
+      titulo: 'Compreensão de Estruturas Lógicas',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Proposições Lógicas
+
+| Tipo | Símbolo | Leitura | Exemplo |
+|------|---------|---------|---------|
+| **Negação** | ¬ ou ~ | "não" | ¬p = não p |
+| **Conjunção** | ∧ | "e" | p ∧ q |
+| **Disjunção** | ∨ | "ou" | p ∨ q |
+| **Condicional** | → | "se...então" | p → q |
+| **Bicondicional** | ↔ | "se e somente se" | p ↔ q |
+
+### Tabela-Verdade Essencial
+
+| p | q | p∧q | p∨q | p→q | p↔q |
+|---|---|-----|-----|-----|-----|
+| V | V | V | V | V | V |
+| V | F | F | V | F | F |
+| F | V | F | V | V | F |
+| F | F | F | F | V | V |
+
+### Regras de Ouro
+
+**CONDICIONAL (p → q):**
+- SÓ é FALSO quando: V → F (verdadeiro implica falso)
+- Mnemônico: "Vera Fischer é FALSA"
+
+**BICONDICIONAL (p ↔ q):**
+- VERDADEIRO quando p e q têm o MESMO valor
+- Mnemônico: "Bi = dois iguais"
+
+### Para IADES:
+- Negação de (p → q) = p ∧ ¬q
+- Negação de (p ∧ q) = ¬p ∨ ¬q (De Morgan)
+- Negação de (p ∨ q) = ¬p ∧ ¬q (De Morgan)
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Proposições
+
+#### 1.1 O que é uma Proposição?
+
+Uma **proposição** é uma sentença declarativa que pode ser classificada como **verdadeira (V)** ou **falsa (F)**, nunca ambas simultaneamente.
+
+##### Exemplos de Proposições:
+✅ "Brasília é a capital do Brasil." (V)
+✅ "2 + 2 = 5." (F)
+✅ "O Sol é uma estrela." (V)
+
+##### NÃO são proposições:
+❌ "Que horas são?" (interrogativa)
+❌ "Estude para a prova!" (imperativa)
+❌ "x + 1 = 3" (sentença aberta - depende de x)
+❌ "Este carro é bonito." (subjetiva)
+
+#### 1.2 Proposições Simples e Compostas
+
+**Proposição SIMPLES:** não contém conectivos lógicos
+- Representada por letras: p, q, r, s...
+
+**Proposição COMPOSTA:** formada por proposições simples conectadas por conectivos lógicos
+- Exemplo: "Se chove, então a rua fica molhada" (p → q)
+
+### 2. Conectivos Lógicos
+
+#### 2.1 Negação (¬ ou ~)
+
+Inverte o valor lógico da proposição.
+
+| p | ¬p |
+|---|----|
+| V | F |
+| F | V |
+
+**Exemplo:**
+- p: "O fiscal está presente" (V)
+- ¬p: "O fiscal NÃO está presente" (F)
+
+#### 2.2 Conjunção (∧) - "E"
+
+A conjunção é verdadeira APENAS quando AMBAS são verdadeiras.
+
+| p | q | p ∧ q |
+|---|---|-------|
+| V | V | **V** |
+| V | F | F |
+| F | V | F |
+| F | F | F |
+
+**Mnemônico:** "No E, SÓ V E V dá V"
+
+**Exemplo:**
+- p: "Maria é médica" (V)
+- q: "Maria é casada" (F)
+- p ∧ q: "Maria é médica E casada" (F)
+
+#### 2.3 Disjunção Inclusiva (∨) - "OU"
+
+A disjunção é falsa APENAS quando AMBAS são falsas.
+
+| p | q | p ∨ q |
+|---|---|-------|
+| V | V | V |
+| V | F | V |
+| F | V | V |
+| F | F | **F** |
+
+**Mnemônico:** "No OU, SÓ F OU F dá F"
+
+**Exemplo:**
+- p: "João é aprovado" (V)
+- q: "Maria é aprovada" (F)
+- p ∨ q: "João OU Maria é aprovado" (V)
+
+#### 2.4 Disjunção Exclusiva (⊻) - "OU...OU"
+
+Verdadeira quando as proposições têm valores DIFERENTES.
+
+| p | q | p ⊻ q |
+|---|---|-------|
+| V | V | F |
+| V | F | V |
+| F | V | V |
+| F | F | F |
+
+**Exemplo:** "Ou você estuda, ou você reprova" (os dois juntos não podem)
+
+#### 2.5 Condicional (→) - "SE...ENTÃO"
+
+A condicional é falsa APENAS quando o antecedente é V e o consequente é F.
+
+| p | q | p → q |
+|---|---|-------|
+| V | V | V |
+| V | F | **F** |
+| F | V | V |
+| F | F | V |
+
+**Mnemônico:** "Vera Fischer é Falsa" (V → F = F)
+
+**Terminologia:**
+- p = **antecedente** (condição)
+- q = **consequente** (resultado)
+
+**Exemplo:**
+- p: "Se chover" (V)
+- q: "a rua ficará molhada" (V)
+- p → q: "Se chover, então a rua ficará molhada" (V)
+
+#### 2.6 Bicondicional (↔) - "SE E SOMENTE SE"
+
+Verdadeira quando AMBAS têm o MESMO valor lógico.
+
+| p | q | p ↔ q |
+|---|---|-------|
+| V | V | **V** |
+| V | F | F |
+| F | V | F |
+| F | F | **V** |
+
+**Mnemônico:** "Bi = dois iguais"
+
+**Exemplo:**
+- "Você será aprovado SE E SOMENTE SE estudar"
+- Só passa se estudar; se não estudar, não passa
+
+### 3. Equivalências Lógicas
+
+Duas proposições são **equivalentes** quando têm a mesma tabela-verdade.
+
+#### 3.1 Equivalências da Condicional
+
+| Equivalência | Fórmula |
+|--------------|---------|
+| **Contrapositiva** | p → q ≡ ¬q → ¬p |
+| **Transformação** | p → q ≡ ¬p ∨ q |
+
+**Exemplo:**
+- "Se chove, então a rua molha" ≡ "Se a rua não molha, então não choveu"
+- "Se chove, então a rua molha" ≡ "Não chove ou a rua molha"
+
+#### 3.2 Equivalências da Bicondicional
+
+p ↔ q ≡ (p → q) ∧ (q → p)
+
+### 4. Negação de Proposições Compostas
+
+#### 4.1 Negação da Conjunção (Lei de De Morgan)
+
+**¬(p ∧ q) ≡ ¬p ∨ ¬q**
+
+"Troca o E por OU e nega as partes"
+
+**Exemplo:**
+- p ∧ q: "João é alto E magro"
+- ¬(p ∧ q): "João NÃO é alto OU NÃO é magro"
+
+#### 4.2 Negação da Disjunção (Lei de De Morgan)
+
+**¬(p ∨ q) ≡ ¬p ∧ ¬q**
+
+"Troca o OU por E e nega as partes"
+
+**Exemplo:**
+- p ∨ q: "Estudei matemática OU português"
+- ¬(p ∨ q): "NÃO estudei matemática E NÃO estudei português"
+
+#### 4.3 Negação da Condicional
+
+**¬(p → q) ≡ p ∧ ¬q**
+
+"Mantém a primeira e nega a segunda, trocando → por ∧"
+
+**Exemplo:**
+- p → q: "SE estudar, ENTÃO passarei"
+- ¬(p → q): "Estudei E NÃO passei"
+
+⚠️ **MUITO COBRADO pela IADES!**
+
+#### 4.4 Negação da Bicondicional
+
+**¬(p ↔ q) ≡ p ⊻ q**
+
+A negação da bicondicional é a disjunção exclusiva.
+
+### 5. Tautologia, Contradição e Contingência
+
+| Tipo | Definição | Exemplo |
+|------|-----------|---------|
+| **Tautologia** | Sempre V | p ∨ ¬p |
+| **Contradição** | Sempre F | p ∧ ¬p |
+| **Contingência** | V ou F | p ∧ q |
+
+### 6. Argumentos Lógicos
+
+#### 6.1 Estrutura do Argumento
+
+Um **argumento** é composto de:
+- **Premissas**: proposições dadas como verdadeiras
+- **Conclusão**: proposição que se quer provar
+
+#### 6.2 Validade do Argumento
+
+Um argumento é **VÁLIDO** quando:
+- SE todas as premissas são V, ENTÃO a conclusão é V
+- Não existe caso onde premissas são V e conclusão é F
+
+#### 6.3 Principais Formas Válidas
+
+##### Modus Ponens (Afirmação do Antecedente)
+\`\`\`
+P1: p → q
+P2: p
+∴ q
+\`\`\`
+
+##### Modus Tollens (Negação do Consequente)
+\`\`\`
+P1: p → q
+P2: ¬q
+∴ ¬p
+\`\`\`
+
+##### Silogismo Hipotético
+\`\`\`
+P1: p → q
+P2: q → r
+∴ p → r
+\`\`\`
+
+##### Silogismo Disjuntivo
+\`\`\`
+P1: p ∨ q
+P2: ¬p
+∴ q
+\`\`\`
+
+### 7. Aplicações Práticas
+
+#### Exemplo de Questão Típica IADES:
+
+**"Se o estabelecimento está irregular, então será multado. O estabelecimento não foi multado. Logo:"**
+
+Usando Modus Tollens:
+- P1: irregular → multado
+- P2: ¬multado
+- Conclusão: ¬irregular (o estabelecimento está regular)
+
+### 8. Quadrado Lógico (Proposições Categóricas)
+
+| Tipo | Forma | Exemplo |
+|------|-------|---------|
+| **A** (Universal Afirmativa) | Todo S é P | Todo fiscal é servidor |
+| **E** (Universal Negativa) | Nenhum S é P | Nenhum fiscal é corrupto |
+| **I** (Particular Afirmativa) | Algum S é P | Algum fiscal é jovem |
+| **O** (Particular Negativa) | Algum S não é P | Algum fiscal não é jovem |
+
+#### Relações:
+- **Contrárias** (A-E): não podem ser ambas V, podem ser ambas F
+- **Subcontrárias** (I-O): não podem ser ambas F, podem ser ambas V
+- **Contraditórias** (A-O, E-I): sempre valores opostos
+        `,
+
+        pontosChave: [
+          'Proposição: sentença declarativa V ou F',
+          'Conjunção (∧): V somente quando ambas V',
+          'Disjunção (∨): F somente quando ambas F',
+          'Condicional (→): F somente quando V→F (Vera Fischer é Falsa)',
+          'Bicondicional (↔): V quando ambas têm mesmo valor',
+          'Contrapositiva: p→q ≡ ¬q→¬p',
+          'Transformação: p→q ≡ ¬p∨q',
+          'Negação de p∧q = ¬p∨¬q (De Morgan)',
+          'Negação de p∨q = ¬p∧¬q (De Morgan)',
+          'Negação de p→q = p∧¬q (MUITO COBRADO!)',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir negação da condicional',
+            descricao: 'A negação de "Se p, então q" NÃO é "Se p, então não q". A correta é "p E não q".',
+            dica: '¬(p→q) = p ∧ ¬q. Troca → por ∧ e nega só a segunda.',
+          },
+          {
+            titulo: 'Errar a tabela do condicional',
+            descricao: 'p→q só é F quando V→F. Muitos acham que F→F é falso, mas é V!',
+            dica: 'Lembre: "Vera Fischer é Falsa" (V→F=F). Os demais são V.',
+          },
+          {
+            titulo: 'Confundir equivalência com negação',
+            descricao: 'A contrapositiva (¬q→¬p) é EQUIVALENTE a p→q, não é sua negação!',
+            dica: 'Equivalente = mesma tabela-verdade. Negação = valores opostos.',
+          },
+          {
+            titulo: 'Aplicar De Morgan incorretamente',
+            descricao: 'É preciso TROCAR o conectivo (∧↔∨) E NEGAR as partes.',
+            dica: 'De Morgan: troca E↔OU e nega as duas partes.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'Vera Fischer',
+            significado: 'V→F é Falso',
+            frase: 'No condicional, só Vera Fischer é Falsa (V→F=F)',
+          },
+          {
+            termo: 'NECO',
+            significado: 'NEga, COnecta, Troca conectivo, NEga partes',
+            frase: 'Para negar composta: NECO (troca conectivo e nega partes)',
+          },
+          {
+            termo: 'MANÉ',
+            significado: 'MAN(tém a primeira) E nega (a segunda)',
+            frase: 'Negação de p→q: MANÉ a primeira E nega a segunda = p ∧ ¬q',
+          },
+          {
+            termo: 'BI-IGUAL',
+            significado: 'Bicondicional é V quando valores são iguais',
+            frase: 'Bi = dois iguais. V↔V=V, F↔F=V',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'rl-fc-10-1',
+            frente: 'Quando a condicional (p → q) é FALSA?',
+            verso: 'A condicional p → q é FALSA **somente** quando:\n\n**V → F** (verdadeiro implica falso)\n\nMnemônico: "Vera Fischer é Falsa"\n\nNos demais casos (V→V, F→V, F→F) é VERDADEIRA.',
+            tags: ['condicional', 'tabela-verdade'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-10-2',
+            frente: 'Qual é a NEGAÇÃO de (p → q)?',
+            verso: '**¬(p → q) ≡ p ∧ ¬q**\n\n"Mantém a primeira E nega a segunda"\n\nExemplo:\n- p→q: "Se estudar, então passarei"\n- ¬(p→q): "Estudei E NÃO passei"\n\n⚠️ Muito cobrado pela IADES!',
+            tags: ['negação', 'condicional'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-10-3',
+            frente: 'O que é a CONTRAPOSITIVA de p → q?',
+            verso: '**Contrapositiva: ¬q → ¬p**\n\nÉ EQUIVALENTE a p → q (mesma tabela-verdade)\n\nExemplo:\n- "Se chove, então a rua molha"\n- Contrapositiva: "Se a rua não molha, então não choveu"\n\n⚠️ NÃO confundir com negação!',
+            tags: ['contrapositiva', 'equivalência'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-10-4',
+            frente: 'Qual a Lei de De Morgan para CONJUNÇÃO?',
+            verso: '**¬(p ∧ q) ≡ ¬p ∨ ¬q**\n\n"Nega, troca E por OU, nega as partes"\n\nExemplo:\n- p∧q: "João é alto E magro"\n- ¬(p∧q): "João NÃO é alto OU NÃO é magro"',
+            tags: ['De Morgan', 'conjunção'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-10-5',
+            frente: 'Qual a Lei de De Morgan para DISJUNÇÃO?',
+            verso: '**¬(p ∨ q) ≡ ¬p ∧ ¬q**\n\n"Nega, troca OU por E, nega as partes"\n\nExemplo:\n- p∨q: "Estudei português OU matemática"\n- ¬(p∨q): "NÃO estudei português E NÃO estudei matemática"',
+            tags: ['De Morgan', 'disjunção'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-10-6',
+            frente: 'Quando a BICONDICIONAL (p ↔ q) é verdadeira?',
+            verso: '**p ↔ q é VERDADEIRA quando ambas têm o MESMO valor lógico:**\n\n- V ↔ V = V\n- F ↔ F = V\n\n**É FALSA quando têm valores diferentes:**\n- V ↔ F = F\n- F ↔ V = F\n\nMnemônico: "Bi = dois iguais"',
+            tags: ['bicondicional', 'tabela-verdade'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-10-7',
+            frente: 'O que é Modus Ponens?',
+            verso: '**Modus Ponens** (Afirmação do Antecedente)\n\nP1: p → q\nP2: p\n∴ q\n\nExemplo:\n- P1: Se chove, a rua molha\n- P2: Choveu\n- Conclusão: A rua molhou\n\nForma de argumento VÁLIDO.',
+            tags: ['argumento', 'modus ponens'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-10-8',
+            frente: 'O que é Modus Tollens?',
+            verso: '**Modus Tollens** (Negação do Consequente)\n\nP1: p → q\nP2: ¬q\n∴ ¬p\n\nExemplo:\n- P1: Se chove, a rua molha\n- P2: A rua NÃO molhou\n- Conclusão: NÃO choveu\n\nForma de argumento VÁLIDO.',
+            tags: ['argumento', 'modus tollens'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'rl-q-10-1',
+            enunciado: 'A proposição "Se p, então q" é FALSA apenas quando:',
+            alternativas: [
+              { letra: 'A', texto: 'p é verdadeira e q é verdadeira.' },
+              { letra: 'B', texto: 'p é verdadeira e q é falsa.' },
+              { letra: 'C', texto: 'p é falsa e q é verdadeira.' },
+              { letra: 'D', texto: 'p é falsa e q é falsa.' },
+              { letra: 'E', texto: 'p e q têm valores diferentes.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A condicional (p → q) só é FALSA quando V → F (verdadeiro implica falso). Mnemônico: "Vera Fischer é Falsa".',
+            dificuldade: 'Fácil',
+            competencia: 'Tabela-verdade da condicional',
+            banca: 'IADES',
+            tags: ['condicional', 'tabela-verdade'],
+          },
+          {
+            id: 'rl-q-10-2',
+            enunciado: 'A negação da proposição "Se chover, então a rua ficará molhada" é:',
+            alternativas: [
+              { letra: 'A', texto: 'Se não chover, então a rua não ficará molhada.' },
+              { letra: 'B', texto: 'Se chover, então a rua não ficará molhada.' },
+              { letra: 'C', texto: 'Não chove ou a rua fica molhada.' },
+              { letra: 'D', texto: 'Chove e a rua não fica molhada.' },
+              { letra: 'E', texto: 'Não chove e a rua fica molhada.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'A negação de (p → q) é (p ∧ ¬q). Mantém a primeira, troca → por ∧, e nega a segunda. Logo: "Chove E a rua NÃO fica molhada".',
+            dificuldade: 'Média',
+            competencia: 'Negação da condicional',
+            banca: 'IADES',
+            tags: ['negação', 'condicional'],
+          },
+          {
+            id: 'rl-q-10-3',
+            enunciado: 'A proposição equivalente a "Se estudo, então passo" é:',
+            alternativas: [
+              { letra: 'A', texto: 'Se passo, então estudo.' },
+              { letra: 'B', texto: 'Se não passo, então não estudo.' },
+              { letra: 'C', texto: 'Se não estudo, então não passo.' },
+              { letra: 'D', texto: 'Estudo e passo.' },
+              { letra: 'E', texto: 'Não estudo ou passo.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A equivalente é a CONTRAPOSITIVA: (p → q) ≡ (¬q → ¬p). "Se não passo, então não estudo." A alternativa E também é equivalente (¬p ∨ q), mas a B é a contrapositiva clássica.',
+            dificuldade: 'Média',
+            competencia: 'Equivalência lógica',
+            banca: 'IADES',
+            tags: ['equivalência', 'contrapositiva'],
+          },
+          {
+            id: 'rl-q-10-4',
+            enunciado: 'A negação de "João é alto E magro" é:',
+            alternativas: [
+              { letra: 'A', texto: 'João é baixo e gordo.' },
+              { letra: 'B', texto: 'João não é alto e não é magro.' },
+              { letra: 'C', texto: 'João não é alto ou não é magro.' },
+              { letra: 'D', texto: 'João é alto ou magro.' },
+              { letra: 'E', texto: 'João não é alto e magro.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Pela Lei de De Morgan: ¬(p ∧ q) ≡ ¬p ∨ ¬q. "João NÃO é alto OU NÃO é magro".',
+            dificuldade: 'Média',
+            competencia: 'Lei de De Morgan',
+            banca: 'IADES',
+            tags: ['De Morgan', 'negação'],
+          },
+          {
+            id: 'rl-q-10-5',
+            enunciado: 'Considere o argumento:\nP1: Se o fiscal encontra irregularidade, então aplica multa.\nP2: O fiscal não aplicou multa.\nConclui-se logicamente que:',
+            alternativas: [
+              { letra: 'A', texto: 'O fiscal encontrou irregularidade.' },
+              { letra: 'B', texto: 'O fiscal não encontrou irregularidade.' },
+              { letra: 'C', texto: 'Houve irregularidade, mas sem multa.' },
+              { letra: 'D', texto: 'Nada se pode concluir.' },
+              { letra: 'E', texto: 'A premissa 1 é falsa.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Por Modus Tollens: (p → q) + ¬q ∴ ¬p. Se o fiscal não aplicou multa (¬q), então não encontrou irregularidade (¬p).',
+            dificuldade: 'Média',
+            competencia: 'Modus Tollens',
+            banca: 'IADES',
+            tags: ['argumento', 'modus tollens'],
+          },
+          {
+            id: 'rl-q-10-6',
+            enunciado: 'A bicondicional "p se e somente se q" é VERDADEIRA quando:',
+            alternativas: [
+              { letra: 'A', texto: 'p é verdadeira e q é falsa.' },
+              { letra: 'B', texto: 'p é falsa e q é verdadeira.' },
+              { letra: 'C', texto: 'p e q têm o mesmo valor lógico.' },
+              { letra: 'D', texto: 'p e q têm valores lógicos diferentes.' },
+              { letra: 'E', texto: 'apenas quando ambas são verdadeiras.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A bicondicional (p ↔ q) é VERDADEIRA quando ambas têm o MESMO valor: V↔V=V ou F↔F=V.',
+            dificuldade: 'Fácil',
+            competencia: 'Bicondicional',
+            banca: 'IADES',
+            tags: ['bicondicional', 'tabela-verdade'],
+          },
+          {
+            id: 'rl-q-10-7',
+            enunciado: 'A negação de "Estudo português ou estudo matemática" é:',
+            alternativas: [
+              { letra: 'A', texto: 'Estudo português e estudo matemática.' },
+              { letra: 'B', texto: 'Não estudo português ou não estudo matemática.' },
+              { letra: 'C', texto: 'Não estudo português e não estudo matemática.' },
+              { letra: 'D', texto: 'Estudo português ou não estudo matemática.' },
+              { letra: 'E', texto: 'Se estudo português, então não estudo matemática.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Pela Lei de De Morgan: ¬(p ∨ q) ≡ ¬p ∧ ¬q. "NÃO estudo português E NÃO estudo matemática".',
+            dificuldade: 'Média',
+            competencia: 'Lei de De Morgan',
+            banca: 'IADES',
+            tags: ['De Morgan', 'disjunção'],
+          },
+          {
+            id: 'rl-q-10-8',
+            enunciado: 'Uma proposição que é SEMPRE verdadeira, independentemente dos valores de suas partes, é chamada de:',
+            alternativas: [
+              { letra: 'A', texto: 'contradição.' },
+              { letra: 'B', texto: 'contingência.' },
+              { letra: 'C', texto: 'falácia.' },
+              { letra: 'D', texto: 'tautologia.' },
+              { letra: 'E', texto: 'sofisma.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'TAUTOLOGIA é sempre verdadeira (ex: p ∨ ¬p). CONTRADIÇÃO é sempre falsa (ex: p ∧ ¬p). CONTINGÊNCIA pode ser V ou F.',
+            dificuldade: 'Fácil',
+            competencia: 'Tautologia',
+            banca: 'IADES',
+            tags: ['tautologia', 'conceito'],
+          },
+          {
+            id: 'rl-q-10-9',
+            enunciado: 'A proposição "Se não estudo, então não passo" é logicamente equivalente a:',
+            alternativas: [
+              { letra: 'A', texto: 'Se estudo, então passo.' },
+              { letra: 'B', texto: 'Se passo, então estudo.' },
+              { letra: 'C', texto: 'Estudo ou não passo.' },
+              { letra: 'D', texto: 'Não estudo e não passo.' },
+              { letra: 'E', texto: 'Se não passo, então não estudo.' },
+            ],
+            gabarito: 'C',
+            justificativa: '(¬p → ¬q) ≡ ¬(¬p) ∨ ¬q ≡ p ∨ ¬q = "Estudo ou não passo". A alternativa B é a contrapositiva de A, não de "¬p → ¬q".',
+            dificuldade: 'Difícil',
+            competencia: 'Equivalência',
+            banca: 'IADES',
+            tags: ['equivalência', 'transformação'],
+          },
+          {
+            id: 'rl-q-10-10',
+            enunciado: 'Considere:\nP1: Todos os fiscais são servidores.\nP2: Alguns servidores são médicos.\nDessas premissas, pode-se concluir logicamente que:',
+            alternativas: [
+              { letra: 'A', texto: 'Todos os fiscais são médicos.' },
+              { letra: 'B', texto: 'Alguns fiscais são médicos.' },
+              { letra: 'C', texto: 'Nenhum fiscal é médico.' },
+              { letra: 'D', texto: 'Alguns médicos são fiscais.' },
+              { letra: 'E', texto: 'Nada se pode concluir sobre fiscais e médicos.' },
+            ],
+            gabarito: 'E',
+            justificativa: 'De "Todo A é B" e "Algum B é C", não se pode concluir nada sobre a relação entre A e C. Os médicos podem ser outros servidores, não necessariamente fiscais.',
+            dificuldade: 'Média',
+            competencia: 'Silogismo categórico',
+            banca: 'IADES',
+            tags: ['silogismo', 'proposições categóricas'],
+          },
+        ],
+      },
+    },
   ],
 };

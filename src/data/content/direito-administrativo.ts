@@ -6639,5 +6639,801 @@ Instrumento firmado entre o Poder Público e entidades da Administração Indire
         ],
       },
     },
+    {
+      id: "da-topico-10",
+      numero: 10,
+      titulo: "Controle da Administração Pública",
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Quadro Geral do Controle
+
+| Tipo | Quem exerce | Base |
+|------|-------------|------|
+| **INTERNO** | A própria Administração | Art. 74, CF |
+| **EXTERNO** | Legislativo + TC | Art. 70-71, CF |
+| **JUDICIAL** | Poder Judiciário | Art. 5º, XXXV, CF |
+
+### Classificações Principais
+
+**Quanto ao ÓRGÃO:**
+- **INTERNO**: dentro da mesma estrutura (autotutela)
+- **EXTERNO**: por órgão estranho à estrutura
+
+**Quanto ao MOMENTO:**
+- **PRÉVIO** (a priori): antes do ato
+- **CONCOMITANTE**: durante a execução
+- **POSTERIOR** (a posteriori): após o ato
+
+**Quanto ao ASPECTO:**
+- **LEGALIDADE**: conformidade com a lei
+- **MÉRITO**: conveniência e oportunidade
+
+### Para IADES - Pontos Críticos:
+- Judiciário controla LEGALIDADE, não mérito
+- Tribunais de Contas: órgão AUXILIAR, sem subordinação
+- Súmula Vinculante 3: TC deve assegurar contraditório
+- Controle interno é OBRIGATÓRIO (art. 74, CF)
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito e Fundamentos do Controle
+
+O **controle da Administração Pública** consiste no conjunto de mecanismos jurídicos e administrativos pelos quais se exerce o **poder de fiscalização e revisão** da atividade administrativa.
+
+#### Fundamentos Constitucionais
+- **Art. 70, CF**: Fiscalização contábil, financeira, orçamentária, operacional e patrimonial
+- **Art. 74, CF**: Sistema de controle interno
+- **Art. 5º, XXXV, CF**: Inafastabilidade da jurisdição
+
+#### Finalidades do Controle
+1. **Assegurar a legalidade**: conformidade com as normas
+2. **Garantir a legitimidade**: atendimento ao interesse público
+3. **Verificar a economicidade**: uso racional dos recursos
+4. **Proteger o patrimônio público**: evitar desvios
+5. **Promover a eficiência**: otimização de resultados
+
+### 2. Classificações do Controle
+
+#### 2.1 Quanto ao ÓRGÃO CONTROLADOR
+
+##### Controle INTERNO
+- Exercido **dentro da mesma estrutura** administrativa
+- Também chamado de **autotutela** ou controle administrativo
+- Pode analisar **legalidade E mérito**
+
+**Exemplos:**
+- Revisão hierárquica
+- Supervisão ministerial
+- Corregedorias
+- Controladorias (CGU)
+
+##### Controle EXTERNO
+- Exercido por **órgão estranho** à estrutura
+- Pode ser: legislativo, judicial, social
+
+**Exemplos:**
+- Tribunal de Contas fiscalizando o Executivo
+- Judiciário anulando ato administrativo
+- Cidadão por meio de ação popular
+
+#### 2.2 Quanto ao MOMENTO
+
+| Momento | Descrição | Exemplo |
+|---------|-----------|---------|
+| **PRÉVIO** | Antes do ato produzir efeitos | Autorização legislativa para alienação |
+| **CONCOMITANTE** | Durante a execução | Acompanhamento de obra |
+| **POSTERIOR** | Após a execução | Prestação de contas, auditoria |
+
+#### 2.3 Quanto ao ASPECTO
+
+##### Controle de LEGALIDADE
+- Verifica conformidade com a **lei**
+- Pode ser exercido por **qualquer Poder**
+- Resultado: anulação do ato ilegal
+
+##### Controle de MÉRITO
+- Analisa **conveniência e oportunidade**
+- Exercido **somente pela própria Administração**
+- Resultado: revogação do ato inconveniente
+
+⚠️ **ATENÇÃO IADES**: O Judiciário NÃO controla mérito administrativo, apenas legalidade!
+
+### 3. Controle Exercido pela Administração Pública (Controle Interno)
+
+#### 3.1 Fundamento: Poder de Autotutela
+
+A Administração tem o poder-dever de **rever seus próprios atos**:
+- **ANULAR** os ilegais
+- **REVOGAR** os inconvenientes
+
+**Súmula 473, STF:**
+> "A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos."
+
+#### 3.2 Características do Controle Interno
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Obrigatório** | Art. 74, CF determina que os Poderes mantenham sistema integrado |
+| **Permanente** | Atua continuamente, não apenas pontualmente |
+| **Amplo** | Abrange legalidade E mérito |
+| **De ofício** | Independe de provocação |
+
+#### 3.3 Instrumentos de Controle Interno
+
+1. **Controle hierárquico**: superior sobre inferior
+2. **Supervisão ministerial**: Ministro sobre entidades vinculadas
+3. **Controle correcional**: corregedorias
+4. **Auditoria interna**: verificação técnica
+5. **Ouvidoria**: canal com o cidadão
+
+#### 3.4 Controladorias
+
+- **CGU** (Controladoria-Geral da União): órgão central de controle interno federal
+- Funções: auditoria, correição, ouvidoria, prevenção à corrupção
+
+### 4. Controle Judicial
+
+#### 4.1 Fundamento Constitucional
+
+**Art. 5º, XXXV, CF:**
+> "A lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito."
+
+É o sistema de **jurisdição UNA** (una = única): todos os litígios podem ser apreciados pelo Judiciário.
+
+#### 4.2 Características
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Provocação** | Depende de iniciativa da parte (inércia) |
+| **Definitividade** | Produz coisa julgada |
+| **Substitutividade** | Substitui a vontade das partes |
+| **Escopo** | APENAS legalidade/legitimidade |
+
+#### 4.3 Limites do Controle Judicial
+
+✅ **PODE** controlar:
+- Legalidade dos atos
+- Vícios de competência, forma, finalidade
+- Razoabilidade e proporcionalidade
+- Motivação (obrigatória quando exigida)
+
+❌ **NÃO PODE** controlar:
+- Mérito administrativo (conveniência/oportunidade)
+- Oportunidade de editar atos discricionários
+- Escolhas políticas legítimas
+
+⚠️ **Exceção aparente**: Pode analisar se há desvio de finalidade ou desproporcionalidade, mas isso é controle de **legalidade**, não de mérito.
+
+#### 4.4 Principais Ações de Controle Judicial
+
+| Ação | Objetivo | Legitimidade |
+|------|----------|--------------|
+| **Ação Popular** | Anular ato lesivo | Cidadão eleitor |
+| **Mandado de Segurança** | Proteger direito líquido e certo | Titular do direito |
+| **Ação Civil Pública** | Proteger interesses difusos/coletivos | MP, DP, entes públicos |
+| **Habeas Data** | Acesso a informações pessoais | Titular dos dados |
+| **Ação de Improbidade** | Punir atos ímprobos | Exclusivamente o MP (Lei 14.230/21) |
+
+### 5. Controle Legislativo
+
+#### 5.1 Fundamento e Natureza
+
+O controle legislativo sobre a Administração é **político e financeiro**, exercido pelo Congresso Nacional (art. 49, X, CF).
+
+#### 5.2 Instrumentos de Controle Legislativo
+
+##### a) Controle Político
+- **Sustação de atos** que exorbitem o poder regulamentar (art. 49, V)
+- **Autorização prévia** para certos atos (ex: alienação de terras públicas)
+- **Aprovação de indicações** (ex: Ministros do STF, diretores de agências)
+- **CPIs** (Comissões Parlamentares de Inquérito)
+
+##### b) Controle Financeiro (com auxílio do TC)
+- **Julgamento das contas** do Presidente (art. 49, IX)
+- Análise da **execução orçamentária**
+- Fiscalização de **gastos públicos**
+
+#### 5.3 Comissões Parlamentares de Inquérito (CPI)
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Criação** | 1/3 da Casa, fato determinado, prazo certo |
+| **Poderes** | Investigatórios próprios de autoridades judiciais |
+| **PODE** | Quebrar sigilo bancário, fiscal, dados |
+| **NÃO PODE** | Busca domiciliar, prisão, interceptação telefônica |
+| **Resultado** | Encaminha conclusões ao MP se houver crime |
+
+### 6. Controle pelos Tribunais de Contas
+
+#### 6.1 Natureza Jurídica
+
+- Órgão **técnico e autônomo**
+- **Auxilia** o Legislativo, mas **NÃO** é subordinado
+- Não integra o Poder Judiciário
+- Suas decisões têm natureza **administrativa**
+
+#### 6.2 O TCU - Tribunal de Contas da União
+
+**Composição**: 9 Ministros
+- 1/3 indicados pelo Presidente (aprovados pelo Senado)
+- 2/3 indicados pelo Congresso Nacional
+
+**Requisitos** (art. 73, §1º, CF):
+- Mais de 35 e menos de 70 anos
+- Idoneidade moral e reputação ilibada
+- Notórios conhecimentos jurídicos, contábeis, econômicos ou de administração pública
+- Mais de 10 anos de exercício profissional
+
+#### 6.3 Competências do TCU (Art. 71, CF)
+
+| Competência | Descrição |
+|-------------|-----------|
+| **Apreciar contas do PR** | Parecer prévio em 60 dias |
+| **Julgar contas** | De administradores de recursos públicos |
+| **Apreciar atos de pessoal** | Admissões e aposentadorias (registro) |
+| **Realizar inspeções e auditorias** | De ofício ou a pedido |
+| **Fiscalizar recursos repassados** | A Estados, DF, Municípios |
+| **Aplicar sanções** | Multa, imputação de débito |
+| **Sustar atos** | Se não atendido em prazo |
+
+#### 6.4 Súmula Vinculante nº 3, STF
+
+> "Nos processos perante o Tribunal de Contas da União asseguram-se o contraditório e a ampla defesa quando da decisão puder resultar anulação ou revogação de ato administrativo que beneficie o interessado."
+
+⚠️ **Exceção**: Apreciação inicial da legalidade de admissão ou concessão de aposentadoria não exige contraditório (STF, MS 25.116).
+
+#### 6.5 Pontos Críticos sobre o TC
+
+1. **NÃO é subordinado** ao Legislativo (auxilia, mas é autônomo)
+2. **NÃO integra** o Poder Judiciário
+3. Suas decisões **NÃO fazem** coisa julgada
+4. **PODE aplicar** sanções diretamente (multa)
+5. **Contas do PR**: TC apenas emite PARECER; quem JULGA é o Congresso
+
+### 7. Controle Social
+
+Exercido diretamente pela sociedade:
+- **Ação Popular** (art. 5º, LXXIII)
+- **Conselhos** de políticas públicas
+- **Audiências públicas**
+- **Portal da Transparência**
+- **Lei de Acesso à Informação** (Lei 12.527/2011)
+
+### 8. Aplicação na Vigilância Sanitária
+
+#### 8.1 Controle Interno na VISA
+- Corregedorias das SES
+- Auditorias internas da ANVISA
+- Supervisão ministerial pelo MS
+
+#### 8.2 Controle Externo da VISA
+- TCU fiscaliza a ANVISA (autarquia federal)
+- Congresso pode criar CPI sobre VISA
+- Judiciário pode anular atos ilegais
+
+#### 8.3 Controle Social
+- Denúncias de irregularidades sanitárias
+- Participação em conselhos de saúde
+- LAI para acesso a processos
+        `,
+
+        pontosChave: [
+          "Controle INTERNO: pela própria Administração (autotutela, art. 74, CF)",
+          "Controle EXTERNO: Legislativo + TC (art. 70-71, CF)",
+          "Controle JUDICIAL: apenas LEGALIDADE, nunca mérito administrativo",
+          "Súmula 473, STF: Administração pode anular (ilegais) ou revogar (inconvenientes)",
+          "TCU: órgão autônomo que AUXILIA o Legislativo, mas não é subordinado",
+          "TCU: 9 Ministros (1/3 Presidente, 2/3 Congresso)",
+          "Contas do Presidente: TC emite PARECER, Congresso JULGA",
+          "Súmula Vinculante 3: TC deve assegurar contraditório e ampla defesa",
+          "CPI: poderes de investigação, NÃO pode prender ou fazer busca domiciliar",
+          "Decisões do TC não fazem coisa julgada (natureza administrativa)",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Achar que o Judiciário controla mérito",
+            descricao:
+              "O Judiciário só controla LEGALIDADE. Não pode substituir a escolha discricionária do administrador.",
+            dica: "Mesmo a análise de proporcionalidade é controle de LEGALIDADE, não de mérito.",
+          },
+          {
+            titulo: "Confundir 'auxiliar' com 'subordinado'",
+            descricao:
+              "O TC auxilia o Legislativo mas NÃO é subordinado. É órgão autônomo.",
+            dica: "Auxiliar significa cooperar, não obedecer.",
+          },
+          {
+            titulo: "Achar que TC julga contas do Presidente",
+            descricao:
+              "O TC apenas emite PARECER PRÉVIO. Quem JULGA as contas do PR é o Congresso Nacional.",
+            dica: "TC julga contas de todos, EXCETO do Presidente da República.",
+          },
+          {
+            titulo: "Pensar que CPI pode prender ou fazer busca",
+            descricao:
+              "CPI tem poderes investigatórios, mas NÃO pode decretar prisão, busca domiciliar ou interceptação telefônica (cláusula de reserva jurisdicional).",
+            dica: "CPI investiga. Quem prende e condena é o Judiciário.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "IEJ",
+            significado: "Interno, Externo, Judicial",
+            frase: "Os 3 tipos principais de controle: IEJ",
+          },
+          {
+            termo: "ANULA-REVOGA",
+            significado: "Anula ilegal, Revoga inconveniente",
+            frase: "Súmula 473: ANULA o ilegal, REVOGA o inconveniente",
+          },
+          {
+            termo: "1/3-2/3",
+            significado: "TCU: 1/3 Presidente, 2/3 Congresso",
+            frase: "Composição do TCU: um terço PR, dois terços CN",
+          },
+          {
+            termo: "PR-PA-JU",
+            significado: "Presidente: Parecer, não Julgamento",
+            frase: "Contas do PR: TC dá Parecer, CN Julga",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "da-fc-10-1",
+            frente: "Qual a diferença entre controle INTERNO e EXTERNO?",
+            verso:
+              "**INTERNO**: exercido dentro da mesma estrutura administrativa (autotutela)\n→ Própria Administração\n→ Analisa legalidade E mérito\n\n**EXTERNO**: exercido por órgão estranho à estrutura\n→ Legislativo, TC, Judiciário\n→ Em regra, só legalidade",
+            tags: ["controle", "interno", "externo"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-10-2",
+            frente: "O Judiciário pode controlar o MÉRITO administrativo?",
+            verso:
+              "**NÃO!**\n\nO Judiciário só controla a **LEGALIDADE** dos atos administrativos.\n\nNão pode substituir a conveniência e oportunidade do administrador.\n\nMesmo a análise de proporcionalidade/razoabilidade é controle de LEGALIDADE, não de mérito.",
+            tags: ["judicial", "mérito", "legalidade"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-10-3",
+            frente: "O que diz a Súmula 473 do STF?",
+            verso:
+              'A Administração pode:\n\n**ANULAR** seus atos **ilegais**\n→ De ofício ou por provocação\n→ Não gera direitos adquiridos\n\n**REVOGAR** atos **inconvenientes**\n→ Apenas pela Administração\n→ Respeita direitos adquiridos\n\nÉ o poder de **AUTOTUTELA**.',
+            tags: ["súmula 473", "autotutela"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-10-4",
+            frente: "Qual a composição do TCU?",
+            verso:
+              "**9 MINISTROS**\n\nIndicação:\n- **1/3 (3)**: Presidente da República (aprovados pelo Senado)\n- **2/3 (6)**: Congresso Nacional\n\nRequisitos:\n- 35-70 anos\n- Idoneidade moral\n- Notórios conhecimentos\n- +10 anos de exercício",
+            tags: ["TCU", "composição"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-10-5",
+            frente: "Quem JULGA as contas do Presidente da República?",
+            verso:
+              "O **CONGRESSO NACIONAL** julga as contas do PR (art. 49, IX, CF).\n\nO TCU apenas emite **PARECER PRÉVIO** (em 60 dias).\n\n⚠️ Para todos os demais administradores, quem julga é o próprio TCU!",
+            tags: ["contas", "presidente", "TCU"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-10-6",
+            frente: "O TCU é subordinado ao Poder Legislativo?",
+            verso:
+              "**NÃO!**\n\nO TCU **AUXILIA** o Legislativo, mas é **órgão autônomo**.\n\nNão há subordinação hierárquica.\n\nO TCU:\n- Não integra o Legislativo\n- Não integra o Judiciário\n- É órgão de controle externo autônomo",
+            tags: ["TCU", "autonomia"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-10-7",
+            frente: "O que pode e o que NÃO pode a CPI fazer?",
+            verso:
+              "**PODE:**\n- Quebrar sigilo bancário, fiscal, dados\n- Ouvir testemunhas\n- Requisitar documentos\n\n**NÃO PODE** (reserva de jurisdição):\n- Decretar prisão\n- Busca domiciliar\n- Interceptação telefônica\n- Determinar indisponibilidade de bens",
+            tags: ["CPI", "poderes"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-10-8",
+            frente: "O que diz a Súmula Vinculante nº 3?",
+            verso:
+              "Nos processos perante o TCU devem ser assegurados **contraditório e ampla defesa** quando a decisão puder resultar em:\n- Anulação de ato\n- Revogação de ato\n\nque beneficie o interessado.\n\n⚠️ Exceção: apreciação inicial de aposentadoria/admissão.",
+            tags: ["SV 3", "TCU", "contraditório"],
+            dificuldade: "dificil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "da-q-10-1",
+            enunciado:
+              "O controle exercido pela Administração sobre seus próprios atos, podendo anulá-los quando ilegais ou revogá-los quando inconvenientes, denomina-se:",
+            alternativas: [
+              { letra: "A", texto: "controle judicial." },
+              { letra: "B", texto: "controle legislativo." },
+              { letra: "C", texto: "controle social." },
+              { letra: "D", texto: "autotutela." },
+              { letra: "E", texto: "controle externo." },
+            ],
+            gabarito: "D",
+            justificativa:
+              "A AUTOTUTELA é o poder da Administração de rever seus próprios atos, anulando os ilegais ou revogando os inconvenientes (Súmula 473, STF). É forma de controle interno.",
+            dificuldade: "Fácil",
+            competencia: "Autotutela",
+            banca: "IADES",
+            tags: ["autotutela", "controle interno"],
+          },
+          {
+            id: "da-q-10-2",
+            enunciado:
+              "O controle judicial sobre os atos administrativos pode verificar:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "apenas o mérito administrativo.",
+              },
+              {
+                letra: "B",
+                texto: "a legalidade e o mérito administrativo.",
+              },
+              {
+                letra: "C",
+                texto: "apenas a legalidade, não o mérito.",
+              },
+              {
+                letra: "D",
+                texto: "a conveniência e oportunidade do ato.",
+              },
+              {
+                letra: "E",
+                texto: "exclusivamente a eficiência administrativa.",
+              },
+            ],
+            gabarito: "C",
+            justificativa:
+              "O Poder Judiciário só pode controlar a LEGALIDADE dos atos administrativos, não podendo adentrar no mérito (conveniência e oportunidade), que é exclusivo da Administração.",
+            dificuldade: "Média",
+            competencia: "Controle judicial",
+            banca: "IADES",
+            tags: ["judicial", "legalidade"],
+          },
+          {
+            id: "da-q-10-3",
+            enunciado: "Sobre o Tribunal de Contas da União (TCU), é correto afirmar:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "é órgão subordinado ao Poder Legislativo.",
+              },
+              {
+                letra: "B",
+                texto: "integra a estrutura do Poder Judiciário.",
+              },
+              {
+                letra: "C",
+                texto: "julga as contas do Presidente da República.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "auxilia o Congresso Nacional no exercício do controle externo.",
+              },
+              {
+                letra: "E",
+                texto: "suas decisões fazem coisa julgada.",
+              },
+            ],
+            gabarito: "D",
+            justificativa:
+              "O TCU AUXILIA o Congresso no controle externo (art. 71, CF), mas NÃO é subordinado a ele. Não integra o Judiciário, suas decisões não fazem coisa julgada, e quem JULGA as contas do PR é o próprio Congresso.",
+            dificuldade: "Média",
+            competencia: "TCU",
+            banca: "IADES",
+            tags: ["TCU", "auxílio"],
+          },
+          {
+            id: "da-q-10-4",
+            enunciado:
+              "As contas anuais do Presidente da República são:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "julgadas pelo Tribunal de Contas da União.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "apreciadas pelo TCU mediante parecer prévio e julgadas pelo Congresso Nacional.",
+              },
+              {
+                letra: "C",
+                texto: "julgadas diretamente pelo Supremo Tribunal Federal.",
+              },
+              {
+                letra: "D",
+                texto: "dispensadas de qualquer apreciação.",
+              },
+              {
+                letra: "E",
+                texto: "julgadas pela Câmara dos Deputados.",
+              },
+            ],
+            gabarito: "B",
+            justificativa:
+              "O TCU elabora PARECER PRÉVIO em 60 dias (art. 71, I, CF), mas quem JULGA as contas do PR é o Congresso Nacional (art. 49, IX, CF).",
+            dificuldade: "Média",
+            competencia: "Contas do Presidente",
+            banca: "IADES",
+            tags: ["contas", "presidente"],
+          },
+          {
+            id: "da-q-10-5",
+            enunciado:
+              "Segundo a Súmula 473 do STF, a Administração Pública:",
+            alternativas: [
+              {
+                letra: "A",
+                texto:
+                  "pode anular seus próprios atos ilegais, sem ressalvar direitos adquiridos.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "pode revogar atos ilegais e anular os inconvenientes.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "depende de autorização judicial para rever seus atos.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "pode anular atos ilegais e revogar os inconvenientes, respeitados os direitos adquiridos.",
+              },
+              {
+                letra: "E",
+                texto: "não pode rever atos que já produziram efeitos.",
+              },
+            ],
+            gabarito: "D",
+            justificativa:
+              "A Súmula 473 estabelece que a Administração pode ANULAR atos ilegais (de que não se originam direitos) e REVOGAR por conveniência/oportunidade, respeitados os direitos adquiridos.",
+            dificuldade: "Média",
+            competencia: "Súmula 473",
+            banca: "IADES",
+            tags: ["súmula 473", "autotutela"],
+          },
+          {
+            id: "da-q-10-6",
+            enunciado:
+              "Quanto à Comissão Parlamentar de Inquérito (CPI), é CORRETO afirmar que:",
+            alternativas: [
+              {
+                letra: "A",
+                texto:
+                  "pode decretar a prisão preventiva de investigados.",
+              },
+              {
+                letra: "B",
+                texto: "pode determinar busca domiciliar.",
+              },
+              {
+                letra: "C",
+                texto: "pode quebrar sigilo bancário e fiscal.",
+              },
+              {
+                letra: "D",
+                texto: "pode interceptar comunicações telefônicas.",
+              },
+              {
+                letra: "E",
+                texto: "pode julgar e condenar os investigados.",
+              },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A CPI pode QUEBRAR SIGILO bancário, fiscal e de dados. Não pode: prender, fazer busca domiciliar, interceptar telefone (cláusula de reserva de jurisdição), nem julgar (compete ao Judiciário).",
+            dificuldade: "Média",
+            competencia: "CPI",
+            banca: "IADES",
+            tags: ["CPI", "poderes"],
+          },
+          {
+            id: "da-q-10-7",
+            enunciado:
+              "A composição do Tribunal de Contas da União é de:",
+            alternativas: [
+              {
+                letra: "A",
+                texto:
+                  "11 Ministros, todos indicados pelo Presidente da República.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "9 Ministros, sendo 1/3 indicados pelo Presidente e 2/3 pelo Congresso.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "9 Ministros, todos indicados pelo Congresso Nacional.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "7 Ministros, sendo metade indicados pelo Judiciário.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "5 Ministros vitalícios, indicados pelo Senado Federal.",
+              },
+            ],
+            gabarito: "B",
+            justificativa:
+              "O TCU é composto por 9 Ministros: 1/3 (3) indicados pelo Presidente da República (com aprovação do Senado) e 2/3 (6) pelo Congresso Nacional.",
+            dificuldade: "Fácil",
+            competencia: "Composição TCU",
+            banca: "IADES",
+            tags: ["TCU", "composição"],
+          },
+          {
+            id: "da-q-10-8",
+            enunciado:
+              "A Súmula Vinculante nº 3 do STF estabelece que, nos processos perante o TCU:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "é dispensável o contraditório.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "o contraditório só é exigido em processos criminais.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "devem ser assegurados contraditório e ampla defesa quando a decisão puder anular ato que beneficie o interessado.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "o TCU pode julgar sem ouvir as partes interessadas.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "apenas o Ministério Público deve ser ouvido.",
+              },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A SV 3 determina que o TCU deve assegurar contraditório e ampla defesa quando sua decisão puder resultar em anulação ou revogação de ato que beneficie o interessado.",
+            dificuldade: "Média",
+            competencia: "SV 3",
+            banca: "IADES",
+            tags: ["SV 3", "contraditório"],
+          },
+          {
+            id: "da-q-10-9",
+            enunciado:
+              "O controle exercido pelo Poder Legislativo sobre a Administração Pública caracteriza-se como:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "controle interno.",
+              },
+              {
+                letra: "B",
+                texto: "controle externo.",
+              },
+              {
+                letra: "C",
+                texto: "autotutela.",
+              },
+              {
+                letra: "D",
+                texto: "controle hierárquico.",
+              },
+              {
+                letra: "E",
+                texto: "supervisão ministerial.",
+              },
+            ],
+            gabarito: "B",
+            justificativa:
+              "O controle exercido pelo Legislativo (com auxílio do TC) sobre o Executivo é CONTROLE EXTERNO, pois é exercido por Poder diverso daquele que praticou o ato.",
+            dificuldade: "Fácil",
+            competencia: "Controle externo",
+            banca: "IADES",
+            tags: ["legislativo", "controle externo"],
+          },
+          {
+            id: "da-q-10-10",
+            enunciado:
+              "O sistema de controle interno, previsto no art. 74 da Constituição Federal:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "é facultativo para os entes federativos.",
+              },
+              {
+                letra: "B",
+                texto: "deve ser mantido de forma integrada pelos Poderes.",
+              },
+              {
+                letra: "C",
+                texto: "substitui o controle externo.",
+              },
+              {
+                letra: "D",
+                texto: "é exercido exclusivamente pelo Ministério Público.",
+              },
+              {
+                letra: "E",
+                texto: "somente se aplica ao Poder Executivo.",
+              },
+            ],
+            gabarito: "B",
+            justificativa:
+              "O art. 74 da CF determina que os Poderes Legislativo, Executivo e Judiciário manterão, de forma INTEGRADA, sistema de controle interno. É obrigatório, não substitui o controle externo, e aplica-se aos três Poderes.",
+            dificuldade: "Média",
+            competencia: "Controle interno",
+            banca: "IADES",
+            tags: ["controle interno", "art. 74"],
+          },
+        ],
+      },
+    },
   ],
 };

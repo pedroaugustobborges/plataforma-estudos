@@ -7090,5 +7090,648 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
         ],
       },
     },
+    {
+      id: 'ce-topico-15',
+      numero: 15,
+      titulo: 'Decreto Estadual nº 6.906/2009 - Saúde do Trabalhador em Goiás',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Objeto do Decreto
+
+O **Decreto Estadual nº 6.906/2009** regulamenta a competência da **Secretaria de Estado da Saúde (SES-GO)** quanto à **saúde do trabalhador** no Estado de Goiás.
+
+### Conceito de Saúde do Trabalhador
+
+Conjunto de atividades que visa à **promoção e proteção da saúde** dos trabalhadores, bem como a **recuperação e reabilitação** daqueles submetidos aos riscos e agravos das condições de trabalho.
+
+### Competências da SES-GO
+
+| Competência | Descrição |
+|-------------|-----------|
+| **Vigilância** | Fiscalizar ambientes e processos de trabalho |
+| **Informação** | Manter sistema de informação sobre saúde do trabalhador |
+| **Atenção** | Garantir atendimento aos trabalhadores acidentados/doentes |
+| **Participação** | Articular com sindicatos e representantes |
+
+### Ações de Vigilância
+
+- Inspeção em ambientes de trabalho
+- Avaliação de riscos ocupacionais
+- Investigação de acidentes e doenças
+- Notificação compulsória de agravos
+
+### Para IADES - Memorizar:
+- CEREST: Centro de Referência em Saúde do Trabalhador
+- SINAN: Sistema de Informação de Agravos de Notificação
+- RENAST: Rede Nacional de Atenção à Saúde do Trabalhador
+- Notificação de acidentes de trabalho é OBRIGATÓRIA
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Contexto e Fundamentação Legal
+
+#### 1.1 Base Constitucional
+
+A **saúde do trabalhador** está prevista na Constituição Federal:
+
+**Art. 200, CF/88:**
+> "Ao sistema único de saúde compete, além de outras atribuições, nos termos da lei:
+> II - executar as ações de vigilância sanitária e epidemiológica, bem como as de **saúde do trabalhador**;"
+
+#### 1.2 Lei Orgânica da Saúde (Lei 8.080/90)
+
+**Art. 6º, §3º:** Define saúde do trabalhador como conjunto de atividades que se destina, através das ações de vigilância epidemiológica e sanitária, à promoção e proteção da saúde dos trabalhadores.
+
+#### 1.3 O Decreto Estadual nº 6.906/2009
+
+Regulamenta especificamente as competências da **SES-GO** na área de saúde do trabalhador, estabelecendo:
+- Atribuições do Estado
+- Instrumentos de vigilância
+- Sistema de informação
+- Articulação institucional
+
+### 2. Conceito de Saúde do Trabalhador
+
+#### 2.1 Definição Legal
+
+A **saúde do trabalhador** compreende um conjunto de atividades que visa:
+
+| Dimensão | Objetivo |
+|----------|----------|
+| **PROMOÇÃO** | Melhorar as condições de trabalho |
+| **PROTEÇÃO** | Prevenir riscos e doenças ocupacionais |
+| **RECUPERAÇÃO** | Tratar trabalhadores doentes/acidentados |
+| **REABILITAÇÃO** | Reinserir no trabalho |
+
+#### 2.2 Abrangência
+
+Aplica-se a **todos os trabalhadores**, independentemente de:
+- Vínculo formal ou informal
+- Setor público ou privado
+- Zona urbana ou rural
+- Regime CLT ou estatutário
+
+### 3. Competências da SES-GO
+
+#### 3.1 Vigilância em Saúde do Trabalhador
+
+##### a) Fiscalização de Ambientes de Trabalho
+- Inspeção em estabelecimentos
+- Avaliação de condições ambientais
+- Verificação de equipamentos de proteção
+- Análise de processos produtivos
+
+##### b) Investigação de Agravos
+- Acidentes de trabalho típicos
+- Acidentes de trajeto
+- Doenças ocupacionais
+- Mortes relacionadas ao trabalho
+
+##### c) Análise de Riscos Ocupacionais
+
+| Tipo de Risco | Exemplos |
+|---------------|----------|
+| **Físicos** | Ruído, vibração, radiação, temperaturas extremas |
+| **Químicos** | Gases, poeiras, vapores, produtos tóxicos |
+| **Biológicos** | Vírus, bactérias, fungos, parasitas |
+| **Ergonômicos** | Postura, repetitividade, esforço físico |
+| **Acidentes** | Máquinas, eletricidade, incêndio |
+
+#### 3.2 Sistema de Informação
+
+A SES-GO deve manter e alimentar:
+
+##### a) SINAN (Sistema de Informação de Agravos de Notificação)
+- Notificação compulsória de agravos
+- Dados epidemiológicos
+- Perfil de morbidade ocupacional
+
+##### b) Agravos de Notificação Compulsória
+
+| Agravo | Código CID |
+|--------|------------|
+| Acidente de trabalho grave | - |
+| Acidente com exposição a material biológico | - |
+| Acidente de trabalho fatal | - |
+| Intoxicação exógena | - |
+| Dermatoses ocupacionais | - |
+| LER/DORT | - |
+| Pneumoconioses | - |
+| Perda auditiva induzida por ruído (PAIR) | - |
+| Câncer relacionado ao trabalho | - |
+| Transtornos mentais relacionados ao trabalho | - |
+
+⚠️ **IADES cobra:** A notificação é OBRIGATÓRIA e deve ser feita mesmo em suspeita!
+
+#### 3.3 Atenção à Saúde do Trabalhador
+
+##### a) Rede de Atenção
+- **Atenção Básica**: porta de entrada, identificação de casos
+- **CEREST**: referência especializada
+- **Urgência/Emergência**: atendimento de acidentes
+- **Hospitais**: casos de maior complexidade
+
+##### b) CEREST (Centro de Referência em Saúde do Trabalhador)
+
+| Função | Descrição |
+|--------|-----------|
+| **Assistência** | Atendimento especializado |
+| **Apoio técnico** | Suporte à rede de saúde |
+| **Vigilância** | Ações de fiscalização |
+| **Educação** | Capacitação de profissionais |
+| **Informação** | Dados epidemiológicos |
+
+#### 3.4 Articulação Institucional
+
+A SES-GO deve articular-se com:
+
+| Órgão/Instituição | Objetivo |
+|-------------------|----------|
+| **Ministério do Trabalho** | Fiscalização complementar |
+| **INSS** | Benefícios previdenciários |
+| **Sindicatos** | Participação social |
+| **Ministério Público** | Ações de responsabilização |
+| **Municípios** | Descentralização de ações |
+
+### 4. Instrumentos de Vigilância
+
+#### 4.1 Inspeção Sanitária em Ambientes de Trabalho
+
+##### Procedimentos:
+1. Planejamento da inspeção
+2. Verificação de documentos (PPRA, PCMSO, CIPA)
+3. Inspeção física do ambiente
+4. Entrevista com trabalhadores
+5. Coleta de amostras (se necessário)
+6. Elaboração de relatório
+7. Notificação de irregularidades
+8. Aplicação de medidas (se cabível)
+
+##### Documentos a Verificar:
+
+| Documento | Significado |
+|-----------|-------------|
+| **PPRA** | Programa de Prevenção de Riscos Ambientais |
+| **PCMSO** | Programa de Controle Médico de Saúde Ocupacional |
+| **CIPA** | Comissão Interna de Prevenção de Acidentes |
+| **ASO** | Atestado de Saúde Ocupacional |
+| **CAT** | Comunicação de Acidente de Trabalho |
+
+#### 4.2 Investigação de Acidentes
+
+##### Objetivos:
+- Identificar causas básicas e imediatas
+- Propor medidas preventivas
+- Responsabilizar, se for o caso
+- Alimentar sistema de informação
+
+##### Etapas:
+1. Notificação do acidente
+2. Coleta de informações
+3. Análise do local
+4. Entrevistas
+5. Análise de causas
+6. Relatório final
+7. Recomendações
+
+### 5. Doenças Ocupacionais
+
+#### 5.1 Conceito
+
+**Doença ocupacional** é aquela produzida ou desencadeada pelo exercício do trabalho peculiar a determinada atividade.
+
+#### 5.2 Tipos
+
+| Tipo | Definição | Exemplo |
+|------|-----------|---------|
+| **Doença Profissional** | Inerente à atividade | Silicose em mineiros |
+| **Doença do Trabalho** | Adquirida pelas condições | DORT em digitadores |
+
+#### 5.3 Principais Doenças
+
+| Doença | Agente/Causa |
+|--------|--------------|
+| **LER/DORT** | Movimentos repetitivos |
+| **PAIR** | Exposição a ruído |
+| **Silicose** | Poeira de sílica |
+| **Asbestose** | Amianto |
+| **Dermatoses** | Agentes químicos |
+| **Intoxicações** | Substâncias tóxicas |
+| **Transtornos mentais** | Estresse, assédio |
+
+### 6. A RENAST
+
+#### 6.1 Conceito
+
+A **RENAST** (Rede Nacional de Atenção Integral à Saúde do Trabalhador) é a estrutura do SUS responsável pela atenção à saúde do trabalhador.
+
+#### 6.2 Componentes
+
+| Componente | Função |
+|------------|--------|
+| **CEREST** | Polo de referência |
+| **Atenção Básica** | Porta de entrada |
+| **Rede de urgência** | Acidentes |
+| **VISA** | Vigilância |
+| **SINAN** | Informação |
+
+#### 6.3 Em Goiás
+
+- CEREST Estadual coordena a rede
+- CEREST Regionais apoiam municípios
+- Articulação com VISA estadual e municipais
+
+### 7. Portaria SES-GO nº 34/2006
+
+Complementando o Decreto 6.906/2009, a **Portaria nº 34/2006** torna compulsória a notificação de agravos à saúde do trabalhador em Goiás.
+
+#### Agravos de Notificação Compulsória em Goiás:
+- Acidente de trabalho fatal
+- Acidente de trabalho grave
+- Acidente com material biológico
+- Intoxicação por agrotóxicos
+- LER/DORT
+- PAIR
+- Pneumoconioses
+- Dermatoses ocupacionais
+- Câncer relacionado ao trabalho
+- Transtornos mentais do trabalho
+
+### 8. Aplicação Prática para o Fiscal
+
+#### 8.1 Competências do Fiscal de Saúde Pública
+
+Na área de saúde do trabalhador, o fiscal pode:
+
+| Ação | Descrição |
+|------|-----------|
+| **Inspecionar** | Verificar condições de trabalho |
+| **Notificar** | Comunicar irregularidades |
+| **Orientar** | Educar sobre prevenção |
+| **Interditar** | Em caso de risco grave e iminente |
+| **Coletar** | Amostras para análise |
+| **Investigar** | Acidentes e doenças |
+
+#### 8.2 Integração com Vigilância Sanitária
+
+A saúde do trabalhador está integrada à VISA:
+- Estabelecimentos de saúde: condições de trabalho dos profissionais
+- Indústrias: riscos ocupacionais
+- Hospitais: exposição a agentes biológicos
+- Laboratórios: manipulação de substâncias
+
+### 9. Quadro Resumo das Siglas
+
+| Sigla | Significado |
+|-------|-------------|
+| **CEREST** | Centro de Referência em Saúde do Trabalhador |
+| **RENAST** | Rede Nacional de Atenção à Saúde do Trabalhador |
+| **SINAN** | Sistema de Informação de Agravos de Notificação |
+| **PPRA** | Programa de Prevenção de Riscos Ambientais |
+| **PCMSO** | Programa de Controle Médico de Saúde Ocupacional |
+| **CIPA** | Comissão Interna de Prevenção de Acidentes |
+| **CAT** | Comunicação de Acidente de Trabalho |
+| **ASO** | Atestado de Saúde Ocupacional |
+| **LER** | Lesão por Esforço Repetitivo |
+| **DORT** | Distúrbio Osteomuscular Relacionado ao Trabalho |
+| **PAIR** | Perda Auditiva Induzida por Ruído |
+        `,
+
+        pontosChave: [
+          'Decreto 6.906/2009: regulamenta competência da SES-GO em saúde do trabalhador',
+          'Saúde do trabalhador: promoção, proteção, recuperação e reabilitação',
+          'CEREST: Centro de Referência em Saúde do Trabalhador',
+          'RENAST: Rede Nacional de Atenção à Saúde do Trabalhador',
+          'SINAN: sistema de notificação de agravos (obrigatório)',
+          'Riscos ocupacionais: físicos, químicos, biológicos, ergonômicos, acidentes',
+          'PPRA e PCMSO: documentos obrigatórios das empresas',
+          'Notificação compulsória: acidente de trabalho, doenças ocupacionais',
+          'LER/DORT, PAIR, silicose: doenças ocupacionais frequentes',
+          'Portaria 34/2006 GO: lista de agravos de notificação compulsória',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir doença profissional com doença do trabalho',
+            descricao: 'Doença PROFISSIONAL é inerente à atividade (ex: silicose em mineradores). Doença DO TRABALHO é adquirida pelas condições de trabalho.',
+            dica: 'Profissional = própria da profissão. Do trabalho = pelas condições.',
+          },
+          {
+            titulo: 'Achar que notificação é apenas para casos confirmados',
+            descricao: 'A notificação deve ser feita mesmo em casos SUSPEITOS. Não precisa esperar confirmação.',
+            dica: 'Suspeita já gera obrigação de notificar.',
+          },
+          {
+            titulo: 'Confundir CAT com notificação no SINAN',
+            descricao: 'CAT é documento previdenciário (INSS). SINAN é sistema epidemiológico (SUS). Ambos são obrigatórios, mas para fins diferentes.',
+            dica: 'CAT = INSS (benefícios). SINAN = SUS (vigilância).',
+          },
+          {
+            titulo: 'Pensar que saúde do trabalhador é só do Ministério do Trabalho',
+            descricao: 'Saúde do trabalhador é competência do SUS (Art. 200, CF). O Ministério do Trabalho atua na parte trabalhista (NRs), mas a saúde é do SUS.',
+            dica: 'SAÚDE do trabalhador = SUS. SEGURANÇA do trabalho = MT.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'PPRA-PCMSO',
+            significado: 'Programas obrigatórios das empresas',
+            frase: 'PPRA = Prevenção (ambientes). PCMSO = Controle Médico (exames).',
+          },
+          {
+            termo: 'FQBEA',
+            significado: 'Físicos, Químicos, Biológicos, Ergonômicos, Acidentes',
+            frase: 'Os 5 tipos de riscos ocupacionais: FQBEA',
+          },
+          {
+            termo: 'CEREST',
+            significado: 'Centro de Referência em Saúde do Trabalhador',
+            frase: 'No CEREST, o trabalhador encontra REST(auro) para sua saúde',
+          },
+          {
+            termo: 'PRR',
+            significado: 'Promoção, Recuperação, Reabilitação',
+            frase: 'As 3 dimensões da saúde do trabalhador: PRR (mais Proteção)',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-15-1',
+            frente: 'O que regulamenta o Decreto Estadual nº 6.906/2009?',
+            verso: 'Regulamenta a competência da **SES-GO** (Secretaria de Estado da Saúde de Goiás) quanto à **saúde do trabalhador**.\n\nEstabelece:\n- Atribuições do Estado\n- Instrumentos de vigilância\n- Sistema de informação\n- Articulação institucional',
+            tags: ['Decreto 6.906', 'saúde do trabalhador'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-15-2',
+            frente: 'O que é o CEREST?',
+            verso: '**CEREST** = Centro de Referência em Saúde do Trabalhador\n\nFunções:\n- Assistência especializada\n- Apoio técnico à rede\n- Vigilância em saúde do trabalhador\n- Educação permanente\n- Informação epidemiológica\n\nIntegra a RENAST.',
+            tags: ['CEREST', 'conceito'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-15-3',
+            frente: 'Quais são os tipos de RISCOS OCUPACIONAIS?',
+            verso: '**FQBEA:**\n\n1. **F**ísicos: ruído, vibração, radiação\n2. **Q**uímicos: gases, poeiras, vapores\n3. **B**iológicos: vírus, bactérias, fungos\n4. **E**rgonômicos: postura, repetitividade\n5. **A**cidentes: máquinas, eletricidade',
+            tags: ['riscos', 'ocupacionais'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-15-4',
+            frente: 'Qual a diferença entre PPRA e PCMSO?',
+            verso: '**PPRA** = Programa de Prevenção de Riscos Ambientais\n→ Foco no AMBIENTE de trabalho\n→ Identifica e controla riscos\n\n**PCMSO** = Programa de Controle Médico de Saúde Ocupacional\n→ Foco no TRABALHADOR\n→ Exames médicos (admissional, periódico, etc.)\n\nAmbos são obrigatórios!',
+            tags: ['PPRA', 'PCMSO'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-15-5',
+            frente: 'Qual a diferença entre doença PROFISSIONAL e doença DO TRABALHO?',
+            verso: '**Doença PROFISSIONAL:**\n→ Inerente à atividade\n→ Peculiar à profissão\n→ Ex: silicose em mineradores\n\n**Doença DO TRABALHO:**\n→ Adquirida pelas condições\n→ Não é específica da profissão\n→ Ex: DORT em digitadores\n\nAmbas são equiparadas a acidente de trabalho!',
+            tags: ['doença ocupacional', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-15-6',
+            frente: 'O que é a RENAST?',
+            verso: '**RENAST** = Rede Nacional de Atenção Integral à Saúde do Trabalhador\n\nEstrutura do SUS para saúde do trabalhador.\n\nComponentes:\n- CEREST (referência)\n- Atenção Básica (porta de entrada)\n- Urgência/Emergência\n- Vigilância em Saúde\n- SINAN (informação)',
+            tags: ['RENAST', 'conceito'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-15-7',
+            frente: 'O que é CAT e para que serve?',
+            verso: '**CAT** = Comunicação de Acidente de Trabalho\n\n**Finalidade:**\n→ Documento previdenciário (INSS)\n→ Garante direitos do trabalhador\n→ Benefícios acidentários\n\n**Prazo:** Até o 1º dia útil após o acidente\n\n⚠️ Não confundir com notificação no SINAN (vigilância epidemiológica).',
+            tags: ['CAT', 'acidente'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-15-8',
+            frente: 'Quais agravos à saúde do trabalhador são de notificação compulsória em Goiás?',
+            verso: 'Portaria SES-GO nº 34/2006:\n\n- Acidente de trabalho fatal e grave\n- Acidente com material biológico\n- Intoxicação por agrotóxicos\n- LER/DORT\n- PAIR\n- Pneumoconioses\n- Dermatoses ocupacionais\n- Câncer relacionado ao trabalho\n- Transtornos mentais do trabalho\n\n⚠️ Notificar mesmo em SUSPEITA!',
+            tags: ['notificação', 'agravos'],
+            dificuldade: 'dificil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-15-1',
+            enunciado: 'O Decreto Estadual nº 6.906/2009 regulamenta a competência da SES-GO quanto:',
+            alternativas: [
+              { letra: 'A', texto: 'à vigilância sanitária de alimentos.' },
+              { letra: 'B', texto: 'ao controle de zoonoses.' },
+              { letra: 'C', texto: 'à saúde do trabalhador.' },
+              { letra: 'D', texto: 'à vigilância ambiental.' },
+              { letra: 'E', texto: 'ao controle de medicamentos.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O Decreto Estadual nº 6.906/2009 regulamenta especificamente a competência da SES-GO na área de SAÚDE DO TRABALHADOR.',
+            dificuldade: 'Fácil',
+            competencia: 'Objeto do Decreto',
+            banca: 'IADES',
+            tags: ['Decreto 6.906', 'objeto'],
+          },
+          {
+            id: 'ce-q-15-2',
+            enunciado: 'O Centro de Referência em Saúde do Trabalhador (CEREST) tem como função:',
+            alternativas: [
+              { letra: 'A', texto: 'substituir os hospitais no atendimento de acidentes.' },
+              { letra: 'B', texto: 'prestar assistência especializada e apoio técnico à rede.' },
+              { letra: 'C', texto: 'apenas emitir CAT.' },
+              { letra: 'D', texto: 'fiscalizar exclusivamente indústrias.' },
+              { letra: 'E', texto: 'conceder benefícios previdenciários.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O CEREST presta ASSISTÊNCIA ESPECIALIZADA, oferece APOIO TÉCNICO à rede de saúde, realiza vigilância, educação permanente e produz informação epidemiológica.',
+            dificuldade: 'Média',
+            competencia: 'CEREST',
+            banca: 'IADES',
+            tags: ['CEREST', 'funções'],
+          },
+          {
+            id: 'ce-q-15-3',
+            enunciado: 'São tipos de riscos ocupacionais, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'físicos.' },
+              { letra: 'B', texto: 'químicos.' },
+              { letra: 'C', texto: 'biológicos.' },
+              { letra: 'D', texto: 'jurídicos.' },
+              { letra: 'E', texto: 'ergonômicos.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Os riscos ocupacionais são: Físicos, Químicos, Biológicos, Ergonômicos e de Acidentes. Risco JURÍDICO não é categoria de risco ocupacional.',
+            dificuldade: 'Fácil',
+            competencia: 'Riscos ocupacionais',
+            banca: 'IADES',
+            tags: ['riscos', 'classificação'],
+          },
+          {
+            id: 'ce-q-15-4',
+            enunciado: 'A doença produzida ou desencadeada pelo exercício do trabalho peculiar a determinada atividade é denominada:',
+            alternativas: [
+              { letra: 'A', texto: 'doença comum.' },
+              { letra: 'B', texto: 'doença profissional.' },
+              { letra: 'C', texto: 'doença epidêmica.' },
+              { letra: 'D', texto: 'doença endêmica.' },
+              { letra: 'E', texto: 'doença crônica.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'DOENÇA PROFISSIONAL é aquela produzida ou desencadeada pelo exercício do trabalho peculiar (inerente) a determinada atividade. É diferente de doença DO TRABALHO (condições de trabalho).',
+            dificuldade: 'Média',
+            competencia: 'Doença ocupacional',
+            banca: 'IADES',
+            tags: ['doença profissional', 'conceito'],
+          },
+          {
+            id: 'ce-q-15-5',
+            enunciado: 'O PPRA (Programa de Prevenção de Riscos Ambientais) tem como foco:',
+            alternativas: [
+              { letra: 'A', texto: 'os exames médicos dos trabalhadores.' },
+              { letra: 'B', texto: 'os acidentes de trajeto.' },
+              { letra: 'C', texto: 'o ambiente de trabalho e seus riscos.' },
+              { letra: 'D', texto: 'a concessão de benefícios.' },
+              { letra: 'E', texto: 'a aposentadoria especial.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O PPRA foca no AMBIENTE de trabalho, identificando e controlando riscos ambientais. O PCMSO foca no trabalhador (exames médicos).',
+            dificuldade: 'Média',
+            competencia: 'PPRA',
+            banca: 'IADES',
+            tags: ['PPRA', 'ambiente'],
+          },
+          {
+            id: 'ce-q-15-6',
+            enunciado: 'A notificação de agravos à saúde do trabalhador deve ser realizada:',
+            alternativas: [
+              { letra: 'A', texto: 'somente após confirmação laboratorial.' },
+              { letra: 'B', texto: 'apenas em casos fatais.' },
+              { letra: 'C', texto: 'mesmo em casos suspeitos.' },
+              { letra: 'D', texto: 'somente pelo empregador.' },
+              { letra: 'E', texto: 'apenas no INSS.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A notificação compulsória deve ser realizada MESMO EM CASOS SUSPEITOS, não precisa aguardar confirmação. Qualquer profissional de saúde pode notificar.',
+            dificuldade: 'Média',
+            competencia: 'Notificação',
+            banca: 'IADES',
+            tags: ['notificação', 'suspeita'],
+          },
+          {
+            id: 'ce-q-15-7',
+            enunciado: 'A RENAST (Rede Nacional de Atenção Integral à Saúde do Trabalhador) integra o:',
+            alternativas: [
+              { letra: 'A', texto: 'Ministério do Trabalho.' },
+              { letra: 'B', texto: 'INSS.' },
+              { letra: 'C', texto: 'Sistema Único de Saúde (SUS).' },
+              { letra: 'D', texto: 'Sistema S.' },
+              { letra: 'E', texto: 'Ministério da Economia.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A RENAST é a estrutura do SUS responsável pela atenção à saúde do trabalhador, conforme art. 200, II, da CF/88.',
+            dificuldade: 'Fácil',
+            competencia: 'RENAST',
+            banca: 'IADES',
+            tags: ['RENAST', 'SUS'],
+          },
+          {
+            id: 'ce-q-15-8',
+            enunciado: 'A CAT (Comunicação de Acidente de Trabalho) é documento:',
+            alternativas: [
+              { letra: 'A', texto: 'de vigilância epidemiológica.' },
+              { letra: 'B', texto: 'previdenciário, destinado ao INSS.' },
+              { letra: 'C', texto: 'trabalhista, destinado ao sindicato.' },
+              { letra: 'D', texto: 'de identificação do trabalhador.' },
+              { letra: 'E', texto: 'exclusivo para acidentes fatais.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A CAT é documento PREVIDENCIÁRIO destinado ao INSS, que garante os direitos do trabalhador acidentado aos benefícios acidentários.',
+            dificuldade: 'Média',
+            competencia: 'CAT',
+            banca: 'IADES',
+            tags: ['CAT', 'previdenciário'],
+          },
+          {
+            id: 'ce-q-15-9',
+            enunciado: 'A Portaria SES-GO nº 34/2006 torna compulsória a notificação de agravos à saúde do trabalhador. São agravos de notificação compulsória em Goiás:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas acidentes fatais.' },
+              { letra: 'B', texto: 'LER/DORT, PAIR, pneumoconioses, entre outros.' },
+              { letra: 'C', texto: 'apenas doenças infecciosas.' },
+              { letra: 'D', texto: 'apenas acidentes típicos.' },
+              { letra: 'E', texto: 'nenhum, pois não há lista específica.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A Portaria 34/2006 lista diversos agravos, incluindo: LER/DORT, PAIR, pneumoconioses, dermatoses, intoxicações, acidentes graves, câncer ocupacional, transtornos mentais.',
+            dificuldade: 'Média',
+            competencia: 'Notificação compulsória GO',
+            banca: 'IADES',
+            tags: ['Portaria 34', 'notificação'],
+          },
+          {
+            id: 'ce-q-15-10',
+            enunciado: 'A saúde do trabalhador compreende atividades de:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas promoção da saúde.' },
+              { letra: 'B', texto: 'apenas recuperação e reabilitação.' },
+              { letra: 'C', texto: 'promoção, proteção, recuperação e reabilitação.' },
+              { letra: 'D', texto: 'apenas vigilância.' },
+              { letra: 'E', texto: 'apenas fiscalização.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A saúde do trabalhador compreende o conjunto de atividades de PROMOÇÃO, PROTEÇÃO, RECUPERAÇÃO e REABILITAÇÃO da saúde dos trabalhadores.',
+            dificuldade: 'Fácil',
+            competencia: 'Conceito',
+            banca: 'IADES',
+            tags: ['saúde do trabalhador', 'conceito'],
+          },
+        ],
+      },
+    },
   ],
 };

@@ -5622,5 +5622,674 @@ Princípios:
         ],
       },
     },
+    {
+      id: "ap-topico-10",
+      numero: 10,
+      titulo: "Nova Gestão Pública, Governança Pública e Gestão por Resultados",
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Nova Gestão Pública (NGP / NPM)
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Origem** | Reino Unido, EUA, Nova Zelândia (anos 1980) |
+| **Brasil** | PDRAE (1995), governo FHC |
+| **Foco** | Resultados, eficiência, cidadão-cliente |
+| **Modelo** | Pós-burocrático / Gerencial |
+
+### Governança Pública
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Conceito** | Capacidade de governo + articulação com sociedade |
+| **Pilares** | Transparência, integridade, accountability, participação |
+| **Foco** | Coordenação de atores para o bem comum |
+| **Distinção** | Governança ≠ Governabilidade |
+
+### Gestão por Resultados
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Controle** | A posteriori (resultados) |
+| **Foco** | Outputs (entregas) e outcomes (impactos) |
+| **Instrumentos** | Indicadores, metas, contrato de gestão |
+| **Avaliação** | Desempenho, não apenas conformidade |
+
+### Para IADES - Memorizar:
+- NGP = foco em RESULTADOS, não em processos
+- Governança = COMO se governa (capacidade + legitimidade)
+- Governabilidade = CONDIÇÕES para governar (apoio político)
+- Gestão por resultados: controle A POSTERIORI
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Nova Gestão Pública (New Public Management - NPM)
+
+#### 1.1 Conceito e Origem
+
+A **Nova Gestão Pública** (NGP) é um movimento de reforma administrativa surgido nos anos 1980, que busca incorporar **práticas da iniciativa privada** ao setor público.
+
+#### Contexto de Surgimento
+- **Crise fiscal** dos Estados nos anos 1970-80
+- **Críticas à burocracia** weberiana (rigidez, ineficiência)
+- **Influência neoliberal** (Estado mínimo)
+- **Globalização** e competitividade
+
+#### Países Pioneiros
+| País | Reforma |
+|------|---------|
+| **Reino Unido** | Governo Thatcher (1979) |
+| **EUA** | Reinventando o Governo (1993) |
+| **Nova Zelândia** | Modelo mais radical |
+| **Brasil** | PDRAE (1995) |
+
+#### 1.2 Princípios da NGP
+
+1. **Foco no cidadão-cliente**
+   - O usuário é tratado como cliente do serviço público
+   - Satisfação e qualidade no atendimento
+
+2. **Orientação para resultados**
+   - Controle a posteriori (não prévio)
+   - Avaliação por desempenho, não por conformidade
+
+3. **Flexibilização**
+   - Menos regras rígidas
+   - Descentralização de decisões
+
+4. **Competição**
+   - Estímulo à competição entre prestadores
+   - Parcerias público-privadas
+
+5. **Accountability**
+   - Responsabilização pelos resultados
+   - Transparência e prestação de contas
+
+#### 1.3 A NGP no Brasil: O PDRAE
+
+O **Plano Diretor da Reforma do Aparelho do Estado** (1995) foi o marco da NGP no Brasil.
+
+##### Autor e Contexto
+- **Luiz Carlos Bresser-Pereira** (Ministro do MARE)
+- Governo Fernando Henrique Cardoso
+- EC 19/1998 (Reforma Administrativa)
+
+##### Núcleos do Estado (PDRAE)
+
+| Núcleo | Função | Forma de Propriedade |
+|--------|--------|---------------------|
+| **Estratégico** | Decisões políticas | Estatal |
+| **Atividades Exclusivas** | Poder de Estado | Estatal |
+| **Serviços Não-Exclusivos** | Serviços sociais | Pública não-estatal |
+| **Produção de Bens** | Mercado | Privada |
+
+##### Instrumentos do PDRAE
+- **Agências Executivas**: autarquias com contrato de gestão
+- **Organizações Sociais**: publicização de serviços
+- **Contrato de Gestão**: metas e autonomia
+- **Avaliação de Desempenho**: novo critério de promoção
+
+### 2. Governança Pública
+
+#### 2.1 Conceito
+
+**Governança Pública** é a capacidade que um dado governo tem para **formular e implementar** políticas públicas, de forma **articulada** com a sociedade e outros atores.
+
+> "Governança refere-se aos mecanismos, processos e instituições através dos quais cidadãos e grupos articulam seus interesses, exercem seus direitos legais, cumprem suas obrigações e mediam suas diferenças." (ONU)
+
+#### 2.2 Governança vs. Governabilidade
+
+| Aspecto | GOVERNANÇA | GOVERNABILIDADE |
+|---------|------------|-----------------|
+| **Pergunta** | COMO se governa? | É POSSÍVEL governar? |
+| **Foco** | Capacidade técnica/gerencial | Condições políticas |
+| **Dimensão** | Administrativa/operacional | Política |
+| **Elementos** | Eficiência, controle, participação | Legitimidade, apoio, coalizão |
+| **Problema** | Má gestão, corrupção | Crise política, instabilidade |
+
+⚠️ **IADES cobra muito**: Governança = COMO. Governabilidade = SE É POSSÍVEL.
+
+#### 2.3 Pilares da Boa Governança
+
+##### a) Transparência (Disclosure)
+- Divulgação proativa de informações
+- LAI (Lei 12.527/2011)
+- Portal da Transparência
+
+##### b) Integridade (Integrity)
+- Ética e probidade
+- Compliance e controles internos
+- Combate à corrupção
+
+##### c) Accountability (Responsabilização)
+- Prestação de contas
+- Responsabilização por resultados
+- Controle social
+
+##### d) Participação
+- Conselhos e conferências
+- Audiências públicas
+- Consultas populares
+
+#### 2.4 Governança Corporativa no Setor Público
+
+Aplicação dos princípios de governança corporativa às organizações públicas:
+
+| Princípio | Aplicação |
+|-----------|-----------|
+| **Equidade** | Tratamento justo de stakeholders |
+| **Transparência** | Informações claras e acessíveis |
+| **Prestação de Contas** | Accountability por resultados |
+| **Responsabilidade Corporativa** | Sustentabilidade e ética |
+
+#### 2.5 Decreto nº 9.203/2017
+
+Estabelece a política de governança da administração pública federal.
+
+**Princípios:**
+- Capacidade de resposta
+- Integridade
+- Confiabilidade
+- Melhoria regulatória
+- Prestação de contas e responsabilidade
+- Transparência
+
+**Diretrizes:**
+- Direcionamento estratégico
+- Monitoramento do desempenho
+- Avaliação de políticas públicas
+
+### 3. Gestão por Resultados
+
+#### 3.1 Conceito
+
+A **Gestão por Resultados** (GpR) é um modelo de administração que foca nos **outputs** (entregas) e **outcomes** (impactos) da ação governamental, em vez de simplesmente controlar processos e conformidade.
+
+#### 3.2 Características
+
+| Aspecto | Burocrático | Gestão por Resultados |
+|---------|-------------|----------------------|
+| **Controle** | A priori (prévio) | A posteriori (posterior) |
+| **Foco** | Meios, processos | Fins, resultados |
+| **Critério** | Conformidade | Desempenho |
+| **Avaliação** | Aderência às regras | Alcance de metas |
+
+#### 3.3 Elementos da Gestão por Resultados
+
+##### a) Planejamento Estratégico
+- Missão, visão, valores
+- Objetivos estratégicos
+- Metas e indicadores
+
+##### b) Indicadores de Desempenho
+| Tipo | Mede |
+|------|------|
+| **Eficiência** | Relação insumo/produto |
+| **Eficácia** | Alcance de metas |
+| **Efetividade** | Impacto na sociedade |
+| **Economicidade** | Uso racional de recursos |
+
+##### c) Contrato de Gestão
+- Acordo entre órgãos/entidades
+- Define metas e indicadores
+- Confere autonomia em troca de resultados
+- Art. 37, §8º, CF (EC 19/98)
+
+##### d) Avaliação de Desempenho
+- Servidores avaliados por resultados
+- Bonificação por desempenho
+- Feedback contínuo
+
+#### 3.4 Ciclo da Gestão por Resultados
+
+\`\`\`
+PLANEJAR → EXECUTAR → MONITORAR → AVALIAR → CORRIGIR
+    ↑________________________________________________↓
+\`\`\`
+
+1. **Planejar**: definir metas e indicadores
+2. **Executar**: realizar as ações planejadas
+3. **Monitorar**: acompanhar em tempo real
+4. **Avaliar**: verificar alcance das metas
+5. **Corrigir**: ajustar para o próximo ciclo
+
+### 4. Instrumentos da Nova Gestão
+
+#### 4.1 Contrato de Gestão (Art. 37, §8º, CF)
+
+> "A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da administração direta e indireta poderá ser ampliada mediante contrato..."
+
+**Elementos:**
+- Metas de desempenho
+- Indicadores de avaliação
+- Ampliação de autonomia
+- Prazo determinado
+
+#### 4.2 Organizações Sociais (OS)
+
+- Lei 9.637/1998
+- Entidades privadas sem fins lucrativos
+- Qualificadas pelo Poder Público
+- Celebram **contrato de gestão**
+- Atuam em: saúde, educação, cultura, ciência, meio ambiente
+
+#### 4.3 Agências Executivas
+
+- Lei 9.649/1998
+- Autarquias ou fundações com contrato de gestão
+- Qualificação por decreto
+- Plano de reestruturação
+- Maior autonomia administrativa
+
+#### 4.4 Parcerias Público-Privadas (PPP)
+
+- Lei 11.079/2004
+- Concessões especiais
+- Contraprestação do poder público
+- Modalidades: patrocinada e administrativa
+
+### 5. Críticas e Limites da NGP
+
+#### 5.1 Críticas Comuns
+
+1. **Transposição acrítica** de técnicas privadas
+2. **Redução do cidadão** a mero cliente
+3. **Dificuldade de mensurar** resultados no setor público
+4. **Risco de privatização** de serviços essenciais
+5. **Fragmentação** da administração
+
+#### 5.2 Limites no Brasil
+
+- Resistência corporativa
+- Cultura burocrática arraigada
+- Descontinuidade de políticas
+- Desigualdades regionais
+
+### 6. Aplicação na Vigilância Sanitária
+
+#### 6.1 Governança na VISA
+- Articulação entre ANVISA, estados e municípios
+- Participação social nos conselhos
+- Transparência nas decisões regulatórias
+
+#### 6.2 Gestão por Resultados na VISA
+- Indicadores de desempenho (inspeções, registros)
+- Metas de cobertura de fiscalização
+- Avaliação de impacto das ações
+
+#### 6.3 Contratos de Gestão
+- Agências Executivas no Sistema de Saúde
+- Hospitais sob gestão de OS
+- Metas de qualidade e atendimento
+        `,
+
+        pontosChave: [
+          "NGP: foco em resultados, cidadão-cliente, flexibilização, accountability",
+          "PDRAE (1995): marco da reforma gerencial no Brasil (Bresser-Pereira)",
+          "Governança = COMO se governa (capacidade técnica e articulação)",
+          "Governabilidade = SE É POSSÍVEL governar (condições políticas)",
+          "Pilares da governança: transparência, integridade, accountability, participação",
+          "Gestão por Resultados: controle A POSTERIORI, foco em outputs e outcomes",
+          "Contrato de Gestão: metas + autonomia (art. 37, §8º, CF)",
+          "Indicadores: eficiência (insumo/produto), eficácia (metas), efetividade (impacto)",
+          "OS (Lei 9.637/98): entidades privadas + contrato de gestão",
+          "Decreto 9.203/2017: política de governança federal",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir Governança com Governabilidade",
+            descricao:
+              "Governança = COMO se governa (capacidade). Governabilidade = SE É POSSÍVEL governar (condições políticas).",
+            dica: "GoverNANÇA = gerêNCIA (como administrar). GoverNABILIDADE = viABILIDADE (se é viável).",
+          },
+          {
+            titulo: "Achar que NGP eliminou a burocracia",
+            descricao:
+              "A NGP corrigiu DISFUNÇÕES da burocracia, mas manteve princípios como legalidade, impessoalidade e concurso público.",
+            dica: "NGP não é anti-burocrática; é pós-burocrática (evolução, não substituição).",
+          },
+          {
+            titulo: "Confundir eficiência com eficácia",
+            descricao:
+              "Eficiência = fazer bem (custo-benefício). Eficácia = atingir metas. Efetividade = impacto na sociedade.",
+            dica: "Pode ser eficaz sem ser eficiente (alcança meta gastando muito).",
+          },
+          {
+            titulo: "Inverter o tipo de controle",
+            descricao:
+              "Modelo burocrático = controle PRÉVIO (a priori). Modelo gerencial = controle POSTERIOR (a posteriori).",
+            dica: "Gerencial controla DEPOIS (resultados). Burocrático controla ANTES (processos).",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "TIPA",
+            significado: "Transparência, Integridade, Participação, Accountability",
+            frase: "Pilares da governança: TIPA (um governo com TIPA de qualidade)",
+          },
+          {
+            termo: "3 Es",
+            significado: "Eficiência, Eficácia, Efetividade",
+            frase: "Os 3 Es da avaliação: Eficiência (como), Eficácia (o quê), Efetividade (impacto)",
+          },
+          {
+            termo: "GOVERNANÇA-COMO",
+            significado: "Governança = Como se governa",
+            frase: "GoverNANÇA começa com a mesma sílaba de NANAGEM (gerenciamento) = COMO",
+          },
+          {
+            termo: "APRI-POST",
+            significado: "Burocrático=A Priori, Gerencial=A Posteriori",
+            frase: "Buro controla Antes (A Priori), Gerencial controla dePoiS (Posteriori)",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "ap-fc-10-1",
+            frente: "Qual a diferença entre GOVERNANÇA e GOVERNABILIDADE?",
+            verso:
+              "**GOVERNANÇA**:\n- COMO se governa\n- Capacidade técnica/gerencial\n- Mecanismos de gestão\n- Dimensão administrativa\n\n**GOVERNABILIDADE**:\n- SE É POSSÍVEL governar\n- Condições políticas\n- Legitimidade e apoio\n- Dimensão política",
+            tags: ["governança", "governabilidade", "diferença"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-10-2",
+            frente: "Quais são os pilares da boa governança pública?",
+            verso:
+              "**TIPA:**\n\n1. **T**ransparência (disclosure)\n   → Divulgação de informações\n\n2. **I**ntegridade\n   → Ética e probidade\n\n3. **P**articipação\n   → Envolvimento da sociedade\n\n4. **A**ccountability\n   → Responsabilização",
+            tags: ["governança", "pilares"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-10-3",
+            frente: "Qual a diferença entre EFICIÊNCIA, EFICÁCIA e EFETIVIDADE?",
+            verso:
+              "**EFICIÊNCIA**:\n→ Fazer CERTO (relação custo-benefício)\n→ Usar menos recursos\n\n**EFICÁCIA**:\n→ Fazer a COISA CERTA (atingir metas)\n→ Alcançar objetivos\n\n**EFETIVIDADE**:\n→ Causar IMPACTO (transformação social)\n→ Resolver o problema",
+            tags: ["eficiência", "eficácia", "efetividade"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-10-4",
+            frente: "O que é a Gestão por Resultados?",
+            verso:
+              "Modelo que foca em **resultados** (outputs e outcomes), não em processos.\n\nCaracterísticas:\n- Controle A POSTERIORI\n- Avaliação por desempenho\n- Indicadores e metas\n- Contrato de gestão\n\nOposto do modelo burocrático (controle a priori/prévio).",
+            tags: ["gestão por resultados", "conceito"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-10-5",
+            frente: "O que foi o PDRAE e quem foi seu autor?",
+            verso:
+              "**PDRAE** = Plano Diretor da Reforma do Aparelho do Estado (1995)\n\n**Autor**: Luiz Carlos BRESSER-PEREIRA\n\n**Governo**: FHC\n\n**Objetivo**: Implementar a Reforma Gerencial no Brasil\n\n**Marco legal**: EC 19/1998",
+            tags: ["PDRAE", "Bresser-Pereira"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-10-6",
+            frente: "O que é o Contrato de Gestão (art. 37, §8º, CF)?",
+            verso:
+              "Acordo para **ampliar autonomia** de órgãos/entidades em troca de **metas de desempenho**.\n\nElementos:\n- Metas a cumprir\n- Indicadores de avaliação\n- Prazo determinado\n- Ampliação de autonomia (gerencial, orçamentária, financeira)\n\nUsado em: OS, Agências Executivas",
+            tags: ["contrato de gestão", "art. 37"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-10-7",
+            frente: "Qual tipo de controle predomina no modelo GERENCIAL?",
+            verso:
+              "Controle **A POSTERIORI** (posterior)\n\n→ Foco nos RESULTADOS\n→ Avaliação DEPOIS da execução\n→ Indicadores de desempenho\n\n(Diferente do modelo BUROCRÁTICO que usa controle A PRIORI = antes/prévio)",
+            tags: ["controle", "gerencial"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-10-8",
+            frente: "O que são Organizações Sociais (OS)?",
+            verso:
+              "**Lei 9.637/1998**\n\nEntidades **privadas sem fins lucrativos** que:\n- Recebem qualificação do Poder Público\n- Celebram **contrato de gestão**\n- Recebem recursos públicos\n- Atuam em: saúde, educação, cultura, ciência, meio ambiente\n\nÉ a \"publicização\" de serviços não-exclusivos.",
+            tags: ["OS", "organizações sociais"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "ap-q-10-1",
+            enunciado:
+              "A capacidade que um governo possui para formular e implementar políticas públicas de forma eficiente, articulando-se com a sociedade, refere-se ao conceito de:",
+            alternativas: [
+              { letra: "A", texto: "governabilidade." },
+              { letra: "B", texto: "governança." },
+              { letra: "C", texto: "accountability." },
+              { letra: "D", texto: "compliance." },
+              { letra: "E", texto: "transparência." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "GOVERNANÇA refere-se à capacidade de COMO governar (formular e implementar políticas). GOVERNABILIDADE refere-se às CONDIÇÕES políticas para governar (legitimidade, apoio).",
+            dificuldade: "Fácil",
+            competencia: "Governança",
+            banca: "IADES",
+            tags: ["governança", "conceito"],
+          },
+          {
+            id: "ap-q-10-2",
+            enunciado:
+              "Na gestão por resultados, o tipo de controle predominante é o controle:",
+            alternativas: [
+              { letra: "A", texto: "prévio (a priori)." },
+              { letra: "B", texto: "hierárquico." },
+              { letra: "C", texto: "posterior (a posteriori)." },
+              { letra: "D", texto: "de conformidade." },
+              { letra: "E", texto: "burocrático." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A gestão por resultados utiliza controle A POSTERIORI (após a execução), focando em resultados alcançados. O controle a priori é característico do modelo burocrático.",
+            dificuldade: "Fácil",
+            competencia: "Gestão por resultados",
+            banca: "IADES",
+            tags: ["controle", "a posteriori"],
+          },
+          {
+            id: "ap-q-10-3",
+            enunciado:
+              "O Plano Diretor da Reforma do Aparelho do Estado (PDRAE), de 1995, foi elaborado por:",
+            alternativas: [
+              { letra: "A", texto: "Max Weber." },
+              { letra: "B", texto: "Luiz Carlos Bresser-Pereira." },
+              { letra: "C", texto: "Woodrow Wilson." },
+              { letra: "D", texto: "Frederick Taylor." },
+              { letra: "E", texto: "Henry Fayol." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "O PDRAE foi elaborado por BRESSER-PEREIRA, Ministro da Administração Federal e Reforma do Estado (MARE) no governo FHC.",
+            dificuldade: "Fácil",
+            competencia: "PDRAE",
+            banca: "IADES",
+            tags: ["PDRAE", "Bresser-Pereira"],
+          },
+          {
+            id: "ap-q-10-4",
+            enunciado:
+              "São pilares da boa governança pública, EXCETO:",
+            alternativas: [
+              { letra: "A", texto: "transparência." },
+              { letra: "B", texto: "accountability." },
+              { letra: "C", texto: "participação." },
+              { letra: "D", texto: "centralização." },
+              { letra: "E", texto: "integridade." },
+            ],
+            gabarito: "D",
+            justificativa:
+              "Os pilares da governança são: Transparência, Integridade, Participação e Accountability. CENTRALIZAÇÃO não é pilar da governança; pelo contrário, a descentralização é característica da boa governança.",
+            dificuldade: "Fácil",
+            competencia: "Pilares da governança",
+            banca: "IADES",
+            tags: ["governança", "pilares"],
+          },
+          {
+            id: "ap-q-10-5",
+            enunciado:
+              "A relação entre os recursos utilizados e os produtos obtidos caracteriza o conceito de:",
+            alternativas: [
+              { letra: "A", texto: "eficácia." },
+              { letra: "B", texto: "efetividade." },
+              { letra: "C", texto: "economicidade." },
+              { letra: "D", texto: "eficiência." },
+              { letra: "E", texto: "legitimidade." },
+            ],
+            gabarito: "D",
+            justificativa:
+              "EFICIÊNCIA é a relação entre insumos (recursos) e produtos (outputs). É fazer mais com menos. Eficácia é atingir metas; Efetividade é causar impacto.",
+            dificuldade: "Média",
+            competencia: "Eficiência",
+            banca: "IADES",
+            tags: ["eficiência", "conceito"],
+          },
+          {
+            id: "ap-q-10-6",
+            enunciado:
+              "O instrumento previsto no art. 37, §8º, da Constituição Federal, que amplia a autonomia de órgãos e entidades em troca de metas de desempenho, é denominado:",
+            alternativas: [
+              { letra: "A", texto: "termo de parceria." },
+              { letra: "B", texto: "convênio administrativo." },
+              { letra: "C", texto: "contrato de gestão." },
+              { letra: "D", texto: "acordo de cooperação." },
+              { letra: "E", texto: "termo de colaboração." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "O art. 37, §8º, CF prevê o CONTRATO DE GESTÃO como instrumento para ampliar autonomia mediante metas de desempenho. É usado com OS e Agências Executivas.",
+            dificuldade: "Média",
+            competencia: "Contrato de gestão",
+            banca: "IADES",
+            tags: ["contrato de gestão", "CF"],
+          },
+          {
+            id: "ap-q-10-7",
+            enunciado:
+              "As Organizações Sociais (OS), previstas na Lei nº 9.637/1998, celebram com o Poder Público:",
+            alternativas: [
+              { letra: "A", texto: "termo de parceria." },
+              { letra: "B", texto: "contrato de gestão." },
+              { letra: "C", texto: "termo de fomento." },
+              { letra: "D", texto: "acordo de cooperação." },
+              { letra: "E", texto: "convênio." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "As Organizações Sociais celebram CONTRATO DE GESTÃO com o Poder Público (Lei 9.637/98). O termo de parceria é celebrado com OSCIPs (Lei 9.790/99).",
+            dificuldade: "Média",
+            competencia: "OS",
+            banca: "IADES",
+            tags: ["OS", "contrato de gestão"],
+          },
+          {
+            id: "ap-q-10-8",
+            enunciado:
+              "As condições sistêmicas que permitem ao governo exercer suas funções, como legitimidade e apoio político, referem-se ao conceito de:",
+            alternativas: [
+              { letra: "A", texto: "governança." },
+              { letra: "B", texto: "governabilidade." },
+              { letra: "C", texto: "accountability." },
+              { letra: "D", texto: "compliance." },
+              { letra: "E", texto: "efetividade." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "GOVERNABILIDADE refere-se às CONDIÇÕES para governar (legitimidade, apoio político, coalizão). GOVERNANÇA refere-se à CAPACIDADE técnica de implementar políticas.",
+            dificuldade: "Média",
+            competencia: "Governabilidade",
+            banca: "IADES",
+            tags: ["governabilidade", "conceito"],
+          },
+          {
+            id: "ap-q-10-9",
+            enunciado:
+              "A Nova Gestão Pública (NGP) caracteriza-se principalmente pelo:",
+            alternativas: [
+              { letra: "A", texto: "foco em processos e conformidade." },
+              { letra: "B", texto: "controle prévio das atividades." },
+              { letra: "C", texto: "foco em resultados e cidadão-cliente." },
+              { letra: "D", texto: "centralização das decisões." },
+              { letra: "E", texto: "rigidez nos procedimentos." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A NGP tem como características principais: foco em RESULTADOS (não processos), visão do CIDADÃO-CLIENTE, descentralização e flexibilização. O controle é a posteriori.",
+            dificuldade: "Fácil",
+            competencia: "NGP",
+            banca: "IADES",
+            tags: ["NGP", "características"],
+          },
+          {
+            id: "ap-q-10-10",
+            enunciado:
+              "O impacto real das políticas públicas na sociedade, ou seja, a transformação efetiva na realidade social, denomina-se:",
+            alternativas: [
+              { letra: "A", texto: "eficiência." },
+              { letra: "B", texto: "eficácia." },
+              { letra: "C", texto: "efetividade." },
+              { letra: "D", texto: "economicidade." },
+              { letra: "E", texto: "produtividade." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "EFETIVIDADE é o impacto real na sociedade (outcomes). Eficiência é a relação custo-benefício. Eficácia é o alcance de metas (outputs).",
+            dificuldade: "Média",
+            competencia: "Efetividade",
+            banca: "IADES",
+            tags: ["efetividade", "impacto"],
+          },
+        ],
+      },
+    },
   ],
 };
