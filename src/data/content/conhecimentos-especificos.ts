@@ -7091,6 +7091,1219 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
       },
     },
     {
+      id: 'ce-topico-13',
+      numero: 13,
+      titulo: 'Decreto-Lei nº 986/1969 - Normas Básicas sobre Alimentos',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Objeto do Decreto-Lei
+
+O **Decreto-Lei nº 986/1969** institui as **normas básicas sobre alimentos** no Brasil, estabelecendo definições, padrões e procedimentos para o controle sanitário de alimentos.
+
+### Definições Fundamentais
+
+| Termo | Definição |
+|-------|-----------|
+| **Alimento** | Substância destinada a fornecer elementos necessários à vida |
+| **Matéria-prima alimentar** | Substância animal/vegetal utilizada na fabricação de alimentos |
+| **Alimento in natura** | Sem processamento (estado natural) |
+| **Alimento enriquecido** | Adição de nutrientes |
+| **Aditivo** | Substância adicionada intencionalmente |
+
+### Registro e Rotulagem
+
+| Aspecto | Requisito |
+|---------|-----------|
+| **Registro** | Obrigatório para alimentos industrializados |
+| **Rotulagem** | Denominação, composição, peso, validade, fabricante |
+| **Prazo** | Até 5 anos (renovável) |
+
+### Proibições
+
+- Alimentos alterados, adulterados, falsificados
+- Alimentos com aditivos proibidos
+- Alimentos sem registro (quando exigido)
+- Alimentos com rotulagem irregular
+
+### Para IADES - Memorizar:
+- Decreto-Lei 986/69 = lei geral de alimentos
+- Registro = obrigatório para industrializados
+- Rotulagem = identificação obrigatória
+- Aditivo = substância adicionada intencionalmente
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Contexto e Importância
+
+O **Decreto-Lei nº 986/1969** é a **norma fundamental** sobre alimentos no Brasil. Estabelece os princípios básicos do controle sanitário de alimentos, sendo complementado por diversas resoluções da ANVISA.
+
+#### Âmbito de Aplicação
+Aplica-se a:
+- Alimentos industrializados
+- Matérias-primas alimentares
+- Aditivos alimentares
+- Embalagens de alimentos
+- Propaganda de alimentos
+
+### 2. Definições Legais (Art. 2º)
+
+#### 2.1 Alimento
+
+> "Toda substância ou mistura de substâncias, no estado sólido, líquido, pastoso ou qualquer outra forma adequada, destinadas a fornecer ao organismo humano os elementos normais à sua formação, manutenção e desenvolvimento."
+
+#### 2.2 Matéria-Prima Alimentar
+
+> "Toda substância de origem vegetal ou animal, em estado bruto, que para ser utilizada como alimento precisa sofrer tratamento e/ou transformação de natureza física, química ou biológica."
+
+#### 2.3 Classificação dos Alimentos
+
+| Classificação | Descrição | Exemplo |
+|---------------|-----------|---------|
+| **In natura** | Estado natural, sem processamento | Frutas, verduras |
+| **De origem animal** | Provenientes de animais | Carnes, leite, ovos |
+| **De origem vegetal** | Provenientes de plantas | Cereais, legumes |
+| **Industrializado** | Submetido a processo industrial | Enlatados, congelados |
+| **Enriquecido** | Com adição de nutrientes | Farinha enriquecida |
+| **Dietético** | Para dietas especiais | Diet, light |
+| **Para fins especiais** | Necessidades específicas | Infantis, atletas |
+
+#### 2.4 Aditivo Alimentar
+
+> "Substância intencionalmente adicionada ao alimento com a finalidade de conservar, intensificar ou modificar suas propriedades, desde que não prejudique seu valor nutritivo."
+
+##### Classificação de Aditivos
+
+| Tipo | Função | Exemplo |
+|------|--------|---------|
+| **Conservador** | Impedir deterioração | Benzoato de sódio |
+| **Corante** | Conferir/intensificar cor | Carmim, urucum |
+| **Aromatizante** | Conferir/intensificar aroma | Vanilina |
+| **Edulcorante** | Conferir sabor doce | Aspartame, sacarina |
+| **Estabilizante** | Manter características | Goma guar |
+| **Antioxidante** | Retardar oxidação | BHT, vitamina C |
+
+### 3. Registro de Alimentos (Art. 3º)
+
+#### 3.1 Obrigatoriedade
+
+Todo alimento **industrializado** só pode ser exposto ao consumo após:
+1. **Registro** no órgão competente (MS/ANVISA)
+2. **Publicação** no Diário Oficial
+
+#### 3.2 Dispensa de Registro
+
+Estão **dispensados** de registro:
+- Alimentos in natura
+- Alimentos de produção caseira
+- Alimentos manipulados em estabelecimentos comerciais
+- Alguns alimentos definidos pela ANVISA (notificação)
+
+#### 3.3 Requisitos para Registro
+
+| Requisito | Descrição |
+|-----------|-----------|
+| **Identificação** | Razão social, CNPJ, endereço |
+| **Fórmula** | Composição qualitativa e quantitativa |
+| **Processo** | Descrição do processo de fabricação |
+| **Rotulagem** | Projeto de rótulo |
+| **Análises** | Laudos laboratoriais |
+| **Taxa** | Pagamento de taxa de registro |
+
+#### 3.4 Validade do Registro
+
+- **Prazo**: até 5 anos
+- **Renovação**: obrigatória
+- **Cancelamento**: por irregularidade ou a pedido
+
+### 4. Rotulagem de Alimentos (Art. 10-12)
+
+#### 4.1 Informações Obrigatórias
+
+| Informação | Descrição |
+|------------|-----------|
+| **Denominação** | Nome do produto |
+| **Lista de ingredientes** | Em ordem decrescente |
+| **Peso líquido** | Quantidade |
+| **Validade** | Data de fabricação e validade |
+| **Fabricante** | Nome, endereço, CNPJ |
+| **Lote** | Identificação do lote |
+| **País de origem** | Se importado |
+| **Informação nutricional** | Tabela nutricional |
+
+#### 4.2 Proibições na Rotulagem
+
+❌ Não pode:
+- Induzir o consumidor a erro
+- Atribuir propriedades medicinais
+- Fazer alegações falsas
+- Omitir informações relevantes
+- Usar termos inadequados
+
+### 5. Alimentos Impróprios (Art. 4º)
+
+#### 5.1 Alimento Alterado
+
+Sofreu modificações em suas características por causas naturais (físicas, químicas, biológicas).
+
+**Exemplos:**
+- Alimento mofado
+- Alimento rancificado
+- Alimento fermentado (não intencional)
+
+#### 5.2 Alimento Adulterado
+
+Sofreu modificação **fraudulenta** para mascarar ou alterar sua composição.
+
+**Exemplos:**
+- Adição de água ao leite
+- Substituição de ingrediente nobre por inferior
+- Alteração de prazo de validade
+
+#### 5.3 Alimento Falsificado
+
+Apresenta aparência de produto legítimo, mas não o é.
+
+**Exemplos:**
+- Produto com marca falsificada
+- Produto que imita outro
+- Origem falsa declarada
+
+#### 5.4 Alimento Contaminado
+
+Contém micro-organismos, substâncias químicas ou físicas em níveis prejudiciais.
+
+**Exemplos:**
+- Presença de Salmonella
+- Resíduos de agrotóxicos acima do permitido
+- Presença de corpos estranhos
+
+### 6. Fiscalização e Penalidades (Art. 14-19)
+
+#### 6.1 Órgãos Fiscalizadores
+
+| Nível | Órgão |
+|-------|-------|
+| **Federal** | ANVISA, MAPA |
+| **Estadual** | VISA estaduais |
+| **Municipal** | VISA municipais |
+
+#### 6.2 Competências Fiscais
+
+- Inspecionar estabelecimentos
+- Coletar amostras
+- Analisar produtos
+- Lavrar autos de infração
+- Aplicar penalidades
+- Apreender e interditar produtos
+
+#### 6.3 Infrações
+
+| Infração | Conduta |
+|----------|---------|
+| **Fabricar** | Produto sem registro |
+| **Vender** | Alimento impróprio |
+| **Distribuir** | Alimento sem rotulagem |
+| **Importar** | Sem autorização |
+| **Fraudar** | Adulterar, falsificar |
+
+#### 6.4 Penalidades
+
+1. Advertência
+2. Multa
+3. Apreensão do produto
+4. Inutilização do produto
+5. Interdição do estabelecimento
+6. Suspensão de vendas
+7. Cancelamento do registro
+8. Intervenção
+
+### 7. Padrões de Identidade e Qualidade (PIQ)
+
+Os alimentos devem atender a **Padrões de Identidade e Qualidade** estabelecidos em regulamentos técnicos.
+
+#### 7.1 Elementos do PIQ
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Definição** | O que é o produto |
+| **Designação** | Como deve ser chamado |
+| **Classificação** | Tipos e categorias |
+| **Composição** | Ingredientes permitidos |
+| **Requisitos** | Características obrigatórias |
+| **Aditivos** | Quais são permitidos |
+| **Contaminantes** | Limites máximos |
+| **Rotulagem** | Regras específicas |
+
+### 8. Aplicação na Vigilância Sanitária
+
+#### 8.1 Atuação do Fiscal
+
+Na fiscalização de alimentos, o fiscal deve verificar:
+
+| Aspecto | O que verificar |
+|---------|-----------------|
+| **Registro** | Se está vigente (quando exigido) |
+| **Rotulagem** | Informações obrigatórias |
+| **Validade** | Produtos dentro do prazo |
+| **Armazenamento** | Condições adequadas |
+| **Manipulação** | Boas práticas |
+| **Origem** | Procedência documentada |
+
+#### 8.2 Integração com outras Normas
+
+O Decreto-Lei 986/69 é complementado por:
+- **RDC 259/2002**: Rotulagem geral
+- **RDC 360/2003**: Informação nutricional
+- **RDC 216/2004**: Boas práticas em alimentação
+- **RDC 275/2002**: POPs e BPF
+        `,
+
+        pontosChave: [
+          'Decreto-Lei 986/69: norma básica sobre alimentos no Brasil',
+          'Alimento: substância que fornece elementos à vida',
+          'Registro obrigatório para alimentos INDUSTRIALIZADOS',
+          'Dispensa de registro: in natura, caseiro, manipulados',
+          'Aditivo: substância adicionada INTENCIONALMENTE',
+          'Rotulagem: denominação, ingredientes, peso, validade, fabricante',
+          'Alimento ALTERADO: causas naturais (físico/químico/biológico)',
+          'Alimento ADULTERADO: modificação FRAUDULENTA',
+          'Alimento FALSIFICADO: aparência de outro produto',
+          'Validade do registro: até 5 anos (renovável)',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir alterado com adulterado',
+            descricao: 'ALTERADO = causas naturais (mofo, ranço). ADULTERADO = fraude intencional (água no leite).',
+            dica: 'Adulterado tem DOLO (intenção de fraudar).',
+          },
+          {
+            titulo: 'Achar que todo alimento precisa de registro',
+            descricao: 'Alimentos in natura, caseiros e manipulados são DISPENSADOS de registro.',
+            dica: 'Registro é para INDUSTRIALIZADOS.',
+          },
+          {
+            titulo: 'Confundir aditivo com contaminante',
+            descricao: 'Aditivo é adicionado INTENCIONALMENTE e é permitido. Contaminante é indesejado.',
+            dica: 'Aditivo = proposital e legal. Contaminante = acidental e ilegal.',
+          },
+          {
+            titulo: 'Esquecer a validade do registro',
+            descricao: 'O registro tem prazo de até 5 ANOS e deve ser renovado.',
+            dica: 'Registro vencido = produto irregular.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'AAF-C',
+            significado: 'Alterado, Adulterado, Falsificado, Contaminado',
+            frase: 'Alimentos impróprios: AAF-C (impróprio AAFaC)',
+          },
+          {
+            termo: 'DIPVF',
+            significado: 'Denominação, Ingredientes, Peso, Validade, Fabricante',
+            frase: 'Rotulagem obrigatória: DIPVF (Diga ao Fiscal)',
+          },
+          {
+            termo: 'IN-NA-TU-RA',
+            significado: 'In natura não precisa de registro',
+            frase: 'IN NATURA = dispensa registro (é NATURAl demais para registrar)',
+          },
+          {
+            termo: '5A',
+            significado: 'Registro vale até 5 Anos',
+            frase: 'Registro de alimento: 5 Anos (cinco A de Alimento)',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-13-1',
+            frente: 'O que regulamenta o Decreto-Lei nº 986/1969?',
+            verso: 'Institui as **NORMAS BÁSICAS SOBRE ALIMENTOS** no Brasil.\n\nEstabelece:\n- Definições (alimento, aditivo, etc.)\n- Registro de alimentos\n- Rotulagem obrigatória\n- Classificação de alimentos impróprios\n- Fiscalização e penalidades',
+            tags: ['DL 986', 'alimentos'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-13-2',
+            frente: 'Qual a diferença entre alimento ALTERADO e ADULTERADO?',
+            verso: '**ALTERADO:**\n→ Causas NATURAIS\n→ Sem intenção\n→ Ex: mofo, ranço, fermentação\n\n**ADULTERADO:**\n→ Causas FRAUDULENTAS\n→ Com intenção de enganar\n→ Ex: água no leite, troca de ingrediente\n\nAdulterado tem DOLO!',
+            tags: ['alterado', 'adulterado'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-13-3',
+            frente: 'Quais alimentos são DISPENSADOS de registro?',
+            verso: 'Dispensados de registro:\n\n- Alimentos **in natura**\n- Alimentos de **produção caseira**\n- Alimentos **manipulados** em estabelecimentos comerciais\n- Alguns alimentos definidos pela ANVISA\n\n**Obrigatório**: alimentos INDUSTRIALIZADOS',
+            tags: ['registro', 'dispensa'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-13-4',
+            frente: 'O que deve constar obrigatoriamente no RÓTULO de alimentos?',
+            verso: '**DIPVF:**\n\n- **D**enominação do produto\n- **I**ngredientes (ordem decrescente)\n- **P**eso líquido\n- **V**alidade e fabricação\n- **F**abricante (nome, endereço, CNPJ)\n\nTambém: lote, origem, informação nutricional',
+            tags: ['rotulagem', 'obrigatório'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-13-5',
+            frente: 'O que é ADITIVO alimentar?',
+            verso: 'Substância **intencionalmente adicionada** ao alimento para:\n\n- Conservar\n- Intensificar ou modificar propriedades\n- Melhorar características\n\n⚠️ Desde que NÃO prejudique o valor nutritivo.\n\nExemplos: conservantes, corantes, aromatizantes, edulcorantes.',
+            tags: ['aditivo', 'conceito'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-13-6',
+            frente: 'Qual o prazo de validade do REGISTRO de alimentos?',
+            verso: '**Até 5 ANOS**\n\nCaracterísticas:\n- Renovação obrigatória\n- Cancelável por irregularidade\n- Cancelável a pedido\n- Publicação no Diário Oficial\n\nRegistro vencido = produto IRREGULAR',
+            tags: ['registro', 'validade'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-13-7',
+            frente: 'O que é alimento FALSIFICADO?',
+            verso: 'Alimento que apresenta **aparência de produto legítimo**, mas NÃO é.\n\nExemplos:\n- Marca falsificada\n- Imitação de outro produto\n- Origem falsa declarada\n\nDiferente de adulterado (que é modificação do próprio produto).',
+            tags: ['falsificado', 'conceito'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-13-8',
+            frente: 'Quais são as categorias de alimentos IMPRÓPRIOS?',
+            verso: '**AAF-C:**\n\n1. **A**lterado: causas naturais\n2. **A**dulterado: fraude\n3. **F**alsificado: aparência de outro\n4. **C**ontaminado: substâncias nocivas\n\nTodos são considerados IMPRÓPRIOS para consumo.',
+            tags: ['impróprio', 'categorias'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-13-1',
+            enunciado: 'O Decreto-Lei nº 986/1969 institui normas básicas sobre:',
+            alternativas: [
+              { letra: 'A', texto: 'medicamentos.' },
+              { letra: 'B', texto: 'cosméticos.' },
+              { letra: 'C', texto: 'alimentos.' },
+              { letra: 'D', texto: 'saneantes.' },
+              { letra: 'E', texto: 'correlatos.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O Decreto-Lei nº 986/1969 institui as NORMAS BÁSICAS SOBRE ALIMENTOS, estabelecendo definições, padrões, registro e rotulagem.',
+            dificuldade: 'Fácil',
+            competencia: 'Objeto do DL 986/69',
+            banca: 'IADES',
+            tags: ['DL 986', 'objeto'],
+          },
+          {
+            id: 'ce-q-13-2',
+            enunciado: 'Alimento que sofreu modificação por causas naturais, como mofo ou fermentação indesejada, é classificado como:',
+            alternativas: [
+              { letra: 'A', texto: 'adulterado.' },
+              { letra: 'B', texto: 'falsificado.' },
+              { letra: 'C', texto: 'alterado.' },
+              { letra: 'D', texto: 'fraudado.' },
+              { letra: 'E', texto: 'contaminado.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Alimento ALTERADO é aquele que sofreu modificações por causas NATURAIS (físicas, químicas ou biológicas), como mofo, ranço ou fermentação não intencional.',
+            dificuldade: 'Média',
+            competencia: 'Classificação de alimentos',
+            banca: 'IADES',
+            tags: ['alterado', 'classificação'],
+          },
+          {
+            id: 'ce-q-13-3',
+            enunciado: 'O registro de alimentos industrializados no órgão competente tem validade de:',
+            alternativas: [
+              { letra: 'A', texto: 'até 2 anos.' },
+              { letra: 'B', texto: 'até 3 anos.' },
+              { letra: 'C', texto: 'até 5 anos.' },
+              { letra: 'D', texto: 'até 10 anos.' },
+              { letra: 'E', texto: 'prazo indeterminado.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O registro de alimentos tem validade de até 5 ANOS, devendo ser renovado após esse prazo.',
+            dificuldade: 'Fácil',
+            competencia: 'Validade do registro',
+            banca: 'IADES',
+            tags: ['registro', 'validade'],
+          },
+          {
+            id: 'ce-q-13-4',
+            enunciado: 'A substância intencionalmente adicionada ao alimento com finalidade de conservar ou modificar suas propriedades é denominada:',
+            alternativas: [
+              { letra: 'A', texto: 'contaminante.' },
+              { letra: 'B', texto: 'aditivo.' },
+              { letra: 'C', texto: 'impureza.' },
+              { letra: 'D', texto: 'adjuvante.' },
+              { letra: 'E', texto: 'coadjuvante.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'ADITIVO é substância intencionalmente adicionada ao alimento para conservar, intensificar ou modificar suas propriedades, sem prejudicar o valor nutritivo.',
+            dificuldade: 'Fácil',
+            competencia: 'Conceito de aditivo',
+            banca: 'IADES',
+            tags: ['aditivo', 'conceito'],
+          },
+          {
+            id: 'ce-q-13-5',
+            enunciado: 'Estão DISPENSADOS de registro os seguintes alimentos, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'alimentos in natura.' },
+              { letra: 'B', texto: 'alimentos de produção caseira.' },
+              { letra: 'C', texto: 'alimentos manipulados em restaurantes.' },
+              { letra: 'D', texto: 'alimentos industrializados.' },
+              { letra: 'E', texto: 'frutas e verduras.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Alimentos INDUSTRIALIZADOS precisam de registro obrigatório. In natura, caseiros e manipulados são dispensados.',
+            dificuldade: 'Média',
+            competencia: 'Dispensa de registro',
+            banca: 'IADES',
+            tags: ['registro', 'dispensa'],
+          },
+          {
+            id: 'ce-q-13-6',
+            enunciado: 'A adição de água ao leite para aumentar seu volume caracteriza alimento:',
+            alternativas: [
+              { letra: 'A', texto: 'alterado.' },
+              { letra: 'B', texto: 'adulterado.' },
+              { letra: 'C', texto: 'contaminado.' },
+              { letra: 'D', texto: 'enriquecido.' },
+              { letra: 'E', texto: 'dietético.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A adição de água ao leite é modificação FRAUDULENTA (com intenção de enganar), caracterizando alimento ADULTERADO.',
+            dificuldade: 'Fácil',
+            competencia: 'Alimento adulterado',
+            banca: 'IADES',
+            tags: ['adulterado', 'fraude'],
+          },
+          {
+            id: 'ce-q-13-7',
+            enunciado: 'São informações obrigatórias na rotulagem de alimentos:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas o nome do produto.' },
+              { letra: 'B', texto: 'denominação, ingredientes, peso líquido, validade e fabricante.' },
+              { letra: 'C', texto: 'apenas a data de validade.' },
+              { letra: 'D', texto: 'apenas o nome do fabricante.' },
+              { letra: 'E', texto: 'apenas o código de barras.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A rotulagem deve conter: denominação, lista de ingredientes, peso líquido, data de validade, identificação do fabricante, lote, entre outras informações.',
+            dificuldade: 'Média',
+            competencia: 'Rotulagem obrigatória',
+            banca: 'IADES',
+            tags: ['rotulagem', 'obrigatório'],
+          },
+          {
+            id: 'ce-q-13-8',
+            enunciado: 'O alimento que apresenta aparência de produto legítimo, mas não o é, é classificado como:',
+            alternativas: [
+              { letra: 'A', texto: 'alterado.' },
+              { letra: 'B', texto: 'adulterado.' },
+              { letra: 'C', texto: 'falsificado.' },
+              { letra: 'D', texto: 'deteriorado.' },
+              { letra: 'E', texto: 'contaminado.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Alimento FALSIFICADO é aquele que apresenta aparência de produto legítimo, mas não o é (marca falsa, imitação, origem falsa).',
+            dificuldade: 'Média',
+            competencia: 'Alimento falsificado',
+            banca: 'IADES',
+            tags: ['falsificado', 'conceito'],
+          },
+          {
+            id: 'ce-q-13-9',
+            enunciado: 'De acordo com o Decreto-Lei nº 986/1969, considera-se alimento:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas substâncias sólidas.' },
+              { letra: 'B', texto: 'apenas substâncias líquidas.' },
+              { letra: 'C', texto: 'toda substância destinada a fornecer elementos necessários à vida.' },
+              { letra: 'D', texto: 'apenas produtos de origem animal.' },
+              { letra: 'E', texto: 'apenas produtos industrializados.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Alimento é toda substância ou mistura de substâncias, em qualquer estado, destinada a fornecer ao organismo humano os elementos necessários à sua formação, manutenção e desenvolvimento.',
+            dificuldade: 'Fácil',
+            competencia: 'Conceito de alimento',
+            banca: 'IADES',
+            tags: ['alimento', 'conceito'],
+          },
+          {
+            id: 'ce-q-13-10',
+            enunciado: 'A rotulagem de alimentos é proibida de:',
+            alternativas: [
+              { letra: 'A', texto: 'informar a composição do produto.' },
+              { letra: 'B', texto: 'indicar o prazo de validade.' },
+              { letra: 'C', texto: 'atribuir propriedades medicinais ao alimento.' },
+              { letra: 'D', texto: 'informar o peso líquido.' },
+              { letra: 'E', texto: 'identificar o fabricante.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'É PROIBIDO atribuir propriedades medicinais a alimentos, induzir o consumidor a erro, fazer alegações falsas ou omitir informações relevantes.',
+            dificuldade: 'Média',
+            competencia: 'Proibições na rotulagem',
+            banca: 'IADES',
+            tags: ['rotulagem', 'proibição'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-14',
+      numero: 14,
+      titulo: 'Lei nº 5.991/1973 - Controle Sanitário do Comércio de Drogas e Medicamentos',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Objeto da Lei
+
+A **Lei nº 5.991/1973** dispõe sobre o **controle sanitário do comércio** de drogas, medicamentos, insumos farmacêuticos e correlatos.
+
+### Conceitos Fundamentais
+
+| Termo | Definição |
+|-------|-----------|
+| **Droga** | Substância ou matéria-prima com finalidade medicinal |
+| **Medicamento** | Produto com finalidade curativa, profilática ou diagnóstica |
+| **Insumo** | Droga ou matéria-prima para medicamento |
+| **Correlato** | Aparelho, material de saúde |
+| **Drogaria** | Dispensa medicamentos industrializados |
+| **Farmácia** | Manipula e dispensa medicamentos |
+
+### Estabelecimentos
+
+| Tipo | Atividade | RT |
+|------|-----------|-----|
+| **Farmácia** | Manipulação + dispensação | Farmacêutico |
+| **Drogaria** | Dispensação (industrializados) | Farmacêutico |
+| **Distribuidora** | Distribuição por atacado | Farmacêutico |
+| **Posto de Medicamentos** | Dispensação em localidade sem farmácia | Não é farmacêutico |
+
+### Responsável Técnico
+
+- Obrigatório: **farmacêutico** (farmácia, drogaria, distribuidora)
+- Assistência farmacêutica ao público
+- Responsabilidade técnica pelos produtos
+
+### Para IADES - Memorizar:
+- Farmácia = manipula + dispensa
+- Drogaria = só dispensa (industrializados)
+- RT de farmácia/drogaria = FARMACÊUTICO
+- Dispensação de controlados = presença do farmacêutico
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Contexto e Importância
+
+A **Lei nº 5.991/1973** é a **norma fundamental** sobre o comércio de medicamentos no Brasil. Estabelece regras para funcionamento de estabelecimentos que comercializam drogas e medicamentos.
+
+#### Âmbito de Aplicação
+
+Aplica-se a estabelecimentos de:
+- Dispensação de medicamentos
+- Fabricação de medicamentos
+- Distribuição de medicamentos
+- Importação/exportação de medicamentos
+
+### 2. Definições Legais (Art. 4º)
+
+#### 2.1 Droga
+
+> "Substância ou matéria-prima que tenha finalidade medicamentosa ou sanitária."
+
+#### 2.2 Medicamento
+
+> "Produto farmacêutico, tecnicamente obtido ou elaborado, com finalidade profilática, curativa, paliativa ou para fins de diagnóstico."
+
+##### Classificação de Medicamentos
+
+| Tipo | Descrição | Venda |
+|------|-----------|-------|
+| **Referência** | Original, primeiro do mercado | Com prescrição (geralmente) |
+| **Genérico** | Bioequivalente, após patente | Com prescrição (geralmente) |
+| **Similar** | Mesma substância, pode ter nome | Com prescrição (geralmente) |
+| **Controlado** | Sujeito a controle especial | Prescrição + retenção |
+| **OTC (Isento)** | Venda livre | Sem prescrição |
+
+#### 2.3 Insumo Farmacêutico
+
+> "Droga ou matéria-prima aditiva ou complementar de qualquer natureza, destinada a emprego em medicamentos."
+
+#### 2.4 Correlato
+
+> "Substância, produto, aparelho ou acessório não enquadrado como droga, medicamento ou insumo, cujo uso está ligado à defesa e proteção da saúde."
+
+**Exemplos:**
+- Seringas, agulhas
+- Aparelhos de pressão
+- Termômetros
+- Lentes de contato
+
+### 3. Estabelecimentos (Art. 5º)
+
+#### 3.1 Farmácia
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Atividade principal** | Manipulação de fórmulas magistrais/oficinais |
+| **Outras atividades** | Dispensação de medicamentos industrializados |
+| **RT** | Farmacêutico obrigatório |
+| **Característica** | Pode ter laboratório de manipulação |
+
+#### 3.2 Drogaria
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Atividade** | Dispensação de medicamentos INDUSTRIALIZADOS |
+| **Proibição** | Não pode manipular |
+| **RT** | Farmacêutico obrigatório |
+| **Característica** | Somente venda de produtos acabados |
+
+#### 3.3 Distribuidora (Empresa Distribuidora)
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Atividade** | Comércio por ATACADO |
+| **Destinatário** | Farmácias, drogarias, hospitais |
+| **RT** | Farmacêutico obrigatório |
+| **Característica** | Não vende ao consumidor final |
+
+#### 3.4 Posto de Medicamentos
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Atividade** | Dispensação de medicamentos |
+| **Local** | Onde NÃO há farmácia |
+| **RT** | Não precisa ser farmacêutico |
+| **Característica** | Medicamentos essenciais |
+
+⚠️ **Diferença crucial**: Farmácia MANIPULA, Drogaria NÃO!
+
+### 4. Responsabilidade Técnica (Art. 15)
+
+#### 4.1 Obrigatoriedade
+
+A direção técnica é **obrigatoriamente** de responsabilidade de:
+
+| Estabelecimento | RT |
+|-----------------|-----|
+| Farmácia | Farmacêutico |
+| Drogaria | Farmacêutico |
+| Distribuidora | Farmacêutico |
+| Hospital (farmácia) | Farmacêutico |
+| Posto de medicamentos | Prático (onde permitido) |
+
+#### 4.2 Atribuições do RT
+
+- Assistência farmacêutica ao público
+- Orientação sobre uso de medicamentos
+- Responsabilidade pela guarda de produtos
+- Cumprimento de normas sanitárias
+- Supervisão de funcionários
+- Comunicação ao CRF de irregularidades
+
+#### 4.3 Presença Obrigatória
+
+O farmacêutico deve estar presente:
+- Durante todo o horário de funcionamento
+- Na dispensação de medicamentos controlados
+- Quando exigido por regulamento
+
+### 5. Dispensação de Medicamentos
+
+#### 5.1 Receita Médica
+
+| Tipo | Medicamentos | Validade | Retenção |
+|------|--------------|----------|----------|
+| **Simples** | Antibióticos (1ª dispensação) | 10 dias | Parcial |
+| **Especial (Branca)** | Lista C | 30 dias | Sim |
+| **Azul (B)** | Psicotrópicos | 30 dias | Sim |
+| **Amarela (A)** | Entorpecentes | 30 dias | Sim |
+| **Isento** | MIPs/OTC | - | Não |
+
+#### 5.2 Requisitos da Receita
+
+| Elemento | Obrigatório |
+|----------|-------------|
+| Identificação do paciente | Sim |
+| Nome do medicamento (DCB/genérico no SUS) | Sim |
+| Posologia | Sim |
+| Data | Sim |
+| Assinatura do prescritor | Sim |
+| CRM/registro profissional | Sim |
+| Endereço do prescritor | Sim (controlados) |
+
+### 6. Licença de Funcionamento (Art. 21-24)
+
+#### 6.1 Requisitos
+
+Para funcionar, o estabelecimento precisa de:
+
+| Requisito | Órgão |
+|-----------|-------|
+| **Licença Sanitária** | VISA estadual/municipal |
+| **Inscrição no CRF** | Conselho Regional de Farmácia |
+| **Autorização Especial** | ANVISA (se controlados) |
+| **RT** | Farmacêutico contratado |
+
+#### 6.2 Condições para Licença
+
+- Instalações adequadas
+- Equipamentos necessários
+- RT legalmente habilitado
+- Cumprimento das normas sanitárias
+- Localização adequada
+
+### 7. Fiscalização (Art. 35-38)
+
+#### 7.1 Competência
+
+| Nível | Órgão |
+|-------|-------|
+| Federal | ANVISA |
+| Estadual | VISA estadual |
+| Municipal | VISA municipal |
+
+#### 7.2 Atribuições dos Fiscais
+
+- Verificar licença de funcionamento
+- Verificar presença do RT
+- Inspecionar instalações
+- Verificar condições de armazenamento
+- Coletar amostras
+- Lavrar autos de infração
+- Aplicar penalidades
+
+### 8. Infrações e Penalidades
+
+#### 8.1 Infrações Comuns
+
+| Infração | Descrição |
+|----------|-----------|
+| Funcionar sem licença | Estabelecimento irregular |
+| Funcionar sem RT | Ausência de farmacêutico |
+| Vender sem receita | Medicamento de prescrição |
+| Manipular em drogaria | Atividade proibida |
+| Alterar preços | Prática comercial ilegal |
+
+#### 8.2 Penalidades
+
+1. Advertência
+2. Multa
+3. Apreensão de produtos
+4. Inutilização de produtos
+5. Suspensão de vendas
+6. Suspensão de licença
+7. Cancelamento de licença
+8. Interdição do estabelecimento
+
+### 9. Aplicação na Vigilância Sanitária
+
+#### 9.1 Inspeção em Farmácias/Drogarias
+
+O fiscal deve verificar:
+
+| Item | Verificação |
+|------|-------------|
+| Licença | Vigente e exposta |
+| RT | Presente e identificado |
+| Instalações | Adequadas e limpas |
+| Medicamentos | Validade, armazenamento |
+| Controlados | Livro de registro, guarda |
+| Receitas | Arquivo correto |
+| Termolábeis | Refrigeração adequada |
+
+#### 9.2 Documentação
+
+- Licença sanitária
+- Certidão do CRF
+- Autorização especial (se aplicável)
+- CMVS (Cadastro Municipal de Vigilância Sanitária)
+- Balanços de controlados
+        `,
+
+        pontosChave: [
+          'Lei 5.991/73: controle sanitário do comércio de medicamentos',
+          'Farmácia: manipula + dispensa; Drogaria: só dispensa industrializados',
+          'RT de farmácia/drogaria/distribuidora: FARMACÊUTICO obrigatório',
+          'Posto de medicamentos: onde NÃO há farmácia, não precisa ser farmacêutico',
+          'Correlato: aparelho ou acessório ligado à saúde (não é medicamento)',
+          'Medicamento: produto farmacêutico com finalidade curativa/profilática/diagnóstica',
+          'Droga: substância com finalidade medicamentosa ou sanitária',
+          'Dispensação de controlados: presença obrigatória do farmacêutico',
+          'Licença sanitária + RT = requisitos para funcionamento',
+          'Manipulação em drogaria = PROIBIDO',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir farmácia com drogaria',
+            descricao: 'FARMÁCIA manipula (fórmulas magistrais/oficinais) + dispensa. DROGARIA só dispensa industrializados.',
+            dica: 'FARMÁCIA = FÁBRICA pequena (manipula). DROGARIA = DROGA pronta (só vende).',
+          },
+          {
+            titulo: 'Achar que posto de medicamentos precisa de farmacêutico',
+            descricao: 'Posto de medicamentos funciona onde NÃO há farmácia e o RT não precisa ser farmacêutico.',
+            dica: 'Posto = localidades sem acesso a farmácia.',
+          },
+          {
+            titulo: 'Confundir droga com medicamento',
+            descricao: 'DROGA é substância/matéria-prima. MEDICAMENTO é produto elaborado pronto para uso.',
+            dica: 'Droga é ingrediente. Medicamento é produto final.',
+          },
+          {
+            titulo: 'Esquecer que correlatos estão na lei',
+            descricao: 'Correlatos (aparelhos, materiais de saúde) também são regulados pela Lei 5.991/73.',
+            dica: 'Seringa, termômetro, aparelho de pressão = correlatos.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'FarMANIpula',
+            significado: 'Farmácia manipula',
+            frase: 'FarMANIa = MANIPULA. Drogaria = só DROGAs prontas.',
+          },
+          {
+            termo: 'DMIC',
+            significado: 'Droga, Medicamento, Insumo, Correlato',
+            frase: 'Produtos da Lei 5.991: DMIC (Dê-me seu MIC)',
+          },
+          {
+            termo: 'RT-FARM',
+            significado: 'RT de farmácia/drogaria é FARMacêutico',
+            frase: 'RT-FARM: Responsável Técnico é FARMacêutico',
+          },
+          {
+            termo: 'PO-SEM',
+            significado: 'Posto = onde SEM farmácia',
+            frase: 'Posto de Medicamentos: onde está SEM farmácia',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-14-1',
+            frente: 'O que regulamenta a Lei nº 5.991/1973?',
+            verso: 'Dispõe sobre o **CONTROLE SANITÁRIO DO COMÉRCIO** de:\n\n- Drogas\n- Medicamentos\n- Insumos farmacêuticos\n- Correlatos\n\nEstabelece regras para farmácias, drogarias, distribuidoras e postos de medicamentos.',
+            tags: ['Lei 5991', 'objeto'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-14-2',
+            frente: 'Qual a diferença entre FARMÁCIA e DROGARIA?',
+            verso: '**FARMÁCIA:**\n→ MANIPULA fórmulas magistrais/oficinais\n→ Também dispensa industrializados\n→ Tem laboratório\n\n**DROGARIA:**\n→ Só DISPENSA industrializados\n→ NÃO pode manipular\n→ Apenas venda de prontos\n\nAmbas precisam de farmacêutico como RT!',
+            tags: ['farmácia', 'drogaria'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-14-3',
+            frente: 'Qual a diferença entre DROGA e MEDICAMENTO?',
+            verso: '**DROGA:**\n→ Substância ou matéria-prima\n→ Finalidade medicamentosa/sanitária\n→ É o INGREDIENTE\n\n**MEDICAMENTO:**\n→ Produto farmacêutico elaborado\n→ Finalidade curativa/profilática/diagnóstica\n→ É o PRODUTO FINAL',
+            tags: ['droga', 'medicamento'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-14-4',
+            frente: 'O que são CORRELATOS?',
+            verso: '**Correlatos** = substância, produto, aparelho ou acessório NÃO enquadrado como droga/medicamento/insumo, mas ligado à saúde.\n\nExemplos:\n- Seringas, agulhas\n- Aparelhos de pressão\n- Termômetros\n- Lentes de contato\n- Preservativos',
+            tags: ['correlato', 'conceito'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-14-5',
+            frente: 'Quem pode ser RT de farmácia/drogaria?',
+            verso: '**FARMACÊUTICO** obrigatoriamente.\n\nO farmacêutico é RT em:\n- Farmácias\n- Drogarias\n- Distribuidoras\n- Farmácias hospitalares\n\nExceção: Posto de medicamentos (onde não há farmácia) pode ter outro responsável.',
+            tags: ['RT', 'farmacêutico'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-14-6',
+            frente: 'O que é POSTO DE MEDICAMENTOS?',
+            verso: 'Estabelecimento para dispensação de medicamentos em localidades onde **NÃO existe farmácia**.\n\nCaracterísticas:\n- Medicamentos essenciais\n- Não precisa ser farmacêutico como RT\n- Para atender comunidades sem acesso\n- Autorização especial',
+            tags: ['posto', 'medicamentos'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-14-7',
+            frente: 'Quais requisitos para funcionamento de farmácia/drogaria?',
+            verso: 'Requisitos:\n\n1. **Licença Sanitária** (VISA)\n2. **RT farmacêutico** (inscrito no CRF)\n3. **Instalações adequadas**\n4. **Autorização Especial** (se trabalhar com controlados - ANVISA)\n5. **CMVS** (Cadastro Municipal)\n\nSem isso = funcionamento IRREGULAR!',
+            tags: ['licença', 'requisitos'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-14-8',
+            frente: 'Qual a cor da receita para cada tipo de medicamento controlado?',
+            verso: '**AMARELA (Lista A):**\n→ Entorpecentes\n\n**AZUL (Lista B):**\n→ Psicotrópicos\n\n**BRANCA ESPECIAL (Lista C):**\n→ Outros controlados\n\n**Simples (com retenção):**\n→ Antibióticos (1ª dispensação)',
+            tags: ['receita', 'controlados'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-14-1',
+            enunciado: 'A Lei nº 5.991/1973 dispõe sobre o controle sanitário do comércio de:',
+            alternativas: [
+              { letra: 'A', texto: 'alimentos e bebidas.' },
+              { letra: 'B', texto: 'drogas, medicamentos, insumos farmacêuticos e correlatos.' },
+              { letra: 'C', texto: 'cosméticos e perfumes.' },
+              { letra: 'D', texto: 'agrotóxicos.' },
+              { letra: 'E', texto: 'saneantes domissanitários.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A Lei 5.991/1973 dispõe sobre o controle sanitário do comércio de DROGAS, MEDICAMENTOS, INSUMOS FARMACÊUTICOS e CORRELATOS.',
+            dificuldade: 'Fácil',
+            competencia: 'Objeto da Lei',
+            banca: 'IADES',
+            tags: ['Lei 5991', 'objeto'],
+          },
+          {
+            id: 'ce-q-14-2',
+            enunciado: 'A diferença fundamental entre farmácia e drogaria é que:',
+            alternativas: [
+              { letra: 'A', texto: 'a farmácia não precisa de farmacêutico.' },
+              { letra: 'B', texto: 'a drogaria pode manipular medicamentos.' },
+              { letra: 'C', texto: 'a farmácia pode manipular fórmulas, a drogaria não.' },
+              { letra: 'D', texto: 'apenas a drogaria precisa de licença.' },
+              { letra: 'E', texto: 'não há diferença entre elas.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A diferença fundamental é que a FARMÁCIA pode MANIPULAR fórmulas magistrais e oficinais, enquanto a DROGARIA só pode dispensar medicamentos industrializados.',
+            dificuldade: 'Fácil',
+            competencia: 'Farmácia x Drogaria',
+            banca: 'IADES',
+            tags: ['farmácia', 'drogaria'],
+          },
+          {
+            id: 'ce-q-14-3',
+            enunciado: 'A responsabilidade técnica de farmácias e drogarias é obrigatoriamente de:',
+            alternativas: [
+              { letra: 'A', texto: 'médico.' },
+              { letra: 'B', texto: 'enfermeiro.' },
+              { letra: 'C', texto: 'farmacêutico.' },
+              { letra: 'D', texto: 'técnico de farmácia.' },
+              { letra: 'E', texto: 'qualquer profissional de saúde.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A responsabilidade técnica de farmácias, drogarias e distribuidoras é OBRIGATORIAMENTE de FARMACÊUTICO legalmente habilitado.',
+            dificuldade: 'Fácil',
+            competencia: 'RT',
+            banca: 'IADES',
+            tags: ['RT', 'farmacêutico'],
+          },
+          {
+            id: 'ce-q-14-4',
+            enunciado: 'De acordo com a Lei nº 5.991/1973, considera-se DROGA:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas substâncias ilícitas.' },
+              { letra: 'B', texto: 'substância ou matéria-prima com finalidade medicamentosa ou sanitária.' },
+              { letra: 'C', texto: 'produto farmacêutico acabado.' },
+              { letra: 'D', texto: 'aparelho ou acessório de saúde.' },
+              { letra: 'E', texto: 'apenas medicamentos controlados.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'DROGA é substância ou matéria-prima que tenha finalidade medicamentosa ou sanitária (não confundir com o sentido popular de drogas ilícitas).',
+            dificuldade: 'Média',
+            competencia: 'Conceito de droga',
+            banca: 'IADES',
+            tags: ['droga', 'conceito'],
+          },
+          {
+            id: 'ce-q-14-5',
+            enunciado: 'O posto de medicamentos caracteriza-se por:',
+            alternativas: [
+              { letra: 'A', texto: 'manipular fórmulas magistrais.' },
+              { letra: 'B', texto: 'funcionar em localidades onde não há farmácia.' },
+              { letra: 'C', texto: 'exigir farmacêutico como responsável técnico.' },
+              { letra: 'D', texto: 'comercializar apenas cosméticos.' },
+              { letra: 'E', texto: 'ser exclusivo para hospitais.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O posto de medicamentos funciona em LOCALIDADES ONDE NÃO HÁ FARMÁCIA, dispensando medicamentos essenciais à população sem acesso.',
+            dificuldade: 'Média',
+            competencia: 'Posto de medicamentos',
+            banca: 'IADES',
+            tags: ['posto', 'característica'],
+          },
+          {
+            id: 'ce-q-14-6',
+            enunciado: 'Correlatos, segundo a Lei nº 5.991/1973, são:',
+            alternativas: [
+              { letra: 'A', texto: 'sinônimo de medicamentos.' },
+              { letra: 'B', texto: 'substâncias para fabricação de drogas.' },
+              { letra: 'C', texto: 'aparelhos e acessórios ligados à defesa e proteção da saúde.' },
+              { letra: 'D', texto: 'apenas seringas descartáveis.' },
+              { letra: 'E', texto: 'matérias-primas farmacêuticas.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'CORRELATOS são substâncias, produtos, aparelhos ou acessórios não enquadrados como droga/medicamento/insumo, cujo uso está ligado à defesa e proteção da saúde.',
+            dificuldade: 'Média',
+            competencia: 'Correlatos',
+            banca: 'IADES',
+            tags: ['correlato', 'conceito'],
+          },
+          {
+            id: 'ce-q-14-7',
+            enunciado: 'A manipulação de medicamentos em drogarias é:',
+            alternativas: [
+              { letra: 'A', texto: 'permitida com autorização especial.' },
+              { letra: 'B', texto: 'permitida sem restrições.' },
+              { letra: 'C', texto: 'proibida.' },
+              { letra: 'D', texto: 'permitida apenas para controlados.' },
+              { letra: 'E', texto: 'permitida em horário reduzido.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A manipulação de medicamentos em drogarias é PROIBIDA. A drogaria só pode dispensar medicamentos industrializados. A manipulação é atividade exclusiva de farmácias.',
+            dificuldade: 'Fácil',
+            competencia: 'Proibição em drogaria',
+            banca: 'IADES',
+            tags: ['drogaria', 'manipulação'],
+          },
+          {
+            id: 'ce-q-14-8',
+            enunciado: 'Para funcionamento regular, uma farmácia deve possuir:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas alvará de funcionamento.' },
+              { letra: 'B', texto: 'licença sanitária e responsável técnico farmacêutico.' },
+              { letra: 'C', texto: 'apenas registro no CRF.' },
+              { letra: 'D', texto: 'autorização verbal da vigilância.' },
+              { letra: 'E', texto: 'apenas CNPJ.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Para funcionamento regular, a farmácia precisa de LICENÇA SANITÁRIA (VISA) e RESPONSÁVEL TÉCNICO FARMACÊUTICO (inscrito no CRF).',
+            dificuldade: 'Média',
+            competencia: 'Requisitos de funcionamento',
+            banca: 'IADES',
+            tags: ['licença', 'requisitos'],
+          },
+          {
+            id: 'ce-q-14-9',
+            enunciado: 'A empresa distribuidora de medicamentos:',
+            alternativas: [
+              { letra: 'A', texto: 'vende diretamente ao consumidor final.' },
+              { letra: 'B', texto: 'não precisa de responsável técnico.' },
+              { letra: 'C', texto: 'realiza comércio por atacado para estabelecimentos.' },
+              { letra: 'D', texto: 'manipula medicamentos.' },
+              { letra: 'E', texto: 'dispensa de licença sanitária.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A empresa distribuidora realiza COMÉRCIO POR ATACADO, fornecendo para farmácias, drogarias e hospitais. Não vende ao consumidor final e precisa de farmacêutico como RT.',
+            dificuldade: 'Média',
+            competencia: 'Distribuidora',
+            banca: 'IADES',
+            tags: ['distribuidora', 'atacado'],
+          },
+          {
+            id: 'ce-q-14-10',
+            enunciado: 'O produto farmacêutico tecnicamente elaborado com finalidade profilática, curativa ou para fins de diagnóstico é denominado:',
+            alternativas: [
+              { letra: 'A', texto: 'droga.' },
+              { letra: 'B', texto: 'insumo.' },
+              { letra: 'C', texto: 'correlato.' },
+              { letra: 'D', texto: 'medicamento.' },
+              { letra: 'E', texto: 'cosmético.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'MEDICAMENTO é o produto farmacêutico tecnicamente obtido ou elaborado, com finalidade profilática, curativa, paliativa ou para fins de diagnóstico.',
+            dificuldade: 'Fácil',
+            competencia: 'Conceito de medicamento',
+            banca: 'IADES',
+            tags: ['medicamento', 'conceito'],
+          },
+        ],
+      },
+    },
+    {
       id: 'ce-topico-15',
       numero: 15,
       titulo: 'Decreto Estadual nº 6.906/2009 - Saúde do Trabalhador em Goiás',
@@ -7729,6 +8942,1412 @@ A saúde do trabalhador está integrada à VISA:
             competencia: 'Conceito',
             banca: 'IADES',
             tags: ['saúde do trabalhador', 'conceito'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-16',
+      numero: 16,
+      titulo: 'Portaria SES-GO nº 2145/2024 - Licenciamento Sanitário de Abastecimento de Água',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Objeto da Portaria
+
+A **Portaria SES-GO nº 2145/2024** dispõe sobre a **regulamentação e o licenciamento sanitário** para os prestadores de serviços de **abastecimento de água para consumo humano** no Estado de Goiás.
+
+### Âmbito de Aplicação
+
+| Tipo de Prestador | Abrangência |
+|-------------------|-------------|
+| **SAA** | Sistema de Abastecimento de Água coletivo |
+| **SAC** | Solução Alternativa Coletiva |
+| **SAI** | Solução Alternativa Individual |
+
+### Licenciamento Sanitário
+
+| Requisito | Descrição |
+|-----------|-----------|
+| **Licença Sanitária** | Obrigatória para SAA e SAC |
+| **Cadastro** | Obrigatório para todos |
+| **VIGIAGUA** | Sistema de informação |
+| **Responsável Técnico** | Profissional habilitado |
+
+### Padrão de Potabilidade
+
+- Portaria GM/MS nº 888/2021 (padrão federal)
+- Parâmetros microbiológicos, químicos, físicos
+- Monitoramento obrigatório
+- Análises laboratoriais periódicas
+
+### Para IADES - Memorizar:
+- SAA/SAC = licenciamento obrigatório
+- VIGIAGUA = sistema de vigilância da água
+- Potabilidade = Portaria 888/2021
+- Coliformes totais e E. coli = parâmetros microbiológicos
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Contexto e Importância
+
+A **Portaria SES-GO nº 2145/2024** estabelece as normas estaduais para vigilância e licenciamento sanitário dos sistemas de abastecimento de água em Goiás, em consonância com as normas federais.
+
+#### Base Legal
+- Portaria GM/MS nº 888/2021 (padrão de potabilidade)
+- Lei Estadual nº 16.140/2007 (SUS em Goiás)
+- Decreto Estadual nº 6.906/2009
+
+### 2. Definições Fundamentais
+
+#### 2.1 Sistema de Abastecimento de Água (SAA)
+
+> "Instalação composta por um conjunto de obras civis, materiais e equipamentos, desde a zona de captação até as ligações prediais, destinada à produção e ao fornecimento coletivo de água potável, por meio de rede de distribuição."
+
+**Componentes:**
+- Captação (superficial ou subterrânea)
+- Adução
+- Tratamento
+- Reservação
+- Distribuição
+- Ligações prediais
+
+#### 2.2 Solução Alternativa Coletiva (SAC)
+
+> "Modalidade de abastecimento coletivo destinada a fornecer água potável, com captação subterrânea ou superficial, com ou sem canalização dos ramais prediais e sem rede de distribuição."
+
+**Exemplos:**
+- Poço comunitário
+- Chafariz público
+- Caminhão-pipa
+
+#### 2.3 Solução Alternativa Individual (SAI)
+
+> "Modalidade de abastecimento de água para fins de consumo humano que atende a domicílios com uma única família."
+
+**Exemplos:**
+- Poço particular
+- Cisterna
+- Nascente
+
+### 3. Licenciamento Sanitário
+
+#### 3.1 Obrigatoriedade
+
+| Forma de Abastecimento | Licença | Cadastro |
+|------------------------|---------|----------|
+| **SAA** | Obrigatória | Obrigatório |
+| **SAC** | Obrigatória | Obrigatório |
+| **SAI** | Dispensa | Recomendado |
+
+#### 3.2 Requisitos para Licenciamento
+
+| Requisito | Descrição |
+|-----------|-----------|
+| Projeto técnico | Descrição do sistema |
+| RT | Responsável técnico habilitado |
+| Outorga | Direito de uso da água |
+| Plano de amostragem | Frequência de análises |
+| Laboratório | Credenciado para análises |
+
+#### 3.3 Documentação Necessária
+
+1. Requerimento de licenciamento
+2. Projeto técnico do sistema
+3. ART do responsável técnico
+4. Outorga de recursos hídricos
+5. Plano de amostragem e controle
+6. Laudos de análises
+7. Procedimentos operacionais
+
+### 4. Vigilância da Qualidade da Água
+
+#### 4.1 VIGIAGUA
+
+O **VIGIAGUA** é o Programa Nacional de Vigilância da Qualidade da Água para Consumo Humano.
+
+**Objetivos:**
+- Desenvolver ações de vigilância
+- Avaliar risco à saúde
+- Monitorar qualidade da água
+- Prevenir doenças de veiculação hídrica
+
+#### 4.2 Controle x Vigilância
+
+| Aspecto | CONTROLE | VIGILÂNCIA |
+|---------|----------|------------|
+| **Responsável** | Prestador do serviço | Setor saúde (VISA) |
+| **Objetivo** | Garantir a qualidade | Verificar a qualidade |
+| **Ações** | Tratamento, análises | Inspeção, coleta, análise |
+
+### 5. Padrão de Potabilidade
+
+#### 5.1 Portaria GM/MS nº 888/2021
+
+Estabelece os padrões de potabilidade da água para consumo humano no Brasil.
+
+#### 5.2 Parâmetros Principais
+
+##### a) Microbiológicos
+
+| Parâmetro | VMP |
+|-----------|-----|
+| **Escherichia coli** | Ausência em 100 mL |
+| **Coliformes totais** | Ausência em 100 mL (saída ETA) |
+
+##### b) Turbidez
+
+| Etapa | VMP |
+|-------|-----|
+| Saída do filtro | 0,5 uT |
+| Saída do tratamento | 1,0 uT |
+| Rede de distribuição | 5,0 uT |
+
+##### c) Cloro Residual Livre
+
+| Aspecto | Valor |
+|---------|-------|
+| **Mínimo** | 0,2 mg/L |
+| **Máximo** | 5,0 mg/L |
+| **Recomendado** | 0,5 a 2,0 mg/L |
+
+##### d) Fluoreto
+
+| Aspecto | Valor |
+|---------|-------|
+| **VMP** | 1,5 mg/L |
+| **Recomendado** | 0,7 mg/L |
+
+### 6. Plano de Amostragem
+
+#### 6.1 Frequência Mínima
+
+A frequência de coleta e análise depende:
+- Tipo de sistema (SAA, SAC)
+- População abastecida
+- Tipo de tratamento
+
+#### 6.2 Pontos de Coleta
+
+- Captação (água bruta)
+- Saída do tratamento
+- Reservatórios
+- Rede de distribuição
+- Pontos de consumo
+
+### 7. Não Conformidades
+
+#### 7.1 Situações de Risco
+
+| Situação | Ação |
+|----------|------|
+| E. coli detectada | Intervenção imediata |
+| Turbidez elevada | Correção no tratamento |
+| Cloro insuficiente | Ajuste de dosagem |
+| Parâmetro químico elevado | Investigação e correção |
+
+#### 7.2 Medidas Corretivas
+
+1. Comunicação à VISA
+2. Investigação da causa
+3. Correção do processo
+4. Nova coleta e análise
+5. Comunicação à população (se necessário)
+
+### 8. Fiscalização e Penalidades
+
+#### 8.1 Competência
+
+- VISA estadual (coordenação)
+- VISA municipais (execução)
+- ANVISA (complementar)
+
+#### 8.2 Ações de Fiscalização
+
+| Ação | Descrição |
+|------|-----------|
+| Inspeção | Verificação in loco |
+| Coleta de amostras | Análise de vigilância |
+| Análise documental | Verificação de registros |
+| Notificação | Exigência de correções |
+| Penalidade | Em caso de descumprimento |
+
+### 9. Aplicação Prática para o Fiscal
+
+#### 9.1 O que verificar
+
+| Item | Verificação |
+|------|-------------|
+| Licença sanitária | Vigente |
+| RT | Presente e habilitado |
+| Análises | Frequência e resultados |
+| Tratamento | Funcionamento adequado |
+| Cloro residual | Dentro dos limites |
+| Registros | Documentação atualizada |
+
+#### 9.2 Coleta de Amostras
+
+- Amostras de vigilância (VISA)
+- Pontos representativos
+- Técnica asséptica
+- Transporte refrigerado
+- Laboratório credenciado
+        `,
+
+        pontosChave: [
+          'Portaria SES-GO 2145/2024: licenciamento sanitário de água em Goiás',
+          'SAA: Sistema de Abastecimento de Água (rede de distribuição)',
+          'SAC: Solução Alternativa Coletiva (sem rede, coletivo)',
+          'SAI: Solução Alternativa Individual (uma família)',
+          'SAA e SAC: licenciamento OBRIGATÓRIO',
+          'VIGIAGUA: programa de vigilância da qualidade da água',
+          'Portaria 888/2021: padrão de potabilidade federal',
+          'E. coli e coliformes: parâmetros microbiológicos',
+          'Cloro residual livre: mínimo 0,2 mg/L, máximo 5,0 mg/L',
+          'Controle = prestador; Vigilância = setor saúde',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir SAA com SAC',
+            descricao: 'SAA tem REDE DE DISTRIBUIÇÃO. SAC é coletivo mas SEM rede de distribuição.',
+            dica: 'SAA = rede. SAC = coletivo sem rede. SAI = individual.',
+          },
+          {
+            titulo: 'Confundir controle com vigilância',
+            descricao: 'CONTROLE é do prestador (garantir qualidade). VIGILÂNCIA é do setor saúde (verificar qualidade).',
+            dica: 'Controle = empresa. Vigilância = VISA.',
+          },
+          {
+            titulo: 'Errar os valores de cloro residual',
+            descricao: 'Mínimo = 0,2 mg/L. Máximo = 5,0 mg/L. Fora disso = não potável.',
+            dica: 'Cloro: 0,2 a 5,0 mg/L (lembre: 0,2 é o mínimo!).',
+          },
+          {
+            titulo: 'Achar que SAI precisa de licença',
+            descricao: 'SAI (individual, uma família) é DISPENSADO de licença sanitária.',
+            dica: 'SAI = individual = dispensa.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'SAA-SAC-SAI',
+            significado: 'Sistema, Solução Alternativa Coletiva, Solução Alternativa Individual',
+            frase: 'SAA (rede), SAC (coletivo sem rede), SAI (individual)',
+          },
+          {
+            termo: 'VIGIÁGUA',
+            significado: 'VIGIlância da ÁGUA',
+            frase: 'VIGIÁGUA: programa que VIGIA a ÁGUA',
+          },
+          {
+            termo: '0,2-5',
+            significado: 'Cloro residual: 0,2 a 5,0 mg/L',
+            frase: 'Cloro: de 0,2 (mínimo) a 5 (máximo)',
+          },
+          {
+            termo: 'CV-PE',
+            significado: 'Controle = Prestador; Vigilância = Estado',
+            frase: 'Controle é do Prestador, Vigilância do Estado (saúde)',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-16-1',
+            frente: 'O que regulamenta a Portaria SES-GO nº 2145/2024?',
+            verso: 'Regulamenta o **licenciamento sanitário** para prestadores de serviços de **abastecimento de água para consumo humano** em Goiás.\n\nAbrange:\n- SAA (Sistema de Abastecimento)\n- SAC (Solução Alternativa Coletiva)\n- SAI (Solução Alternativa Individual)',
+            tags: ['Portaria 2145', 'água'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-16-2',
+            frente: 'Qual a diferença entre SAA, SAC e SAI?',
+            verso: '**SAA** (Sistema de Abastecimento de Água):\n→ Coletivo com REDE de distribuição\n\n**SAC** (Solução Alternativa Coletiva):\n→ Coletivo SEM rede (poço, chafariz)\n\n**SAI** (Solução Alternativa Individual):\n→ Uma família (poço particular)',
+            tags: ['SAA', 'SAC', 'SAI'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-16-3',
+            frente: 'Quais valores de CLORO RESIDUAL LIVRE são permitidos?',
+            verso: '**Mínimo:** 0,2 mg/L\n**Máximo:** 5,0 mg/L\n**Recomendado:** 0,5 a 2,0 mg/L\n\nAbaixo de 0,2 = risco de contaminação\nAcima de 5,0 = risco à saúde\n\nParâmetro obrigatório na rede de distribuição!',
+            tags: ['cloro', 'potabilidade'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-16-4',
+            frente: 'O que é o VIGIAGUA?',
+            verso: '**VIGIAGUA** = Programa Nacional de Vigilância da Qualidade da Água para Consumo Humano\n\nObjetivos:\n- Vigilância da qualidade\n- Avaliação de risco\n- Monitoramento contínuo\n- Prevenção de doenças hídricas\n\nÉ coordenado pelo Ministério da Saúde.',
+            tags: ['VIGIAGUA', 'vigilância'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-16-5',
+            frente: 'Qual a diferença entre CONTROLE e VIGILÂNCIA da água?',
+            verso: '**CONTROLE:**\n→ Responsável: PRESTADOR do serviço\n→ Objetivo: GARANTIR a qualidade\n→ Ações: tratamento, análises próprias\n\n**VIGILÂNCIA:**\n→ Responsável: SETOR SAÚDE (VISA)\n→ Objetivo: VERIFICAR a qualidade\n→ Ações: inspeção, coleta, análise',
+            tags: ['controle', 'vigilância'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-16-6',
+            frente: 'Quais parâmetros MICROBIOLÓGICOS indicam potabilidade?',
+            verso: '**Escherichia coli (E. coli):**\n→ Ausência em 100 mL (obrigatório)\n→ Indicador de contaminação fecal\n\n**Coliformes totais:**\n→ Ausência em 100 mL (saída do tratamento)\n→ Indicador de contaminação\n\nPresença = água NÃO POTÁVEL!',
+            tags: ['microbiológico', 'E. coli'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-16-1',
+            enunciado: 'A Portaria SES-GO nº 2145/2024 dispõe sobre o licenciamento sanitário para:',
+            alternativas: [
+              { letra: 'A', texto: 'estabelecimentos de alimentos.' },
+              { letra: 'B', texto: 'prestadores de serviços de abastecimento de água.' },
+              { letra: 'C', texto: 'hospitais e clínicas.' },
+              { letra: 'D', texto: 'indústrias farmacêuticas.' },
+              { letra: 'E', texto: 'transportadores de resíduos.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A Portaria SES-GO nº 2145/2024 dispõe sobre a regulamentação e o licenciamento sanitário para PRESTADORES DE SERVIÇOS DE ABASTECIMENTO DE ÁGUA para consumo humano.',
+            dificuldade: 'Fácil',
+            competencia: 'Objeto da Portaria',
+            banca: 'IADES',
+            tags: ['Portaria 2145', 'objeto'],
+          },
+          {
+            id: 'ce-q-16-2',
+            enunciado: 'O Sistema de Abastecimento de Água (SAA) caracteriza-se por:',
+            alternativas: [
+              { letra: 'A', texto: 'atender apenas uma família.' },
+              { letra: 'B', texto: 'não possuir tratamento.' },
+              { letra: 'C', texto: 'possuir rede de distribuição.' },
+              { letra: 'D', texto: 'ser alternativa individual.' },
+              { letra: 'E', texto: 'dispensar licenciamento.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O SAA (Sistema de Abastecimento de Água) caracteriza-se por possuir REDE DE DISTRIBUIÇÃO, diferindo da SAC (sem rede) e SAI (individual).',
+            dificuldade: 'Média',
+            competencia: 'Conceito de SAA',
+            banca: 'IADES',
+            tags: ['SAA', 'característica'],
+          },
+          {
+            id: 'ce-q-16-3',
+            enunciado: 'O valor MÍNIMO de cloro residual livre exigido na água para consumo humano é:',
+            alternativas: [
+              { letra: 'A', texto: '0,1 mg/L.' },
+              { letra: 'B', texto: '0,2 mg/L.' },
+              { letra: 'C', texto: '0,5 mg/L.' },
+              { letra: 'D', texto: '1,0 mg/L.' },
+              { letra: 'E', texto: '2,0 mg/L.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O valor MÍNIMO de cloro residual livre é 0,2 mg/L. O máximo permitido é 5,0 mg/L.',
+            dificuldade: 'Média',
+            competencia: 'Cloro residual',
+            banca: 'IADES',
+            tags: ['cloro', 'mínimo'],
+          },
+          {
+            id: 'ce-q-16-4',
+            enunciado: 'O VIGIAGUA é:',
+            alternativas: [
+              { letra: 'A', texto: 'um tipo de tratamento de água.' },
+              { letra: 'B', texto: 'o programa de vigilância da qualidade da água.' },
+              { letra: 'C', texto: 'uma empresa de abastecimento.' },
+              { letra: 'D', texto: 'um laboratório de análises.' },
+              { letra: 'E', texto: 'um sistema de captação.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'VIGIAGUA é o Programa Nacional de VIGILÂNCIA da Qualidade da Água para Consumo Humano, coordenado pelo Ministério da Saúde.',
+            dificuldade: 'Fácil',
+            competencia: 'VIGIAGUA',
+            banca: 'IADES',
+            tags: ['VIGIAGUA', 'conceito'],
+          },
+          {
+            id: 'ce-q-16-5',
+            enunciado: 'A responsabilidade pelo CONTROLE da qualidade da água é do:',
+            alternativas: [
+              { letra: 'A', texto: 'consumidor final.' },
+              { letra: 'B', texto: 'setor de vigilância sanitária.' },
+              { letra: 'C', texto: 'prestador do serviço de abastecimento.' },
+              { letra: 'D', texto: 'Ministério do Meio Ambiente.' },
+              { letra: 'E', texto: 'laboratório de análises.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O CONTROLE (garantir a qualidade) é responsabilidade do PRESTADOR do serviço. A VIGILÂNCIA (verificar a qualidade) é do setor de saúde.',
+            dificuldade: 'Média',
+            competencia: 'Controle x Vigilância',
+            banca: 'IADES',
+            tags: ['controle', 'responsável'],
+          },
+          {
+            id: 'ce-q-16-6',
+            enunciado: 'A presença de Escherichia coli na água para consumo humano indica:',
+            alternativas: [
+              { letra: 'A', texto: 'água de boa qualidade.' },
+              { letra: 'B', texto: 'contaminação fecal e água não potável.' },
+              { letra: 'C', texto: 'excesso de cloro.' },
+              { letra: 'D', texto: 'alta turbidez.' },
+              { letra: 'E', texto: 'pH inadequado.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A presença de E. coli indica CONTAMINAÇÃO FECAL, tornando a água NÃO POTÁVEL. O padrão exige AUSÊNCIA em 100 mL.',
+            dificuldade: 'Fácil',
+            competencia: 'E. coli',
+            banca: 'IADES',
+            tags: ['E. coli', 'potabilidade'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-17',
+      numero: 17,
+      titulo: 'Portaria SES-GO nº 34/2006 - Agravos de Notificação Compulsória à Saúde do Trabalhador',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Objeto da Portaria
+
+A **Portaria SES-GO nº 34/2006** torna **compulsória a notificação** de agravos à saúde do trabalhador no Estado de Goiás.
+
+### Agravos de Notificação Compulsória
+
+| Agravo | Descrição |
+|--------|-----------|
+| **Acidente de trabalho fatal** | Morte em decorrência do trabalho |
+| **Acidente de trabalho grave** | Com mutilação, incapacidade |
+| **Acidente com material biológico** | Exposição a sangue/fluidos |
+| **LER/DORT** | Lesões por esforço repetitivo |
+| **PAIR** | Perda auditiva por ruído |
+| **Pneumoconioses** | Doenças por poeira |
+| **Intoxicação por agrotóxicos** | Exposição a pesticidas |
+| **Dermatoses ocupacionais** | Doenças de pele do trabalho |
+| **Câncer relacionado ao trabalho** | Neoplasia ocupacional |
+| **Transtornos mentais** | Doenças psíquicas do trabalho |
+
+### Responsáveis pela Notificação
+
+- Profissionais de saúde
+- Estabelecimentos de saúde públicos e privados
+- Serviços de saúde do trabalhador
+
+### Para IADES - Memorizar:
+- Notificação é OBRIGATÓRIA
+- Notificar mesmo em caso de SUSPEITA
+- SINAN = sistema de notificação
+- Lista de 10 agravos principais
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Contexto e Importância
+
+A **Portaria SES-GO nº 34/2006** estabelece a lista de agravos à saúde do trabalhador de notificação compulsória em Goiás, complementando a legislação federal.
+
+#### Base Legal
+- Portaria MS nº 1.339/1999 (lista de doenças)
+- Portaria MS nº 777/2004 (notificação)
+- Lei 8.080/1990 (vigilância em saúde)
+
+### 2. Notificação Compulsória
+
+#### 2.1 Conceito
+
+É a comunicação **obrigatória** à autoridade de saúde sobre a ocorrência de determinado agravo, para fins de vigilância epidemiológica.
+
+#### 2.2 Características
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Obrigatória** | Não é facultativa |
+| **Imediata** | Para casos graves/surtos |
+| **Em suspeita** | Não precisa confirmação |
+| **Universal** | Todo profissional de saúde |
+
+### 3. Lista de Agravos
+
+#### 3.1 Acidentes de Trabalho
+
+##### a) Acidente de Trabalho Fatal
+- Óbito em decorrência do trabalho
+- Típico ou de trajeto
+- Notificação imediata (24h)
+
+##### b) Acidente de Trabalho Grave
+- Com mutilação
+- Incapacidade permanente
+- Envolvendo menores
+- Em trabalho infantil
+
+##### c) Acidente com Material Biológico
+- Exposição a sangue
+- Perfurocortantes
+- Fluidos corporais
+- Risco de HIV, Hepatites
+
+#### 3.2 Doenças Relacionadas ao Trabalho
+
+##### a) LER/DORT
+- Lesão por Esforço Repetitivo
+- Distúrbio Osteomuscular Relacionado ao Trabalho
+- Tendinites, bursites, síndrome do túnel do carpo
+
+##### b) PAIR
+- Perda Auditiva Induzida por Ruído
+- Exposição ocupacional a níveis elevados
+- Irreversível e progressiva
+
+##### c) Pneumoconioses
+- Doenças pulmonares por inalação de poeiras
+- Silicose (sílica)
+- Asbestose (amianto)
+
+##### d) Intoxicação por Agrotóxicos
+- Exposição a pesticidas
+- Aguda ou crônica
+- Trabalho rural
+
+##### e) Dermatoses Ocupacionais
+- Doenças de pele relacionadas ao trabalho
+- Dermatites de contato
+- Câncer de pele ocupacional
+
+##### f) Câncer Relacionado ao Trabalho
+- Neoplasias de origem ocupacional
+- Exposição a carcinógenos
+- Latência longa
+
+##### g) Transtornos Mentais
+- Síndrome de Burnout
+- Depressão
+- Transtorno de estresse
+- Assédio moral (LER psíquica)
+
+### 4. Procedimento de Notificação
+
+#### 4.1 Fluxo
+
+1. **Identificação** do caso (suspeito ou confirmado)
+2. **Preenchimento** da ficha de notificação
+3. **Registro** no SINAN
+4. **Envio** à vigilância municipal
+5. **Investigação** epidemiológica
+6. **Consolidação** estadual/federal
+
+#### 4.2 Ficha de Notificação
+
+| Campo | Informação |
+|-------|------------|
+| Dados pessoais | Nome, idade, sexo |
+| Ocupação | Cargo, função, CBO |
+| Empresa | Nome, CNPJ, endereço |
+| Agravo | Tipo, data de início |
+| Diagnóstico | CID-10 |
+| Evolução | Tratamento, desfecho |
+
+### 5. Responsáveis pela Notificação
+
+#### 5.1 Quem Deve Notificar
+
+| Responsável | Obrigação |
+|-------------|-----------|
+| Médicos | Sim, obrigatório |
+| Enfermeiros | Sim, obrigatório |
+| Outros profissionais de saúde | Sim |
+| Estabelecimentos de saúde | Sim |
+| Serviços de saúde ocupacional | Sim |
+
+#### 5.2 Onde Notificar
+
+- Unidade de saúde
+- CEREST
+- Vigilância epidemiológica municipal
+- SINAN online
+
+### 6. SINAN
+
+O **SINAN** (Sistema de Informação de Agravos de Notificação) é o sistema informatizado para registro das notificações.
+
+#### 6.1 Funcionalidades
+
+- Registro de notificações
+- Investigação de casos
+- Geração de relatórios
+- Análise epidemiológica
+- Monitoramento de indicadores
+
+### 7. Penalidades
+
+O descumprimento da obrigação de notificar pode resultar em:
+- Advertência
+- Multa
+- Outras sanções administrativas
+- Responsabilização ética (conselhos profissionais)
+
+### 8. Aplicação Prática
+
+#### 8.1 O Fiscal e a Notificação
+
+O fiscal de vigilância sanitária pode:
+- Verificar se estabelecimentos notificam
+- Orientar sobre obrigatoriedade
+- Encaminhar casos identificados
+- Acompanhar investigações
+
+#### 8.2 Integração VISA-VISAT
+
+- VISA: condições sanitárias
+- VISAT: saúde do trabalhador
+- Ações conjuntas de fiscalização
+- Compartilhamento de informações
+        `,
+
+        pontosChave: [
+          'Portaria SES-GO 34/2006: notificação compulsória de agravos do trabalhador',
+          'Notificação é OBRIGATÓRIA para todos profissionais de saúde',
+          'Notificar mesmo em caso de SUSPEITA',
+          'Acidente fatal: notificação IMEDIATA (24h)',
+          'SINAN: sistema de informação para notificação',
+          'LER/DORT, PAIR, pneumoconioses: doenças de notificação',
+          'Intoxicação por agrotóxicos: notificação obrigatória',
+          'Acidente com material biológico: notificação obrigatória',
+          'Transtornos mentais do trabalho: incluídos na lista',
+          'CEREST: referência para notificações de saúde do trabalhador',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Achar que precisa confirmação para notificar',
+            descricao: 'A notificação deve ser feita mesmo em SUSPEITA, não precisa aguardar confirmação diagnóstica.',
+            dica: 'Suspeita já basta para notificar!',
+          },
+          {
+            titulo: 'Pensar que só médico notifica',
+            descricao: 'TODOS os profissionais de saúde têm obrigação de notificar, não apenas médicos.',
+            dica: 'Enfermeiro, fisioterapeuta, etc. também notificam.',
+          },
+          {
+            titulo: 'Confundir CAT com notificação SINAN',
+            descricao: 'CAT = INSS (previdência). SINAN = SUS (vigilância). São documentos diferentes.',
+            dica: 'CAT = benefícios. SINAN = vigilância epidemiológica.',
+          },
+          {
+            titulo: 'Esquecer os transtornos mentais',
+            descricao: 'Transtornos mentais relacionados ao trabalho (Burnout, depressão) também são de notificação.',
+            dica: 'Saúde mental do trabalhador = notificação obrigatória.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'LAP-DIC-T',
+            significado: 'LER, Acidente, PAIR, Dermatoses, Intoxicação, Câncer, Transtornos',
+            frase: 'Agravos do trabalhador: LAP-DIC-T',
+          },
+          {
+            termo: 'SINAN-SUS',
+            significado: 'SINAN é sistema do SUS',
+            frase: 'SINAN = Sistema de Notificação do SUS',
+          },
+          {
+            termo: 'SUSPEITA-JÁ',
+            significado: 'Suspeita já basta para notificar',
+            frase: 'Suspeita JÁ notifica, não espera confirmação',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-17-1',
+            frente: 'O que estabelece a Portaria SES-GO nº 34/2006?',
+            verso: 'Torna **COMPULSÓRIA a notificação** de agravos à saúde do trabalhador no Estado de Goiás.\n\nAgravos incluem:\n- Acidentes de trabalho (fatais, graves, material biológico)\n- LER/DORT, PAIR\n- Intoxicação por agrotóxicos\n- Pneumoconioses\n- Transtornos mentais',
+            tags: ['Portaria 34', 'notificação'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-17-2',
+            frente: 'Precisa de confirmação diagnóstica para notificar agravo do trabalhador?',
+            verso: '**NÃO!**\n\nA notificação deve ser feita mesmo em caso de **SUSPEITA**.\n\nNão é necessário aguardar:\n- Exames complementares\n- Confirmação laboratorial\n- Alta médica\n\nSuspeita → Notifica → Investiga',
+            tags: ['notificação', 'suspeita'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-17-3',
+            frente: 'Quais os principais agravos de notificação compulsória do trabalhador?',
+            verso: '1. Acidente de trabalho **fatal**\n2. Acidente de trabalho **grave**\n3. Acidente com **material biológico**\n4. **LER/DORT**\n5. **PAIR** (perda auditiva)\n6. **Pneumoconioses**\n7. **Intoxicação por agrotóxicos**\n8. **Dermatoses** ocupacionais\n9. **Câncer** relacionado ao trabalho\n10. **Transtornos mentais**',
+            tags: ['agravos', 'lista'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-17-4',
+            frente: 'Quem tem obrigação de notificar agravos do trabalhador?',
+            verso: '**TODOS os profissionais de saúde:**\n\n- Médicos\n- Enfermeiros\n- Fisioterapeutas\n- Psicólogos\n- Outros profissionais\n\n**Estabelecimentos:**\n- Hospitais, UBS, clínicas\n- SESMT das empresas\n- CEREST',
+            tags: ['responsável', 'notificação'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-17-5',
+            frente: 'Em quanto tempo deve ser notificado um acidente de trabalho FATAL?',
+            verso: '**IMEDIATAMENTE - em até 24 horas**\n\nAcidentes fatais exigem notificação IMEDIATA devido à:\n- Gravidade do evento\n- Necessidade de investigação\n- Prevenção de novos casos\n- Ação de vigilância',
+            tags: ['fatal', 'prazo'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-17-1',
+            enunciado: 'A Portaria SES-GO nº 34/2006 torna compulsória a notificação de:',
+            alternativas: [
+              { letra: 'A', texto: 'doenças transmissíveis.' },
+              { letra: 'B', texto: 'agravos à saúde do trabalhador.' },
+              { letra: 'C', texto: 'intoxicações alimentares.' },
+              { letra: 'D', texto: 'acidentes de trânsito.' },
+              { letra: 'E', texto: 'violência doméstica.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A Portaria SES-GO nº 34/2006 torna compulsória a notificação de AGRAVOS À SAÚDE DO TRABALHADOR no Estado de Goiás.',
+            dificuldade: 'Fácil',
+            competencia: 'Objeto da Portaria',
+            banca: 'IADES',
+            tags: ['Portaria 34', 'objeto'],
+          },
+          {
+            id: 'ce-q-17-2',
+            enunciado: 'A notificação de agravos à saúde do trabalhador deve ser realizada:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas após confirmação diagnóstica.' },
+              { letra: 'B', texto: 'mesmo em casos suspeitos.' },
+              { letra: 'C', texto: 'apenas por médicos.' },
+              { letra: 'D', texto: 'apenas em casos fatais.' },
+              { letra: 'E', texto: 'apenas em hospitais.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A notificação deve ser feita MESMO EM CASOS SUSPEITOS, não sendo necessário aguardar confirmação diagnóstica.',
+            dificuldade: 'Média',
+            competencia: 'Momento da notificação',
+            banca: 'IADES',
+            tags: ['notificação', 'suspeita'],
+          },
+          {
+            id: 'ce-q-17-3',
+            enunciado: 'São agravos de notificação compulsória segundo a Portaria nº 34/2006, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'LER/DORT.' },
+              { letra: 'B', texto: 'PAIR.' },
+              { letra: 'C', texto: 'gripe comum.' },
+              { letra: 'D', texto: 'intoxicação por agrotóxicos.' },
+              { letra: 'E', texto: 'pneumoconioses.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Gripe comum não é agravo ocupacional de notificação. São de notificação: LER/DORT, PAIR, intoxicação por agrotóxicos, pneumoconioses, entre outros.',
+            dificuldade: 'Fácil',
+            competencia: 'Lista de agravos',
+            banca: 'IADES',
+            tags: ['agravos', 'exceto'],
+          },
+          {
+            id: 'ce-q-17-4',
+            enunciado: 'O acidente de trabalho fatal deve ser notificado:',
+            alternativas: [
+              { letra: 'A', texto: 'em até 30 dias.' },
+              { letra: 'B', texto: 'em até 7 dias.' },
+              { letra: 'C', texto: 'imediatamente (em até 24 horas).' },
+              { letra: 'D', texto: 'apenas se solicitado.' },
+              { letra: 'E', texto: 'no relatório anual.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Acidente de trabalho FATAL exige notificação IMEDIATA, em até 24 horas, devido à gravidade e necessidade de investigação.',
+            dificuldade: 'Média',
+            competencia: 'Prazo de notificação',
+            banca: 'IADES',
+            tags: ['fatal', 'prazo'],
+          },
+          {
+            id: 'ce-q-17-5',
+            enunciado: 'O sistema de informação utilizado para notificação de agravos é o:',
+            alternativas: [
+              { letra: 'A', texto: 'SINASC.' },
+              { letra: 'B', texto: 'SIM.' },
+              { letra: 'C', texto: 'SINAN.' },
+              { letra: 'D', texto: 'SIH.' },
+              { letra: 'E', texto: 'CNES.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O SINAN (Sistema de Informação de Agravos de Notificação) é o sistema utilizado para registro das notificações compulsórias.',
+            dificuldade: 'Fácil',
+            competencia: 'Sistema de informação',
+            banca: 'IADES',
+            tags: ['SINAN', 'sistema'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-18',
+      numero: 18,
+      titulo: 'Lei Estadual nº 18.456/2014 - Prevenção e Punição do Assédio Moral',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Objeto da Lei
+
+A **Lei Estadual nº 18.456/2014** dispõe sobre a **prevenção e punição do assédio moral** no âmbito da Administração estadual de Goiás.
+
+### Conceito de Assédio Moral
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Conduta** | Ação ou omissão degradante |
+| **Repetição** | Comportamento reiterado |
+| **Alvo** | Servidor público |
+| **Efeito** | Dano à dignidade, integridade psíquica |
+
+### Formas de Assédio
+
+| Tipo | Descrição |
+|------|-----------|
+| **Vertical descendente** | Superior → subordinado |
+| **Vertical ascendente** | Subordinado → superior |
+| **Horizontal** | Entre colegas do mesmo nível |
+
+### Exemplos de Condutas
+
+- Atribuir tarefas humilhantes
+- Isolar o servidor
+- Criticar constantemente
+- Impedir crescimento profissional
+- Desconsiderar pareceres sem fundamentação
+
+### Penalidades
+
+| Infração | Sanção |
+|----------|--------|
+| Primeira vez | Advertência |
+| Reincidência | Suspensão (até 30 dias) |
+| Reiteração | Demissão |
+
+### Para IADES - Memorizar:
+- Assédio moral = conduta REITERADA + dano à dignidade
+- Aplica-se a TODA administração estadual
+- Vítima pode ser servidor ou subordinado
+- Lei específica de Goiás
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Contexto e Importância
+
+A **Lei Estadual nº 18.456/2014** é a norma específica de Goiás para prevenção e punição do assédio moral na Administração Pública estadual.
+
+#### Âmbito de Aplicação
+- Administração direta
+- Autarquias
+- Fundações
+- Empresas públicas
+- Sociedades de economia mista
+
+### 2. Conceito de Assédio Moral (Art. 2º)
+
+#### 2.1 Definição Legal
+
+> "Considera-se assédio moral toda ação, gesto ou palavra que, de forma repetitiva, atinja a autoestima, a segurança, a dignidade, a personalidade ou a integridade psíquica ou física de servidor público, colocando-o em risco ou degradando o ambiente de trabalho."
+
+#### 2.2 Elementos Caracterizadores
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Conduta** | Ação, gesto ou palavra |
+| **Repetição** | Comportamento reiterado (não isolado) |
+| **Dano** | Prejuízo à dignidade ou integridade |
+| **Ambiente** | Degradação do ambiente de trabalho |
+
+⚠️ **Atenção:** Ato isolado NÃO caracteriza assédio moral!
+
+### 3. Formas de Assédio Moral
+
+#### 3.1 Assédio Vertical Descendente
+
+- **Autor:** Superior hierárquico
+- **Vítima:** Subordinado
+- **Exemplo:** Chefe que humilha servidor publicamente
+
+É a forma **mais comum** de assédio moral.
+
+#### 3.2 Assédio Vertical Ascendente
+
+- **Autor:** Subordinado(s)
+- **Vítima:** Superior hierárquico
+- **Exemplo:** Equipe que sabota novo chefe
+
+É forma **menos comum**, mas existe.
+
+#### 3.3 Assédio Horizontal
+
+- **Autor:** Colega de trabalho
+- **Vítima:** Outro colega
+- **Exemplo:** Colegas que isolam um servidor
+
+Ocorre entre pessoas do **mesmo nível hierárquico**.
+
+### 4. Condutas Caracterizadoras (Art. 3º)
+
+A lei exemplifica condutas que podem caracterizar assédio moral:
+
+#### 4.1 Isolamento
+
+| Conduta | Descrição |
+|---------|-----------|
+| Ignorar presença | Não dirigir a palavra |
+| Excluir de reuniões | Deixar de fora de encontros |
+| Isolar fisicamente | Mudar de sala sem motivo |
+
+#### 4.2 Humilhação
+
+| Conduta | Descrição |
+|---------|-----------|
+| Críticas constantes | Apontar erros em público |
+| Apelidos pejorativos | Usar termos ofensivos |
+| Zombaria | Fazer piadas sobre o servidor |
+
+#### 4.3 Desqualificação Profissional
+
+| Conduta | Descrição |
+|---------|-----------|
+| Retirar tarefas | Deixar sem trabalho |
+| Atribuir tarefas inferiores | Degradar a função |
+| Impedir promoção | Bloquear crescimento |
+| Desconsiderar pareceres | Ignorar trabalho técnico |
+
+#### 4.4 Pressão Excessiva
+
+| Conduta | Descrição |
+|---------|-----------|
+| Metas impossíveis | Exigências inexequíveis |
+| Prazos irreais | Cobrança desproporcional |
+| Vigilância excessiva | Monitoramento constante |
+
+### 5. O que NÃO é Assédio Moral
+
+| Situação | Por que não é assédio |
+|----------|----------------------|
+| Exigência de desempenho | É poder diretivo legítimo |
+| Crítica construtiva | Feedback é necessário |
+| Conflito pontual | Precisa ser reiterado |
+| Má gestão | Sem intenção de prejudicar |
+| Estresse organizacional | Não é pessoal |
+
+### 6. Penalidades (Art. 5º)
+
+#### 6.1 Escala de Sanções
+
+| Ocorrência | Sanção |
+|------------|--------|
+| **1ª infração** | Advertência por escrito |
+| **Reincidência** | Suspensão (até 30 dias) |
+| **Reiteração** | Demissão |
+
+#### 6.2 Agravantes
+
+A pena pode ser agravada se:
+- Houver dano à saúde da vítima
+- Afastamento do servidor vítima
+- Uso de cargo de chefia
+- Natureza grave da conduta
+
+### 7. Procedimento
+
+#### 7.1 Denúncia
+
+| Forma | Local |
+|-------|-------|
+| Escrita ou verbal | Ouvidoria, chefia, RH |
+| Anônima | Permitida |
+| Fundamentada | Com descrição dos fatos |
+
+#### 7.2 Apuração
+
+1. Recebimento da denúncia
+2. Análise preliminar
+3. Instauração de sindicância ou PAD
+4. Investigação
+5. Defesa do acusado
+6. Relatório final
+7. Julgamento
+8. Aplicação de sanção (se procedente)
+
+### 8. Proteção à Vítima
+
+#### 8.1 Direitos do Servidor Vítima
+
+| Direito | Descrição |
+|---------|-----------|
+| Sigilo | Preservação da identidade |
+| Proteção | Contra retaliações |
+| Acompanhamento | Apoio psicológico |
+| Remoção | Se necessário |
+
+#### 8.2 Medidas Preventivas
+
+- Campanhas de conscientização
+- Capacitação de gestores
+- Canais de denúncia
+- Comissões de prevenção
+
+### 9. Responsabilidades
+
+#### 9.1 Do Assediador
+
+- Responsabilidade administrativa (PAD)
+- Responsabilidade civil (indenização)
+- Responsabilidade criminal (se houver crime)
+
+#### 9.2 Da Administração
+
+- Dever de prevenir
+- Dever de investigar
+- Dever de punir
+- Reparação do dano
+
+### 10. Relação com Saúde do Trabalhador
+
+#### 10.1 Adoecimento por Assédio
+
+O assédio moral pode causar:
+- Depressão
+- Ansiedade
+- Síndrome de Burnout
+- Transtorno de estresse pós-traumático
+- Doenças psicossomáticas
+
+#### 10.2 Nexo com o Trabalho
+
+Se houver adoecimento:
+- É doença relacionada ao trabalho
+- Notificação compulsória (transtorno mental)
+- CAT (se servidor celetista)
+- Licença para tratamento
+
+### 11. Aplicação na Vigilância Sanitária
+
+#### 11.1 O Fiscal como Servidor
+
+O fiscal de vigilância sanitária:
+- É protegido pela lei (como vítima potencial)
+- Pode ser responsabilizado (se assediador)
+- Deve conhecer a norma
+
+#### 11.2 Ambiente de Trabalho Saudável
+
+- Respeito entre colegas
+- Gestão humanizada
+- Comunicação clara
+- Canais de diálogo
+        `,
+
+        pontosChave: [
+          'Lei 18.456/2014 GO: prevenção e punição de assédio moral',
+          'Assédio moral: conduta REITERADA que atinge dignidade',
+          'Aplica-se a toda Administração estadual de Goiás',
+          'Vertical descendente: superior → subordinado (mais comum)',
+          'Vertical ascendente: subordinado → superior',
+          'Horizontal: entre colegas do mesmo nível',
+          'Ato ISOLADO não caracteriza assédio moral',
+          'Penalidades: advertência → suspensão → demissão',
+          'Vítima tem direito a sigilo e proteção',
+          'Assédio pode causar doenças ocupacionais (notificação)',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Achar que ato isolado é assédio',
+            descricao: 'Assédio moral exige conduta REITERADA. Um ato isolado, por mais grave, não caracteriza assédio.',
+            dica: 'Assédio = repetição. Ato único = não é assédio (pode ser outra infração).',
+          },
+          {
+            titulo: 'Confundir assédio com poder diretivo',
+            descricao: 'Cobrar metas, dar ordens, exigir desempenho são exercício LEGÍTIMO do poder diretivo, não assédio.',
+            dica: 'Chefe pode cobrar. Não pode humilhar.',
+          },
+          {
+            titulo: 'Pensar que só superior pode assediar',
+            descricao: 'O assédio pode ser vertical (superior ou subordinado) ou horizontal (colegas).',
+            dica: 'Assédio tem 3 formas: descendente, ascendente, horizontal.',
+          },
+          {
+            titulo: 'Esquecer que assédio causa doença',
+            descricao: 'O assédio moral pode causar transtornos mentais, que são de notificação compulsória.',
+            dica: 'Assédio → adoecimento → doença do trabalho → notificação.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'DVH',
+            significado: 'Descendente, Vertical ascendente, Horizontal',
+            frase: 'Formas de assédio: DVH (Descendente, V-ascendente, Horizontal)',
+          },
+          {
+            termo: 'CRED',
+            significado: 'Conduta REiterada + Dano',
+            frase: 'Assédio moral = CRED (Conduta REiterada + Dano)',
+          },
+          {
+            termo: 'ASD',
+            significado: 'Advertência, Suspensão, Demissão',
+            frase: 'Penalidades: ASD (Advertência → Suspensão → Demissão)',
+          },
+          {
+            termo: 'NÃO-UM',
+            significado: 'NÃO é UM ato isolado',
+            frase: 'Assédio NÃO é UM ato (precisa repetir)',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-18-1',
+            frente: 'O que dispõe a Lei Estadual nº 18.456/2014?',
+            verso: 'Dispõe sobre a **prevenção e punição do ASSÉDIO MORAL** no âmbito da Administração estadual de Goiás.\n\nAplica-se a:\n- Administração direta\n- Autarquias e fundações\n- Empresas públicas\n- Sociedades de economia mista',
+            tags: ['Lei 18456', 'assédio'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-18-2',
+            frente: 'O que caracteriza ASSÉDIO MORAL?',
+            verso: '**Elementos:**\n\n1. **Conduta** (ação, gesto, palavra)\n2. **REITERADA** (repetitiva, não isolada)\n3. **Dano** à dignidade ou integridade\n4. **Degradação** do ambiente de trabalho\n\n⚠️ Ato ISOLADO não é assédio moral!',
+            tags: ['assédio', 'conceito'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-18-3',
+            frente: 'Quais são as FORMAS de assédio moral?',
+            verso: '**1. Vertical DESCENDENTE:**\n→ Superior → subordinado\n→ Mais comum\n\n**2. Vertical ASCENDENTE:**\n→ Subordinado → superior\n→ Menos comum\n\n**3. HORIZONTAL:**\n→ Entre colegas do mesmo nível',
+            tags: ['formas', 'classificação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-18-4',
+            frente: 'Quais as PENALIDADES para assédio moral em Goiás?',
+            verso: '**Escala progressiva:**\n\n1. **1ª infração:** Advertência por escrito\n2. **Reincidência:** Suspensão (até 30 dias)\n3. **Reiteração:** Demissão\n\nAgravantes: dano à saúde, uso de cargo, gravidade.',
+            tags: ['penalidades', 'sanções'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-18-5',
+            frente: 'Um ato ISOLADO de humilhação caracteriza assédio moral?',
+            verso: '**NÃO!**\n\nAssédio moral exige conduta **REITERADA** (repetitiva).\n\nUm ato isolado, por mais grave:\n- Não é assédio moral\n- Pode ser outra infração disciplinar\n- Pode gerar responsabilização\n\nMas NÃO caracteriza assédio.',
+            tags: ['ato isolado', 'não é'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-18-6',
+            frente: 'O assédio moral pode causar doença ocupacional?',
+            verso: '**SIM!**\n\nO assédio moral pode causar:\n- Depressão\n- Ansiedade\n- Síndrome de Burnout\n- Estresse pós-traumático\n\nSe houver adoecimento:\n- É doença do trabalho\n- Notificação compulsória\n- Direito a tratamento',
+            tags: ['doença', 'ocupacional'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-18-1',
+            enunciado: 'A Lei Estadual nº 18.456/2014 dispõe sobre:',
+            alternativas: [
+              { letra: 'A', texto: 'assédio sexual.' },
+              { letra: 'B', texto: 'assédio moral.' },
+              { letra: 'C', texto: 'assédio patrimonial.' },
+              { letra: 'D', texto: 'assédio processual.' },
+              { letra: 'E', texto: 'assédio eleitoral.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A Lei Estadual nº 18.456/2014 dispõe sobre a prevenção e punição do ASSÉDIO MORAL no âmbito da Administração estadual de Goiás.',
+            dificuldade: 'Fácil',
+            competencia: 'Objeto da Lei',
+            banca: 'IADES',
+            tags: ['Lei 18456', 'objeto'],
+          },
+          {
+            id: 'ce-q-18-2',
+            enunciado: 'Para caracterizar assédio moral, a conduta deve ser:',
+            alternativas: [
+              { letra: 'A', texto: 'única e grave.' },
+              { letra: 'B', texto: 'reiterada e degradante.' },
+              { letra: 'C', texto: 'apenas verbal.' },
+              { letra: 'D', texto: 'praticada apenas por superior.' },
+              { letra: 'E', texto: 'sempre em público.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Assédio moral exige conduta REITERADA (repetitiva) que cause dano à dignidade ou degradação do ambiente de trabalho. Ato isolado não caracteriza assédio.',
+            dificuldade: 'Média',
+            competencia: 'Caracterização',
+            banca: 'IADES',
+            tags: ['assédio', 'elementos'],
+          },
+          {
+            id: 'ce-q-18-3',
+            enunciado: 'O assédio moral praticado por superior hierárquico contra subordinado é denominado:',
+            alternativas: [
+              { letra: 'A', texto: 'horizontal.' },
+              { letra: 'B', texto: 'vertical ascendente.' },
+              { letra: 'C', texto: 'vertical descendente.' },
+              { letra: 'D', texto: 'transversal.' },
+              { letra: 'E', texto: 'institucional.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Assédio VERTICAL DESCENDENTE é praticado pelo superior hierárquico contra subordinado. É a forma mais comum de assédio moral.',
+            dificuldade: 'Fácil',
+            competencia: 'Formas de assédio',
+            banca: 'IADES',
+            tags: ['descendente', 'forma'],
+          },
+          {
+            id: 'ce-q-18-4',
+            enunciado: 'A penalidade prevista para a primeira infração de assédio moral na Administração estadual de Goiás é:',
+            alternativas: [
+              { letra: 'A', texto: 'demissão.' },
+              { letra: 'B', texto: 'suspensão.' },
+              { letra: 'C', texto: 'advertência.' },
+              { letra: 'D', texto: 'multa.' },
+              { letra: 'E', texto: 'disponibilidade.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Para a 1ª infração de assédio moral, a penalidade é ADVERTÊNCIA por escrito. Reincidência = suspensão. Reiteração = demissão.',
+            dificuldade: 'Média',
+            competencia: 'Penalidades',
+            banca: 'IADES',
+            tags: ['penalidade', 'advertência'],
+          },
+          {
+            id: 'ce-q-18-5',
+            enunciado: 'Um ato isolado de humilhação no trabalho caracteriza assédio moral?',
+            alternativas: [
+              { letra: 'A', texto: 'Sim, sempre.' },
+              { letra: 'B', texto: 'Sim, se for grave.' },
+              { letra: 'C', texto: 'Não, pois assédio exige conduta reiterada.' },
+              { letra: 'D', texto: 'Sim, se for de superior.' },
+              { letra: 'E', texto: 'Sim, se causar dano.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Assédio moral exige conduta REITERADA. Ato ISOLADO, por mais grave que seja, não caracteriza assédio moral (pode ser outra infração).',
+            dificuldade: 'Média',
+            competencia: 'Ato isolado',
+            banca: 'IADES',
+            tags: ['ato isolado', 'reiteração'],
+          },
+          {
+            id: 'ce-q-18-6',
+            enunciado: 'O assédio moral praticado por colegas de trabalho do mesmo nível hierárquico é denominado:',
+            alternativas: [
+              { letra: 'A', texto: 'vertical descendente.' },
+              { letra: 'B', texto: 'vertical ascendente.' },
+              { letra: 'C', texto: 'horizontal.' },
+              { letra: 'D', texto: 'diagonal.' },
+              { letra: 'E', texto: 'institucional.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Assédio HORIZONTAL é praticado entre colegas de trabalho do mesmo nível hierárquico.',
+            dificuldade: 'Fácil',
+            competencia: 'Formas de assédio',
+            banca: 'IADES',
+            tags: ['horizontal', 'forma'],
           },
         ],
       },
