@@ -6295,10 +6295,11 @@ Instrumento firmado entre o Poder Público e entidades da Administração Indire
 
         flashcards: [
           {
-            frente:
-              "Qual a diferença entre descentralização e desconcentração?",
-            verso:
-              "DESCENTRALIZAÇÃO: transfere atividade para OUTRA pessoa jurídica (cria entidade ou delega a particular). DESCONCENTRAÇÃO: distribui competências DENTRO da mesma pessoa (cria órgãos internos, relação hierárquica).",
+            id: 'da-fc-9-1',
+            frente: "Qual a diferença entre descentralização e desconcentração?",
+            verso: "DESCENTRALIZAÇÃO: transfere atividade para OUTRA pessoa jurídica (cria entidade ou delega a particular). DESCONCENTRAÇÃO: distribui competências DENTRO da mesma pessoa (cria órgãos internos, relação hierárquica).",
+            tags: ['descentralização', 'desconcentração'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6306,9 +6307,11 @@ Instrumento firmado entre o Poder Público e entidades da Administração Indire
             erros: 0,
           },
           {
+            id: 'da-fc-9-2',
             frente: "Como são criadas as autarquias?",
-            verso:
-              "Autarquias são CRIADAS DIRETAMENTE por lei específica. Têm personalidade de direito PÚBLICO e gozam de prerrogativas como imunidade tributária recíproca e prazos processuais em dobro.",
+            verso: "Autarquias são CRIADAS DIRETAMENTE por lei específica. Têm personalidade de direito PÚBLICO e gozam de prerrogativas como imunidade tributária recíproca e prazos processuais em dobro.",
+            tags: ['autarquia', 'criação'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6316,10 +6319,11 @@ Instrumento firmado entre o Poder Público e entidades da Administração Indire
             erros: 0,
           },
           {
-            frente:
-              "Qual a diferença entre Empresa Pública e Sociedade de Economia Mista?",
-            verso:
-              "EP: capital 100% público, qualquer forma societária, foro na Justiça Federal. SEM: capital misto (maioria estatal), somente S/A, foro na Justiça Estadual (regra).",
+            id: 'da-fc-9-3',
+            frente: "Qual a diferença entre Empresa Pública e Sociedade de Economia Mista?",
+            verso: "EP: capital 100% público, qualquer forma societária, foro na Justiça Federal. SEM: capital misto (maioria estatal), somente S/A, foro na Justiça Estadual (regra).",
+            tags: ['EP', 'SEM', 'diferenças'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6327,10 +6331,11 @@ Instrumento firmado entre o Poder Público e entidades da Administração Indire
             erros: 0,
           },
           {
-            frente:
-              "O que são Organizações Sociais e qual instrumento as vincula ao Estado?",
-            verso:
-              "OS são entidades privadas qualificadas para atuar em áreas de interesse público. Vinculam-se ao Estado por CONTRATO DE GESTÃO (Lei 9.637/98). Atuam em ensino, pesquisa, saúde, cultura.",
+            id: 'da-fc-9-4',
+            frente: "O que são Organizações Sociais e qual instrumento as vincula ao Estado?",
+            verso: "OS são entidades privadas qualificadas para atuar em áreas de interesse público. Vinculam-se ao Estado por CONTRATO DE GESTÃO (Lei 9.637/98). Atuam em ensino, pesquisa, saúde, cultura.",
+            tags: ['OS', 'contrato de gestão'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6338,9 +6343,11 @@ Instrumento firmado entre o Poder Público e entidades da Administração Indire
             erros: 0,
           },
           {
+            id: 'da-fc-9-5',
             frente: "Qual a diferença entre OS e OSCIP?",
-            verso:
-              "OS: contrato de GESTÃO, qualificação discricionária, conselho obrigatório. OSCIP: termo de PARCERIA, qualificação vinculada, sem exigência de conselho, precisa existir há 3+ anos.",
+            verso: "OS: contrato de GESTÃO, qualificação discricionária, conselho obrigatório. OSCIP: termo de PARCERIA, qualificação vinculada, sem exigência de conselho, precisa existir há 3+ anos.",
+            tags: ['OS', 'OSCIP', 'diferenças'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6348,9 +6355,11 @@ Instrumento firmado entre o Poder Público e entidades da Administração Indire
             erros: 0,
           },
           {
+            id: 'da-fc-9-6',
             frente: "O que são os Serviços Sociais Autônomos (Sistema S)?",
-            verso:
-              "Entidades privadas que atuam em formação profissional e assistência. Custeados por contribuições parafiscais (compulsórias). Exemplos: SESI, SENAI, SESC, SENAC, SEBRAE. Seguem regulamento próprio de licitação.",
+            verso: "Entidades privadas que atuam em formação profissional e assistência. Custeados por contribuições parafiscais (compulsórias). Exemplos: SESI, SENAI, SESC, SENAC, SEBRAE. Seguem regulamento próprio de licitação.",
+            tags: ['Sistema S', 'serviços sociais'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6358,9 +6367,11 @@ Instrumento firmado entre o Poder Público e entidades da Administração Indire
             erros: 0,
           },
           {
+            id: 'da-fc-9-7',
             frente: "O que é Agência Executiva?",
-            verso:
-              "É uma QUALIFICAÇÃO dada a autarquia ou fundação que celebra CONTRATO DE GESTÃO e possui plano de reestruturação. Não é nova espécie, mas qualificação que confere maior autonomia. Ex: INMETRO.",
+            verso: "É uma QUALIFICAÇÃO dada a autarquia ou fundação que celebra CONTRATO DE GESTÃO e possui plano de reestruturação. Não é nova espécie, mas qualificação que confere maior autonomia. Ex: INMETRO.",
+            tags: ['agência executiva', 'qualificação'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6368,9 +6379,11 @@ Instrumento firmado entre o Poder Público e entidades da Administração Indire
             erros: 0,
           },
           {
+            id: 'da-fc-9-8',
             frente: "Quais são as características das Agências Reguladoras?",
-            verso:
-              "Autarquias em REGIME ESPECIAL: autonomia reforçada, dirigentes com mandato fixo e estabilidade, quarentena após deixar cargo, poder normativo técnico. Ex: ANVISA, ANS, ANATEL.",
+            verso: "Autarquias em REGIME ESPECIAL: autonomia reforçada, dirigentes com mandato fixo e estabilidade, quarentena após deixar cargo, poder normativo técnico. Ex: ANVISA, ANS, ANATEL.",
+            tags: ['agência reguladora', 'características'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,

@@ -59,7 +59,7 @@ export interface Questao {
   alternativas: Alternativa[];
   gabarito: string; // A, B, C, D ou E
   justificativa: string;
-  dificuldade: 'Fácil' | 'Média' | 'Difícil';
+  dificuldade: 'facil' | 'medio' | 'dificil' | 'Fácil' | 'Média' | 'Difícil';
   competencia: string;
   banca: string;
   ano?: number;
@@ -125,5 +125,5 @@ export interface FiltrosBusca {
   materias: string[];
   tags: string[];
   status: StatusEstudo[];
-  dificuldade: ('Fácil' | 'Média' | 'Difícil')[];
+  dificuldade: ('facil' | 'medio' | 'dificil' | 'Fácil' | 'Média' | 'Difícil')[];
 }

@@ -379,7 +379,7 @@ A Vigilância em Saúde integra o SUS e compreende:
             ],
             gabarito: 'A',
             justificativa: 'O Art. 196 da CF/88 estabelece que "a saúde é direito de todos e dever do Estado", consagrando a universalidade do acesso à saúde no Brasil.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Base constitucional',
             banca: 'IADES',
             tags: ['constituição', 'art. 196'],
@@ -396,7 +396,7 @@ A Vigilância em Saúde integra o SUS e compreende:
             ],
             gabarito: 'B',
             justificativa: 'Os princípios DOUTRINÁRIOS (ideológicos) são: Universalidade, Integralidade e Equidade. Os princípios organizacionais são descentralização, regionalização e participação.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Princípios do SUS',
             banca: 'IADES',
             tags: ['princípios', 'doutrinários'],
@@ -413,7 +413,7 @@ A Vigilância em Saúde integra o SUS e compreende:
             ],
             gabarito: 'B',
             justificativa: 'A Lei 8.080/1990 dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes. A participação e financiamento estão na Lei 8.142.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Legislação do SUS',
             banca: 'IADES',
             tags: ['Lei 8.080', 'organização'],
@@ -430,7 +430,7 @@ A Vigilância em Saúde integra o SUS e compreende:
             ],
             gabarito: 'C',
             justificativa: 'Os Conselhos de Saúde têm composição paritária: 50% de usuários, 25% de trabalhadores de saúde e 25% de gestores e prestadores de serviços.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Controle social',
             banca: 'IADES',
             tags: ['conselho', 'composição'],
@@ -447,7 +447,7 @@ A Vigilância em Saúde integra o SUS e compreende:
             ],
             gabarito: 'D',
             justificativa: 'Equidade significa tratar os desiguais de forma desigual, priorizando quem mais necessita. Não é tratar todos igual (isso seria igualdade), mas buscar a justiça social na saúde.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Princípio da equidade',
             banca: 'IADES',
             tags: ['equidade', 'princípio'],
@@ -464,7 +464,7 @@ A Vigilância em Saúde integra o SUS e compreende:
             ],
             gabarito: 'B',
             justificativa: 'A 8ª CNS (1986) foi o marco da Reforma Sanitária, estabelecendo as bases conceituais que fundamentaram a criação do SUS na Constituição de 1988.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'História das políticas de saúde',
             banca: 'IADES',
             tags: ['8ª CNS', 'reforma sanitária'],
@@ -481,7 +481,7 @@ A Vigilância em Saúde integra o SUS e compreende:
             ],
             gabarito: 'D',
             justificativa: 'A ANVISA foi criada pela Lei 9.782/1999, que define o Sistema Nacional de Vigilância Sanitária e cria a agência como autarquia sob regime especial.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Legislação ANVISA',
             banca: 'IADES',
             tags: ['ANVISA', 'Lei 9.782'],
@@ -498,7 +498,7 @@ A Vigilância em Saúde integra o SUS e compreende:
             ],
             gabarito: 'E',
             justificativa: 'Os componentes da Vigilância em Saúde são: Vigilância Epidemiológica, Vigilância Sanitária, Vigilância Ambiental e Saúde do Trabalhador. Vigilância Patrimonial não é componente.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Vigilância em Saúde',
             banca: 'IADES',
             tags: ['vigilância', 'componentes'],
@@ -515,7 +515,7 @@ A Vigilância em Saúde integra o SUS e compreende:
             ],
             gabarito: 'B',
             justificativa: 'Descentralização significa distribuir poder e responsabilidades entre as três esferas de governo, com direção única em cada nível: MS (União), SES (Estados), SMS (Municípios).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Descentralização',
             banca: 'IADES',
             tags: ['descentralização', 'organização'],
@@ -532,7 +532,7 @@ A Vigilância em Saúde integra o SUS e compreende:
             ],
             gabarito: 'B',
             justificativa: 'Os Conselhos de Saúde são órgãos colegiados de caráter PERMANENTE e DELIBERATIVO (tomam decisões), conforme estabelecido na Lei 8.142/1990.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Controle social',
             banca: 'IADES',
             tags: ['conselho', 'deliberativo'],
@@ -1003,7 +1003,7 @@ A **Vigilância Sanitária** é parte integrante do SUS:
             ],
             gabarito: 'C',
             justificativa: 'DESCENTRALIZAÇÃO é uma diretriz ORGANIZACIONAL, não um princípio doutrinário. Os princípios doutrinários são: Universalidade, Integralidade e Equidade (UIE).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Princípios do SUS',
             banca: 'IADES',
             tags: ['SUS', 'princípios'],
@@ -1020,7 +1020,7 @@ A **Vigilância Sanitária** é parte integrante do SUS:
             ],
             gabarito: 'C',
             justificativa: 'A UBS (Unidade Básica de Saúde) é um serviço de ATENÇÃO BÁSICA/PRIMÁRIA. As demais opções são serviços de alta complexidade (terciário).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Níveis de atenção',
             banca: 'IADES',
             tags: ['atenção básica', 'UBS'],
@@ -1037,7 +1037,7 @@ A **Vigilância Sanitária** é parte integrante do SUS:
             ],
             gabarito: 'D',
             justificativa: 'Os Conselhos de Saúde têm caráter DELIBERATIVO (não apenas consultivo) e PERMANENTE. A composição é paritária: 50% usuários, 25% trabalhadores, 25% gestores.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Participação social',
             banca: 'IADES',
             tags: ['conselho', 'participação'],
@@ -1054,7 +1054,7 @@ A **Vigilância Sanitária** é parte integrante do SUS:
             ],
             gabarito: 'C',
             justificativa: 'HIERARQUIZAÇÃO é a diretriz que organiza os serviços por níveis de complexidade: atenção básica, média complexidade e alta complexidade.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Diretrizes do SUS',
             banca: 'IADES',
             tags: ['hierarquização', 'diretrizes'],
@@ -1071,7 +1071,7 @@ A **Vigilância Sanitária** é parte integrante do SUS:
             ],
             gabarito: 'D',
             justificativa: 'As Conferências de Saúde devem ser realizadas a cada 4 ANOS, com representação dos vários segmentos sociais, para avaliar a situação de saúde e propor diretrizes.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Conferências de Saúde',
             banca: 'IADES',
             tags: ['conferência', 'periodicidade'],
@@ -1088,7 +1088,7 @@ A **Vigilância Sanitária** é parte integrante do SUS:
             ],
             gabarito: 'C',
             justificativa: 'UNIVERSALIDADE é o princípio que garante que a saúde é direito de TODOS, independentemente de contribuição, raça, gênero ou qualquer outra condição.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Princípio da universalidade',
             banca: 'IADES',
             tags: ['universalidade', 'princípios'],
@@ -1105,7 +1105,7 @@ A **Vigilância Sanitária** é parte integrante do SUS:
             ],
             gabarito: 'B',
             justificativa: 'A CIT (Comissão Intergestores TRIPARTITE) é composta por representantes das três esferas: União (MS), Estados (CONASS) e Municípios (CONASEMS).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Instâncias de pactuação',
             banca: 'IADES',
             tags: ['CIT', 'gestão'],
@@ -1122,7 +1122,7 @@ A **Vigilância Sanitária** é parte integrante do SUS:
             ],
             gabarito: 'C',
             justificativa: 'A ESF (Estratégia Saúde da Família) é um serviço de ATENÇÃO BÁSICA/PRIMÁRIA, considerada a principal estratégia de reorganização da atenção à saúde no Brasil.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Atenção Básica',
             banca: 'IADES',
             tags: ['ESF', 'atenção básica'],
@@ -1139,7 +1139,7 @@ A **Vigilância Sanitária** é parte integrante do SUS:
             ],
             gabarito: 'C',
             justificativa: 'EQUIDADE significa tratar os DESIGUAIS de forma DESIGUAL, investindo mais onde há maior necessidade para reduzir as desigualdades. É diferente de IGUALDADE (tratar todos igual).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Princípio da equidade',
             banca: 'IADES',
             tags: ['equidade', 'princípios'],
@@ -1156,7 +1156,7 @@ A **Vigilância Sanitária** é parte integrante do SUS:
             ],
             gabarito: 'C',
             justificativa: 'Nas RAS, a ATENÇÃO BÁSICA atua como COORDENADORA do cuidado, sendo responsável por ordenar os fluxos e contrafluxos de pessoas, produtos e informações na rede.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Redes de Atenção à Saúde',
             banca: 'IADES',
             tags: ['RAS', 'atenção básica'],
@@ -1621,7 +1621,7 @@ As vigilâncias devem atuar de forma **integrada**, pois:
             ],
             gabarito: 'E',
             justificativa: 'Os componentes da Vigilância em Saúde são: Vigilância Epidemiológica, Vigilância Sanitária, Vigilância Ambiental e Saúde do Trabalhador. Não existe "Vigilância Financeira" no campo da saúde.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Componentes da Vigilância em Saúde',
             banca: 'IADES',
             tags: ['vigilância', 'componentes'],
@@ -1638,7 +1638,7 @@ As vigilâncias devem atuar de forma **integrada**, pois:
             ],
             gabarito: 'B',
             justificativa: 'A Vigilância Sanitária atua sobre PRODUTOS (medicamentos, alimentos, cosméticos), SERVIÇOS (hospitais, clínicas, laboratórios) e AMBIENTES (locais de trabalho, espaços públicos).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Objeto da Vigilância Sanitária',
             banca: 'IADES',
             tags: ['vigilância sanitária', 'abrangência'],
@@ -1655,7 +1655,7 @@ As vigilâncias devem atuar de forma **integrada**, pois:
             ],
             gabarito: 'C',
             justificativa: 'A Lei 9.782/1999 define o Sistema Nacional de Vigilância Sanitária (SNVS) e cria a ANVISA como autarquia federal sob regime especial, vinculada ao Ministério da Saúde.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Legislação ANVISA',
             banca: 'IADES',
             tags: ['ANVISA', 'Lei 9.782'],
@@ -1672,7 +1672,7 @@ As vigilâncias devem atuar de forma **integrada**, pois:
             ],
             gabarito: 'C',
             justificativa: 'O SINAN é o sistema da Vigilância Epidemiológica utilizado para registro e investigação de DOENÇAS e AGRAVOS de notificação compulsória.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'SINAN',
             banca: 'IADES',
             tags: ['SINAN', 'vigilância epidemiológica'],
@@ -1689,7 +1689,7 @@ As vigilâncias devem atuar de forma **integrada**, pois:
             ],
             gabarito: 'C',
             justificativa: 'A Lei 6.437/1977 configura INFRAÇÕES à legislação sanitária federal e estabelece as PENALIDADES: advertência, multa, apreensão, inutilização, interdição, entre outras.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Lei 6.437/1977',
             banca: 'IADES',
             tags: ['infrações', 'penalidades'],
@@ -1706,7 +1706,7 @@ As vigilâncias devem atuar de forma **integrada**, pois:
             ],
             gabarito: 'B',
             justificativa: 'O VIGIAGUA é o Programa Nacional de Vigilância da Qualidade da Água para Consumo Humano, que monitora parâmetros como coliformes, cloro residual, turbidez e fluoreto.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'VIGIAGUA',
             banca: 'IADES',
             tags: ['vigilância ambiental', 'água'],
@@ -1723,7 +1723,7 @@ As vigilâncias devem atuar de forma **integrada**, pois:
             ],
             gabarito: 'C',
             justificativa: 'A Saúde do Trabalhador abrange TODOS os trabalhadores: formais, informais, autônomos, temporários, domésticos, rurais, urbanos, independentemente do vínculo empregatício.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Saúde do Trabalhador',
             banca: 'IADES',
             tags: ['saúde do trabalhador', 'abrangência'],
@@ -1740,7 +1740,7 @@ As vigilâncias devem atuar de forma **integrada**, pois:
             ],
             gabarito: 'C',
             justificativa: 'O CEREST é parte da RENAST e tem como funções: suporte técnico à rede de saúde, educação permanente, apoio a ações de vigilância e atendimento de casos de doenças relacionadas ao trabalho.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'CEREST',
             banca: 'IADES',
             tags: ['CEREST', 'RENAST'],
@@ -1757,7 +1757,7 @@ As vigilâncias devem atuar de forma **integrada**, pois:
             ],
             gabarito: 'B',
             justificativa: 'O poder de polícia sanitária permite à VISA: licenciar estabelecimentos, fiscalizar condições sanitárias e aplicar PENALIDADES (advertência, multa, apreensão, interdição, cancelamento de registro).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Poder de polícia',
             banca: 'IADES',
             tags: ['vigilância sanitária', 'poder de polícia'],
@@ -1774,7 +1774,7 @@ As vigilâncias devem atuar de forma **integrada**, pois:
             ],
             gabarito: 'B',
             justificativa: 'A NOTIFICAÇÃO COMPULSÓRIA de doenças e agravos é atividade da VIGILÂNCIA EPIDEMIOLÓGICA, registrada no SINAN. A Vigilância Sanitária atua sobre produtos e serviços, não sobre doenças.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Vigilância Epidemiológica',
             banca: 'IADES',
             tags: ['notificação', 'vigilância epidemiológica'],
@@ -2238,7 +2238,7 @@ VISA MUNICIPAL      VISA MUNICIPAL         VISA MUNICIPAL
             ],
             gabarito: 'C',
             justificativa: 'O SNVS é um sistema DESCENTRALIZADO que integra TODOS os entes federativos: União (ANVISA), Estados/DF e Municípios, atuando de forma coordenada dentro do SUS.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'SNVS',
             banca: 'IADES',
             tags: ['SNVS', 'Lei 9.782/1999', 'descentralização'],
@@ -2255,7 +2255,7 @@ VISA MUNICIPAL      VISA MUNICIPAL         VISA MUNICIPAL
             ],
             gabarito: 'B',
             justificativa: 'A ANVISA é uma AUTARQUIA ESPECIAL sob regime especial, VINCULADA ao Ministério da Saúde. Não é órgão (não tem personalidade jurídica própria), nem empresa pública.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'ANVISA',
             banca: 'IADES',
             tags: ['ANVISA', 'natureza jurídica', 'autarquia'],
@@ -2272,7 +2272,7 @@ VISA MUNICIPAL      VISA MUNICIPAL         VISA MUNICIPAL
             ],
             gabarito: 'C',
             justificativa: 'A Diretoria Colegiada da ANVISA é composta por 5 MEMBROS (incluindo o Diretor-Presidente), indicados pelo Presidente da República, aprovados pelo SENADO FEDERAL, com mandato de 3 ANOS.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Diretoria ANVISA',
             banca: 'IADES',
             tags: ['ANVISA', 'diretoria colegiada', 'mandato'],
@@ -2289,7 +2289,7 @@ VISA MUNICIPAL      VISA MUNICIPAL         VISA MUNICIPAL
             ],
             gabarito: 'D',
             justificativa: 'Agendamento de consultas no SUS é atividade de ASSISTÊNCIA À SAÚDE, não de vigilância sanitária. A ANVISA atua sobre produtos e serviços de interesse da saúde (SAMPAS).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Áreas de abrangência',
             banca: 'IADES',
             tags: ['ANVISA', 'áreas de abrangência', 'competência'],
@@ -2306,7 +2306,7 @@ VISA MUNICIPAL      VISA MUNICIPAL         VISA MUNICIPAL
             ],
             gabarito: 'C',
             justificativa: 'O controle sanitário de PORTOS, AEROPORTOS e FRONTEIRAS é competência EXCLUSIVA da ANVISA (federal), pois envolve questões de saúde internacional e controle de entrada/saída de produtos.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Competência federal',
             banca: 'IADES',
             tags: ['ANVISA', 'portos', 'aeroportos', 'fronteiras'],
@@ -2323,7 +2323,7 @@ VISA MUNICIPAL      VISA MUNICIPAL         VISA MUNICIPAL
             ],
             gabarito: 'C',
             justificativa: 'A quarentena dos ex-diretores da ANVISA é de 4 MESES, período no qual não podem exercer atividade no setor regulado, recebendo remuneração equivalente.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Quarentena',
             banca: 'IADES',
             tags: ['ANVISA', 'quarentena', 'diretores'],
@@ -2340,7 +2340,7 @@ VISA MUNICIPAL      VISA MUNICIPAL         VISA MUNICIPAL
             ],
             gabarito: 'C',
             justificativa: 'A Lei 6.437/1977 estabelece multas de R$ 2.000 a R$ 1.500.000 para infrações sanitárias, valor que pode ser duplicado em caso de reincidência.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Penalidades',
             banca: 'IADES',
             tags: ['infrações', 'penalidades', 'multa'],
@@ -2357,7 +2357,7 @@ VISA MUNICIPAL      VISA MUNICIPAL         VISA MUNICIPAL
             ],
             gabarito: 'B',
             justificativa: 'O REGISTRO de produtos (medicamentos, alimentos, cosméticos etc.) é função típica da ANVISA. A agência não presta assistência médica nem gerencia hospitais.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Funções da ANVISA',
             banca: 'IADES',
             tags: ['ANVISA', 'funções', 'registro'],
@@ -2374,7 +2374,7 @@ VISA MUNICIPAL      VISA MUNICIPAL         VISA MUNICIPAL
             ],
             gabarito: 'B',
             justificativa: 'O poder de polícia sanitária tem como características: DISCRICIONARIEDADE (margem de escolha), AUTOEXECUTORIEDADE (executar sem autorização judicial) e COERCIBILIDADE (impor obrigatoriamente).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Poder de polícia',
             banca: 'IADES',
             tags: ['poder de polícia', 'características', 'vigilância sanitária'],
@@ -2391,7 +2391,7 @@ VISA MUNICIPAL      VISA MUNICIPAL         VISA MUNICIPAL
             ],
             gabarito: 'C',
             justificativa: 'O CBPF (Certificado de Boas Práticas de Fabricação) é emitido pela ANVISA após inspeção que verifica conformidade com normas de fabricação de medicamentos.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'CBPF',
             banca: 'IADES',
             tags: ['ANVISA', 'CBPF', 'boas práticas'],
@@ -2836,7 +2836,7 @@ A infração ética pode gerar responsabilidade:
             ],
             gabarito: 'B',
             justificativa: 'O Decreto nº 9.837/2021 institui o CÓDIGO DE ÉTICA E CONDUTA PROFISSIONAL do servidor e da alta administração do Poder Executivo estadual de Goiás.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Decreto 9.837/2021',
             banca: 'IADES',
             tags: ['Decreto 9.837', 'ética'],
@@ -2853,7 +2853,7 @@ A infração ética pode gerar responsabilidade:
             ],
             gabarito: 'B',
             justificativa: 'A Portaria nº 170/2018-SES aprova o CÓDIGO DE ÉTICA dos servidores que exercem a função de Fiscal de Vigilância Sanitária no Estado de Goiás.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Portaria 170/2018',
             banca: 'IADES',
             tags: ['Portaria 170', 'VISA'],
@@ -2870,7 +2870,7 @@ A infração ética pode gerar responsabilidade:
             ],
             gabarito: 'C',
             justificativa: 'Aceitar presentes é VEDAÇÃO, não dever. Os deveres incluem lealdade, probidade, decoro, cortesia, zelo e sigilo.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Deveres do servidor',
             banca: 'IADES',
             tags: ['deveres', 'vedações'],
@@ -2887,7 +2887,7 @@ A infração ética pode gerar responsabilidade:
             ],
             gabarito: 'C',
             justificativa: 'O fiscal deve DECLARAR IMPEDIMENTO e ser substituído quando houver conflito de interesses, como fiscalizar estabelecimento de parente ou onde tenha interesse pessoal.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Conflito de interesses',
             banca: 'IADES',
             tags: ['impedimento', 'conflito'],
@@ -2904,7 +2904,7 @@ A infração ética pode gerar responsabilidade:
             ],
             gabarito: 'B',
             justificativa: 'O fiscal de VISA deve SEMPRE priorizar a PROTEÇÃO À SAÚDE PÚBLICA. Este é o princípio norteador de toda a atuação da vigilância sanitária.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Princípio fundamental',
             banca: 'IADES',
             tags: ['saúde pública', 'prioridade'],
@@ -2921,7 +2921,7 @@ A infração ética pode gerar responsabilidade:
             ],
             gabarito: 'C',
             justificativa: 'O fiscal de VISA NÃO pode aceitar presentes, cortesias ou benefícios de qualquer natureza dos fiscalizados, independentemente do valor.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Vedação a presentes',
             banca: 'IADES',
             tags: ['presentes', 'vedação'],
@@ -2938,7 +2938,7 @@ A infração ética pode gerar responsabilidade:
             ],
             gabarito: 'D',
             justificativa: 'A infração ética pode gerar responsabilidade ADMINISTRATIVA, CIVIL, PENAL e por IMPROBIDADE, todas podendo ser aplicadas CUMULATIVAMENTE.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Responsabilidades',
             banca: 'IADES',
             tags: ['responsabilidade', 'consequências'],
@@ -2955,7 +2955,7 @@ A infração ética pode gerar responsabilidade:
             ],
             gabarito: 'B',
             justificativa: 'A proporcionalidade exige que a SANÇÃO seja ADEQUADA à gravidade da infração, evitando excessos ou punições insuficientes.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Proporcionalidade',
             banca: 'IADES',
             tags: ['proporcionalidade', 'sanção'],
@@ -2972,7 +2972,7 @@ A infração ética pode gerar responsabilidade:
             ],
             gabarito: 'B',
             justificativa: 'A educação sanitária visa ORIENTAR antes de punir, promovendo conhecimento e colaborando com a regularização. A punição deve ser última medida.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Educação sanitária',
             banca: 'IADES',
             tags: ['educação', 'orientação'],
@@ -2989,7 +2989,7 @@ A infração ética pode gerar responsabilidade:
             ],
             gabarito: 'C',
             justificativa: 'USAR O CARGO para obter vantagem pessoal é VEDAÇÃO expressa. As demais alternativas são DEVERES do servidor público.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Vedações',
             banca: 'IADES',
             tags: ['vedações', 'vantagem pessoal'],
@@ -3439,7 +3439,7 @@ O Estado é responsável por coordenar e executar ações de:
             ],
             gabarito: 'B',
             justificativa: 'Os princípios DOUTRINÁRIOS do SUS são: UNIVERSALIDADE (direito de todos), INTEGRALIDADE (atendimento completo) e EQUIDADE (tratar diferentemente os desiguais).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Princípios do SUS',
             banca: 'IADES',
             tags: ['princípios', 'doutrinários'],
@@ -3456,7 +3456,7 @@ O Estado é responsável por coordenar e executar ações de:
             ],
             gabarito: 'C',
             justificativa: 'O Conselho de Saúde tem composição PARITÁRIA: 50% de representantes dos USUÁRIOS e 50% divididos entre gestores, prestadores e profissionais de saúde.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Controle social',
             banca: 'IADES',
             tags: ['Conselho', 'composição'],
@@ -3473,7 +3473,7 @@ O Estado é responsável por coordenar e executar ações de:
             ],
             gabarito: 'D',
             justificativa: 'A Conferência de Saúde é realizada a cada 4 ANOS para avaliar a situação de saúde e propor diretrizes para a política de saúde.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Conferência de Saúde',
             banca: 'IADES',
             tags: ['Conferência', 'periodicidade'],
@@ -3490,7 +3490,7 @@ O Estado é responsável por coordenar e executar ações de:
             ],
             gabarito: 'C',
             justificativa: 'EQUIDADE significa tratar DIFERENTEMENTE os desiguais, priorizando quem mais precisa. Não é igualdade (tratar todos igual), mas justiça na distribuição dos recursos.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Princípio da equidade',
             banca: 'IADES',
             tags: ['equidade', 'conceito'],
@@ -3507,7 +3507,7 @@ O Estado é responsável por coordenar e executar ações de:
             ],
             gabarito: 'D',
             justificativa: 'PRISÃO é penalidade PENAL, não sanitária/administrativa. As penalidades sanitárias são: advertência, multa, apreensão, interdição, cancelamento de licença, proibição de propaganda.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Penalidades sanitárias',
             banca: 'IADES',
             tags: ['penalidades', 'exceção'],
@@ -3524,7 +3524,7 @@ O Estado é responsável por coordenar e executar ações de:
             ],
             gabarito: 'B',
             justificativa: 'Conforme EC 29/2000, o Estado deve aplicar no mínimo 12% da receita de impostos em saúde. Os municípios devem aplicar no mínimo 15%.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Financiamento',
             banca: 'IADES',
             tags: ['financiamento', '12%'],
@@ -3541,7 +3541,7 @@ O Estado é responsável por coordenar e executar ações de:
             ],
             gabarito: 'B',
             justificativa: 'Vigilância Sanitária é o "conjunto de ações capaz de ELIMINAR, DIMINUIR ou PREVENIR riscos à saúde" decorrentes de produtos, serviços, ambientes e equipamentos.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Conceito de VISA',
             banca: 'IADES',
             tags: ['VISA', 'conceito'],
@@ -3558,7 +3558,7 @@ O Estado é responsável por coordenar e executar ações de:
             ],
             gabarito: 'C',
             justificativa: 'Os princípios ORGANIZATIVOS do SUS são: Descentralização, Regionalização, Hierarquização e Participação da comunidade. Universalidade, integralidade e equidade são DOUTRINÁRIOS.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Princípios organizativos',
             banca: 'IADES',
             tags: ['princípios', 'organizativos'],
@@ -3575,7 +3575,7 @@ O Estado é responsável por coordenar e executar ações de:
             ],
             gabarito: 'B',
             justificativa: 'O Conselho de Saúde tem caráter PERMANENTE (funciona continuamente) e DELIBERATIVO (suas decisões devem ser homologadas pelo gestor, não são apenas opiniões).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Natureza do Conselho',
             banca: 'IADES',
             tags: ['Conselho', 'caráter'],
@@ -3592,7 +3592,7 @@ O Estado é responsável por coordenar e executar ações de:
             ],
             gabarito: 'C',
             justificativa: 'Atenção de ALTA complexidade corresponde ao nível TERCIÁRIO (hospitais, UTI, transplantes). Primário = básica (UBS). Secundário = média complexidade (especialidades).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Níveis de atenção',
             banca: 'IADES',
             tags: ['atenção', 'terciário'],
@@ -3911,7 +3911,7 @@ Na revisão (quando surgem fatos novos), não se pode AGRAVAR a situação do ad
             ],
             gabarito: 'C',
             justificativa: 'A Lei Estadual nº 13.800/2001 regula o processo administrativo no Estado de Goiás. A Lei 9.784/1999 é federal.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Legislação',
             banca: 'IADES',
             tags: ['lei', 'processo administrativo'],
@@ -3928,7 +3928,7 @@ Na revisão (quando surgem fatos novos), não se pode AGRAVAR a situação do ad
             ],
             gabarito: 'B',
             justificativa: 'A ordem correta das fases é: INSTAURAÇÃO (início), INSTRUÇÃO (provas), DEFESA (manifestação), RELATÓRIO (resumo) e DECISÃO (julgamento).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Fases do processo',
             banca: 'IADES',
             tags: ['fases', 'ordem'],
@@ -3945,7 +3945,7 @@ Na revisão (quando surgem fatos novos), não se pode AGRAVAR a situação do ad
             ],
             gabarito: 'C',
             justificativa: 'O prazo para decisão é de 30 DIAS, podendo ser prorrogado por igual período de forma motivada.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Prazos',
             banca: 'IADES',
             tags: ['prazo', 'decisão'],
@@ -3962,7 +3962,7 @@ Na revisão (quando surgem fatos novos), não se pode AGRAVAR a situação do ad
             ],
             gabarito: 'B',
             justificativa: 'Em regra, o recurso administrativo NÃO tem efeito suspensivo, tendo apenas efeito devolutivo. A decisão pode ser executada mesmo com recurso pendente.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Recursos',
             banca: 'IADES',
             tags: ['recurso', 'efeito'],
@@ -3979,7 +3979,7 @@ Na revisão (quando surgem fatos novos), não se pode AGRAVAR a situação do ad
             ],
             gabarito: 'B',
             justificativa: 'O prazo para recurso é de 10 DIAS, contados da ciência da decisão.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Prazos',
             banca: 'IADES',
             tags: ['recurso', 'prazo'],
@@ -3996,7 +3996,7 @@ Na revisão (quando surgem fatos novos), não se pode AGRAVAR a situação do ad
             ],
             gabarito: 'B',
             justificativa: 'Na revisão, é VEDADA a reformatio in pejus, ou seja, não se pode agravar a situação do administrado. A revisão só pode beneficiá-lo.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Revisão',
             banca: 'IADES',
             tags: ['revisão', 'reformatio'],
@@ -4013,7 +4013,7 @@ Na revisão (quando surgem fatos novos), não se pode AGRAVAR a situação do ad
             ],
             gabarito: 'C',
             justificativa: 'O princípio da OFICIALIDADE (ou impulso oficial) determina que a Administração deve conduzir e impulsionar o processo de ofício.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Princípios',
             banca: 'IADES',
             tags: ['oficialidade', 'princípio'],
@@ -4030,7 +4030,7 @@ Na revisão (quando surgem fatos novos), não se pode AGRAVAR a situação do ad
             ],
             gabarito: 'C',
             justificativa: 'O processo administrativo pode ser instaurado DE OFÍCIO (pela própria Administração) ou A PEDIDO (requerimento do interessado).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Instauração',
             banca: 'IADES',
             tags: ['instauração', 'formas'],
@@ -4047,7 +4047,7 @@ Na revisão (quando surgem fatos novos), não se pode AGRAVAR a situação do ad
             ],
             gabarito: 'D',
             justificativa: 'O administrado tem direito ao devido processo legal, mas NÃO tem garantia de decisão favorável. A decisão depende da análise do mérito.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Direitos do administrado',
             banca: 'IADES',
             tags: ['direitos', 'administrado'],
@@ -4064,7 +4064,7 @@ Na revisão (quando surgem fatos novos), não se pode AGRAVAR a situação do ad
             ],
             gabarito: 'C',
             justificativa: 'A MOTIVAÇÃO é obrigatória, sendo garantia do devido processo legal. Toda decisão deve expor os fundamentos de fato e de direito que a embasam.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Motivação',
             banca: 'IADES',
             tags: ['motivação', 'obrigatoriedade'],
@@ -4388,7 +4388,7 @@ A penalidade deve ser proporcional à gravidade:
             ],
             gabarito: 'C',
             justificativa: 'MULTA é PENALIDADE, não medida cautelar. Medidas cautelares são preventivas: interdição, apreensão, suspensão, inutilização.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Medidas cautelares',
             banca: 'IADES',
             tags: ['cautelar', 'multa'],
@@ -4405,7 +4405,7 @@ A penalidade deve ser proporcional à gravidade:
             ],
             gabarito: 'B',
             justificativa: 'A amostra é dividida em TRÊS partes: análise, contraprova e arquivo.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Colheita de amostras',
             banca: 'IADES',
             tags: ['amostra', 'partes'],
@@ -4422,7 +4422,7 @@ A penalidade deve ser proporcional à gravidade:
             ],
             gabarito: 'C',
             justificativa: 'A AUTOEXECUTORIEDADE permite que a Administração execute seus atos sem necessidade de autorização judicial prévia.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Poder de polícia',
             banca: 'IADES',
             tags: ['autoexecutoriedade', 'poder de polícia'],
@@ -4439,7 +4439,7 @@ A penalidade deve ser proporcional à gravidade:
             ],
             gabarito: 'B',
             justificativa: 'A interdição pode ser TOTAL ou PARCIAL, conforme a gravidade e extensão do risco sanitário.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Interdição',
             banca: 'IADES',
             tags: ['interdição', 'modalidades'],
@@ -4456,7 +4456,7 @@ A penalidade deve ser proporcional à gravidade:
             ],
             gabarito: 'C',
             justificativa: 'As penalidades sanitárias incluem: advertência, multa, apreensão, inutilização, suspensão, interdição, cancelamento de registro e proibição de propaganda.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Penalidades',
             banca: 'IADES',
             tags: ['penalidades', 'espécies'],
@@ -4473,7 +4473,7 @@ A penalidade deve ser proporcional à gravidade:
             ],
             gabarito: 'C',
             justificativa: 'A inutilização é aplicada quando o produto está IMPRÓPRIO para consumo e NÃO HÁ POSSIBILIDADE de regularização.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Inutilização',
             banca: 'IADES',
             tags: ['inutilização', 'hipóteses'],
@@ -4490,7 +4490,7 @@ A penalidade deve ser proporcional à gravidade:
             ],
             gabarito: 'A',
             justificativa: 'O processo administrativo sanitário garante CONTRADITÓRIO e AMPLA DEFESA, incluindo direito de defesa prévia e recurso.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Garantias processuais',
             banca: 'IADES',
             tags: ['defesa', 'recurso'],
@@ -4507,7 +4507,7 @@ A penalidade deve ser proporcional à gravidade:
             ],
             gabarito: 'B',
             justificativa: 'A suspensão de venda é TEMPORÁRIA, vigorando até que as irregularidades sejam sanadas.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Suspensão de venda',
             banca: 'IADES',
             tags: ['suspensão', 'temporária'],
@@ -4524,7 +4524,7 @@ A penalidade deve ser proporcional à gravidade:
             ],
             gabarito: 'B',
             justificativa: 'Medida CAUTELAR é PREVENTIVA (visa evitar dano imediato). PENALIDADE é PUNITIVA (sanção aplicada após processo administrativo).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Distinção conceitual',
             banca: 'IADES',
             tags: ['cautelar', 'penalidade', 'distinção'],
@@ -4541,7 +4541,7 @@ A penalidade deve ser proporcional à gravidade:
             ],
             gabarito: 'B',
             justificativa: 'A CONTRAPROVA é reservada para nova análise caso o interessado conteste o resultado da análise inicial.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Colheita de amostras',
             banca: 'IADES',
             tags: ['contraprova', 'finalidade'],
@@ -4908,8 +4908,11 @@ O auto será **nulo** se:
 
         flashcards: [
           {
+            id: 'ce-fc-9-1',
             frente: "O que é infração sanitária segundo a Lei 6.437/77?",
             verso: "É a desobediência ou inobservância às normas legais e regulamentares que versem sobre saúde pública, bem como aos atos emanados das autoridades sanitárias competentes.",
+            tags: ['infração sanitária', 'Lei 6.437'],
+            dificuldade: 'facil',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4917,8 +4920,11 @@ O auto será **nulo** se:
             erros: 0,
           },
           {
+            id: 'ce-fc-9-2',
             frente: "Quais são as penalidades sanitárias previstas na Lei 6.437/77?",
             verso: "Advertência, multa, apreensão, inutilização, suspensão de venda/fabricação, cancelamento de registro/licença/autorização, interdição (total ou parcial) e proibição de propaganda.",
+            tags: ['penalidades', 'sanções'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4926,8 +4932,11 @@ O auto será **nulo** se:
             erros: 0,
           },
           {
+            id: 'ce-fc-9-3',
             frente: "Qual o efeito da reincidência nas penalidades sanitárias?",
             verso: "A multa é aplicada em DOBRO. Reincidência é a nova infração da MESMA NATUREZA no prazo de 5 anos após o trânsito em julgado da decisão anterior.",
+            tags: ['reincidência', 'multa'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4935,8 +4944,11 @@ O auto será **nulo** se:
             erros: 0,
           },
           {
+            id: 'ce-fc-9-4',
             frente: "Quem são os responsáveis solidários pela infração sanitária?",
             verso: "Proprietário do estabelecimento, responsável técnico (farmacêutico, médico, etc.), fabricante/importador do produto e quem concorre para a prática da infração.",
+            tags: ['responsabilidade', 'solidariedade'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4944,8 +4956,11 @@ O auto será **nulo** se:
             erros: 0,
           },
           {
+            id: 'ce-fc-9-5',
             frente: "Qual o prazo de prescrição para instaurar processo administrativo sanitário?",
             verso: "5 ANOS da data da infração. A prescrição intercorrente é de 3 anos de paralisação do processo.",
+            tags: ['prescrição', 'prazo'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4953,8 +4968,11 @@ O auto será **nulo** se:
             erros: 0,
           },
           {
+            id: 'ce-fc-9-6',
             frente: "Quando se aplica a pena de advertência?",
             verso: "Em infrações de MENOR GRAVIDADE, quando NÃO há má-fé nem reincidência. Pode ser convertida em multa em caso de reincidência.",
+            tags: ['advertência', 'penalidades'],
+            dificuldade: 'facil',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4962,8 +4980,11 @@ O auto será **nulo** se:
             erros: 0,
           },
           {
+            id: 'ce-fc-9-7',
             frente: "Quais são as circunstâncias agravantes da infração sanitária?",
             verso: "Reincidência, dolo ou má-fé, obtenção de vantagem pecuniária, grave risco à saúde, falsificação de documentos, omissão de informações, continuidade da infração.",
+            tags: ['agravantes', 'dosimetria'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4971,8 +4992,35 @@ O auto será **nulo** se:
             erros: 0,
           },
           {
+            id: 'ce-fc-9-8',
             frente: "Quais são as circunstâncias atenuantes da infração sanitária?",
             verso: "Primariedade, boa-fé comprovada, baixo grau de instrução, colaboração com a fiscalização, comunicação espontânea à autoridade, reparação do dano.",
+            tags: ['atenuantes', 'dosimetria'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-9-9',
+            frente: "Qual documento inicia o processo administrativo sanitário?",
+            verso: "O AUTO DE INFRAÇÃO, lavrado pelo fiscal no momento da constatação da irregularidade. Deve conter: fatos, dispositivos violados, assinatura do autuante e identificação do autuado.",
+            tags: ['auto de infração', 'processo'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-9-10',
+            frente: "Qual o prazo para apresentar defesa após a autuação sanitária?",
+            verso: "15 DIAS após a intimação/ciência do auto de infração. A defesa será dirigida à autoridade competente para julgamento.",
+            tags: ['defesa', 'prazo'],
+            dificuldade: 'facil',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4994,7 +5042,7 @@ O auto será **nulo** se:
             ],
             gabarito: 'C',
             justificativa: 'Art. 10 da Lei 6.437/77: "Considera-se infração sanitária a desobediência ou a inobservância ao disposto nas normas legais e regulamentares que versem sobre saúde pública."',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Conceito de infração',
             banca: 'IADES',
             tags: ['infração sanitária', 'conceito'],
@@ -5011,7 +5059,7 @@ O auto será **nulo** se:
             ],
             gabarito: 'C',
             justificativa: 'PRISÃO é sanção PENAL, não administrativa. As penalidades sanitárias são: advertência, multa, apreensão, inutilização, suspensão, interdição, cancelamento e proibição de propaganda.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Penalidades sanitárias',
             banca: 'IADES',
             tags: ['penalidades', 'exceção'],
@@ -5028,7 +5076,7 @@ O auto será **nulo** se:
             ],
             gabarito: 'B',
             justificativa: 'Em caso de REINCIDÊNCIA, a multa é aplicada em DOBRO. Considera-se reincidência nova infração da mesma natureza em 5 anos.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Reincidência',
             banca: 'IADES',
             tags: ['reincidência', 'multa'],
@@ -5045,7 +5093,7 @@ O auto será **nulo** se:
             ],
             gabarito: 'C',
             justificativa: 'A responsabilidade é SOLIDÁRIA entre proprietário, responsável técnico, fabricante e quem concorre para a prática da infração.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Responsabilidade',
             banca: 'IADES',
             tags: ['responsabilidade', 'solidária'],
@@ -5062,7 +5110,7 @@ O auto será **nulo** se:
             ],
             gabarito: 'D',
             justificativa: 'O prazo prescricional é de 5 ANOS da data da infração (Lei 9.873/99). A prescrição intercorrente é de 3 anos.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Prescrição',
             banca: 'IADES',
             tags: ['prescrição', 'prazo'],
@@ -5079,7 +5127,7 @@ O auto será **nulo** se:
             ],
             gabarito: 'C',
             justificativa: 'A advertência é aplicada em infrações de MENOR GRAVIDADE, quando NÃO há má-fé nem reincidência.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Advertência',
             banca: 'IADES',
             tags: ['advertência', 'aplicação'],
@@ -5096,7 +5144,7 @@ O auto será **nulo** se:
             ],
             gabarito: 'C',
             justificativa: 'São AGRAVANTES: reincidência, dolo ou má-fé, vantagem pecuniária, grave risco à saúde, falsificação, omissão de informações.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Agravantes',
             banca: 'IADES',
             tags: ['agravantes', 'circunstâncias'],
@@ -5113,7 +5161,7 @@ O auto será **nulo** se:
             ],
             gabarito: 'B',
             justificativa: 'A inutilização é aplicada quando o produto está IMPRÓPRIO para consumo e NÃO HÁ POSSIBILIDADE de regularização.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Inutilização',
             banca: 'IADES',
             tags: ['inutilização', 'aplicação'],
@@ -5130,7 +5178,7 @@ O auto será **nulo** se:
             ],
             gabarito: 'A',
             justificativa: 'A prescrição INTERCORRENTE ocorre quando o processo fica paralisado por 3 ANOS sem qualquer ato de instrução.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Prescrição intercorrente',
             banca: 'IADES',
             tags: ['prescrição', 'intercorrente'],
@@ -5147,7 +5195,7 @@ O auto será **nulo** se:
             ],
             gabarito: 'B',
             justificativa: 'A interdição pode ser TOTAL ou PARCIAL (setor, equipamento), TEMPORÁRIA (até regularização) ou DEFINITIVA (impossibilidade de regularização).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Interdição',
             banca: 'IADES',
             tags: ['interdição', 'modalidades'],
@@ -5490,8 +5538,11 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
 
         flashcards: [
           {
+            id: 'ce-fc-10-1',
             frente: "Quais são os atributos do poder de polícia?",
             verso: "DISCRICIONARIEDADE (margem de escolha), AUTOEXECUTORIEDADE (execução sem ordem judicial) e COERCIBILIDADE (imposição obrigatória). Macete: DAC.",
+            tags: ['poder de polícia', 'atributos'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5499,8 +5550,11 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             erros: 0,
           },
           {
+            id: 'ce-fc-10-2',
             frente: "O que significa autoexecutoriedade no poder de polícia sanitária?",
             verso: "Significa que a VISA pode executar seus atos DIRETAMENTE, SEM necessidade de autorização judicial prévia. Ex: interditar estabelecimento imediatamente diante de risco sanitário.",
+            tags: ['autoexecutoriedade', 'VISA'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5508,8 +5562,11 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             erros: 0,
           },
           {
+            id: 'ce-fc-10-3',
             frente: "Quais são as fases do ciclo de polícia?",
             verso: "1) ORDEM (normas restritivas) 2) CONSENTIMENTO (licença, autorização) 3) FISCALIZAÇÃO (verificação do cumprimento) 4) SANÇÃO (penalidade pelo descumprimento). Macete: OCFS.",
+            tags: ['ciclo de polícia', 'fases'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5517,8 +5574,11 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             erros: 0,
           },
           {
+            id: 'ce-fc-10-4',
             frente: "Qual a diferença entre licença e autorização?",
             verso: "LICENÇA é ato VINCULADO (preenchidos os requisitos, DEVE ser concedida). AUTORIZAÇÃO é ato DISCRICIONÁRIO (Administração avalia conveniência). Macete: LVinculada, ADiscricionária.",
+            tags: ['licença', 'autorização'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5526,8 +5586,11 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             erros: 0,
           },
           {
+            id: 'ce-fc-10-5',
             frente: "O poder de polícia pode ser delegado a particulares?",
             verso: "NÃO. O poder de polícia NÃO pode ser delegado a particulares (STF). Podem ser delegados apenas atos MATERIAIS de apoio (operação de equipamentos, análises laboratoriais).",
+            tags: ['delegação', 'particulares'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5535,8 +5598,11 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             erros: 0,
           },
           {
+            id: 'ce-fc-10-6',
             frente: "Qual a diferença entre polícia administrativa e polícia judiciária?",
             verso: "ADMINISTRATIVA: incide sobre bens, direitos e atividades; preventiva; órgãos como VISA, IBAMA. JUDICIÁRIA: incide sobre pessoas; repressiva; Polícia Civil e Federal.",
+            tags: ['polícia administrativa', 'polícia judiciária'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5544,8 +5610,11 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             erros: 0,
           },
           {
+            id: 'ce-fc-10-7',
             frente: "Qual o fundamento constitucional do poder de polícia sanitária?",
             verso: "Art. 196 e 197, CF. A saúde é direito de todos e dever do Estado, cabendo ao Poder Público regulamentar, FISCALIZAR e CONTROLAR as ações e serviços de saúde.",
+            tags: ['fundamento', 'CF'],
+            dificuldade: 'facil',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5553,8 +5622,35 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             erros: 0,
           },
           {
+            id: 'ce-fc-10-8',
             frente: "Quais são os limites do poder de polícia?",
             verso: "Legalidade (atuar nos limites da lei), Proporcionalidade (medida adequada), Razoabilidade (coerência meios-fins), Finalidade (interesse público), Motivação (justificar atos).",
+            tags: ['limites', 'princípios'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-10-9',
+            frente: "A cobrança de taxa de fiscalização sanitária é constitucional?",
+            verso: "SIM. O STF admite a cobrança de TAXA pelo exercício regular do poder de polícia, desde que haja efetiva disponibilização do serviço de fiscalização.",
+            tags: ['taxa', 'fiscalização'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-10-10',
+            frente: "A VISA pode entrar em estabelecimento sem mandado judicial?",
+            verso: "SIM, em horário de funcionamento, para exercício da fiscalização sanitária (autoexecutoriedade). Não se aplica à garantia de inviolabilidade domiciliar quando se trata de estabelecimento comercial.",
+            tags: ['fiscalização', 'entrada'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5576,7 +5672,7 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             ],
             gabarito: 'D',
             justificativa: 'Os atributos são: DISCRICIONARIEDADE, AUTOEXECUTORIEDADE e COERCIBILIDADE. Contratualidade não é atributo do poder de polícia, que é unilateral.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Atributos do poder de polícia',
             banca: 'IADES',
             tags: ['poder de polícia', 'atributos'],
@@ -5593,7 +5689,7 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             ],
             gabarito: 'B',
             justificativa: 'A AUTOEXECUTORIEDADE permite que a Administração execute seus atos diretamente, SEM necessidade de autorização judicial prévia.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Autoexecutoriedade',
             banca: 'IADES',
             tags: ['autoexecutoriedade', 'interdição'],
@@ -5610,7 +5706,7 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             ],
             gabarito: 'B',
             justificativa: 'O ciclo de polícia segue a ordem: ORDEM (normas) → CONSENTIMENTO (licença) → FISCALIZAÇÃO → SANÇÃO. Macete: OCFS.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Ciclo de polícia',
             banca: 'IADES',
             tags: ['ciclo de polícia', 'fases'],
@@ -5627,7 +5723,7 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             ],
             gabarito: 'B',
             justificativa: 'A LICENÇA é ato VINCULADO. Preenchidos os requisitos legais, a Administração DEVE concedê-la. Diferente da autorização, que é discricionária.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Licença',
             banca: 'IADES',
             tags: ['licença', 'vinculado'],
@@ -5644,7 +5740,7 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             ],
             gabarito: 'C',
             justificativa: 'O poder de polícia NÃO pode ser delegado a particulares (STF). Podem ser delegados apenas atos MATERIAIS de apoio, como operação de equipamentos.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Delegação',
             banca: 'IADES',
             tags: ['delegação', 'particulares'],
@@ -5661,7 +5757,7 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             ],
             gabarito: 'B',
             justificativa: 'Discricionariedade significa MARGEM DE ESCOLHA quanto ao modo, tempo e extensão da atuação, dentro dos limites legais e da proporcionalidade.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Discricionariedade',
             banca: 'IADES',
             tags: ['discricionariedade', 'conceito'],
@@ -5678,7 +5774,7 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             ],
             gabarito: 'B',
             justificativa: 'Polícia ADMINISTRATIVA incide sobre BENS, direitos e atividades (VISA, IBAMA). Polícia JUDICIÁRIA incide sobre PESSOAS, para apurar ilícitos penais (Polícia Civil/Federal).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Polícia administrativa x judiciária',
             banca: 'IADES',
             tags: ['polícia', 'administrativa', 'judiciária'],
@@ -5695,7 +5791,7 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             ],
             gabarito: 'B',
             justificativa: 'A ANVISA é AUTARQUIA (pessoa jurídica de direito público) que integra a Administração Pública. Trata-se de DESCENTRALIZAÇÃO administrativa, não delegação.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'ANVISA e poder de polícia',
             banca: 'IADES',
             tags: ['ANVISA', 'autarquia', 'poder de polícia'],
@@ -5712,7 +5808,7 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             ],
             gabarito: 'B',
             justificativa: 'Os limites do poder de polícia são: LEGALIDADE, PROPORCIONALIDADE, RAZOABILIDADE, FINALIDADE (interesse público) e MOTIVAÇÃO.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Limites',
             banca: 'IADES',
             tags: ['limites', 'poder de polícia'],
@@ -5729,7 +5825,7 @@ O poder de polícia pode ser exercido por **autarquias** (como a ANVISA), pois:
             ],
             gabarito: 'C',
             justificativa: 'COERCIBILIDADE significa que a Administração pode IMPOR suas determinações de forma obrigatória, independentemente da vontade do particular, inclusive com uso da força pública quando necessário.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Coercibilidade',
             banca: 'IADES',
             tags: ['coercibilidade', 'atributos'],
@@ -6152,8 +6248,11 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
 
         flashcards: [
           {
+            id: 'ce-fc-11-1',
             frente: "Quais produtos estão sujeitos à Lei 6.360/76?",
             verso: "Medicamentos, drogas, insumos farmacêuticos, correlatos, cosméticos, saneantes e produtos de higiene. Macete: MeDICCoSaPH.",
+            tags: ['Lei 6.360', 'produtos'],
+            dificuldade: 'facil',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6161,8 +6260,11 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             erros: 0,
           },
           {
+            id: 'ce-fc-11-2',
             frente: "Qual a validade do registro de produtos na ANVISA?",
             verso: "5 ANOS, renováveis por períodos iguais. A revalidação deve ser requerida no primeiro semestre do último ano de validade.",
+            tags: ['registro', 'validade'],
+            dificuldade: 'facil',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6170,8 +6272,11 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             erros: 0,
           },
           {
+            id: 'ce-fc-11-3',
             frente: "Qual a diferença entre medicamento genérico e similar?",
             verso: "GENÉRICO: bioequivalência COMPROVADA, intercambiável, identificado pelo DCB, faixa amarela com G. SIMILAR: bioequivalência NÃO comprovada (regra), tem marca comercial, NÃO intercambiável.",
+            tags: ['genérico', 'similar'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6179,8 +6284,11 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             erros: 0,
           },
           {
+            id: 'ce-fc-11-4',
             frente: "O que é AFE e quem a concede?",
             verso: "AFE (Autorização de Funcionamento de Empresa) é ato privativo da ANVISA que autoriza empresas a fabricar, importar, exportar, distribuir e comercializar produtos sujeitos à vigilância sanitária.",
+            tags: ['AFE', 'ANVISA'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6188,8 +6296,11 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             erros: 0,
           },
           {
+            id: 'ce-fc-11-5',
             frente: "Qual profissional deve ser o responsável técnico por medicamentos?",
             verso: "FARMACÊUTICO. É obrigatório para todo estabelecimento que fabrique, distribua ou comercialize medicamentos.",
+            tags: ['responsável técnico', 'farmacêutico'],
+            dificuldade: 'facil',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6197,8 +6308,11 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             erros: 0,
           },
           {
+            id: 'ce-fc-11-6',
             frente: "O que são BPF (Boas Práticas de Fabricação)?",
             verso: "Conjunto de normas e procedimentos que garantem qualidade, segurança e eficácia dos produtos em todas as etapas do processo produtivo. O certificado é emitido pela ANVISA.",
+            tags: ['BPF', 'qualidade'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6206,8 +6320,11 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             erros: 0,
           },
           {
+            id: 'ce-fc-11-7',
             frente: "Quais informações devem constar obrigatoriamente no rótulo de produtos?",
             verso: "Nome do produto, composição, nome e endereço do fabricante, número do registro, data de fabricação e validade, lote e advertências quando necessário.",
+            tags: ['rotulagem', 'obrigatório'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6215,8 +6332,11 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             erros: 0,
           },
           {
+            id: 'ce-fc-11-8',
             frente: "Qual a cor da notificação de receita para medicamentos entorpecentes?",
             verso: "AMARELA (Lista A). Psicotrópicos usam notificação AZUL (Lista B). Outras substâncias controladas usam receita BRANCA especial (Lista C).",
+            tags: ['notificação de receita', 'cores'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6238,7 +6358,7 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             ],
             gabarito: 'B',
             justificativa: 'Art. 12 da Lei 6.360/76: nenhum produto poderá ser industrializado, exposto à venda ou entregue ao consumo antes de REGISTRADO no Ministério da Saúde (ANVISA). Validade: 5 anos.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Registro de produtos',
             banca: 'IADES',
             tags: ['registro', 'obrigatoriedade'],
@@ -6255,7 +6375,7 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             ],
             gabarito: 'C',
             justificativa: 'O registro de produtos tem validade de 5 ANOS, prorrogáveis por períodos iguais mediante requerimento de revalidação.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Validade do registro',
             banca: 'IADES',
             tags: ['registro', 'validade'],
@@ -6272,7 +6392,7 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             ],
             gabarito: 'C',
             justificativa: 'A AFE (Autorização de Funcionamento de Empresa) é ato PRIVATIVO da ANVISA. A licença sanitária local é concedida pela VISA estadual/municipal.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'AFE',
             banca: 'IADES',
             tags: ['AFE', 'ANVISA'],
@@ -6289,7 +6409,7 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             ],
             gabarito: 'C',
             justificativa: 'Para fabricação de MEDICAMENTOS, o responsável técnico deve ser FARMACÊUTICO. Para outros produtos, pode ser químico ou outro profissional habilitado conforme a especificidade.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Responsável técnico',
             banca: 'IADES',
             tags: ['RT', 'farmacêutico'],
@@ -6306,7 +6426,7 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             ],
             gabarito: 'C',
             justificativa: 'O medicamento GENÉRICO é identificado pela DCB (princípio ativo), possui BIOEQUIVALÊNCIA COMPROVADA com o de referência e é INTERCAMBIÁVEL.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Medicamento genérico',
             banca: 'IADES',
             tags: ['genérico', 'bioequivalência'],
@@ -6323,7 +6443,7 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             ],
             gabarito: 'C',
             justificativa: 'Notificação AMARELA = entorpecentes (Lista A). Notificação AZUL = psicotrópicos (Lista B). Receita BRANCA especial = outras controladas (Lista C).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Notificação de receita',
             banca: 'IADES',
             tags: ['receita', 'controlados'],
@@ -6340,7 +6460,7 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             ],
             gabarito: 'B',
             justificativa: 'A Lei 6.360/76 abrange: medicamentos, drogas, insumos farmacêuticos, correlatos, cosméticos, saneantes e produtos de higiene.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Âmbito de aplicação',
             banca: 'IADES',
             tags: ['produtos', 'aplicação'],
@@ -6357,7 +6477,7 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             ],
             gabarito: 'C',
             justificativa: 'As BPF são OBRIGATÓRIAS para fabricação de medicamentos e outros produtos. O certificado de BPF é emitido pela ANVISA mediante inspeção.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'BPF',
             banca: 'IADES',
             tags: ['BPF', 'certificado'],
@@ -6374,7 +6494,7 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             ],
             gabarito: 'C',
             justificativa: 'No SUS, a prescrição deve ser feita obrigatoriamente pela DCB (Denominação Comum Brasileira) ou DCI (Internacional), facilitando a dispensação de genéricos.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Prescrição SUS',
             banca: 'IADES',
             tags: ['prescrição', 'SUS', 'DCB'],
@@ -6391,7 +6511,7 @@ Medicamentos sujeitos a **controle especial** por conterem substâncias entorpec
             ],
             gabarito: 'B',
             justificativa: 'AFE é ato FEDERAL da ANVISA. Licença Sanitária é ato ESTADUAL ou MUNICIPAL da VISA local. AMBAS são necessárias e complementares.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'AFE x Licença',
             banca: 'IADES',
             tags: ['AFE', 'licença', 'competência'],
@@ -6977,7 +7097,7 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             ],
             gabarito: 'C',
             justificativa: 'O Decreto 8.077/2013 regulamenta a Lei 6.360/1976, que dispõe sobre vigilância sanitária de medicamentos, cosméticos, saneantes e correlatos.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Regulamentação',
             banca: 'IADES',
             tags: ['decreto 8.077', 'lei 6.360'],
@@ -6994,7 +7114,7 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             ],
             gabarito: 'C',
             justificativa: 'A AFE é ato PRIVATIVO da ANVISA, de competência exclusivamente federal. A Licença Sanitária é que é concedida pela VISA estadual/municipal.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'AFE',
             banca: 'IADES',
             tags: ['AFE', 'ANVISA'],
@@ -7011,7 +7131,7 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             ],
             gabarito: 'D',
             justificativa: 'A AFE tem validade INDETERMINADA, condicionada à manutenção dos requisitos (RT, instalações, BPF). O registro de PRODUTOS é que vale 5 anos.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Validade da AFE',
             banca: 'IADES',
             tags: ['AFE', 'validade'],
@@ -7028,7 +7148,7 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             ],
             gabarito: 'C',
             justificativa: 'A AE é necessária para atividades com substâncias CONTROLADAS, listadas na Portaria 344/98 (entorpecentes, psicotrópicos e outras).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Autorização Especial',
             banca: 'IADES',
             tags: ['AE', 'controlados'],
@@ -7045,7 +7165,7 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             ],
             gabarito: 'C',
             justificativa: 'Para MEDICAMENTOS, o RT deve ser obrigatoriamente FARMACÊUTICO. Para cosméticos, pode ser farmacêutico ou químico.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Responsável técnico',
             banca: 'IADES',
             tags: ['RT', 'farmacêutico'],
@@ -7062,7 +7182,7 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             ],
             gabarito: 'A',
             justificativa: 'A empresa deve comunicar o desligamento do RT à ANVISA em até 10 DIAS e providenciar substituto. Sem RT, as atividades devem ser suspensas.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Desligamento do RT',
             banca: 'IADES',
             tags: ['RT', 'desligamento'],
@@ -7079,7 +7199,7 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             ],
             gabarito: 'B',
             justificativa: 'Cosméticos grau 1 (baixo risco) são submetidos a NOTIFICAÇÃO, não a registro. Cosméticos grau 2 são submetidos a registro.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Notificação',
             banca: 'IADES',
             tags: ['cosméticos', 'notificação'],
@@ -7096,7 +7216,7 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             ],
             gabarito: 'C',
             justificativa: 'O CBPF é obrigatório para FABRICANTES e IMPORTADORES de produtos sujeitos à vigilância sanitária. É emitido pela ANVISA após inspeção.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'CBPF',
             banca: 'IADES',
             tags: ['CBPF', 'obrigatoriedade'],
@@ -7113,7 +7233,7 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             ],
             gabarito: 'B',
             justificativa: 'Medicamentos que exigem prescrição só podem ter publicidade para PROFISSIONAIS DE SAÚDE habilitados a prescrever. É proibida ao público.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Publicidade',
             banca: 'IADES',
             tags: ['publicidade', 'prescrição'],
@@ -7130,7 +7250,7 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             ],
             gabarito: 'C',
             justificativa: 'A indústria farmacêutica precisa de AMBAS: AFE (federal, ANVISA) e Licença Sanitária (estadual/municipal, VISA local). São complementares.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'AFE e Licença',
             banca: 'IADES',
             tags: ['AFE', 'licença', 'ambas'],
@@ -7581,7 +7701,7 @@ O Decreto-Lei 986/69 é complementado por:
             ],
             gabarito: 'C',
             justificativa: 'O Decreto-Lei nº 986/1969 institui as NORMAS BÁSICAS SOBRE ALIMENTOS, estabelecendo definições, padrões, registro e rotulagem.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Objeto do DL 986/69',
             banca: 'IADES',
             tags: ['DL 986', 'objeto'],
@@ -7598,7 +7718,7 @@ O Decreto-Lei 986/69 é complementado por:
             ],
             gabarito: 'C',
             justificativa: 'Alimento ALTERADO é aquele que sofreu modificações por causas NATURAIS (físicas, químicas ou biológicas), como mofo, ranço ou fermentação não intencional.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Classificação de alimentos',
             banca: 'IADES',
             tags: ['alterado', 'classificação'],
@@ -7615,7 +7735,7 @@ O Decreto-Lei 986/69 é complementado por:
             ],
             gabarito: 'C',
             justificativa: 'O registro de alimentos tem validade de até 5 ANOS, devendo ser renovado após esse prazo.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Validade do registro',
             banca: 'IADES',
             tags: ['registro', 'validade'],
@@ -7632,7 +7752,7 @@ O Decreto-Lei 986/69 é complementado por:
             ],
             gabarito: 'B',
             justificativa: 'ADITIVO é substância intencionalmente adicionada ao alimento para conservar, intensificar ou modificar suas propriedades, sem prejudicar o valor nutritivo.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Conceito de aditivo',
             banca: 'IADES',
             tags: ['aditivo', 'conceito'],
@@ -7649,7 +7769,7 @@ O Decreto-Lei 986/69 é complementado por:
             ],
             gabarito: 'D',
             justificativa: 'Alimentos INDUSTRIALIZADOS precisam de registro obrigatório. In natura, caseiros e manipulados são dispensados.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Dispensa de registro',
             banca: 'IADES',
             tags: ['registro', 'dispensa'],
@@ -7666,7 +7786,7 @@ O Decreto-Lei 986/69 é complementado por:
             ],
             gabarito: 'B',
             justificativa: 'A adição de água ao leite é modificação FRAUDULENTA (com intenção de enganar), caracterizando alimento ADULTERADO.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Alimento adulterado',
             banca: 'IADES',
             tags: ['adulterado', 'fraude'],
@@ -7683,7 +7803,7 @@ O Decreto-Lei 986/69 é complementado por:
             ],
             gabarito: 'B',
             justificativa: 'A rotulagem deve conter: denominação, lista de ingredientes, peso líquido, data de validade, identificação do fabricante, lote, entre outras informações.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Rotulagem obrigatória',
             banca: 'IADES',
             tags: ['rotulagem', 'obrigatório'],
@@ -7700,7 +7820,7 @@ O Decreto-Lei 986/69 é complementado por:
             ],
             gabarito: 'C',
             justificativa: 'Alimento FALSIFICADO é aquele que apresenta aparência de produto legítimo, mas não o é (marca falsa, imitação, origem falsa).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Alimento falsificado',
             banca: 'IADES',
             tags: ['falsificado', 'conceito'],
@@ -7717,7 +7837,7 @@ O Decreto-Lei 986/69 é complementado por:
             ],
             gabarito: 'C',
             justificativa: 'Alimento é toda substância ou mistura de substâncias, em qualquer estado, destinada a fornecer ao organismo humano os elementos necessários à sua formação, manutenção e desenvolvimento.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Conceito de alimento',
             banca: 'IADES',
             tags: ['alimento', 'conceito'],
@@ -7734,7 +7854,7 @@ O Decreto-Lei 986/69 é complementado por:
             ],
             gabarito: 'C',
             justificativa: 'É PROIBIDO atribuir propriedades medicinais a alimentos, induzir o consumidor a erro, fazer alegações falsas ou omitir informações relevantes.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Proibições na rotulagem',
             banca: 'IADES',
             tags: ['rotulagem', 'proibição'],
@@ -8190,7 +8310,7 @@ O fiscal deve verificar:
             ],
             gabarito: 'B',
             justificativa: 'A Lei 5.991/1973 dispõe sobre o controle sanitário do comércio de DROGAS, MEDICAMENTOS, INSUMOS FARMACÊUTICOS e CORRELATOS.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Objeto da Lei',
             banca: 'IADES',
             tags: ['Lei 5991', 'objeto'],
@@ -8207,7 +8327,7 @@ O fiscal deve verificar:
             ],
             gabarito: 'C',
             justificativa: 'A diferença fundamental é que a FARMÁCIA pode MANIPULAR fórmulas magistrais e oficinais, enquanto a DROGARIA só pode dispensar medicamentos industrializados.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Farmácia x Drogaria',
             banca: 'IADES',
             tags: ['farmácia', 'drogaria'],
@@ -8224,7 +8344,7 @@ O fiscal deve verificar:
             ],
             gabarito: 'C',
             justificativa: 'A responsabilidade técnica de farmácias, drogarias e distribuidoras é OBRIGATORIAMENTE de FARMACÊUTICO legalmente habilitado.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'RT',
             banca: 'IADES',
             tags: ['RT', 'farmacêutico'],
@@ -8241,7 +8361,7 @@ O fiscal deve verificar:
             ],
             gabarito: 'B',
             justificativa: 'DROGA é substância ou matéria-prima que tenha finalidade medicamentosa ou sanitária (não confundir com o sentido popular de drogas ilícitas).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Conceito de droga',
             banca: 'IADES',
             tags: ['droga', 'conceito'],
@@ -8258,7 +8378,7 @@ O fiscal deve verificar:
             ],
             gabarito: 'B',
             justificativa: 'O posto de medicamentos funciona em LOCALIDADES ONDE NÃO HÁ FARMÁCIA, dispensando medicamentos essenciais à população sem acesso.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Posto de medicamentos',
             banca: 'IADES',
             tags: ['posto', 'característica'],
@@ -8275,7 +8395,7 @@ O fiscal deve verificar:
             ],
             gabarito: 'C',
             justificativa: 'CORRELATOS são substâncias, produtos, aparelhos ou acessórios não enquadrados como droga/medicamento/insumo, cujo uso está ligado à defesa e proteção da saúde.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Correlatos',
             banca: 'IADES',
             tags: ['correlato', 'conceito'],
@@ -8292,7 +8412,7 @@ O fiscal deve verificar:
             ],
             gabarito: 'C',
             justificativa: 'A manipulação de medicamentos em drogarias é PROIBIDA. A drogaria só pode dispensar medicamentos industrializados. A manipulação é atividade exclusiva de farmácias.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Proibição em drogaria',
             banca: 'IADES',
             tags: ['drogaria', 'manipulação'],
@@ -8309,7 +8429,7 @@ O fiscal deve verificar:
             ],
             gabarito: 'B',
             justificativa: 'Para funcionamento regular, a farmácia precisa de LICENÇA SANITÁRIA (VISA) e RESPONSÁVEL TÉCNICO FARMACÊUTICO (inscrito no CRF).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Requisitos de funcionamento',
             banca: 'IADES',
             tags: ['licença', 'requisitos'],
@@ -8326,7 +8446,7 @@ O fiscal deve verificar:
             ],
             gabarito: 'C',
             justificativa: 'A empresa distribuidora realiza COMÉRCIO POR ATACADO, fornecendo para farmácias, drogarias e hospitais. Não vende ao consumidor final e precisa de farmacêutico como RT.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Distribuidora',
             banca: 'IADES',
             tags: ['distribuidora', 'atacado'],
@@ -8343,7 +8463,7 @@ O fiscal deve verificar:
             ],
             gabarito: 'D',
             justificativa: 'MEDICAMENTO é o produto farmacêutico tecnicamente obtido ou elaborado, com finalidade profilática, curativa, paliativa ou para fins de diagnóstico.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Conceito de medicamento',
             banca: 'IADES',
             tags: ['medicamento', 'conceito'],
@@ -8833,7 +8953,7 @@ A saúde do trabalhador está integrada à VISA:
             ],
             gabarito: 'C',
             justificativa: 'O Decreto Estadual nº 6.906/2009 regulamenta especificamente a competência da SES-GO na área de SAÚDE DO TRABALHADOR.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Objeto do Decreto',
             banca: 'IADES',
             tags: ['Decreto 6.906', 'objeto'],
@@ -8850,7 +8970,7 @@ A saúde do trabalhador está integrada à VISA:
             ],
             gabarito: 'B',
             justificativa: 'O CEREST presta ASSISTÊNCIA ESPECIALIZADA, oferece APOIO TÉCNICO à rede de saúde, realiza vigilância, educação permanente e produz informação epidemiológica.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'CEREST',
             banca: 'IADES',
             tags: ['CEREST', 'funções'],
@@ -8867,7 +8987,7 @@ A saúde do trabalhador está integrada à VISA:
             ],
             gabarito: 'D',
             justificativa: 'Os riscos ocupacionais são: Físicos, Químicos, Biológicos, Ergonômicos e de Acidentes. Risco JURÍDICO não é categoria de risco ocupacional.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Riscos ocupacionais',
             banca: 'IADES',
             tags: ['riscos', 'classificação'],
@@ -8884,7 +9004,7 @@ A saúde do trabalhador está integrada à VISA:
             ],
             gabarito: 'B',
             justificativa: 'DOENÇA PROFISSIONAL é aquela produzida ou desencadeada pelo exercício do trabalho peculiar (inerente) a determinada atividade. É diferente de doença DO TRABALHO (condições de trabalho).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Doença ocupacional',
             banca: 'IADES',
             tags: ['doença profissional', 'conceito'],
@@ -8901,7 +9021,7 @@ A saúde do trabalhador está integrada à VISA:
             ],
             gabarito: 'C',
             justificativa: 'O PPRA foca no AMBIENTE de trabalho, identificando e controlando riscos ambientais. O PCMSO foca no trabalhador (exames médicos).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'PPRA',
             banca: 'IADES',
             tags: ['PPRA', 'ambiente'],
@@ -8918,7 +9038,7 @@ A saúde do trabalhador está integrada à VISA:
             ],
             gabarito: 'C',
             justificativa: 'A notificação compulsória deve ser realizada MESMO EM CASOS SUSPEITOS, não precisa aguardar confirmação. Qualquer profissional de saúde pode notificar.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Notificação',
             banca: 'IADES',
             tags: ['notificação', 'suspeita'],
@@ -8935,7 +9055,7 @@ A saúde do trabalhador está integrada à VISA:
             ],
             gabarito: 'C',
             justificativa: 'A RENAST é a estrutura do SUS responsável pela atenção à saúde do trabalhador, conforme art. 200, II, da CF/88.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'RENAST',
             banca: 'IADES',
             tags: ['RENAST', 'SUS'],
@@ -8952,7 +9072,7 @@ A saúde do trabalhador está integrada à VISA:
             ],
             gabarito: 'B',
             justificativa: 'A CAT é documento PREVIDENCIÁRIO destinado ao INSS, que garante os direitos do trabalhador acidentado aos benefícios acidentários.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'CAT',
             banca: 'IADES',
             tags: ['CAT', 'previdenciário'],
@@ -8969,7 +9089,7 @@ A saúde do trabalhador está integrada à VISA:
             ],
             gabarito: 'B',
             justificativa: 'A Portaria 34/2006 lista diversos agravos, incluindo: LER/DORT, PAIR, pneumoconioses, dermatoses, intoxicações, acidentes graves, câncer ocupacional, transtornos mentais.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Notificação compulsória GO',
             banca: 'IADES',
             tags: ['Portaria 34', 'notificação'],
@@ -8986,7 +9106,7 @@ A saúde do trabalhador está integrada à VISA:
             ],
             gabarito: 'C',
             justificativa: 'A saúde do trabalhador compreende o conjunto de atividades de PROMOÇÃO, PROTEÇÃO, RECUPERAÇÃO e REABILITAÇÃO da saúde dos trabalhadores.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Conceito',
             banca: 'IADES',
             tags: ['saúde do trabalhador', 'conceito'],
@@ -9416,7 +9536,7 @@ A frequência de coleta e análise depende:
             ],
             gabarito: 'B',
             justificativa: 'A Portaria SES-GO nº 2145/2024 dispõe sobre a regulamentação e o licenciamento sanitário para PRESTADORES DE SERVIÇOS DE ABASTECIMENTO DE ÁGUA para consumo humano.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Objeto da Portaria',
             banca: 'IADES',
             tags: ['Portaria 2145', 'objeto'],
@@ -9433,7 +9553,7 @@ A frequência de coleta e análise depende:
             ],
             gabarito: 'C',
             justificativa: 'O SAA (Sistema de Abastecimento de Água) caracteriza-se por possuir REDE DE DISTRIBUIÇÃO, diferindo da SAC (sem rede) e SAI (individual).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Conceito de SAA',
             banca: 'IADES',
             tags: ['SAA', 'característica'],
@@ -9450,7 +9570,7 @@ A frequência de coleta e análise depende:
             ],
             gabarito: 'B',
             justificativa: 'O valor MÍNIMO de cloro residual livre é 0,2 mg/L. O máximo permitido é 5,0 mg/L.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Cloro residual',
             banca: 'IADES',
             tags: ['cloro', 'mínimo'],
@@ -9467,7 +9587,7 @@ A frequência de coleta e análise depende:
             ],
             gabarito: 'B',
             justificativa: 'VIGIAGUA é o Programa Nacional de VIGILÂNCIA da Qualidade da Água para Consumo Humano, coordenado pelo Ministério da Saúde.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'VIGIAGUA',
             banca: 'IADES',
             tags: ['VIGIAGUA', 'conceito'],
@@ -9484,7 +9604,7 @@ A frequência de coleta e análise depende:
             ],
             gabarito: 'C',
             justificativa: 'O CONTROLE (garantir a qualidade) é responsabilidade do PRESTADOR do serviço. A VIGILÂNCIA (verificar a qualidade) é do setor de saúde.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Controle x Vigilância',
             banca: 'IADES',
             tags: ['controle', 'responsável'],
@@ -9501,7 +9621,7 @@ A frequência de coleta e análise depende:
             ],
             gabarito: 'B',
             justificativa: 'A presença de E. coli indica CONTAMINAÇÃO FECAL, tornando a água NÃO POTÁVEL. O padrão exige AUSÊNCIA em 100 mL.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'E. coli',
             banca: 'IADES',
             tags: ['E. coli', 'potabilidade'],
@@ -9518,7 +9638,7 @@ A frequência de coleta e análise depende:
             ],
             gabarito: 'C',
             justificativa: 'A SAI (Solução Alternativa Individual) atende a apenas UMA família e é DISPENSADA de licenciamento sanitário. SAA e SAC exigem licença.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'SAI',
             banca: 'IADES',
             tags: ['SAI', 'licenciamento'],
@@ -9535,7 +9655,7 @@ A frequência de coleta e análise depende:
             ],
             gabarito: 'B',
             justificativa: 'A Portaria GM/MS nº 888/2021 estabelece os PADRÕES DE POTABILIDADE da água para consumo humano no Brasil, sendo referenciada pela Portaria SES-GO 2145/2024.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Portaria 888',
             banca: 'IADES',
             tags: ['Portaria 888', 'potabilidade'],
@@ -9552,7 +9672,7 @@ A frequência de coleta e análise depende:
             ],
             gabarito: 'D',
             justificativa: 'O valor MÁXIMO de cloro residual livre é 5,0 mg/L. Acima disso representa risco à saúde. O mínimo é 0,2 mg/L.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Cloro máximo',
             banca: 'IADES',
             tags: ['cloro', 'máximo'],
@@ -9569,7 +9689,7 @@ A frequência de coleta e análise depende:
             ],
             gabarito: 'C',
             justificativa: 'A SAC (Solução Alternativa Coletiva) é COLETIVA (atende várias pessoas) mas NÃO possui rede de distribuição (ex: poço comunitário, chafariz).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'SAC',
             banca: 'IADES',
             tags: ['SAC', 'característica'],
@@ -9948,7 +10068,7 @@ O fiscal de vigilância sanitária pode:
             ],
             gabarito: 'B',
             justificativa: 'A Portaria SES-GO nº 34/2006 torna compulsória a notificação de AGRAVOS À SAÚDE DO TRABALHADOR no Estado de Goiás.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Objeto da Portaria',
             banca: 'IADES',
             tags: ['Portaria 34', 'objeto'],
@@ -9965,7 +10085,7 @@ O fiscal de vigilância sanitária pode:
             ],
             gabarito: 'B',
             justificativa: 'A notificação deve ser feita MESMO EM CASOS SUSPEITOS, não sendo necessário aguardar confirmação diagnóstica.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Momento da notificação',
             banca: 'IADES',
             tags: ['notificação', 'suspeita'],
@@ -9982,7 +10102,7 @@ O fiscal de vigilância sanitária pode:
             ],
             gabarito: 'C',
             justificativa: 'Gripe comum não é agravo ocupacional de notificação. São de notificação: LER/DORT, PAIR, intoxicação por agrotóxicos, pneumoconioses, entre outros.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Lista de agravos',
             banca: 'IADES',
             tags: ['agravos', 'exceto'],
@@ -9999,7 +10119,7 @@ O fiscal de vigilância sanitária pode:
             ],
             gabarito: 'C',
             justificativa: 'Acidente de trabalho FATAL exige notificação IMEDIATA, em até 24 horas, devido à gravidade e necessidade de investigação.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Prazo de notificação',
             banca: 'IADES',
             tags: ['fatal', 'prazo'],
@@ -10016,7 +10136,7 @@ O fiscal de vigilância sanitária pode:
             ],
             gabarito: 'C',
             justificativa: 'O SINAN (Sistema de Informação de Agravos de Notificação) é o sistema utilizado para registro das notificações compulsórias.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Sistema de informação',
             banca: 'IADES',
             tags: ['SINAN', 'sistema'],
@@ -10033,7 +10153,7 @@ O fiscal de vigilância sanitária pode:
             ],
             gabarito: 'B',
             justificativa: 'A LER/DORT (Lesão por Esforço Repetitivo / Distúrbio Osteomuscular Relacionado ao Trabalho) é AGRAVO DE NOTIFICAÇÃO COMPULSÓRIA conforme Portaria 34/2006.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'LER/DORT',
             banca: 'IADES',
             tags: ['LER', 'DORT', 'notificação'],
@@ -10050,7 +10170,7 @@ O fiscal de vigilância sanitária pode:
             ],
             gabarito: 'B',
             justificativa: 'O CEREST (Centro de Referência em Saúde do Trabalhador) é REFERÊNCIA TÉCNICA para ações de vigilância em saúde do trabalhador, apoiando diagnósticos e investigações.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'CEREST',
             banca: 'IADES',
             tags: ['CEREST', 'função'],
@@ -10067,7 +10187,7 @@ O fiscal de vigilância sanitária pode:
             ],
             gabarito: 'C',
             justificativa: 'A intoxicação por agrotóxicos é AGRAVO DE NOTIFICAÇÃO COMPULSÓRIA, tanto em casos agudos quanto crônicos, conforme Portaria 34/2006.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Intoxicação agrotóxicos',
             banca: 'IADES',
             tags: ['agrotóxicos', 'intoxicação'],
@@ -10084,7 +10204,7 @@ O fiscal de vigilância sanitária pode:
             ],
             gabarito: 'B',
             justificativa: 'CAT (INSS/Previdência) e SINAN (SUS/Vigilância) são COMPLEMENTARES. CAT visa benefícios previdenciários; SINAN visa vigilância epidemiológica.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'CAT x SINAN',
             banca: 'IADES',
             tags: ['CAT', 'SINAN'],
@@ -10101,7 +10221,7 @@ O fiscal de vigilância sanitária pode:
             ],
             gabarito: 'C',
             justificativa: 'Transtornos mentais relacionados ao trabalho, incluindo Síndrome de Burnout, depressão e estresse ocupacional, são AGRAVOS DE NOTIFICAÇÃO COMPULSÓRIA.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Transtornos mentais',
             banca: 'IADES',
             tags: ['transtornos mentais', 'Burnout'],
@@ -10544,7 +10664,7 @@ O fiscal de vigilância sanitária:
             ],
             gabarito: 'B',
             justificativa: 'A Lei Estadual nº 18.456/2014 dispõe sobre a prevenção e punição do ASSÉDIO MORAL no âmbito da Administração estadual de Goiás.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Objeto da Lei',
             banca: 'IADES',
             tags: ['Lei 18456', 'objeto'],
@@ -10561,7 +10681,7 @@ O fiscal de vigilância sanitária:
             ],
             gabarito: 'B',
             justificativa: 'Assédio moral exige conduta REITERADA (repetitiva) que cause dano à dignidade ou degradação do ambiente de trabalho. Ato isolado não caracteriza assédio.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Caracterização',
             banca: 'IADES',
             tags: ['assédio', 'elementos'],
@@ -10578,7 +10698,7 @@ O fiscal de vigilância sanitária:
             ],
             gabarito: 'C',
             justificativa: 'Assédio VERTICAL DESCENDENTE é praticado pelo superior hierárquico contra subordinado. É a forma mais comum de assédio moral.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Formas de assédio',
             banca: 'IADES',
             tags: ['descendente', 'forma'],
@@ -10595,7 +10715,7 @@ O fiscal de vigilância sanitária:
             ],
             gabarito: 'C',
             justificativa: 'Para a 1ª infração de assédio moral, a penalidade é ADVERTÊNCIA por escrito. Reincidência = suspensão. Reiteração = demissão.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Penalidades',
             banca: 'IADES',
             tags: ['penalidade', 'advertência'],
@@ -10612,7 +10732,7 @@ O fiscal de vigilância sanitária:
             ],
             gabarito: 'C',
             justificativa: 'Assédio moral exige conduta REITERADA. Ato ISOLADO, por mais grave que seja, não caracteriza assédio moral (pode ser outra infração).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Ato isolado',
             banca: 'IADES',
             tags: ['ato isolado', 'reiteração'],
@@ -10629,7 +10749,7 @@ O fiscal de vigilância sanitária:
             ],
             gabarito: 'C',
             justificativa: 'Assédio HORIZONTAL é praticado entre colegas de trabalho do mesmo nível hierárquico.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Formas de assédio',
             banca: 'IADES',
             tags: ['horizontal', 'forma'],
@@ -10646,7 +10766,7 @@ O fiscal de vigilância sanitária:
             ],
             gabarito: 'C',
             justificativa: 'A exigência de desempenho é exercício LEGÍTIMO do poder diretivo. Chefe pode cobrar metas, dar ordens e exigir resultados. Isso não é assédio.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'O que não é assédio',
             banca: 'IADES',
             tags: ['poder diretivo', 'não assédio'],
@@ -10663,7 +10783,7 @@ O fiscal de vigilância sanitária:
             ],
             gabarito: 'B',
             justificativa: 'A denúncia de assédio moral PODE SER ANÔNIMA. A vítima tem direito a sigilo e proteção contra retaliações.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Denúncia',
             banca: 'IADES',
             tags: ['denúncia', 'anônima'],
@@ -10680,7 +10800,7 @@ O fiscal de vigilância sanitária:
             ],
             gabarito: 'B',
             justificativa: 'Assédio vertical ASCENDENTE é praticado pelo SUBORDINADO contra seu SUPERIOR hierárquico. É menos comum que o descendente.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Assédio ascendente',
             banca: 'IADES',
             tags: ['ascendente', 'subordinado'],
@@ -10697,7 +10817,7 @@ O fiscal de vigilância sanitária:
             ],
             gabarito: 'C',
             justificativa: 'Na escala de penalidades: 1ª infração = advertência; REINCIDÊNCIA = SUSPENSÃO (até 30 dias); reiteração = demissão.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Penalidade reincidência',
             banca: 'IADES',
             tags: ['reincidência', 'suspensão'],
@@ -11247,7 +11367,7 @@ Cada atribuição é composta por **unidades funcionais**, que são conjuntos de
             ],
             gabarito: 'B',
             justificativa: 'A RDC 50/2002 dispõe sobre o REGULAMENTO TÉCNICO para planejamento, programação, elaboração e avaliação de PROJETOS FÍSICOS de Estabelecimentos Assistenciais de Saúde (EAS).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Objeto da RDC 50',
             banca: 'IADES',
             tags: ['RDC 50', 'objeto'],
@@ -11264,7 +11384,7 @@ Cada atribuição é composta por **unidades funcionais**, que são conjuntos de
             ],
             gabarito: 'C',
             justificativa: 'ÁREAS CRÍTICAS são aquelas com maior risco de infecção: Centro Cirúrgico (CC), UTI, Central de Material Esterilizado (CME), Laboratório. Exigem acabamentos especiais.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Áreas críticas',
             banca: 'IADES',
             tags: ['áreas críticas', 'classificação'],
@@ -11281,7 +11401,7 @@ Cada atribuição é composta por **unidades funcionais**, que são conjuntos de
             ],
             gabarito: 'C',
             justificativa: 'A tubulação de OXIGÊNIO (O2) é VERDE. Ar comprimido = amarelo. Vácuo = cinza. Óxido nitroso = azul.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Gases medicinais',
             banca: 'IADES',
             tags: ['gases', 'oxigênio'],
@@ -11298,7 +11418,7 @@ Cada atribuição é composta por **unidades funcionais**, que são conjuntos de
             ],
             gabarito: 'C',
             justificativa: 'Sala de cirurgia GRANDE porte: mínimo 36 m². Pequena: 20 m². Média: 25 m². Especial (cardíaca, transplante): 45 m².',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Dimensionamento',
             banca: 'IADES',
             tags: ['dimensionamento', 'cirurgia'],
@@ -11315,7 +11435,7 @@ Cada atribuição é composta por **unidades funcionais**, que são conjuntos de
             ],
             gabarito: 'D',
             justificativa: 'A circulação de PACIENTES (maca/cadeira de rodas) exige largura mínima de 2,00 m. Funcionários: 1,20 m. Serviço: 1,50 m.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Circulações',
             banca: 'IADES',
             tags: ['corredores', 'dimensão'],
@@ -11332,7 +11452,7 @@ Cada atribuição é composta por **unidades funcionais**, que são conjuntos de
             ],
             gabarito: 'D',
             justificativa: 'O fluxo na CME é: SUJO → LIMPO → ESTÉRIL. O material entra sujo, é lavado, preparado e esterilizado. Deve haver barreira física entre as áreas.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'CME',
             banca: 'IADES',
             tags: ['CME', 'fluxo'],
@@ -11349,7 +11469,7 @@ Cada atribuição é composta por **unidades funcionais**, que são conjuntos de
             ],
             gabarito: 'D',
             justificativa: 'A tubulação de VÁCUO é CINZA. Oxigênio = verde. Ar comprimido = amarelo. Óxido nitroso = azul.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Gases medicinais',
             banca: 'IADES',
             tags: ['gases', 'vácuo'],
@@ -11366,7 +11486,7 @@ Cada atribuição é composta por **unidades funcionais**, que são conjuntos de
             ],
             gabarito: 'C',
             justificativa: 'SEMICRÍTICAS: enfermarias, ambulatórios, consultórios. CRÍTICAS: CC, UTI, CME, lab. NÃO CRÍTICAS: administração, almoxarifado.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Classificação de áreas',
             banca: 'IADES',
             tags: ['semicríticas', 'classificação'],
@@ -11383,7 +11503,7 @@ Cada atribuição é composta por **unidades funcionais**, que são conjuntos de
             ],
             gabarito: 'B',
             justificativa: 'Áreas críticas exigem: piso monolítico/impermeável, paredes lisas/laváveis, teto liso/contínuo, CANTOS ARREDONDADOS para facilitar limpeza e desinfecção.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Acabamentos',
             banca: 'IADES',
             tags: ['acabamento', 'críticas'],
@@ -11901,7 +12021,7 @@ A **RDC 51/2011** estabelece os procedimentos e requisitos para que os órgãos 
             ],
             gabarito: 'B',
             justificativa: 'A RDC 51/2011 dispõe sobre os requisitos mínimos para ANÁLISE, AVALIAÇÃO e APROVAÇÃO de projetos físicos de EAS no SNVS. Os requisitos técnicos estão na RDC 50/2002.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Objeto da RDC 51',
             banca: 'IADES',
             tags: ['RDC 51', 'objeto'],
@@ -11918,7 +12038,7 @@ A **RDC 51/2011** estabelece os procedimentos e requisitos para que os órgãos 
             ],
             gabarito: 'B',
             justificativa: 'RDC 50 = REQUISITOS TÉCNICOS (o que o EAS deve ter). RDC 51 = PROCESSO DE APROVAÇÃO (como aprovar o projeto). São complementares.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Diferença RDC 50 x 51',
             banca: 'IADES',
             tags: ['RDC 50', 'RDC 51'],
@@ -11935,7 +12055,7 @@ A **RDC 51/2011** estabelece os procedimentos e requisitos para que os órgãos 
             ],
             gabarito: 'C',
             justificativa: 'A VISA ESTADUAL é competente para aprovar projetos de EAS de ALTA complexidade. A VISA Municipal aprova baixa/média complexidade. A ANVISA normatiza, não aprova.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Competência',
             banca: 'IADES',
             tags: ['competência', 'estadual'],
@@ -11952,7 +12072,7 @@ A **RDC 51/2011** estabelece os procedimentos e requisitos para que os órgãos 
             ],
             gabarito: 'D',
             justificativa: 'Os documentos necessários incluem: projeto arquitetônico, memorial descritivo, ART/RRT e programa funcional. Licença ambiental do IBAMA não é exigência da RDC 51.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Documentos',
             banca: 'IADES',
             tags: ['documentos', 'exceto'],
@@ -11969,7 +12089,7 @@ A **RDC 51/2011** estabelece os procedimentos e requisitos para que os órgãos 
             ],
             gabarito: 'B',
             justificativa: 'A aprovação do projeto ocorre ANTES da construção, mediante análise DOCUMENTAL do projeto. O licenciamento (com inspeção física) ocorre APÓS a construção.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Momento da aprovação',
             banca: 'IADES',
             tags: ['aprovação', 'momento'],
@@ -11986,7 +12106,7 @@ A **RDC 51/2011** estabelece os procedimentos e requisitos para que os órgãos 
             ],
             gabarito: 'C',
             justificativa: 'A ANVISA estabelece NORMAS técnicas e COORDENA o SNVS. Quem APROVA projetos são as VISAs estaduais (alta complexidade) e municipais (baixa/média).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Papel da ANVISA',
             banca: 'IADES',
             tags: ['ANVISA', 'função'],
@@ -12003,7 +12123,7 @@ A **RDC 51/2011** estabelece os procedimentos e requisitos para que os órgãos 
             ],
             gabarito: 'A',
             justificativa: 'Os tipos de intervenção são: CONSTRUÇÃO NOVA, AMPLIAÇÃO, REFORMA e ADEQUAÇÃO. Cada tipo tem requisitos específicos de documentação.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Tipos de intervenção',
             banca: 'IADES',
             tags: ['intervenção', 'tipos'],
@@ -12020,7 +12140,7 @@ A **RDC 51/2011** estabelece os procedimentos e requisitos para que os órgãos 
             ],
             gabarito: 'B',
             justificativa: '"As Built" (como construído) é o projeto ATUALIZADO após a obra, refletindo o que foi REALMENTE EXECUTADO. É necessário para o licenciamento.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'As Built',
             banca: 'IADES',
             tags: ['As Built', 'conceito'],
@@ -12037,7 +12157,7 @@ A **RDC 51/2011** estabelece os procedimentos e requisitos para que os órgãos 
             ],
             gabarito: 'C',
             justificativa: 'As plantas baixas devem ser apresentadas em escala 1:50 ou 1:100, permitindo visualização adequada dos ambientes, cotas e detalhes.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Escala',
             banca: 'IADES',
             tags: ['escala', 'plantas'],
@@ -12054,7 +12174,7 @@ A **RDC 51/2011** estabelece os procedimentos e requisitos para que os órgãos 
             ],
             gabarito: 'B',
             justificativa: 'A VISA MUNICIPAL é competente para aprovar projetos de EAS de BAIXA e MÉDIA complexidade (UBS, clínicas, consultórios). Alta complexidade = VISA Estadual.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Competência municipal',
             banca: 'IADES',
             tags: ['municipal', 'competência'],
@@ -12529,7 +12649,7 @@ Verificar internamente o cumprimento das BPF.
             ],
             gabarito: 'B',
             justificativa: 'As BPF têm como objetivo garantir que os produtos sejam fabricados com QUALIDADE, SEGURANÇA e EFICÁCIA, de forma consistente.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Objetivo das BPF',
             banca: 'IADES',
             tags: ['BPF', 'objetivo'],
@@ -12546,7 +12666,7 @@ Verificar internamente o cumprimento das BPF.
             ],
             gabarito: 'B',
             justificativa: 'Os 5 Ms são: MÃO DE OBRA (pessoal), MATERIAIS (insumos), MÁQUINAS (equipamentos), MÉTODOS (procedimentos) e MEIO AMBIENTE (instalações).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: '5 Ms',
             banca: 'IADES',
             tags: ['5 Ms', 'pilares'],
@@ -12563,7 +12683,7 @@ Verificar internamente o cumprimento das BPF.
             ],
             gabarito: 'C',
             justificativa: 'O POP (Procedimento Operacional Padrão) é o documento que descreve COMO executar uma atividade de forma padronizada e reprodutível.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'POP',
             banca: 'IADES',
             tags: ['POP', 'documentação'],
@@ -12580,7 +12700,7 @@ Verificar internamente o cumprimento das BPF.
             ],
             gabarito: 'C',
             justificativa: 'VALIDAÇÃO é a comprovação DOCUMENTADA de que um processo, equipamento ou sistema produz os RESULTADOS ESPERADOS de forma consistente.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Validação',
             banca: 'IADES',
             tags: ['validação', 'conceito'],
@@ -12597,7 +12717,7 @@ Verificar internamente o cumprimento das BPF.
             ],
             gabarito: 'C',
             justificativa: 'A sequência correta é: QI (Qualificação de Instalação) → QO (Qualificação de Operação) → QD (Qualificação de Desempenho).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Qualificação',
             banca: 'IADES',
             tags: ['QI-QO-QD', 'sequência'],
@@ -12614,7 +12734,7 @@ Verificar internamente o cumprimento das BPF.
             ],
             gabarito: 'C',
             justificativa: 'RASTREABILIDADE é a capacidade de identificar a ORIGEM e o DESTINO de um produto em todas as etapas de produção e distribuição.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Rastreabilidade',
             banca: 'IADES',
             tags: ['rastreabilidade', 'conceito'],
@@ -12631,7 +12751,7 @@ Verificar internamente o cumprimento das BPF.
             ],
             gabarito: 'B',
             justificativa: 'FEFO (First Expire, First Out) = o produto que VENCE primeiro deve SAIR primeiro. É usado para gestão de produtos com VALIDADE.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'FEFO',
             banca: 'IADES',
             tags: ['FEFO', 'validade'],
@@ -12648,7 +12768,7 @@ Verificar internamente o cumprimento das BPF.
             ],
             gabarito: 'B',
             justificativa: 'Todo desvio deve ser REGISTRADO, INVESTIGADO (identificar causa raiz) e tratado com AÇÕES CORRETIVAS e PREVENTIVAS (CAPA).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Desvios',
             banca: 'IADES',
             tags: ['desvio', 'CAPA'],
@@ -12665,7 +12785,7 @@ Verificar internamente o cumprimento das BPF.
             ],
             gabarito: 'C',
             justificativa: 'Os registros devem ser: preenchidos NO MOMENTO, INDELÉVEIS (caneta), SEM RASURAS, ASSINADOS por quem executou e ARQUIVADOS pelo tempo determinado.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Registros',
             banca: 'IADES',
             tags: ['registros', 'requisitos'],
@@ -12682,7 +12802,7 @@ Verificar internamente o cumprimento das BPF.
             ],
             gabarito: 'B',
             justificativa: 'A auto-inspeção é a verificação INTERNA do cumprimento das BPF, realizada por equipe independente da área auditada.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Auto-inspeção',
             banca: 'IADES',
             tags: ['auto-inspeção', 'objetivo'],
@@ -13178,7 +13298,7 @@ Análise de modos de falha e seus efeitos:
             ],
             gabarito: 'B',
             justificativa: 'DESVIO é qualquer AFASTAMENTO de procedimentos, especificações, limites ou parâmetros estabelecidos durante fabricação, análise ou distribuição.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Conceito de desvio',
             banca: 'IADES',
             tags: ['desvio', 'conceito'],
@@ -13195,7 +13315,7 @@ Análise de modos de falha e seus efeitos:
             ],
             gabarito: 'B',
             justificativa: 'OOS (Out of Specification) significa que o resultado analítico está FORA da especificação estabelecida para o produto.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'OOS',
             banca: 'IADES',
             tags: ['OOS', 'conceito'],
@@ -13212,7 +13332,7 @@ Análise de modos de falha e seus efeitos:
             ],
             gabarito: 'B',
             justificativa: 'Os 5 Porquês é uma técnica para identificar a CAUSA RAIZ de um problema, perguntando "por quê?" repetidamente até chegar à origem fundamental.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: '5 Porquês',
             banca: 'IADES',
             tags: ['5 porquês', 'causa raiz'],
@@ -13229,7 +13349,7 @@ Análise de modos de falha e seus efeitos:
             ],
             gabarito: 'C',
             justificativa: 'O Diagrama de Ishikawa (espinha de peixe) organiza as causas em 6 Ms: Máquina, Método, Mão de obra, Material, Meio ambiente e Medição.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Ishikawa',
             banca: 'IADES',
             tags: ['Ishikawa', '6 Ms'],
@@ -13246,7 +13366,7 @@ Análise de modos de falha e seus efeitos:
             ],
             gabarito: 'B',
             justificativa: 'AÇÃO CORRETIVA elimina a causa de uma não conformidade já DETECTADA. Ação preventiva elimina a causa de uma NC potencial (antes de ocorrer).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Ação corretiva',
             banca: 'IADES',
             tags: ['corretiva', 'conceito'],
@@ -13263,7 +13383,7 @@ Análise de modos de falha e seus efeitos:
             ],
             gabarito: 'B',
             justificativa: 'CAPA = Corrective And Preventive Action (Ação Corretiva e Preventiva). É o sistema formal de gestão de ações corretivas e preventivas.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'CAPA',
             banca: 'IADES',
             tags: ['CAPA', 'sigla'],
@@ -13280,7 +13400,7 @@ Análise de modos de falha e seus efeitos:
             ],
             gabarito: 'B',
             justificativa: 'Desvio CRÍTICO pode representar RISCO À SAÚDE do consumidor, podendo exigir recall. Requer ação IMEDIATA.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Classificação',
             banca: 'IADES',
             tags: ['crítico', 'classificação'],
@@ -13297,7 +13417,7 @@ Análise de modos de falha e seus efeitos:
             ],
             gabarito: 'B',
             justificativa: 'OOS: resultado FORA da especificação. OOT: resultado DENTRO da especificação, mas fora da TENDÊNCIA histórica (alerta precoce).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'OOS x OOT',
             banca: 'IADES',
             tags: ['OOS', 'OOT', 'diferença'],
@@ -13314,7 +13434,7 @@ Análise de modos de falha e seus efeitos:
             ],
             gabarito: 'D',
             justificativa: 'A última etapa é a VERIFICAÇÃO DA EFICÁCIA das ações implementadas, confirmando que o problema foi resolvido e não há recorrência.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Etapas',
             banca: 'IADES',
             tags: ['verificação', 'etapa'],
@@ -13331,7 +13451,7 @@ Análise de modos de falha e seus efeitos:
             ],
             gabarito: 'B',
             justificativa: 'CAUSA RAIZ é a origem FUNDAMENTAL do problema, cuja eliminação PREVINE a recorrência. É diferente de sintoma (o que se observa).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Causa raiz',
             banca: 'IADES',
             tags: ['causa raiz', 'conceito'],
@@ -13697,7 +13817,7 @@ Na indústria farmacêutica, qualidade significa:
             ],
             gabarito: 'B',
             justificativa: 'A GARANTIA DA QUALIDADE é preventiva e abrange toda a organização. O Controle de Qualidade é reativo e foca no produto.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'GQ vs CQ',
             banca: 'IADES',
             tags: ['GQ', 'prevenção'],
@@ -13714,7 +13834,7 @@ Na indústria farmacêutica, qualidade significa:
             ],
             gabarito: 'B',
             justificativa: 'PDCA: Plan (Planejar), Do (Executar), Check (Verificar), Act (Agir). É o ciclo de melhoria contínua de Deming.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'PDCA',
             banca: 'IADES',
             tags: ['PDCA', 'fases'],
@@ -13731,7 +13851,7 @@ Na indústria farmacêutica, qualidade significa:
             ],
             gabarito: 'C',
             justificativa: 'O Diagrama de Ishikawa (espinha de peixe) usa os 6Ms: Máquina, Método, Mão de obra, Material, Meio ambiente e Medição.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Ishikawa',
             banca: 'IADES',
             tags: ['Ishikawa', '6Ms'],
@@ -13748,7 +13868,7 @@ Na indústria farmacêutica, qualidade significa:
             ],
             gabarito: 'B',
             justificativa: 'O Princípio de Pareto (80/20) estabelece que 80% dos efeitos são causados por 20% das causas. Permite priorizar ações.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Pareto',
             banca: 'IADES',
             tags: ['Pareto', '80/20'],
@@ -13765,7 +13885,7 @@ Na indústria farmacêutica, qualidade significa:
             ],
             gabarito: 'B',
             justificativa: 'QUALIFICAÇÃO é para equipamentos/sistemas. VALIDAÇÃO é para processos. Qualificação demonstra que o equipamento funciona adequadamente.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Qualificação',
             banca: 'IADES',
             tags: ['qualificação', 'equipamento'],
@@ -13782,7 +13902,7 @@ Na indústria farmacêutica, qualidade significa:
             ],
             gabarito: 'D',
             justificativa: 'Auditoria INTERNA (1ª parte ou autoinspeção) é realizada pela própria empresa. Auditoria de 3ª parte é por organismo independente.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Auditoria',
             banca: 'IADES',
             tags: ['auditoria', 'interna'],
@@ -13799,7 +13919,7 @@ Na indústria farmacêutica, qualidade significa:
             ],
             gabarito: 'B',
             justificativa: 'Hierarquia: Manual da Qualidade > Procedimentos (POPs) > Instruções de Trabalho > Registros. POPs descrevem "como fazer".',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Documentação',
             banca: 'IADES',
             tags: ['POPs', 'hierarquia'],
@@ -13816,7 +13936,7 @@ Na indústria farmacêutica, qualidade significa:
             ],
             gabarito: 'B',
             justificativa: 'BPF/GMP é parte da GARANTIA DA QUALIDADE, assegurando que produtos são consistentemente produzidos e controlados conforme padrões.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'BPF',
             banca: 'IADES',
             tags: ['BPF', 'GQ'],
@@ -13833,7 +13953,7 @@ Na indústria farmacêutica, qualidade significa:
             ],
             gabarito: 'C',
             justificativa: 'A CARTA DE CONTROLE (ou gráfico de controle) monitora a estabilidade do processo ao longo do tempo, identificando variações.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Ferramentas',
             banca: 'IADES',
             tags: ['carta de controle', 'monitoramento'],
@@ -13850,7 +13970,7 @@ Na indústria farmacêutica, qualidade significa:
             ],
             gabarito: 'C',
             justificativa: 'A melhoria contínua é RECORRENTE, aplicando o ciclo PDCA repetidamente. Não existe ponto final - sempre há oportunidade de melhorar.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Melhoria contínua',
             banca: 'IADES',
             tags: ['melhoria contínua', 'PDCA'],
@@ -14261,7 +14381,7 @@ Abordagem moderna:
             ],
             gabarito: 'C',
             justificativa: 'O PMV (Plano Mestre de Validação) é o documento de alto nível que define a filosofia, escopo, responsabilidades e cronograma das atividades de validação.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'PMV',
             banca: 'IADES',
             tags: ['PMV', 'documento'],
@@ -14278,7 +14398,7 @@ Abordagem moderna:
             ],
             gabarito: 'C',
             justificativa: 'Validação PROSPECTIVA é realizada ANTES da comercialização, baseada em dados experimentais. É o tipo preferencial de validação.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Tipos de validação',
             banca: 'IADES',
             tags: ['prospectiva', 'validação'],
@@ -14295,7 +14415,7 @@ Abordagem moderna:
             ],
             gabarito: 'C',
             justificativa: 'A validação RETROSPECTIVA NÃO é mais aceita pela ANVISA (RDC 658/2022). Apenas prospectiva e concorrente são aceitas.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Validação retrospectiva',
             banca: 'IADES',
             tags: ['retrospectiva', 'ANVISA'],
@@ -14312,7 +14432,7 @@ Abordagem moderna:
             ],
             gabarito: 'B',
             justificativa: 'A QI (Qualificação de Instalação) verifica se o equipamento foi INSTALADO conforme especificações do fabricante e do projeto.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'QI',
             banca: 'IADES',
             tags: ['QI', 'instalação'],
@@ -14329,7 +14449,7 @@ Abordagem moderna:
             ],
             gabarito: 'C',
             justificativa: 'O mínimo são 3 LOTES CONSECUTIVOS para validação de processo, demonstrando reprodutibilidade e consistência do processo.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Lotes',
             banca: 'IADES',
             tags: ['3 lotes', 'validação'],
@@ -14346,7 +14466,7 @@ Abordagem moderna:
             ],
             gabarito: 'C',
             justificativa: 'A sequência correta é: QD (Desenho) → QI (Instalação) → QO (Operação) → QP (Performance). Cada fase é pré-requisito da seguinte.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Sequência',
             banca: 'IADES',
             tags: ['qualificação', 'sequência'],
@@ -14363,7 +14483,7 @@ Abordagem moderna:
             ],
             gabarito: 'B',
             justificativa: 'A validação de limpeza demonstra que os procedimentos removem RESÍDUOS (produto, agente de limpeza, microbiológicos) a níveis aceitáveis.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Validação de limpeza',
             banca: 'IADES',
             tags: ['limpeza', 'resíduos'],
@@ -14380,7 +14500,7 @@ Abordagem moderna:
             ],
             gabarito: 'B',
             justificativa: 'A revalidação é necessária após MUDANÇAS SIGNIFICATIVAS em matéria-prima, equipamento, processo, instalações ou tamanho de lote.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Revalidação',
             banca: 'IADES',
             tags: ['revalidação', 'mudanças'],
@@ -14397,7 +14517,7 @@ Abordagem moderna:
             ],
             gabarito: 'C',
             justificativa: 'A QO (Qualificação de Operação) testa o FUNCIONAMENTO do equipamento em condições operacionais, verificando limites alto e baixo.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'QO',
             banca: 'IADES',
             tags: ['QO', 'operação'],
@@ -14414,7 +14534,7 @@ Abordagem moderna:
             ],
             gabarito: 'C',
             justificativa: 'O protocolo de validação deve conter: objetivo, responsabilidades, descrição do processo, critérios de aceitação, metodologia e aprovações.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Protocolo',
             banca: 'IADES',
             tags: ['protocolo', 'conteúdo'],
@@ -14819,7 +14939,7 @@ Toda mudança deve ter avaliação de risco:
             ],
             gabarito: 'B',
             justificativa: 'Risco é a combinação da PROBABILIDADE de ocorrência de um dano e a SEVERIDADE desse dano (ICH Q9).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Definição de risco',
             banca: 'IADES',
             tags: ['risco', 'ICH Q9'],
@@ -14836,7 +14956,7 @@ Toda mudança deve ter avaliação de risco:
             ],
             gabarito: 'B',
             justificativa: 'No FMEA, o RPN é calculado pela MULTIPLICAÇÃO: Severidade × Ocorrência (Probabilidade) × Detecção.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'RPN',
             banca: 'IADES',
             tags: ['FMEA', 'RPN'],
@@ -14853,7 +14973,7 @@ Toda mudança deve ter avaliação de risco:
             ],
             gabarito: 'C',
             justificativa: 'O HAZOP (Hazard and Operability Study) usa palavras-guia como NENHUM, MAIS, MENOS, REVERSO para identificar desvios de processo.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'HAZOP',
             banca: 'IADES',
             tags: ['HAZOP', 'palavras-guia'],
@@ -14870,7 +14990,7 @@ Toda mudança deve ter avaliação de risco:
             ],
             gabarito: 'B',
             justificativa: 'A FTA (Fault Tree Analysis) é uma análise DEDUTIVA que parte do evento indesejado no topo e identifica as causas na base.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'FTA',
             banca: 'IADES',
             tags: ['FTA', 'dedutiva'],
@@ -14887,7 +15007,7 @@ Toda mudança deve ter avaliação de risco:
             ],
             gabarito: 'B',
             justificativa: 'Na escala de DETECÇÃO do FMEA, nota alta significa DIFÍCIL detectar. É uma escala INVERSA: 1 = fácil, 10 = impossível.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Detectabilidade',
             banca: 'IADES',
             tags: ['FMEA', 'detecção'],
@@ -14904,7 +15024,7 @@ Toda mudança deve ter avaliação de risco:
             ],
             gabarito: 'B',
             justificativa: 'A ordem correta é: 1) Avaliação, 2) Controle, 3) Comunicação, 4) Revisão do risco.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Etapas',
             banca: 'IADES',
             tags: ['ICH Q9', 'etapas'],
@@ -14921,7 +15041,7 @@ Toda mudança deve ter avaliação de risco:
             ],
             gabarito: 'B',
             justificativa: 'PERIGO é a fonte potencial de dano (propriedade intrínseca). RISCO é a combinação de probabilidade e severidade do dano.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Perigo vs Risco',
             banca: 'IADES',
             tags: ['perigo', 'risco'],
@@ -14938,7 +15058,7 @@ Toda mudança deve ter avaliação de risco:
             ],
             gabarito: 'D',
             justificativa: 'Na matriz de risco, alta probabilidade + alta severidade = RISCO CRÍTICO, que requer ação imediata obrigatória.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Matriz de risco',
             banca: 'IADES',
             tags: ['matriz', 'crítico'],
@@ -14955,7 +15075,7 @@ Toda mudança deve ter avaliação de risco:
             ],
             gabarito: 'A',
             justificativa: 'FMEA = Failure Mode and Effects Analysis (Análise de Modos de Falha e Efeitos).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'FMEA',
             banca: 'IADES',
             tags: ['FMEA', 'sigla'],
@@ -14972,7 +15092,7 @@ Toda mudança deve ter avaliação de risco:
             ],
             gabarito: 'B',
             justificativa: 'A análise de risco é fundamental ANTES de mudanças significativas em processo, equipamento, matéria-prima ou instalações.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Aplicação',
             banca: 'IADES',
             tags: ['mudanças', 'aplicação'],
@@ -15403,7 +15523,7 @@ Perguntas sequenciais para determinar se um ponto é PCC:
             ],
             gabarito: 'B',
             justificativa: 'APPCC = Análise de Perigos e Pontos Críticos de Controle (em inglês, HACCP = Hazard Analysis and Critical Control Points).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'APPCC',
             banca: 'IADES',
             tags: ['APPCC', 'sigla'],
@@ -15420,7 +15540,7 @@ Perguntas sequenciais para determinar se um ponto é PCC:
             ],
             gabarito: 'B',
             justificativa: 'Os perigos no APPCC são classificados em: BIOLÓGICO (microrganismos), QUÍMICO (substâncias tóxicas) e FÍSICO (corpos estranhos).',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Tipos de perigos',
             banca: 'IADES',
             tags: ['perigos', 'BQF'],
@@ -15437,7 +15557,7 @@ Perguntas sequenciais para determinar se um ponto é PCC:
             ],
             gabarito: 'C',
             justificativa: 'PCC é a etapa onde o controle é ESSENCIAL para prevenir, eliminar ou reduzir um perigo a níveis aceitáveis.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'PCC',
             banca: 'IADES',
             tags: ['PCC', 'definição'],
@@ -15454,7 +15574,7 @@ Perguntas sequenciais para determinar se um ponto é PCC:
             ],
             gabarito: 'B',
             justificativa: 'Os pré-requisitos do APPCC são as BPF (Boas Práticas de Fabricação) e os POPs (Procedimentos Operacionais Padronizados).',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Pré-requisitos',
             banca: 'IADES',
             tags: ['BPF', 'POPs'],
@@ -15471,7 +15591,7 @@ Perguntas sequenciais para determinar se um ponto é PCC:
             ],
             gabarito: 'B',
             justificativa: 'O APPCC é um sistema PREVENTIVO que foca no CONTROLE DO PROCESSO, diferente da abordagem tradicional que é reativa e foca no produto final.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Características',
             banca: 'IADES',
             tags: ['preventivo', 'processo'],
@@ -15488,7 +15608,7 @@ Perguntas sequenciais para determinar se um ponto é PCC:
             ],
             gabarito: 'B',
             justificativa: 'Limite crítico é o valor máximo ou mínimo de um parâmetro que SEPARA o aceitável do inaceitável para a segurança.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Limite crítico',
             banca: 'IADES',
             tags: ['limite crítico', 'parâmetro'],
@@ -15505,7 +15625,7 @@ Perguntas sequenciais para determinar se um ponto é PCC:
             ],
             gabarito: 'B',
             justificativa: 'A ÁRVORE DECISÓRIA é a ferramenta do APPCC que, através de perguntas sequenciais, determina se um ponto é PCC.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Árvore decisória',
             banca: 'IADES',
             tags: ['árvore decisória', 'PCC'],
@@ -15522,7 +15642,7 @@ Perguntas sequenciais para determinar se um ponto é PCC:
             ],
             gabarito: 'C',
             justificativa: 'O APPCC possui 7 PRINCÍPIOS: análise de perigos, PCCs, limites críticos, monitoramento, ações corretivas, verificação e documentação.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: '7 Princípios',
             banca: 'IADES',
             tags: ['princípios', 'quantidade'],
@@ -15539,7 +15659,7 @@ Perguntas sequenciais para determinar se um ponto é PCC:
             ],
             gabarito: 'B',
             justificativa: 'Ações corretivas são obrigatórias sempre que o MONITORAMENTO indicar DESVIO do limite crítico estabelecido para o PCC.',
-            dificuldade: 'Fácil',
+            dificuldade: 'facil',
             competencia: 'Ação corretiva',
             banca: 'IADES',
             tags: ['ação corretiva', 'desvio'],
@@ -15556,10 +15676,2874 @@ Perguntas sequenciais para determinar se um ponto é PCC:
             ],
             gabarito: 'B',
             justificativa: 'A verificação confirma que o sistema funciona e inclui: auditorias internas, análises laboratoriais, revisão de registros e calibração.',
-            dificuldade: 'Média',
+            dificuldade: 'medio',
             competencia: 'Verificação',
             banca: 'IADES',
             tags: ['verificação', 'atividades'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-27',
+      numero: 27,
+      titulo: 'Segurança do Paciente e Controle de IRAS',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### O que são IRAS?
+
+**IRAS** = Infecções Relacionadas à Assistência à Saúde
+
+Infecções adquiridas durante a prestação de cuidados de saúde, não presentes na admissão.
+
+### Critérios Temporais
+
+| Tipo | Período |
+|------|---------|
+| **Infecção hospitalar** | Após 48-72h de internação |
+| **Infecção cirúrgica** | Até 30 dias (sem prótese) ou 1 ano (com prótese) |
+| **Infecção ambulatorial** | Relacionada a procedimento |
+
+### As 6 Metas de Segurança do Paciente (OMS)
+
+| Meta | Descrição |
+|------|-----------|
+| 1 | Identificar corretamente o paciente |
+| 2 | Melhorar comunicação entre profissionais |
+| 3 | Melhorar segurança de medicamentos de alta vigilância |
+| 4 | Assegurar cirurgia segura |
+| 5 | Higienizar as mãos para prevenir infecções |
+| 6 | Reduzir risco de quedas e lesão por pressão |
+
+### Precauções Padrão
+- Higienização das mãos
+- Uso de EPIs
+- Cuidados com perfurocortantes
+- Higiene respiratória
+- Limpeza ambiental
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceitos Fundamentais
+
+#### 1.1 O que são IRAS?
+
+> "Infecção adquirida após admissão do paciente e que se manifesta durante a internação ou após a alta, quando puder ser relacionada com a internação ou procedimentos hospitalares." (Portaria MS 2.616/98)
+
+#### 1.2 Terminologia Atual
+
+| Termo Antigo | Termo Atual |
+|--------------|-------------|
+| Infecção hospitalar | IRAS |
+| Infecção nosocomial | IRAS |
+
+A mudança reflete que infecções podem ocorrer em qualquer ambiente de assistência, não só hospitais.
+
+### 2. Cadeia de Transmissão de Infecções
+
+| Elemento | Descrição | Exemplo |
+|----------|-----------|---------|
+| **Agente** | Microrganismo causador | Bactérias, vírus |
+| **Reservatório** | Onde o agente vive | Paciente, ambiente |
+| **Porta de saída** | Por onde sai do reservatório | Secreções, sangue |
+| **Transmissão** | Como se propaga | Contato, gotículas, ar |
+| **Porta de entrada** | Por onde entra no hospedeiro | Feridas, mucosas |
+| **Hospedeiro suscetível** | Quem pode adquirir | Paciente debilitado |
+
+### 3. Vias de Transmissão
+
+| Via | Descrição | Exemplos |
+|-----|-----------|----------|
+| **Contato direto** | Toque pessoa-pessoa | MRSA, escabiose |
+| **Contato indireto** | Via superfície/objeto | C. difficile, VRE |
+| **Gotículas** | Partículas >5μm, até 1m | Influenza, coqueluche |
+| **Aerossóis** | Partículas <5μm, suspensas | Tuberculose, sarampo |
+| **Veículo comum** | Água, alimentos, sangue | Hepatite, cólera |
+
+### 4. Precauções de Isolamento
+
+#### 4.1 Precauções PADRÃO (para TODOS os pacientes)
+
+| Medida | Quando |
+|--------|--------|
+| Higienização das mãos | Antes/após contato |
+| Luvas | Contato com sangue/secreções |
+| Avental | Risco de respingos |
+| Máscara/óculos | Risco de aerossóis |
+| Descarte de perfurocortantes | Sempre em recipiente apropriado |
+
+#### 4.2 Precauções ESPECÍFICAS
+
+| Tipo | Indicação | EPIs Adicionais |
+|------|-----------|-----------------|
+| **Contato** | MRSA, C. difficile, VRE | Avental + luvas |
+| **Gotículas** | Influenza, meningite | Máscara cirúrgica |
+| **Aerossóis** | TB, sarampo, varicela | N95/PFF2 + quarto pressão negativa |
+
+### 5. Higienização das Mãos
+
+#### 5.1 Os 5 Momentos (OMS)
+
+1. **Antes** de tocar o paciente
+2. **Antes** de procedimento asséptico
+3. **Após** risco de exposição a fluidos
+4. **Após** tocar o paciente
+5. **Após** tocar superfícies próximas
+
+#### 5.2 Técnicas
+
+| Técnica | Produto | Duração | Quando |
+|---------|---------|---------|--------|
+| Higienização simples | Água e sabão | 40-60s | Mãos visivelmente sujas |
+| Fricção antisséptica | Álcool 70% | 20-30s | Mãos sem sujidade visível |
+| Antissepsia cirúrgica | Antisséptico degermante | 3-5 min | Antes de cirurgias |
+
+### 6. Principais IRAS
+
+#### 6.1 Infecção do Trato Urinário (ITU)
+
+- **Causa principal**: cateter vesical
+- **Prevenção**: indicação restrita, remoção precoce
+- **Bundle**: higiene, sistema fechado, posição da bolsa
+
+#### 6.2 Pneumonia Associada à Ventilação (PAV)
+
+- **Causa**: ventilação mecânica
+- **Bundle**: cabeceira elevada 30-45°, higiene oral, interrupção diária da sedação
+
+#### 6.3 Infecção de Corrente Sanguínea (ICS)
+
+- **Causa**: cateter venoso central
+- **Bundle**: higiene das mãos, barreira máxima, clorexidina, sítio adequado
+
+#### 6.4 Infecção de Sítio Cirúrgico (ISC)
+
+- **Período**: até 30 dias (ou 1 ano com prótese)
+- **Prevenção**: antibioticoprofilaxia, tricotomia adequada, normotermia
+
+### 7. Segurança do Paciente
+
+#### 7.1 Programa Nacional (PNSP)
+
+Instituído pela Portaria MS nº 529/2013 e RDC nº 36/2013.
+
+**Objetivos:**
+- Promover cultura de segurança
+- Reduzir eventos adversos
+- Qualificar o cuidado
+
+#### 7.2 Núcleo de Segurança do Paciente (NSP)
+
+Obrigatório em serviços de saúde (RDC 36/2013).
+
+**Atribuições:**
+- Elaborar Plano de Segurança
+- Notificar eventos adversos
+- Analisar e tratar incidentes
+- Capacitar profissionais
+
+#### 7.3 As 6 Metas Internacionais
+
+| Meta | Ação |
+|------|------|
+| **1. Identificação** | Pulseira com nome e data nascimento |
+| **2. Comunicação** | Técnicas de readback |
+| **3. Medicamentos** | Lista de alta vigilância, dupla checagem |
+| **4. Cirurgia segura** | Checklist de cirurgia segura |
+| **5. Higiene das mãos** | 5 momentos da OMS |
+| **6. Quedas/LP** | Protocolos de prevenção |
+
+### 8. CCIH e SCIH
+
+#### 8.1 CCIH - Comissão de Controle de Infecção Hospitalar
+
+**Composição** (consultores):
+- Médico
+- Enfermeiro
+- Representantes de setores
+
+**Atribuições:**
+- Definir diretrizes
+- Aprovar PCIH
+- Avaliar indicadores
+
+#### 8.2 SCIH - Serviço de Controle de Infecção Hospitalar
+
+**Composição** (executores):
+- Médico (2h/200 leitos)
+- Enfermeiro exclusivo (6h/200 leitos)
+
+**Atribuições:**
+- Executar o PCIH
+- Vigilância epidemiológica
+- Capacitação
+- Notificação
+
+### 9. Indicadores de IRAS
+
+| Indicador | Fórmula |
+|-----------|---------|
+| **Taxa de infecção** | (Nº infecções / Nº internações) × 100 |
+| **Densidade de incidência ITU** | (ITU-CVC / Cateter-dia) × 1000 |
+| **Densidade de incidência PAV** | (PAV / VM-dia) × 1000 |
+| **Densidade de incidência ICS** | (ICS / CVC-dia) × 1000 |
+
+### 10. Legislação Aplicável
+
+| Norma | Conteúdo |
+|-------|----------|
+| **Lei 9.431/1997** | Obrigatoriedade de PCIH |
+| **Portaria 2.616/1998** | Diretrizes para controle de IH |
+| **RDC 36/2013** | Segurança do paciente |
+| **RDC 42/2010** | Higienização das mãos |
+| **RDC 63/2011** | Boas práticas em serviços de saúde |
+        `,
+
+        pontosChave: [
+          "IRAS: Infecções Relacionadas à Assistência à Saúde (não só hospitalar)",
+          "Critério temporal: 48-72h após internação ou relacionada a procedimento",
+          "Precauções PADRÃO: para TODOS os pacientes (higiene das mãos, EPIs)",
+          "Precauções específicas: Contato, Gotículas, Aerossóis",
+          "5 Momentos para higiene das mãos (OMS)",
+          "6 Metas de Segurança do Paciente (identificação, comunicação, medicamentos, cirurgia, mãos, quedas)",
+          "NSP obrigatório em serviços de saúde (RDC 36/2013)",
+          "CCIH: comissão (consultiva) / SCIH: serviço (executivo)",
+          "Principais IRAS: ITU, PAV, ICS, ISC",
+          "Bundles: conjunto de medidas baseadas em evidências",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir CCIH com SCIH",
+            descricao: "CCIH é a COMISSÃO (consultiva, deliberativa). SCIH é o SERVIÇO (executivo, operacional).",
+            dica: "CCIH decide, SCIH executa.",
+          },
+          {
+            titulo: "Achar que precaução padrão é só para pacientes infectados",
+            descricao: "Precauções PADRÃO são para TODOS os pacientes, independente do diagnóstico.",
+            dica: "Todo sangue/secreção é potencialmente infectante.",
+          },
+          {
+            titulo: "Usar álcool em mãos visivelmente sujas",
+            descricao: "Álcool gel/solução só funciona em mãos SEM sujidade visível. Mãos sujas = água e sabão.",
+            dica: "Sujeira visível = lavar; Sem sujeira = álcool.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "5 MOMENTOS",
+            significado: "Higiene das mãos OMS",
+            frase: "Antes do paciente, Antes de procedimento, Após exposição, Após paciente, Após ambiente",
+          },
+          {
+            termo: "CGA",
+            significado: "Precauções específicas",
+            frase: "Contato, Gotículas, Aerossóis",
+          },
+          {
+            termo: "6 METAS",
+            significado: "Segurança do paciente",
+            frase: "ID, Comunicação, Medicamentos, Cirurgia, Mãos, Quedas",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-27-1',
+            frente: "O que significa IRAS?",
+            verso: "**I**nfecções **R**elacionadas à **A**ssistência à **S**aúde\n\nInfecção adquirida durante a prestação de cuidados de saúde, não presente na admissão.\n\nSubstitui o termo 'infecção hospitalar' pois pode ocorrer em qualquer ambiente de assistência.",
+            tags: ['IRAS', 'conceito'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-27-2',
+            frente: "Quais são os 5 Momentos para Higiene das Mãos (OMS)?",
+            verso: "1. **ANTES** de tocar o paciente\n2. **ANTES** de procedimento asséptico\n3. **APÓS** risco de exposição a fluidos\n4. **APÓS** tocar o paciente\n5. **APÓS** tocar superfícies próximas\n\nAplicam-se a TODOS os profissionais de saúde!",
+            tags: ['higiene mãos', '5 momentos', 'OMS'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-27-3',
+            frente: "Quais são as 6 Metas Internacionais de Segurança do Paciente?",
+            verso: "1. **Identificar** corretamente o paciente\n2. Melhorar **comunicação** entre profissionais\n3. Melhorar segurança de **medicamentos** de alta vigilância\n4. Assegurar **cirurgia** segura\n5. **Higienizar as mãos**\n6. Reduzir risco de **quedas** e lesão por pressão",
+            tags: ['segurança paciente', '6 metas'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-27-4',
+            frente: "Qual a diferença entre CCIH e SCIH?",
+            verso: "**CCIH** (Comissão):\n→ Órgão CONSULTIVO/deliberativo\n→ Composta por representantes\n→ Define diretrizes, aprova PCIH\n\n**SCIH** (Serviço):\n→ Órgão EXECUTIVO/operacional\n→ Enfermeiro exclusivo + médico\n→ Executa vigilância, capacita, notifica\n\nCCIH decide, SCIH executa!",
+            tags: ['CCIH', 'SCIH', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-27-5',
+            frente: "Quais são os tipos de precauções de isolamento?",
+            verso: "**PADRÃO** (para TODOS):\n→ Higiene das mãos, EPIs, perfurocortantes\n\n**ESPECÍFICAS:**\n1. **Contato**: avental + luvas (MRSA, C. diff)\n2. **Gotículas**: máscara cirúrgica (Influenza)\n3. **Aerossóis**: N95 + pressão negativa (TB, sarampo)\n\nEspecíficas são ADICIONAIS às padrão!",
+            tags: ['precauções', 'isolamento', 'EPIs'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-27-6',
+            frente: "O que é o NSP (Núcleo de Segurança do Paciente)?",
+            verso: "Instância obrigatória em serviços de saúde (RDC 36/2013).\n\n**Atribuições:**\n- Elaborar Plano de Segurança do Paciente\n- Notificar eventos adversos ao SNVS\n- Analisar e tratar incidentes\n- Capacitar profissionais\n- Promover cultura de segurança",
+            tags: ['NSP', 'RDC 36', 'segurança'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-27-7',
+            frente: "Quais são as principais IRAS e suas causas?",
+            verso: "**ITU** - Infecção Trato Urinário\n→ Cateter vesical\n\n**PAV** - Pneumonia Associada à Ventilação\n→ Ventilação mecânica\n\n**ICS** - Infecção Corrente Sanguínea\n→ Cateter venoso central\n\n**ISC** - Infecção Sítio Cirúrgico\n→ Procedimento cirúrgico",
+            tags: ['IRAS', 'ITU', 'PAV', 'ICS'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-27-8',
+            frente: "Quando usar água e sabão vs álcool na higiene das mãos?",
+            verso: "**ÁGUA E SABÃO:**\n→ Mãos visivelmente SUJAS\n→ Após usar banheiro\n→ Contato com C. difficile ou esporos\n→ Duração: 40-60 segundos\n\n**ÁLCOOL 70%:**\n→ Mãos SEM sujidade visível\n→ Entre procedimentos\n→ Mais prático e rápido\n→ Duração: 20-30 segundos",
+            tags: ['higiene mãos', 'álcool', 'sabão'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-27-9',
+            frente: "O que são bundles de prevenção de IRAS?",
+            verso: "**Bundle** = conjunto de intervenções (3-5 medidas) baseadas em evidências.\n\nCaracterísticas:\n- Aplicadas JUNTAS\n- Reduzem infecções significativamente\n- All-or-none (tudo ou nada)\n\nExemplos:\n- Bundle de prevenção de PAV\n- Bundle de cateter central\n- Bundle de ITU associada a cateter",
+            tags: ['bundle', 'prevenção', 'evidências'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-27-10',
+            frente: "Qual a legislação principal sobre controle de infecção hospitalar?",
+            verso: "**Lei 9.431/1997**\n→ Obrigatoriedade de PCIH em hospitais\n\n**Portaria MS 2.616/1998**\n→ Diretrizes para controle de IH\n→ CCIH e SCIH\n\n**RDC 36/2013**\n→ Segurança do paciente\n→ NSP obrigatório\n\n**RDC 42/2010**\n→ Higienização das mãos",
+            tags: ['legislação', 'PCIH', 'RDC'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-27-1',
+            enunciado: 'A sigla IRAS significa:',
+            alternativas: [
+              { letra: 'A', texto: 'Infecções Resistentes a Antibióticos em Saúde.' },
+              { letra: 'B', texto: 'Infecções Relacionadas à Assistência à Saúde.' },
+              { letra: 'C', texto: 'Índice de Riscos Associados à Saúde.' },
+              { letra: 'D', texto: 'Infecções Recorrentes em Ambientes de Saúde.' },
+              { letra: 'E', texto: 'Indicadores de Resultados em Assistência à Saúde.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'IRAS = Infecções Relacionadas à Assistência à Saúde. Termo atual que substitui "infecção hospitalar".',
+            dificuldade: 'facil',
+            competencia: 'IRAS',
+            banca: 'IADES',
+            tags: ['IRAS', 'conceito'],
+          },
+          {
+            id: 'ce-q-27-2',
+            enunciado: 'As precauções PADRÃO devem ser aplicadas:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas a pacientes com infecção confirmada.' },
+              { letra: 'B', texto: 'apenas em UTIs.' },
+              { letra: 'C', texto: 'a TODOS os pacientes, independente do diagnóstico.' },
+              { letra: 'D', texto: 'apenas durante procedimentos invasivos.' },
+              { letra: 'E', texto: 'somente a pacientes imunodeprimidos.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Precauções PADRÃO são para TODOS os pacientes, pois consideram que todo sangue/secreção é potencialmente infectante.',
+            dificuldade: 'facil',
+            competencia: 'Precauções padrão',
+            banca: 'IADES',
+            tags: ['precauções', 'padrão'],
+          },
+          {
+            id: 'ce-q-27-3',
+            enunciado: 'A higiene das mãos com álcool 70% deve ser realizada quando:',
+            alternativas: [
+              { letra: 'A', texto: 'as mãos estiverem visivelmente sujas.' },
+              { letra: 'B', texto: 'houver contato com C. difficile.' },
+              { letra: 'C', texto: 'as mãos NÃO estiverem visivelmente sujas.' },
+              { letra: 'D', texto: 'após usar o banheiro.' },
+              { letra: 'E', texto: 'em qualquer situação.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Álcool 70% é indicado quando as mãos NÃO estão visivelmente sujas. Mãos com sujidade visível requerem água e sabão.',
+            dificuldade: 'medio',
+            competencia: 'Higiene das mãos',
+            banca: 'IADES',
+            tags: ['álcool', 'higiene'],
+          },
+          {
+            id: 'ce-q-27-4',
+            enunciado: 'O Núcleo de Segurança do Paciente (NSP) é obrigatório conforme:',
+            alternativas: [
+              { letra: 'A', texto: 'Portaria 2.616/1998.' },
+              { letra: 'B', texto: 'Lei 9.431/1997.' },
+              { letra: 'C', texto: 'RDC 36/2013.' },
+              { letra: 'D', texto: 'RDC 42/2010.' },
+              { letra: 'E', texto: 'Portaria 529/2013 apenas.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A RDC 36/2013 institui ações para segurança do paciente e torna obrigatório o NSP nos serviços de saúde.',
+            dificuldade: 'medio',
+            competencia: 'NSP',
+            banca: 'IADES',
+            tags: ['NSP', 'RDC 36'],
+          },
+          {
+            id: 'ce-q-27-5',
+            enunciado: 'A diferença entre CCIH e SCIH é que:',
+            alternativas: [
+              { letra: 'A', texto: 'são a mesma coisa, apenas siglas diferentes.' },
+              { letra: 'B', texto: 'CCIH é consultiva/deliberativa; SCIH é executivo/operacional.' },
+              { letra: 'C', texto: 'SCIH é consultiva; CCIH é executiva.' },
+              { letra: 'D', texto: 'CCIH só existe em hospitais públicos.' },
+              { letra: 'E', texto: 'SCIH é opcional.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'CCIH é a COMISSÃO (consultiva, deliberativa). SCIH é o SERVIÇO (executivo, operacional). CCIH decide diretrizes, SCIH executa.',
+            dificuldade: 'medio',
+            competencia: 'CCIH/SCIH',
+            banca: 'IADES',
+            tags: ['CCIH', 'SCIH'],
+          },
+          {
+            id: 'ce-q-27-6',
+            enunciado: 'Para paciente com tuberculose pulmonar bacilífera, a precaução específica indicada é:',
+            alternativas: [
+              { letra: 'A', texto: 'precaução de contato.' },
+              { letra: 'B', texto: 'precaução de gotículas.' },
+              { letra: 'C', texto: 'precaução de aerossóis.' },
+              { letra: 'D', texto: 'apenas precauções padrão.' },
+              { letra: 'E', texto: 'isolamento reverso.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Tuberculose pulmonar requer precaução de AEROSSÓIS: máscara N95/PFF2, quarto com pressão negativa, porta fechada.',
+            dificuldade: 'medio',
+            competencia: 'Precaução aerossóis',
+            banca: 'IADES',
+            tags: ['aerossóis', 'tuberculose'],
+          },
+          {
+            id: 'ce-q-27-7',
+            enunciado: 'Os "5 Momentos para Higiene das Mãos" da OMS incluem:',
+            alternativas: [
+              { letra: 'A', texto: 'antes do café, após o almoço, antes de dormir, ao acordar, após banho.' },
+              { letra: 'B', texto: 'antes de tocar o paciente, antes de procedimento asséptico, após exposição a fluidos, após tocar paciente, após tocar superfícies.' },
+              { letra: 'C', texto: 'apenas antes e depois de procedimentos cirúrgicos.' },
+              { letra: 'D', texto: 'antes de calçar luvas apenas.' },
+              { letra: 'E', texto: 'somente após contato com pacientes infectados.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Os 5 Momentos OMS são: antes de tocar paciente, antes de procedimento asséptico, após exposição a fluidos, após tocar paciente, após tocar superfícies próximas.',
+            dificuldade: 'medio',
+            competencia: '5 Momentos',
+            banca: 'IADES',
+            tags: ['5 momentos', 'OMS'],
+          },
+          {
+            id: 'ce-q-27-8',
+            enunciado: 'A principal causa de Infecção do Trato Urinário (ITU) em ambiente hospitalar é:',
+            alternativas: [
+              { letra: 'A', texto: 'uso de antibióticos.' },
+              { letra: 'B', texto: 'cateter vesical de demora.' },
+              { letra: 'C', texto: 'internação prolongada.' },
+              { letra: 'D', texto: 'idade avançada.' },
+              { letra: 'E', texto: 'desidratação.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A principal causa de ITU hospitalar é o CATETER VESICAL de demora. A prevenção inclui indicação restrita e remoção precoce.',
+            dificuldade: 'facil',
+            competencia: 'ITU',
+            banca: 'IADES',
+            tags: ['ITU', 'cateter'],
+          },
+          {
+            id: 'ce-q-27-9',
+            enunciado: 'O conceito de "bundle" na prevenção de IRAS refere-se a:',
+            alternativas: [
+              { letra: 'A', texto: 'um único procedimento de alta eficácia.' },
+              { letra: 'B', texto: 'conjunto de intervenções baseadas em evidências aplicadas juntas.' },
+              { letra: 'C', texto: 'pacote de medicamentos profiláticos.' },
+              { letra: 'D', texto: 'equipamento de proteção individual.' },
+              { letra: 'E', texto: 'protocolo exclusivo para UTIs.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Bundle é um CONJUNTO de intervenções (3-5 medidas) baseadas em evidências, aplicadas JUNTAS para reduzir infecções.',
+            dificuldade: 'medio',
+            competencia: 'Bundle',
+            banca: 'IADES',
+            tags: ['bundle', 'prevenção'],
+          },
+          {
+            id: 'ce-q-27-10',
+            enunciado: 'São Metas Internacionais de Segurança do Paciente, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'identificar corretamente o paciente.' },
+              { letra: 'B', texto: 'assegurar cirurgia em local correto.' },
+              { letra: 'C', texto: 'reduzir custos hospitalares.' },
+              { letra: 'D', texto: 'melhorar comunicação entre profissionais.' },
+              { letra: 'E', texto: 'higienizar as mãos.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Reduzir custos NÃO é meta de segurança do paciente. As 6 metas são: identificação, comunicação, medicamentos, cirurgia segura, higiene das mãos, quedas/LP.',
+            dificuldade: 'facil',
+            competencia: '6 Metas',
+            banca: 'IADES',
+            tags: ['metas', 'segurança'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-28',
+      numero: 28,
+      titulo: 'Gerenciamento de Tecnologias em Saúde',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### O que são Tecnologias em Saúde?
+
+| Tipo | Exemplos |
+|------|----------|
+| **Medicamentos** | Fármacos, vacinas, hemoderivados |
+| **Equipamentos** | Raio-X, tomógrafo, monitor |
+| **Procedimentos** | Cirurgias, exames, terapias |
+| **Sistemas** | Prontuário eletrônico, telemedicina |
+
+### Ciclo de Vida da Tecnologia
+
+\`\`\`
+Avaliação → Incorporação → Utilização → Obsolescência
+\`\`\`
+
+### ATS - Avaliação de Tecnologias em Saúde
+
+| Dimensão | O que avalia |
+|----------|--------------|
+| **Eficácia** | Funciona em condições ideais? |
+| **Efetividade** | Funciona na prática? |
+| **Segurança** | É segura? |
+| **Custo-efetividade** | Vale o investimento? |
+
+### Órgãos Relacionados
+
+| Órgão | Função |
+|-------|--------|
+| **CONITEC** | Assessora incorporação no SUS |
+| **ANVISA** | Registra e fiscaliza |
+| **REBRATS** | Rede de avaliação |
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito de Tecnologia em Saúde
+
+> "Conjunto de equipamentos, medicamentos, insumos e procedimentos utilizados na prestação de serviços de saúde, bem como técnicas de infraestrutura e de organização." (Portaria MS 2.510/2005)
+
+#### 1.1 Tipos de Tecnologias
+
+| Categoria | Exemplos |
+|-----------|----------|
+| **Medicamentos** | Fármacos, vacinas, soros, hemoderivados |
+| **Equipamentos médicos** | Diagnóstico por imagem, monitorização |
+| **Procedimentos** | Cirurgias, exames, transplantes |
+| **Sistemas organizacionais** | Protocolos, programas de saúde |
+| **Sistemas de informação** | Prontuário eletrônico, telemedicina |
+
+### 2. Ciclo de Vida da Tecnologia
+
+#### 2.1 Fases
+
+| Fase | Descrição |
+|------|-----------|
+| **1. Inovação** | Pesquisa e desenvolvimento |
+| **2. Avaliação** | Análise de eficácia, segurança, custos |
+| **3. Incorporação** | Decisão de adotar |
+| **4. Difusão** | Implementação e disseminação |
+| **5. Utilização** | Uso rotineiro |
+| **6. Obsolescência** | Substituição ou descarte |
+
+#### 2.2 Gerenciamento em cada Fase
+
+| Fase | Ações de Gerenciamento |
+|------|------------------------|
+| Pré-aquisição | Especificação, avaliação técnica |
+| Aquisição | Processo de compra, contrato |
+| Recebimento | Inspeção, teste de aceitação |
+| Instalação | Montagem, qualificação |
+| Treinamento | Capacitação de usuários |
+| Uso | Operação, manutenção |
+| Descarte | Desativação, destinação |
+
+### 3. Avaliação de Tecnologias em Saúde (ATS)
+
+#### 3.1 Conceito
+
+> "Processo contínuo de avaliação que visa subsidiar decisões sobre incorporação, uso e abandono de tecnologias em saúde."
+
+#### 3.2 Dimensões da ATS
+
+| Dimensão | Pergunta-chave |
+|----------|----------------|
+| **Eficácia** | Funciona em condições controladas? |
+| **Efetividade** | Funciona na prática clínica? |
+| **Segurança** | Os riscos são aceitáveis? |
+| **Custo-efetividade** | Vale o investimento? |
+| **Impacto orçamentário** | Quanto vai custar ao sistema? |
+| **Aspectos éticos** | Há dilemas éticos? |
+| **Aspectos sociais** | Impacto na população? |
+
+### 4. CONITEC
+
+#### 4.1 O que é?
+
+**CONITEC** = Comissão Nacional de Incorporação de Tecnologias no SUS
+
+Criada pela Lei nº 12.401/2011.
+
+#### 4.2 Atribuições
+
+| Atribuição | Descrição |
+|------------|-----------|
+| Assessorar MS | Recomendações sobre incorporação |
+| Avaliar tecnologias | Elaborar/validar pareceres |
+| PCDT | Constituir/alterar protocolos clínicos |
+| Consulta pública | Submeter propostas à sociedade |
+
+#### 4.3 Composição
+
+- Secretarias do MS
+- ANVISA
+- ANS
+- CNS (Conselho Nacional de Saúde)
+- CONASS (estados)
+- CONASEMS (municípios)
+- CFM
+
+#### 4.4 Prazos
+
+| Etapa | Prazo |
+|-------|-------|
+| Decisão sobre incorporação | 180 dias (prorrogável por 90) |
+| Disponibilização após incorporação | 180 dias |
+
+### 5. Tecnovigilância
+
+#### 5.1 Conceito
+
+> "Sistema de vigilância de eventos adversos e queixas técnicas de produtos para saúde."
+
+#### 5.2 Notificação
+
+| O que notificar | A quem |
+|-----------------|--------|
+| Eventos adversos | NOTIVISA (ANVISA) |
+| Queixas técnicas | NOTIVISA |
+| Desvios de qualidade | NOTIVISA |
+
+#### 5.3 Produtos Monitorados
+
+- Equipamentos médicos
+- Produtos para diagnóstico in vitro
+- Materiais de uso em saúde
+- Implantes
+
+### 6. Engenharia Clínica
+
+#### 6.1 Conceito
+
+Área que aplica princípios de engenharia ao gerenciamento de tecnologias em saúde.
+
+#### 6.2 Atividades
+
+| Atividade | Descrição |
+|-----------|-----------|
+| **Planejamento** | Dimensionamento, especificação |
+| **Aquisição** | Apoio técnico em compras |
+| **Instalação** | Supervisão de montagem |
+| **Manutenção** | Preventiva, corretiva, preditiva |
+| **Treinamento** | Capacitação de operadores |
+| **Desativação** | Avaliação de obsolescência |
+
+### 7. Manutenção de Equipamentos
+
+#### 7.1 Tipos de Manutenção
+
+| Tipo | Quando | Objetivo |
+|------|--------|----------|
+| **Preventiva** | Programada | Evitar falhas |
+| **Corretiva** | Após falha | Restaurar função |
+| **Preditiva** | Baseada em condição | Antecipar falhas |
+
+#### 7.2 Indicadores
+
+| Indicador | Fórmula |
+|-----------|---------|
+| **Disponibilidade** | (Tempo funcionando / Tempo total) × 100 |
+| **MTBF** | Tempo médio entre falhas |
+| **MTTR** | Tempo médio para reparo |
+
+### 8. Calibração e Qualificação
+
+#### 8.1 Calibração
+
+- Comparação com padrão de referência
+- Ajuste se necessário
+- Certificado de calibração
+- Periodicidade definida
+
+#### 8.2 Qualificação de Equipamentos
+
+| Fase | Objetivo |
+|------|----------|
+| **QI** | Verificar instalação |
+| **QO** | Verificar operação |
+| **QD** | Verificar desempenho |
+
+### 9. Legislação Aplicável
+
+| Norma | Conteúdo |
+|-------|----------|
+| **Lei 12.401/2011** | Incorporação de tecnologias no SUS |
+| **RDC 36/2013** | Segurança do paciente (inclui tecnologias) |
+| **RDC 509/2021** | Boas práticas para estabelecimentos de saúde |
+| **IN 94/2022** | Gestão de tecnologias em saúde |
+        `,
+
+        pontosChave: [
+          "Tecnologia em saúde: medicamentos, equipamentos, procedimentos, sistemas",
+          "Ciclo de vida: Avaliação → Incorporação → Utilização → Obsolescência",
+          "ATS: avalia eficácia, efetividade, segurança, custo-efetividade",
+          "CONITEC: assessora MS sobre incorporação no SUS (Lei 12.401/2011)",
+          "Prazo de decisão CONITEC: 180 dias (prorrogável por 90)",
+          "Tecnovigilância: vigilância de eventos adversos de produtos para saúde",
+          "NOTIVISA: sistema de notificação da ANVISA",
+          "Manutenção: preventiva (evita), corretiva (restaura), preditiva (antecipa)",
+          "Engenharia Clínica: gerenciamento técnico de equipamentos médicos",
+          "Calibração: comparação com padrão de referência",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir eficácia com efetividade",
+            descricao: "EFICÁCIA é em condições ideais (ensaio clínico). EFETIVIDADE é na prática real.",
+            dica: "Eficácia = laboratório; Efetividade = mundo real.",
+          },
+          {
+            titulo: "Achar que CONITEC aprova medicamentos",
+            descricao: "CONITEC recomenda INCORPORAÇÃO no SUS. Quem registra/aprova é a ANVISA.",
+            dica: "ANVISA registra; CONITEC incorpora no SUS.",
+          },
+          {
+            titulo: "Confundir manutenção preventiva com corretiva",
+            descricao: "Preventiva é PROGRAMADA (antes da falha). Corretiva é APÓS a falha.",
+            dica: "Preventiva previne; Corretiva corrige.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "AIDO",
+            significado: "Ciclo de vida",
+            frase: "Avaliação, Incorporação, Difusão/uso, Obsolescência",
+          },
+          {
+            termo: "CONITEC",
+            significado: "Comissão Nacional de Incorporação de Tecnologias",
+            frase: "CONITEC recomenda para o SUS",
+          },
+          {
+            termo: "PCP",
+            significado: "Tipos de manutenção",
+            frase: "Preventiva, Corretiva, Preditiva",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-28-1',
+            frente: "O que são tecnologias em saúde?",
+            verso: "Conjunto de recursos utilizados na prestação de serviços de saúde:\n\n- **Medicamentos** (fármacos, vacinas)\n- **Equipamentos** (diagnóstico, terapia)\n- **Procedimentos** (cirurgias, exames)\n- **Sistemas** (protocolos, informação)\n\nInclui técnicas de infraestrutura e organização.",
+            tags: ['tecnologia', 'conceito'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-28-2',
+            frente: "O que é a CONITEC e qual sua função?",
+            verso: "**CONITEC** = Comissão Nacional de Incorporação de Tecnologias no SUS\n\n**Criação**: Lei 12.401/2011\n\n**Funções**:\n- Assessorar MS sobre incorporação\n- Avaliar tecnologias\n- Elaborar/alterar PCDT\n- Conduzir consultas públicas\n\n**Prazo**: 180 dias (+ 90 prorrogáveis)",
+            tags: ['CONITEC', 'incorporação', 'SUS'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-28-3',
+            frente: "O que é Avaliação de Tecnologias em Saúde (ATS)?",
+            verso: "Processo de avaliação que analisa:\n\n- **Eficácia**: funciona em condições ideais?\n- **Efetividade**: funciona na prática?\n- **Segurança**: riscos aceitáveis?\n- **Custo-efetividade**: vale o investimento?\n- **Impacto orçamentário**: quanto custa?\n- **Aspectos éticos/sociais**\n\nSubsidia decisões de incorporação.",
+            tags: ['ATS', 'avaliação', 'dimensões'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-28-4',
+            frente: "Quais são os tipos de manutenção de equipamentos?",
+            verso: "**PREVENTIVA**:\n→ Programada, antes da falha\n→ Objetivo: evitar falhas\n\n**CORRETIVA**:\n→ Após a falha\n→ Objetivo: restaurar função\n\n**PREDITIVA**:\n→ Baseada em condição/monitoramento\n→ Objetivo: antecipar falhas\n\nPreventiva é a mais custo-efetiva!",
+            tags: ['manutenção', 'tipos'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-28-5',
+            frente: "O que é Tecnovigilância?",
+            verso: "Sistema de vigilância de:\n- **Eventos adversos** de produtos para saúde\n- **Queixas técnicas**\n- **Desvios de qualidade**\n\nProdutos monitorados:\n- Equipamentos médicos\n- Diagnóstico in vitro\n- Materiais de uso em saúde\n- Implantes\n\nNotificação: **NOTIVISA** (ANVISA)",
+            tags: ['tecnovigilância', 'NOTIVISA'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-28-6',
+            frente: "Qual a diferença entre eficácia e efetividade em ATS?",
+            verso: "**EFICÁCIA**:\n→ Condições CONTROLADAS (ideal)\n→ Ensaios clínicos\n→ Ambiente de pesquisa\n→ 'Funciona em laboratório?'\n\n**EFETIVIDADE**:\n→ Condições REAIS (prática)\n→ Uso rotineiro\n→ Ambiente assistencial\n→ 'Funciona no dia a dia?'\n\nUm medicamento pode ser eficaz mas não efetivo.",
+            tags: ['eficácia', 'efetividade', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-28-7',
+            frente: "Quais são as fases do ciclo de vida de uma tecnologia em saúde?",
+            verso: "1. **Inovação**: P&D\n2. **Avaliação**: ATS\n3. **Incorporação**: decisão de adotar\n4. **Difusão**: implementação\n5. **Utilização**: uso rotineiro\n6. **Obsolescência**: substituição/descarte\n\nO gerenciamento ocorre em todas as fases!",
+            tags: ['ciclo de vida', 'fases'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-28-8',
+            frente: "O que é Engenharia Clínica?",
+            verso: "Área que aplica princípios de **engenharia** ao gerenciamento de tecnologias em saúde.\n\n**Atividades**:\n- Planejamento e especificação\n- Apoio em aquisições\n- Instalação e qualificação\n- Manutenção (preventiva/corretiva)\n- Treinamento de operadores\n- Avaliação de obsolescência",
+            tags: ['engenharia clínica', 'atividades'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-28-9',
+            frente: "Qual o prazo da CONITEC para decidir sobre incorporação?",
+            verso: "**180 dias** para emitir decisão sobre incorporação.\n\nPode ser **prorrogado por mais 90 dias**.\n\nApós incorporação: tecnologia deve ser disponibilizada em até **180 dias**.\n\nBase legal: Lei 12.401/2011",
+            tags: ['CONITEC', 'prazos'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-28-10',
+            frente: "O que é calibração de equipamentos?",
+            verso: "**Calibração** é a comparação das medições de um instrumento com um **padrão de referência**.\n\nObjetivo:\n- Verificar exatidão\n- Ajustar se necessário\n- Garantir confiabilidade\n\nResultado: **Certificado de Calibração**\n\nPeriodicidade: definida por norma ou fabricante.",
+            tags: ['calibração', 'padrão'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-28-1',
+            enunciado: 'A CONITEC é responsável por:',
+            alternativas: [
+              { letra: 'A', texto: 'registrar medicamentos no Brasil.' },
+              { letra: 'B', texto: 'assessorar o MS sobre incorporação de tecnologias no SUS.' },
+              { letra: 'C', texto: 'fabricar equipamentos médicos.' },
+              { letra: 'D', texto: 'fiscalizar hospitais.' },
+              { letra: 'E', texto: 'aprovar ensaios clínicos.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A CONITEC assessora o Ministério da Saúde sobre incorporação, exclusão ou alteração de tecnologias no âmbito do SUS (Lei 12.401/2011).',
+            dificuldade: 'facil',
+            competencia: 'CONITEC',
+            banca: 'IADES',
+            tags: ['CONITEC', 'função'],
+          },
+          {
+            id: 'ce-q-28-2',
+            enunciado: 'A Avaliação de Tecnologias em Saúde (ATS) considera, entre outras dimensões:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas o custo do produto.' },
+              { letra: 'B', texto: 'eficácia, efetividade, segurança e custo-efetividade.' },
+              { letra: 'C', texto: 'somente a opinião dos pacientes.' },
+              { letra: 'D', texto: 'apenas aspectos estéticos.' },
+              { letra: 'E', texto: 'exclusivamente a marca do fabricante.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A ATS avalia múltiplas dimensões: eficácia, efetividade, segurança, custo-efetividade, impacto orçamentário, aspectos éticos e sociais.',
+            dificuldade: 'facil',
+            competencia: 'ATS',
+            banca: 'IADES',
+            tags: ['ATS', 'dimensões'],
+          },
+          {
+            id: 'ce-q-28-3',
+            enunciado: 'A manutenção programada, realizada antes da ocorrência de falhas, é denominada:',
+            alternativas: [
+              { letra: 'A', texto: 'manutenção corretiva.' },
+              { letra: 'B', texto: 'manutenção preventiva.' },
+              { letra: 'C', texto: 'manutenção emergencial.' },
+              { letra: 'D', texto: 'manutenção definitiva.' },
+              { letra: 'E', texto: 'manutenção total.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Manutenção PREVENTIVA é programada, realizada ANTES das falhas ocorrerem, visando evitá-las. Corretiva é após a falha.',
+            dificuldade: 'facil',
+            competencia: 'Manutenção',
+            banca: 'IADES',
+            tags: ['manutenção', 'preventiva'],
+          },
+          {
+            id: 'ce-q-28-4',
+            enunciado: 'O prazo para a CONITEC decidir sobre incorporação de tecnologia no SUS é de:',
+            alternativas: [
+              { letra: 'A', texto: '30 dias.' },
+              { letra: 'B', texto: '90 dias.' },
+              { letra: 'C', texto: '180 dias, prorrogáveis por mais 90.' },
+              { letra: 'D', texto: '365 dias.' },
+              { letra: 'E', texto: 'não há prazo definido.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O prazo é de 180 dias, podendo ser prorrogado por mais 90 dias, conforme Lei 12.401/2011.',
+            dificuldade: 'medio',
+            competencia: 'Prazos CONITEC',
+            banca: 'IADES',
+            tags: ['CONITEC', 'prazo'],
+          },
+          {
+            id: 'ce-q-28-5',
+            enunciado: 'A tecnovigilância é o sistema de vigilância de:',
+            alternativas: [
+              { letra: 'A', texto: 'medicamentos apenas.' },
+              { letra: 'B', texto: 'eventos adversos e queixas técnicas de produtos para saúde.' },
+              { letra: 'C', texto: 'tecnologia da informação.' },
+              { letra: 'D', texto: 'radiações ionizantes.' },
+              { letra: 'E', texto: 'infraestrutura hospitalar.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Tecnovigilância é o sistema de vigilância de EVENTOS ADVERSOS e QUEIXAS TÉCNICAS de produtos para saúde (equipamentos, materiais, implantes).',
+            dificuldade: 'facil',
+            competencia: 'Tecnovigilância',
+            banca: 'IADES',
+            tags: ['tecnovigilância', 'conceito'],
+          },
+          {
+            id: 'ce-q-28-6',
+            enunciado: 'A diferença entre eficácia e efetividade é que:',
+            alternativas: [
+              { letra: 'A', texto: 'são termos sinônimos.' },
+              { letra: 'B', texto: 'eficácia é em condições ideais; efetividade é na prática.' },
+              { letra: 'C', texto: 'efetividade é em laboratório; eficácia é no hospital.' },
+              { letra: 'D', texto: 'eficácia mede custos; efetividade mede benefícios.' },
+              { letra: 'E', texto: 'não há diferença prática.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'EFICÁCIA é em condições IDEAIS/controladas. EFETIVIDADE é na PRÁTICA/condições reais de uso.',
+            dificuldade: 'medio',
+            competencia: 'Eficácia x Efetividade',
+            banca: 'IADES',
+            tags: ['eficácia', 'efetividade'],
+          },
+          {
+            id: 'ce-q-28-7',
+            enunciado: 'A Lei que dispõe sobre a assistência terapêutica e incorporação de tecnologias no SUS é a:',
+            alternativas: [
+              { letra: 'A', texto: 'Lei 8.080/1990.' },
+              { letra: 'B', texto: 'Lei 9.782/1999.' },
+              { letra: 'C', texto: 'Lei 12.401/2011.' },
+              { letra: 'D', texto: 'Lei 6.360/1976.' },
+              { letra: 'E', texto: 'Lei 8.142/1990.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A Lei 12.401/2011 altera a Lei 8.080/1990 para dispor sobre assistência terapêutica e incorporação de tecnologias no SUS, criando a CONITEC.',
+            dificuldade: 'medio',
+            competencia: 'Legislação',
+            banca: 'IADES',
+            tags: ['Lei 12.401', 'CONITEC'],
+          },
+          {
+            id: 'ce-q-28-8',
+            enunciado: 'A calibração de um equipamento consiste em:',
+            alternativas: [
+              { letra: 'A', texto: 'substituir peças defeituosas.' },
+              { letra: 'B', texto: 'comparar medições com um padrão de referência.' },
+              { letra: 'C', texto: 'limpar o equipamento.' },
+              { letra: 'D', texto: 'descartar o equipamento obsoleto.' },
+              { letra: 'E', texto: 'treinar os operadores.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Calibração é a COMPARAÇÃO das medições de um instrumento com um PADRÃO DE REFERÊNCIA, verificando e ajustando a exatidão.',
+            dificuldade: 'facil',
+            competencia: 'Calibração',
+            banca: 'IADES',
+            tags: ['calibração', 'conceito'],
+          },
+          {
+            id: 'ce-q-28-9',
+            enunciado: 'O sistema de notificação de eventos adversos de produtos para saúde da ANVISA é o:',
+            alternativas: [
+              { letra: 'A', texto: 'SINAN.' },
+              { letra: 'B', texto: 'NOTIVISA.' },
+              { letra: 'C', texto: 'e-SUS.' },
+              { letra: 'D', texto: 'DATASUS.' },
+              { letra: 'E', texto: 'SNGPC.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O NOTIVISA é o Sistema de Notificações em Vigilância Sanitária da ANVISA, usado para notificar eventos adversos de produtos para saúde.',
+            dificuldade: 'facil',
+            competencia: 'NOTIVISA',
+            banca: 'IADES',
+            tags: ['NOTIVISA', 'notificação'],
+          },
+          {
+            id: 'ce-q-28-10',
+            enunciado: 'São fases do ciclo de vida de uma tecnologia em saúde, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'inovação.' },
+              { letra: 'B', texto: 'incorporação.' },
+              { letra: 'C', texto: 'utilização.' },
+              { letra: 'D', texto: 'obsolescência.' },
+              { letra: 'E', texto: 'impeachment.' },
+            ],
+            gabarito: 'E',
+            justificativa: 'As fases são: inovação, avaliação, incorporação, difusão, utilização e obsolescência. "Impeachment" não é fase do ciclo de vida de tecnologias.',
+            dificuldade: 'facil',
+            competencia: 'Ciclo de vida',
+            banca: 'IADES',
+            tags: ['ciclo de vida', 'fases'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-29',
+      numero: 29,
+      titulo: 'Esterilização de Materiais',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Conceitos Fundamentais
+
+| Termo | Definição |
+|-------|-----------|
+| **Limpeza** | Remoção de sujidade visível |
+| **Desinfecção** | Eliminação de microrganismos patogênicos (NÃO esporos) |
+| **Esterilização** | Eliminação de TODAS as formas de vida microbiana, incluindo ESPOROS |
+
+### Classificação de Artigos (Spaulding)
+
+| Classificação | Definição | Processamento | Exemplos |
+|---------------|-----------|---------------|----------|
+| **Críticos** | Penetram tecidos estéreis | ESTERILIZAÇÃO | Instrumentos cirúrgicos, implantes |
+| **Semicríticos** | Contato com mucosas íntegras | Desinfecção de ALTO nível ou esterilização | Endoscópios, laringoscópios |
+| **Não críticos** | Contato com pele íntegra | Desinfecção de baixo/médio nível | Estetoscópios, termômetros |
+
+### Métodos de Esterilização
+
+**FÍSICOS:**
+| Método | Parâmetros | Indicação |
+|--------|------------|-----------|
+| Vapor saturado sob pressão (autoclave) | 121°C/15-30min ou 134°C/3-4min | Mais usado - termorresistentes |
+| Calor seco (estufa) | 170°C/1h ou 160°C/2h | Óleos, pós, vidraria |
+| Óxido de etileno (ETO) | 40-60°C, 2-12h + aeração | Termossensíveis |
+
+**QUÍMICOS:**
+- Plasma de peróxido de hidrogênio (Sterrad®)
+- Ácido peracético
+- Formaldeído
+
+### Monitoramento da Esterilização
+
+| Tipo | Função | Frequência |
+|------|--------|------------|
+| **Indicadores físicos** | Tempo, temperatura, pressão | Cada ciclo |
+| **Indicadores químicos** | Mudança de cor (integração de parâmetros) | Cada pacote |
+| **Indicadores biológicos** | Esporos de Geobacillus (vapor) ou Bacillus (ETO) | Diário/semanal |
+
+### Para IADES - Pontos Críticos:
+- Autoclave é o método de ESCOLHA (mais seguro e eficaz)
+- Artigos CRÍTICOS = SEMPRE esterilizar
+- Indicador biológico = PADRÃO OURO
+- RDC 15/2012: regulamenta CME
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Central de Material e Esterilização (CME)
+
+#### 1.1 Definição e Regulamentação
+A CME é a unidade responsável pelo processamento de produtos para saúde (PPS), regulamentada pela **RDC 15/2012** da ANVISA.
+
+**Classificação da CME:**
+- **Classe I**: processa PPS não críticos, semicríticos e críticos de conformação NÃO complexa
+- **Classe II**: processa TODOS os PPS, incluindo críticos de conformação COMPLEXA
+
+#### 1.2 Áreas da CME
+| Área | Função | Características |
+|------|--------|-----------------|
+| **Recepção/Expurgo** | Receber material sujo | Área SUJA |
+| **Preparo** | Inspeção, secagem, empacotamento | Área LIMPA |
+| **Esterilização** | Processamento | Área LIMPA |
+| **Armazenamento** | Guarda de material estéril | Área ESTÉRIL |
+| **Distribuição** | Entrega às unidades | Área LIMPA |
+
+**Fluxo UNIDIRECIONAL:** Sujo → Limpo → Estéril (sem cruzamento)
+
+### 2. Etapas do Processamento
+
+#### 2.1 Limpeza
+**É a etapa MAIS IMPORTANTE!** Sem limpeza adequada, não há esterilização eficaz.
+
+**Métodos:**
+- **Manual**: escovas, esponjas, detergente enzimático
+- **Automatizada**: lavadoras ultrassônicas, termodesinfectadoras
+
+**Detergente enzimático:** contém protease, lipase, amilase para remoção de matéria orgânica.
+
+#### 2.2 Secagem
+- Essencial antes do empacotamento
+- Umidade compromete a esterilização e favorece recontaminação
+
+#### 2.3 Preparo e Empacotamento
+**Embalagens:**
+| Tipo | Características |
+|------|-----------------|
+| Papel grau cirúrgico | Descartável, permite visualização |
+| Tecido não tecido (SMS) | Descartável, barreira microbiana |
+| Tecido de algodão | Reprocessável (máx. 65 reprocessamentos) |
+| Containers rígidos | Reutilizáveis, com filtros |
+
+#### 2.4 Esterilização
+
+**AUTOCLAVE (Vapor Saturado Sob Pressão):**
+- Método de ESCOLHA
+- Mecanismo: desnaturação de proteínas
+- Vantagens: rápido, seguro, econômico, não tóxico
+- Parâmetros: 121°C por 15-30min OU 134°C por 3-4min
+
+**CALOR SECO (Estufa):**
+- Mecanismo: oxidação
+- Parâmetros: 170°C/1h ou 160°C/2h
+- Indicação: materiais que não podem ser umidificados
+- Desvantagens: tempo longo, penetração lenta
+
+**ÓXIDO DE ETILENO (ETO):**
+- Para termossensíveis
+- Temperatura: 40-60°C
+- REQUER AERAÇÃO (16-48h) - material é tóxico
+- Monitoramento ambiental obrigatório (toxicidade)
+
+**PLASMA DE H₂O₂ (Sterrad®):**
+- Baixa temperatura (45-55°C)
+- Rápido (28-75min)
+- Não deixa resíduos tóxicos
+- Não pode: líquidos, celulose, lumens longos e estreitos
+
+### 3. Monitoramento e Validação
+
+#### 3.1 Indicadores Físicos
+Registram parâmetros do equipamento: temperatura, pressão, tempo.
+
+#### 3.2 Indicadores Químicos
+**Classes (ISO 11140-1):**
+| Classe | Nome | Função |
+|--------|------|--------|
+| 1 | Indicador de processo | Distingue processado/não processado |
+| 2 | Teste específico | Teste de Bowie-Dick (remoção de ar) |
+| 3 | Parâmetro único | Responde a um parâmetro |
+| 4 | Multiparamétrico | Responde a dois ou mais parâmetros |
+| 5 | Integrador | Responde a todos os parâmetros críticos |
+| 6 | Emulador | Ciclo específico |
+
+#### 3.3 Indicadores Biológicos (PADRÃO OURO)
+| Método | Microrganismo teste |
+|--------|---------------------|
+| Vapor | Geobacillus stearothermophilus |
+| ETO/Formaldeído | Bacillus atrophaeus |
+| Calor seco | Bacillus atrophaeus |
+| H₂O₂ plasma | Geobacillus stearothermophilus |
+
+**Teste de Bowie-Dick:**
+- Avalia remoção de ar e penetração de vapor
+- Realizado DIARIAMENTE no primeiro ciclo
+- Pacote teste no ponto mais crítico (próximo ao dreno)
+
+### 4. Prazo de Validade da Esterilização
+
+**Não existe prazo absoluto!** Depende de:
+- Tipo de embalagem
+- Condições de armazenamento
+- Manipulação
+
+**Fatores que comprometem:**
+- Umidade, poeira, luz solar
+- Manipulação excessiva
+- Embalagem danificada
+
+### 5. Reprocessamento de Artigos de Uso Único
+
+A RDC 156/2006 estabelece requisitos para reprocessamento:
+- Somente se tecnicamente viável
+- Registro de ciclos
+- Proibido para alguns itens (implantes, materiais em contato com príons)
+        `,
+
+        pontosChave: [
+          'Classificação de Spaulding: CRÍTICOS (esterilizar), Semicríticos (desinfecção alto nível), Não críticos (desinfecção baixo nível)',
+          'Autoclave = método de ESCOLHA para esterilização',
+          'LIMPEZA é a etapa mais importante do processamento',
+          'Indicador biológico = PADRÃO OURO para monitoramento',
+          'Geobacillus stearothermophilus para vapor e H₂O₂; Bacillus atrophaeus para ETO e calor seco',
+          'Teste de Bowie-Dick: avalia remoção de ar na autoclave (diário)',
+          'RDC 15/2012: regulamenta CME',
+          'CME Classe II processa artigos de conformação COMPLEXA',
+          'Fluxo na CME: UNIDIRECIONAL (sujo → limpo → estéril)',
+          'ETO requer AERAÇÃO (material tóxico)',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Desinfecção x Esterilização',
+            descricao: 'Desinfecção NÃO elimina esporos - esterilização SIM',
+            dica: 'Esterilização = TODAS as formas de vida, incluindo esporos',
+          },
+          {
+            titulo: 'Semicríticos',
+            descricao: 'Artigos semicríticos podem ser desinfetados OU esterilizados',
+            dica: 'Não é obrigatória a esterilização para semicríticos',
+          },
+          {
+            titulo: 'Indicador Químico',
+            descricao: 'Indicador químico NÃO substitui o indicador biológico',
+            dica: 'Biológico é o padrão ouro, químico complementa',
+          },
+          {
+            titulo: 'Estufa x Autoclave',
+            descricao: 'Estufa (calor seco) NÃO é autoclave - são métodos diferentes',
+            dica: 'Autoclave = vapor saturado; Estufa = ar quente seco',
+          },
+          {
+            titulo: 'Validade da Esterilização',
+            descricao: 'Prazo de validade depende de CONDIÇÕES, não de tempo fixo',
+            dica: 'Embalagem íntegra + armazenamento correto = material estéril',
+          },
+          {
+            titulo: 'Aeração do ETO',
+            descricao: 'ETO precisa de AERAÇÃO - não pode usar o material imediatamente',
+            dica: 'ETO é tóxico, aeração remove resíduos',
+          },
+          {
+            titulo: 'Plasma de H₂O₂',
+            descricao: 'Plasma de H₂O₂ NÃO pode esterilizar celulose ou líquidos',
+            dica: 'Papel, algodão e líquidos não podem ir no Sterrad',
+          },
+          {
+            titulo: 'Bowie-Dick',
+            descricao: 'Teste de Bowie-Dick é para autoclave (remoção de ar), não para ETO',
+            dica: 'Bowie-Dick avalia penetração de vapor',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'CSN',
+            significado: 'Classificação de Spaulding',
+            frase: 'Crítico-Semicrítico-Não crítico = Pele (não crítico), Mucosa (semi), Estéril (crítico)',
+          },
+          {
+            termo: '121-15 / 134-4',
+            significado: 'Parâmetros da autoclave',
+            frase: '121°C/15min ou 134°C/4min - Temperatura mais alta = tempo menor',
+          },
+          {
+            termo: 'GEO-Vapor BA-ETO',
+            significado: 'Indicadores biológicos',
+            frase: 'Geobacillus para vapor/H₂O₂, Bacillus atrophaeus para ETO/calor seco',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-29-1',
+            frente: 'Qual a diferença entre desinfecção e esterilização?',
+            verso: 'DESINFECÇÃO elimina microrganismos patogênicos, mas NÃO esporos. ESTERILIZAÇÃO elimina TODAS as formas de vida microbiana, INCLUINDO ESPOROS.',
+            tags: ['conceitos', 'esterilização'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-29-2',
+            frente: 'O que são artigos CRÍTICOS segundo a classificação de Spaulding?',
+            verso: 'São artigos que penetram TECIDOS ESTÉREIS ou sistema vascular. Requerem ESTERILIZAÇÃO. Exemplos: instrumentos cirúrgicos, implantes, agulhas.',
+            tags: ['Spaulding', 'classificação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-29-3',
+            frente: 'Quais são os parâmetros da autoclave (vapor saturado)?',
+            verso: '121°C por 15-30 minutos OU 134°C por 3-4 minutos. A combinação de temperatura, pressão e tempo é essencial.',
+            tags: ['autoclave', 'parâmetros'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-29-4',
+            frente: 'Qual o indicador biológico usado para monitorar a autoclave?',
+            verso: 'Geobacillus stearothermophilus (esporos termofílicos). É o PADRÃO OURO para validação da esterilização por vapor.',
+            tags: ['indicador biológico', 'autoclave'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-29-5',
+            frente: 'O que é o teste de Bowie-Dick e para que serve?',
+            verso: 'Teste que avalia a REMOÇÃO DE AR e PENETRAÇÃO DE VAPOR na autoclave. Deve ser realizado DIARIAMENTE, no primeiro ciclo do dia.',
+            tags: ['Bowie-Dick', 'autoclave'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-29-6',
+            frente: 'Por que o ETO (óxido de etileno) requer aeração?',
+            verso: 'Porque o ETO é TÓXICO e deixa resíduos nos materiais. A aeração (16-48h) permite a evaporação dos resíduos antes do uso.',
+            tags: ['ETO', 'aeração'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-29-7',
+            frente: 'Qual a RDC que regulamenta a Central de Material e Esterilização (CME)?',
+            verso: 'RDC 15/2012 da ANVISA. Estabelece requisitos de BPF para processamento de produtos para saúde.',
+            tags: ['CME', 'legislação'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-29-8',
+            frente: 'Qual a diferença entre CME Classe I e Classe II?',
+            verso: 'CME Classe I: processa artigos não críticos, semicríticos e críticos de conformação NÃO complexa. CME Classe II: processa TODOS os tipos, inclusive críticos de conformação COMPLEXA.',
+            tags: ['CME', 'classificação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-29-9',
+            frente: 'Por que a limpeza é considerada a etapa mais importante do processamento?',
+            verso: 'Porque a presença de matéria orgânica IMPEDE a penetração dos agentes esterilizantes. Sem limpeza adequada, NÃO há esterilização eficaz.',
+            tags: ['limpeza', 'processamento'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-29-10',
+            frente: 'Quais materiais NÃO podem ser esterilizados por plasma de H₂O₂ (Sterrad)?',
+            verso: 'Líquidos, materiais de CELULOSE (papel, algodão), lumens longos e estreitos (<1mm diâmetro ou >2m comprimento).',
+            tags: ['plasma H₂O₂', 'limitações'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-29-1',
+            enunciado: 'Segundo a classificação de Spaulding, os artigos que entram em contato com mucosas íntegras são classificados como:',
+            alternativas: [
+              { letra: 'A', texto: 'críticos.' },
+              { letra: 'B', texto: 'semicríticos.' },
+              { letra: 'C', texto: 'não críticos.' },
+              { letra: 'D', texto: 'ultracríticos.' },
+              { letra: 'E', texto: 'supercríticos.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Artigos SEMICRÍTICOS são aqueles que entram em contato com MUCOSAS ÍNTEGRAS ou pele não íntegra. Requerem desinfecção de alto nível ou esterilização.',
+            dificuldade: 'facil',
+            competencia: 'Classificação de Spaulding',
+            banca: 'IADES',
+            tags: ['Spaulding', 'semicríticos'],
+          },
+          {
+            id: 'ce-q-29-2',
+            enunciado: 'O método de esterilização considerado de ESCOLHA para materiais termorresistentes é:',
+            alternativas: [
+              { letra: 'A', texto: 'óxido de etileno.' },
+              { letra: 'B', texto: 'plasma de peróxido de hidrogênio.' },
+              { letra: 'C', texto: 'vapor saturado sob pressão (autoclave).' },
+              { letra: 'D', texto: 'calor seco (estufa).' },
+              { letra: 'E', texto: 'radiação gama.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A AUTOCLAVE (vapor saturado sob pressão) é o método de ESCOLHA por ser rápido, seguro, econômico e não deixar resíduos tóxicos.',
+            dificuldade: 'facil',
+            competencia: 'Métodos de esterilização',
+            banca: 'IADES',
+            tags: ['autoclave', 'método de escolha'],
+          },
+          {
+            id: 'ce-q-29-3',
+            enunciado: 'O indicador biológico utilizado para monitorar a esterilização por vapor é composto de esporos de:',
+            alternativas: [
+              { letra: 'A', texto: 'Bacillus atrophaeus.' },
+              { letra: 'B', texto: 'Geobacillus stearothermophilus.' },
+              { letra: 'C', texto: 'Staphylococcus aureus.' },
+              { letra: 'D', texto: 'Escherichia coli.' },
+              { letra: 'E', texto: 'Clostridium difficile.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Geobacillus stearothermophilus é o indicador biológico para VAPOR e H₂O₂ plasma. Bacillus atrophaeus é usado para ETO e calor seco.',
+            dificuldade: 'medio',
+            competencia: 'Indicadores biológicos',
+            banca: 'IADES',
+            tags: ['indicador biológico', 'Geobacillus'],
+          },
+          {
+            id: 'ce-q-29-4',
+            enunciado: 'A etapa do processamento de produtos para saúde considerada a MAIS IMPORTANTE é:',
+            alternativas: [
+              { letra: 'A', texto: 'a esterilização.' },
+              { letra: 'B', texto: 'a secagem.' },
+              { letra: 'C', texto: 'a limpeza.' },
+              { letra: 'D', texto: 'o empacotamento.' },
+              { letra: 'E', texto: 'o armazenamento.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A LIMPEZA é a etapa mais importante porque a matéria orgânica impede a penetração dos agentes esterilizantes. Sem limpeza, não há esterilização eficaz.',
+            dificuldade: 'facil',
+            competencia: 'Processamento de materiais',
+            banca: 'IADES',
+            tags: ['limpeza', 'processamento'],
+          },
+          {
+            id: 'ce-q-29-5',
+            enunciado: 'O teste de Bowie-Dick tem como objetivo avaliar:',
+            alternativas: [
+              { letra: 'A', texto: 'a presença de príons nos materiais.' },
+              { letra: 'B', texto: 'a remoção de ar e penetração de vapor.' },
+              { letra: 'C', texto: 'a concentração de óxido de etileno.' },
+              { letra: 'D', texto: 'a viabilidade dos esporos biológicos.' },
+              { letra: 'E', texto: 'a integridade das embalagens.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O teste de Bowie-Dick avalia a REMOÇÃO DE AR e PENETRAÇÃO DE VAPOR na autoclave. Deve ser realizado diariamente, no primeiro ciclo.',
+            dificuldade: 'medio',
+            competencia: 'Teste de Bowie-Dick',
+            banca: 'IADES',
+            tags: ['Bowie-Dick', 'autoclave'],
+          },
+          {
+            id: 'ce-q-29-6',
+            enunciado: 'A RDC que regulamenta o processamento de produtos para saúde em serviços de saúde é a:',
+            alternativas: [
+              { letra: 'A', texto: 'RDC 63/2011.' },
+              { letra: 'B', texto: 'RDC 15/2012.' },
+              { letra: 'C', texto: 'RDC 36/2013.' },
+              { letra: 'D', texto: 'RDC 50/2002.' },
+              { letra: 'E', texto: 'RDC 7/2010.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A RDC 15/2012 da ANVISA estabelece os requisitos de boas práticas para o processamento de produtos para saúde em serviços de saúde.',
+            dificuldade: 'medio',
+            competencia: 'Legislação CME',
+            banca: 'IADES',
+            tags: ['RDC 15/2012', 'CME'],
+          },
+          {
+            id: 'ce-q-29-7',
+            enunciado: 'O método de esterilização por óxido de etileno (ETO) requer aeração porque:',
+            alternativas: [
+              { letra: 'A', texto: 'o material precisa secar completamente.' },
+              { letra: 'B', texto: 'os esporos precisam de oxigênio para morrer.' },
+              { letra: 'C', texto: 'o ETO é tóxico e deixa resíduos nos materiais.' },
+              { letra: 'D', texto: 'a temperatura precisa baixar antes do uso.' },
+              { letra: 'E', texto: 'o vapor precisa ser removido das embalagens.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O óxido de etileno é TÓXICO e deixa resíduos nos materiais. A aeração (16-48h) permite a evaporação desses resíduos antes do uso seguro.',
+            dificuldade: 'medio',
+            competencia: 'ETO',
+            banca: 'IADES',
+            tags: ['ETO', 'aeração', 'toxicidade'],
+          },
+          {
+            id: 'ce-q-29-8',
+            enunciado: 'Quanto à classificação da CME segundo a RDC 15/2012, a CME Classe II é aquela que:',
+            alternativas: [
+              { letra: 'A', texto: 'processa apenas artigos não críticos.' },
+              { letra: 'B', texto: 'processa artigos críticos de conformação não complexa.' },
+              { letra: 'C', texto: 'processa artigos críticos de conformação complexa.' },
+              { letra: 'D', texto: 'não processa artigos implantáveis.' },
+              { letra: 'E', texto: 'processa apenas artigos descartáveis.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'CME Classe II processa TODOS os tipos de artigos, incluindo críticos de conformação COMPLEXA (como instrumentos de videocirurgia).',
+            dificuldade: 'medio',
+            competencia: 'Classificação CME',
+            banca: 'IADES',
+            tags: ['CME', 'Classe II'],
+          },
+          {
+            id: 'ce-q-29-9',
+            enunciado: 'O indicador de esterilização considerado PADRÃO OURO para validação do processo é o indicador:',
+            alternativas: [
+              { letra: 'A', texto: 'físico.' },
+              { letra: 'B', texto: 'químico classe 1.' },
+              { letra: 'C', texto: 'químico classe 5.' },
+              { letra: 'D', texto: 'biológico.' },
+              { letra: 'E', texto: 'químico classe 6.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'O indicador BIOLÓGICO (esporos) é o PADRÃO OURO porque demonstra a eliminação efetiva de microrganismos, não apenas os parâmetros físico-químicos.',
+            dificuldade: 'facil',
+            competencia: 'Indicadores de esterilização',
+            banca: 'IADES',
+            tags: ['indicador biológico', 'padrão ouro'],
+          },
+          {
+            id: 'ce-q-29-10',
+            enunciado: 'São limitações do método de esterilização por plasma de peróxido de hidrogênio, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'materiais de celulose.' },
+              { letra: 'B', texto: 'líquidos.' },
+              { letra: 'C', texto: 'lumens longos e estreitos.' },
+              { letra: 'D', texto: 'metais termorresistentes.' },
+              { letra: 'E', texto: 'embalagens de papel.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Metais termorresistentes PODEM ser esterilizados por plasma de H₂O₂. As limitações são: celulose, papel, líquidos e lumens longos/estreitos.',
+            dificuldade: 'medio',
+            competencia: 'Plasma de H₂O₂',
+            banca: 'IADES',
+            tags: ['plasma H₂O₂', 'limitações'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-30',
+      numero: 30,
+      titulo: 'Segurança Radiológica',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Conceitos de Radioproteção
+
+| Termo | Definição |
+|-------|-----------|
+| **Radiação ionizante** | Possui energia suficiente para ionizar átomos (raios X, gama, alfa, beta) |
+| **Dose absorvida** | Energia absorvida por massa de tecido (Gray - Gy) |
+| **Dose equivalente** | Dose absorvida × fator de qualidade (Sievert - Sv) |
+| **Dose efetiva** | Dose equivalente × fator de ponderação tecidual (Sv) |
+
+### Princípios da Radioproteção (ALARA)
+
+| Princípio | Significado |
+|-----------|-------------|
+| **Justificação** | Benefício > Risco |
+| **Otimização (ALARA)** | Doses tão baixas quanto razoavelmente exequíveis |
+| **Limitação de dose** | Não ultrapassar limites estabelecidos |
+
+### Limites de Dose (CNEN)
+
+| Categoria | Dose efetiva anual |
+|-----------|-------------------|
+| **IOE (trabalhador)** | 20 mSv/ano (média 5 anos) |
+| **Público geral** | 1 mSv/ano |
+| **Cristalino (IOE)** | 20 mSv/ano |
+| **Extremidades (IOE)** | 500 mSv/ano |
+
+### Legislação Principal
+
+| Norma | Assunto |
+|-------|---------|
+| **RDC 611/2022** | Requisitos de proteção radiológica para uso diagnóstico |
+| **Lei 7.394/1985** | Regulamenta profissão de técnico em radiologia |
+| **CNEN NN 3.01** | Diretrizes básicas de proteção radiológica |
+| **Portaria SVS/MS 453/1998** | Radiodiagnóstico médico e odontológico (revogada pela RDC 611) |
+
+### Acidente Radiológico do Césio-137 (Goiânia, 1987)
+
+**MARCO HISTÓRICO PARA VIGILÂNCIA SANITÁRIA EM GOIÁS!**
+
+| Aspecto | Dados |
+|---------|-------|
+| **Data** | 13 de setembro de 1987 |
+| **Local** | Goiânia - GO |
+| **Fonte** | Cápsula de Césio-137 de equipamento de radioterapia abandonado |
+| **Vítimas** | 4 mortes diretas, centenas de contaminados |
+| **Lições** | Necessidade de controle de fontes radioativas |
+
+### Para IADES/SUVISA-GO:
+- Césio-137 = maior acidente radiológico urbano do mundo
+- Reforçou importância da VISA no controle de equipamentos médicos
+- IOE = Indivíduo Ocupacionalmente Exposto
+- ALARA = As Low As Reasonably Achievable
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Fundamentos de Radioproteção
+
+#### 1.1 Tipos de Radiação Ionizante
+
+| Tipo | Natureza | Penetração | Blindagem |
+|------|----------|------------|-----------|
+| **Alfa (α)** | Partícula (2p + 2n) | Baixa (pele) | Papel |
+| **Beta (β)** | Elétron ou pósitron | Média | Acrílico, alumínio |
+| **Gama (γ)** | Fóton eletromagnético | Alta | Chumbo, concreto |
+| **Raios X** | Fóton eletromagnético | Alta | Chumbo |
+| **Nêutrons** | Partícula | Muito alta | Água, parafina |
+
+#### 1.2 Efeitos Biológicos
+
+**Efeitos DETERMINÍSTICOS (ou teciduais):**
+- Têm LIMIAR de dose
+- Gravidade proporcional à dose
+- Exemplos: eritema, catarata, síndrome aguda da radiação
+
+**Efeitos ESTOCÁSTICOS (ou probabilísticos):**
+- NÃO têm limiar
+- Probabilidade aumenta com a dose (gravidade não)
+- Exemplos: câncer, efeitos hereditários
+
+#### 1.3 Grandezas e Unidades
+
+| Grandeza | Unidade SI | Significado |
+|----------|------------|-------------|
+| Atividade | Becquerel (Bq) | Desintegrações por segundo |
+| Dose absorvida | Gray (Gy) | J/kg |
+| Dose equivalente | Sievert (Sv) | Dose × fator de qualidade |
+| Exposição | Coulomb/kg | Ionização no ar |
+
+### 2. Princípios de Radioproteção
+
+#### 2.1 Justificação
+Toda exposição deve ser JUSTIFICADA - o benefício deve superar o detrimento.
+
+#### 2.2 Otimização (ALARA)
+**A**s **L**ow **A**s **R**easonably **A**chievable
+Exposições devem ser mantidas tão baixas quanto razoavelmente exequíveis.
+
+**Fatores de proteção:**
+- **Tempo**: menor tempo de exposição
+- **Distância**: afastar-se da fonte (lei do inverso do quadrado)
+- **Blindagem**: barreiras de proteção
+
+#### 2.3 Limites de Dose
+Doses individuais não devem ultrapassar os limites estabelecidos.
+
+**Limites para IOE (CNEN NN 3.01):**
+| Região | Limite anual |
+|--------|--------------|
+| Corpo inteiro (dose efetiva) | 20 mSv (média 5 anos), máx 50 mSv/ano |
+| Cristalino | 20 mSv/ano |
+| Pele | 500 mSv/ano |
+| Extremidades | 500 mSv/ano |
+
+**Público geral:** 1 mSv/ano
+
+### 3. Estrutura Regulatória
+
+#### 3.1 CNEN (Comissão Nacional de Energia Nuclear)
+- Autarquia federal vinculada ao MCTI
+- Licencia e fiscaliza instalações nucleares e radiativas
+- Normas CNEN-NN
+
+#### 3.2 ANVISA
+- Regulamenta equipamentos de radiodiagnóstico médico
+- RDC 611/2022: requisitos para uso diagnóstico de raios X
+
+#### 3.3 Vigilância Sanitária
+- Fiscalização local de serviços de radiodiagnóstico
+- Licenciamento sanitário
+- Monitoramento de conformidade
+
+### 4. Serviços de Radiodiagnóstico (RDC 611/2022)
+
+#### 4.1 Requisitos Principais
+- Responsável técnico habilitado
+- Programa de proteção radiológica
+- Monitoração individual dos IOE
+- Levantamento radiométrico
+- Controle de qualidade dos equipamentos
+- Registro de doses
+
+#### 4.2 Equipamentos de Proteção Individual (EPI)
+- Avental de chumbo (0,5 mm Pb)
+- Protetor de tireoide
+- Óculos plumbíferos
+- Luvas plumbíferas
+- Protetor de gônadas (pacientes)
+
+### 5. Acidente do Césio-137 em Goiânia (1987)
+
+#### 5.1 Cronologia dos Fatos
+
+**13/09/1987:** Roberto dos Santos Alves e Wagner Mota Pereira encontram equipamento de radioterapia abandonado no Instituto Goiano de Radioterapia (IGR).
+
+**Dias seguintes:** A cápsula de Cs-137 é levada para casa de Roberto, depois vendida ao ferro-velho de Devair Alves Ferreira.
+
+**18/09/1987:** Devair abre a cápsula e encontra um pó azul brilhante (cloreto de césio). Distribui para familiares e amigos como "objeto mágico".
+
+**28/09/1987:** Gabriela, esposa de Devair, suspeita da relação entre o material e os sintomas. Leva restos da fonte à Vigilância Sanitária.
+
+**29/09/1987:** Físico da CNEN confirma a contaminação radioativa.
+
+#### 5.2 Consequências
+
+| Aspecto | Dados |
+|---------|-------|
+| **Mortes diretas** | 4 pessoas (incluindo Leide das Neves, 6 anos) |
+| **Contaminados** | ~250 pessoas |
+| **Monitorados** | ~112.000 pessoas |
+| **Rejeitos** | 3.500 m³ de material contaminado |
+| **Dose máxima** | ~7.000 mSv (Devair) |
+
+#### 5.3 Lições Aprendidas
+
+**Para Vigilância Sanitária:**
+1. Importância do controle de equipamentos médicos desativados
+2. Necessidade de rastreamento de fontes radioativas
+3. Capacitação para reconhecer emergências radiológicas
+4. Integração VISA-CNEN
+
+**Legislação decorrente:**
+- Lei 9.765/1998: indenização às vítimas
+- Reforço na fiscalização de fontes radioativas
+- Criação de cadastro nacional de fontes
+
+#### 5.4 Memorial e Monitoramento
+
+- **Depósito de rejeitos**: localizado em Abadia de Goiás
+- **Centro de Excelência em Ensino, Pesquisa e Projetos "Leide das Neves Ferreira"**
+- **Monitoramento contínuo** das vítimas pela SES-GO
+
+### 6. Aplicações para VISA-GO
+
+Como fiscal da SUVISA-GO, é essencial:
+1. Conhecer a história do Cs-137 (marca da vigilância sanitária goiana)
+2. Verificar licenciamento de serviços de radiologia
+3. Fiscalizar condições de proteção radiológica
+4. Checar programa de controle de qualidade
+5. Verificar monitoração individual dos trabalhadores
+        `,
+
+        pontosChave: [
+          'ALARA = As Low As Reasonably Achievable (otimização)',
+          'Limites IOE: 20 mSv/ano (corpo inteiro), 500 mSv (extremidades)',
+          'Limite público: 1 mSv/ano',
+          'Efeitos determinísticos TÊM limiar; estocásticos NÃO têm',
+          'RDC 611/2022: requisitos para radiodiagnóstico médico',
+          'CNEN: licencia e fiscaliza; ANVISA: regula equipamentos',
+          'Cs-137 Goiânia (1987): maior acidente radiológico urbano do mundo',
+          '4 mortes diretas no acidente do Césio-137',
+          'Leide das Neves: criança símbolo do acidente',
+          'VISA foi quem recebeu a denúncia do Cs-137',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Gray x Sievert',
+            descricao: 'Gray (Gy) é dose ABSORVIDA; Sievert (Sv) é dose EQUIVALENTE/EFETIVA',
+            dica: 'Gy = energia/massa; Sv = considera tipo de radiação',
+          },
+          {
+            titulo: 'Efeitos Estocásticos',
+            descricao: 'Efeitos estocásticos (câncer) NÃO têm limiar - qualquer dose tem risco',
+            dica: 'Determinísticos TÊM limiar; estocásticos NÃO',
+          },
+          {
+            titulo: 'Data do Césio-137',
+            descricao: 'Césio-137 foi em 1987, não 1986 (Chernobyl foi 1986)',
+            dica: 'Cs-137 = setembro 1987; Chernobyl = abril 1986',
+          },
+          {
+            titulo: 'Fonte do Césio',
+            descricao: 'A fonte de Cs-137 era de RADIOTERAPIA, não de diagnóstico',
+            dica: 'Equipamento abandonado de tratamento oncológico',
+          },
+          {
+            titulo: 'Limite de 20 mSv',
+            descricao: 'Limite de 20 mSv é MÉDIA em 5 anos, não máximo absoluto',
+            dica: 'Pode ser até 50 mSv em um ano específico',
+          },
+          {
+            titulo: 'RDC 611/2022',
+            descricao: 'RDC 611/2022 substituiu a Portaria 453/1998',
+            dica: 'Cuidado com questões desatualizadas',
+          },
+          {
+            titulo: 'Blindagem',
+            descricao: 'Blindagem para gama/X é CHUMBO, não acrílico (que é para beta)',
+            dica: 'Alfa=papel, Beta=acrílico, Gama/X=chumbo',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'JOL',
+            significado: 'Princípios da radioproteção',
+            frase: 'Justificação, Otimização, Limitação',
+          },
+          {
+            termo: 'TDB',
+            significado: 'Fatores de proteção',
+            frase: 'Tempo, Distância, Blindagem - menor tempo, maior distância, usar blindagem',
+          },
+          {
+            termo: '20-1-500',
+            significado: 'Limites de dose anuais',
+            frase: 'IOE=20mSv, Público=1mSv, Extremidades=500mSv',
+          },
+          {
+            termo: '87-GO-4',
+            significado: 'Acidente do Césio-137',
+            frase: '1987, Goiânia, 4 mortes diretas',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-30-1',
+            frente: 'O que significa ALARA em radioproteção?',
+            verso: 'As Low As Reasonably Achievable - as exposições devem ser mantidas TÃO BAIXAS QUANTO RAZOAVELMENTE EXEQUÍVEIS, considerando fatores econômicos e sociais.',
+            tags: ['ALARA', 'princípios'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-30-2',
+            frente: 'Qual o limite de dose efetiva anual para trabalhadores (IOE)?',
+            verso: '20 mSv/ano em média (5 anos), podendo chegar a 50 mSv em um ano específico. Para público geral: 1 mSv/ano.',
+            tags: ['limites de dose', 'IOE'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-30-3',
+            frente: 'Qual a diferença entre efeitos determinísticos e estocásticos da radiação?',
+            verso: 'DETERMINÍSTICOS: têm LIMIAR de dose, gravidade proporcional à dose (ex: catarata, eritema). ESTOCÁSTICOS: NÃO têm limiar, probabilidade aumenta com dose (ex: câncer).',
+            tags: ['efeitos biológicos', 'radiação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-30-4',
+            frente: 'O que foi o acidente do Césio-137 em Goiânia?',
+            verso: 'Acidente radiológico ocorrido em setembro de 1987, quando uma cápsula de Cs-137 de um equipamento de radioterapia abandonado foi aberta. Causou 4 mortes e centenas de contaminados. MAIOR ACIDENTE RADIOLÓGICO URBANO DO MUNDO.',
+            tags: ['Cs-137', 'Goiânia'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-30-5',
+            frente: 'Quem alertou as autoridades sobre o Césio-137 em Goiânia?',
+            verso: 'GABRIELA (esposa de Devair) levou os restos da fonte à VIGILÂNCIA SANITÁRIA em 28/09/1987, suspeitando da relação entre o material e os sintomas de doença.',
+            tags: ['Cs-137', 'VISA'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-30-6',
+            frente: 'Quais são os três princípios básicos da radioproteção?',
+            verso: '1. JUSTIFICAÇÃO (benefício > risco), 2. OTIMIZAÇÃO (ALARA), 3. LIMITAÇÃO DE DOSE (não ultrapassar limites estabelecidos).',
+            tags: ['princípios', 'radioproteção'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-30-7',
+            frente: 'Quais são os três fatores de proteção radiológica?',
+            verso: 'TEMPO (menor exposição), DISTÂNCIA (afastar da fonte - lei do inverso do quadrado) e BLINDAGEM (barreiras de proteção).',
+            tags: ['fatores proteção', 'radioproteção'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-30-8',
+            frente: 'Qual a RDC que estabelece requisitos para proteção radiológica em radiodiagnóstico?',
+            verso: 'RDC 611/2022 da ANVISA. Substituiu a Portaria SVS/MS 453/1998.',
+            tags: ['legislação', 'RDC 611'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-30-9',
+            frente: 'O que é IOE em radioproteção?',
+            verso: 'Indivíduo Ocupacionalmente Exposto - trabalhador que, em consequência de seu trabalho, pode receber doses de radiação superiores aos limites do público.',
+            tags: ['IOE', 'trabalhador'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-30-10',
+            frente: 'Quantas pessoas morreram diretamente no acidente do Césio-137?',
+            verso: '4 pessoas: Leide das Neves Ferreira (6 anos), Maria Gabriela Ferreira, Israel Batista dos Santos e Admilson Alves de Souza.',
+            tags: ['Cs-137', 'vítimas'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-30-1',
+            enunciado: 'O princípio da radioproteção que estabelece que toda exposição à radiação deve ter um benefício que justifique o risco é o princípio da:',
+            alternativas: [
+              { letra: 'A', texto: 'otimização.' },
+              { letra: 'B', texto: 'limitação de dose.' },
+              { letra: 'C', texto: 'justificação.' },
+              { letra: 'D', texto: 'proporcionalidade.' },
+              { letra: 'E', texto: 'precaução.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O princípio da JUSTIFICAÇÃO determina que toda exposição deve ser justificada - o benefício deve superar o detrimento (risco).',
+            dificuldade: 'facil',
+            competencia: 'Princípios de radioproteção',
+            banca: 'IADES',
+            tags: ['justificação', 'princípios'],
+          },
+          {
+            id: 'ce-q-30-2',
+            enunciado: 'O limite de dose efetiva anual para indivíduos do público geral é de:',
+            alternativas: [
+              { letra: 'A', texto: '1 mSv.' },
+              { letra: 'B', texto: '5 mSv.' },
+              { letra: 'C', texto: '20 mSv.' },
+              { letra: 'D', texto: '50 mSv.' },
+              { letra: 'E', texto: '100 mSv.' },
+            ],
+            gabarito: 'A',
+            justificativa: 'O limite para o PÚBLICO GERAL é 1 mSv/ano. Para trabalhadores (IOE) é 20 mSv/ano em média (5 anos).',
+            dificuldade: 'facil',
+            competencia: 'Limites de dose',
+            banca: 'IADES',
+            tags: ['limites', 'público'],
+          },
+          {
+            id: 'ce-q-30-3',
+            enunciado: 'A sigla ALARA, relacionada à radioproteção, significa:',
+            alternativas: [
+              { letra: 'A', texto: 'Always Look At Radiation Area.' },
+              { letra: 'B', texto: 'As Low As Reasonably Achievable.' },
+              { letra: 'C', texto: 'Authorized Limit And Radiation Assessment.' },
+              { letra: 'D', texto: 'Advanced Level And Radiation Analysis.' },
+              { letra: 'E', texto: 'Always Limit Any Radiation Activity.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'ALARA = As Low As Reasonably Achievable (tão baixo quanto razoavelmente exequível). É o princípio da otimização.',
+            dificuldade: 'facil',
+            competencia: 'ALARA',
+            banca: 'IADES',
+            tags: ['ALARA', 'otimização'],
+          },
+          {
+            id: 'ce-q-30-4',
+            enunciado: 'O acidente radiológico do Césio-137 em Goiânia ocorreu em:',
+            alternativas: [
+              { letra: 'A', texto: '1985.' },
+              { letra: 'B', texto: '1986.' },
+              { letra: 'C', texto: '1987.' },
+              { letra: 'D', texto: '1988.' },
+              { letra: 'E', texto: '1989.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O acidente do Césio-137 ocorreu em setembro de 1987 em Goiânia-GO. É considerado o maior acidente radiológico urbano do mundo.',
+            dificuldade: 'facil',
+            competencia: 'Acidente Cs-137',
+            banca: 'IADES',
+            tags: ['Cs-137', 'Goiânia', '1987'],
+          },
+          {
+            id: 'ce-q-30-5',
+            enunciado: 'No acidente radiológico de Goiânia, a fonte de Césio-137 era proveniente de um equipamento de:',
+            alternativas: [
+              { letra: 'A', texto: 'raios X diagnóstico.' },
+              { letra: 'B', texto: 'tomografia computadorizada.' },
+              { letra: 'C', texto: 'radioterapia.' },
+              { letra: 'D', texto: 'medicina nuclear.' },
+              { letra: 'E', texto: 'densitometria óssea.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A fonte de Cs-137 era de um equipamento de RADIOTERAPIA abandonado no antigo Instituto Goiano de Radioterapia.',
+            dificuldade: 'medio',
+            competencia: 'Acidente Cs-137',
+            banca: 'IADES',
+            tags: ['Cs-137', 'radioterapia'],
+          },
+          {
+            id: 'ce-q-30-6',
+            enunciado: 'Os efeitos da radiação que NÃO possuem limiar de dose e cuja probabilidade de ocorrência aumenta com a dose são os efeitos:',
+            alternativas: [
+              { letra: 'A', texto: 'determinísticos.' },
+              { letra: 'B', texto: 'estocásticos.' },
+              { letra: 'C', texto: 'teciduais.' },
+              { letra: 'D', texto: 'imediatos.' },
+              { letra: 'E', texto: 'agudos.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Efeitos ESTOCÁSTICOS (como câncer) NÃO têm limiar de dose - qualquer dose pode induzir o efeito. A probabilidade (não a gravidade) aumenta com a dose.',
+            dificuldade: 'medio',
+            competencia: 'Efeitos biológicos',
+            banca: 'IADES',
+            tags: ['estocásticos', 'efeitos'],
+          },
+          {
+            id: 'ce-q-30-7',
+            enunciado: 'São fatores de proteção radiológica, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'tempo.' },
+              { letra: 'B', texto: 'distância.' },
+              { letra: 'C', texto: 'blindagem.' },
+              { letra: 'D', texto: 'temperatura.' },
+              { letra: 'E', texto: 'uso de EPIs.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Os fatores de proteção radiológica são: TEMPO (reduzir), DISTÂNCIA (aumentar) e BLINDAGEM (usar barreiras). Temperatura não é fator de proteção.',
+            dificuldade: 'facil',
+            competencia: 'Fatores de proteção',
+            banca: 'IADES',
+            tags: ['fatores', 'proteção'],
+          },
+          {
+            id: 'ce-q-30-8',
+            enunciado: 'A RDC que estabelece os requisitos de proteção radiológica para uso de raios X diagnóstico é a:',
+            alternativas: [
+              { letra: 'A', texto: 'RDC 50/2002.' },
+              { letra: 'B', texto: 'RDC 611/2022.' },
+              { letra: 'C', texto: 'RDC 15/2012.' },
+              { letra: 'D', texto: 'RDC 36/2013.' },
+              { letra: 'E', texto: 'RDC 7/2010.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A RDC 611/2022 da ANVISA estabelece os requisitos de proteção radiológica para o uso de raios X diagnóstico, substituindo a Portaria 453/1998.',
+            dificuldade: 'medio',
+            competencia: 'Legislação',
+            banca: 'IADES',
+            tags: ['RDC 611/2022', 'legislação'],
+          },
+          {
+            id: 'ce-q-30-9',
+            enunciado: 'No contexto da radioproteção, IOE significa:',
+            alternativas: [
+              { letra: 'A', texto: 'Instrumento Oficial de Exposição.' },
+              { letra: 'B', texto: 'Índice de Operação Efetiva.' },
+              { letra: 'C', texto: 'Indivíduo Ocupacionalmente Exposto.' },
+              { letra: 'D', texto: 'Indicador de Otimização Esperada.' },
+              { letra: 'E', texto: 'Instituto de Operadores de Equipamentos.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'IOE = Indivíduo Ocupacionalmente Exposto - trabalhador que pode receber doses superiores aos limites do público em função de seu trabalho.',
+            dificuldade: 'facil',
+            competencia: 'Terminologia',
+            banca: 'IADES',
+            tags: ['IOE', 'definição'],
+          },
+          {
+            id: 'ce-q-30-10',
+            enunciado: 'A autoridade sanitária que foi procurada inicialmente para investigar o acidente do Césio-137 em Goiânia foi:',
+            alternativas: [
+              { letra: 'A', texto: 'ANVISA.' },
+              { letra: 'B', texto: 'CNEN.' },
+              { letra: 'C', texto: 'Vigilância Sanitária.' },
+              { letra: 'D', texto: 'Polícia Federal.' },
+              { letra: 'E', texto: 'Defesa Civil.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Gabriela, esposa de Devair, levou os restos da fonte radioativa à VIGILÂNCIA SANITÁRIA de Goiânia, que acionou a CNEN para confirmação da contaminação.',
+            dificuldade: 'medio',
+            competencia: 'Acidente Cs-137',
+            banca: 'IADES',
+            tags: ['Cs-137', 'VISA', 'Goiânia'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-31',
+      numero: 31,
+      titulo: 'Gerenciamento de Resíduos de Serviços de Saúde',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Legislação Principal
+
+| Norma | Assunto |
+|-------|---------|
+| **RDC 222/2018** | Boas práticas de gerenciamento de RSS |
+| **CONAMA 358/2005** | Tratamento e disposição final de RSS |
+| **Lei 12.305/2010** | Política Nacional de Resíduos Sólidos |
+
+### Classificação dos RSS (ANVISA/CONAMA)
+
+| Grupo | Descrição | Símbolo | Exemplos |
+|-------|-----------|---------|----------|
+| **A** | Biológicos | Infectante | Culturas, peças anatômicas, bolsas de sangue |
+| **B** | Químicos | Risco químico | Medicamentos, quimioterápicos, reagentes |
+| **C** | Radioativos | Radioativo | Rejeitos de medicina nuclear |
+| **D** | Comuns | Reciclável ou não | Papel, restos alimentares |
+| **E** | Perfurocortantes | Perfurocortante | Agulhas, lâminas, ampolas |
+
+### Subgrupos do Grupo A
+
+| Subgrupo | Características | Tratamento |
+|----------|-----------------|------------|
+| **A1** | Alto risco (culturas, vacinas vivas, bolsas contaminadas) | Tratamento ANTES da disposição |
+| **A2** | Carcaças e peças anatômicas de animais | Tratamento ou cremação |
+| **A3** | Peças anatômicas humanas (membros, órgãos) | Sepultamento ou cremação |
+| **A4** | Risco comum (kits de linhas arteriais, filtros de ar, etc.) | Pode ir direto ao aterro (sem tratamento) |
+| **A5** | Príons (doenças priônicas - encefalopatias) | INCINERAÇÃO obrigatória |
+
+### Etapas do Gerenciamento
+
+1. **Segregação**: separar no momento da geração
+2. **Acondicionamento**: embalar conforme o grupo
+3. **Identificação**: simbologia padronizada
+4. **Transporte interno**: coleta e translado
+5. **Armazenamento temporário**: sala de resíduos
+6. **Tratamento**: quando necessário
+7. **Armazenamento externo**: abrigo de resíduos
+8. **Coleta externa**: empresa licenciada
+9. **Disposição final**: aterro ou incinerador
+
+### Acondicionamento
+
+| Grupo | Recipiente |
+|-------|------------|
+| **A** | Saco branco leitoso c/ símbolo infectante |
+| **B** | Conforme compatibilidade química |
+| **C** | Conforme normas da CNEN |
+| **D** | Saco preto/cinza (comum) ou azul (reciclável) |
+| **E** | Caixa rígida amarela (Descartex®) |
+
+### Para IADES:
+- PGRSS é OBRIGATÓRIO para todos os geradores
+- Segregação na FONTE (onde é gerado)
+- Grupo A4 NÃO precisa de tratamento
+- Grupo A5 (príons): INCINERAÇÃO obrigatória
+- Perfurocortantes: preencher até 2/3 da capacidade
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Marco Legal e Regulatório
+
+#### 1.1 Estrutura Normativa
+| Órgão | Norma | Foco |
+|-------|-------|------|
+| **ANVISA** | RDC 222/2018 | Gerenciamento interno (até a coleta externa) |
+| **CONAMA** | Resolução 358/2005 | Tratamento e disposição final |
+| **MMA** | Lei 12.305/2010 | Política Nacional de Resíduos Sólidos |
+
+#### 1.2 Definições Importantes
+- **RSS**: Resíduos de Serviços de Saúde - gerados em estabelecimentos de saúde
+- **PGRSS**: Plano de Gerenciamento de Resíduos de Serviços de Saúde
+- **Gerador**: pessoa física ou jurídica que produz RSS
+
+### 2. Classificação Detalhada dos RSS
+
+#### 2.1 Grupo A - Resíduos com Risco Biológico
+
+**Subgrupo A1** (tratamento obrigatório):
+- Culturas e estoques de microrganismos
+- Vacinas de microrganismos vivos ou atenuados
+- Bolsas de sangue contaminadas ou com prazo vencido
+- Resíduos de laboratórios de manipulação genética
+
+**Subgrupo A2** (animais):
+- Carcaças, peças anatômicas, vísceras
+- Animais de experimentação com microrganismos
+- Tratamento antes da disposição
+
+**Subgrupo A3** (peças humanas):
+- Peças anatômicas (membros, órgãos, fetos)
+- Produto de fecundação sem sinais vitais
+- Destino: sepultamento ou cremação
+
+**Subgrupo A4** (risco reduzido - sem tratamento):
+- Kits de linhas arteriais, endovenosas
+- Filtros de ar e gases de área contaminada
+- Sobras de amostras de laboratório
+- Resíduos de procedimentos com sangue (pequenas quantidades)
+- **PODE IR DIRETO AO ATERRO** (não precisa tratamento)
+
+**Subgrupo A5** (príons):
+- Materiais em contato com pacientes com doenças priônicas
+- Ex: Creutzfeldt-Jakob (DCJ)
+- **INCINERAÇÃO OBRIGATÓRIA**
+
+#### 2.2 Grupo B - Resíduos Químicos
+
+**Perigosos (tratamento obrigatório):**
+- Medicamentos vencidos, contaminados, parcialmente utilizados
+- Resíduos de quimioterápicos (citostáticos)
+- Resíduos de mercúrio (termômetros antigos)
+- Reveladores e fixadores (radiologia)
+- Saneantes, desinfetantes
+
+**Características:**
+- Inflamabilidade, corrosividade, reatividade, toxicidade
+- Embalagem compatível com o resíduo
+- Identificação com símbolo de risco químico
+
+#### 2.3 Grupo C - Rejeitos Radioativos
+
+- Materiais com radionuclídeos acima dos níveis de dispensa
+- Gerenciamento conforme CNEN
+- Exemplo: resíduos de medicina nuclear (tecnécio-99m, iodo-131)
+
+**Princípio:** DECAIMENTO antes da disposição (quando possível)
+
+#### 2.4 Grupo D - Resíduos Comuns
+
+**Não recicláveis:**
+- Papel de uso sanitário
+- Restos alimentares de pacientes
+- Fraldas descartáveis
+
+**Recicláveis:**
+- Papel de escritório, jornais
+- Plásticos, vidros, metais não contaminados
+- Embalagens em geral
+
+**Saco preto ou cinza** (não reciclável) / **Saco azul** (reciclável)
+
+#### 2.5 Grupo E - Perfurocortantes
+
+- Agulhas, escalpes, lâminas de bisturi
+- Lamínulas, tubos capilares
+- Ponteiras de micropipetas
+- Ampolas de vidro quebradas
+
+**Acondicionamento:**
+- Caixa rígida, resistente à punctura
+- Cor AMARELA com símbolo de perfurocortante
+- Preencher até 2/3 (⅔) da capacidade
+- Fechar quando atingir limite
+
+### 3. Etapas do Gerenciamento
+
+#### 3.1 Segregação
+- Separação dos resíduos NO MOMENTO E LOCAL da geração
+- **MAIS IMPORTANTE** para eficiência do sistema
+- Responsabilidade de QUEM GERA
+
+#### 3.2 Acondicionamento
+| Grupo | Acondicionamento |
+|-------|------------------|
+| A | Saco branco leitoso, impermeável, com símbolo |
+| B | Recipiente compatível com característica química |
+| C | Conforme CNEN |
+| D | Saco preto/cinza ou azul |
+| E | Caixa perfurocortante rígida, amarela |
+
+#### 3.3 Identificação
+- Símbolos padronizados conforme NBR 7500
+- Grupo A: símbolo de infectante
+- Grupo B: símbolo de risco químico
+- Grupo C: símbolo de radioativo
+- Grupo E: símbolo de perfurocortante
+
+#### 3.4 Transporte Interno
+- Carros coletores exclusivos, tampados
+- Roteiros e horários definidos
+- Não coincidir com horários de distribuição de alimentos/medicamentos
+
+#### 3.5 Armazenamento
+
+**Temporário (sala de resíduos):**
+- Ambiente exclusivo
+- Piso e paredes laváveis
+- Ralo sifonado com tampa
+
+**Externo (abrigo):**
+- Área coberta, ventilada
+- Acesso restrito
+- Identificação dos grupos
+
+#### 3.6 Tratamento
+| Método | Indicação |
+|--------|-----------|
+| Autoclavagem | Grupos A (exceto A5) |
+| Incineração | Grupos A5, B (alguns) |
+| Tratamento químico | Grupo B específico |
+| Decaimento | Grupo C (quando possível) |
+
+#### 3.7 Disposição Final
+- Aterro sanitário licenciado
+- Vala séptica (municípios pequenos)
+- Incineração (quando obrigatório)
+
+### 4. Plano de Gerenciamento (PGRSS)
+
+#### 4.1 Obrigatoriedade
+Todo gerador de RSS deve elaborar PGRSS.
+
+#### 4.2 Conteúdo
+- Diagnóstico da situação
+- Classificação dos resíduos gerados
+- Procedimentos operacionais
+- Indicadores de monitoramento
+- Capacitação dos trabalhadores
+- Saúde ocupacional
+
+#### 4.3 Responsável Técnico
+- Profissional de nível superior
+- Registro no conselho de classe
+- COREN (enfermeiro), CRBio, CREA, etc.
+        `,
+
+        pontosChave: [
+          'RDC 222/2018: norma ANVISA para gerenciamento de RSS',
+          'CONAMA 358/2005: tratamento e disposição final',
+          'Grupos: A (biológico), B (químico), C (radioativo), D (comum), E (perfurocortante)',
+          'Grupo A4 NÃO precisa de tratamento prévio',
+          'Grupo A5 (príons): INCINERAÇÃO OBRIGATÓRIA',
+          'Perfurocortantes: caixa amarela, preencher até 2/3',
+          'Segregação é a etapa mais importante',
+          'PGRSS é obrigatório para todos os geradores',
+          'Saco branco = infectante; Saco amarelo = químico; Caixa amarela = perfurocortante',
+          'Responsabilidade do gerador até a disposição final',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Grupo A4',
+            descricao: 'Grupo A4 NÃO precisa de tratamento - pode ir direto ao aterro',
+            dica: 'É o único subgrupo A sem tratamento obrigatório',
+          },
+          {
+            titulo: 'Perfurocortantes',
+            descricao: 'Perfurocortantes são Grupo E, NÃO grupo A',
+            dica: 'E de "Espetos" - agulhas, lâminas, vidros quebrados',
+          },
+          {
+            titulo: 'Quimioterápicos',
+            descricao: 'Quimioterápicos são Grupo B (químico), NÃO grupo A',
+            dica: 'Químico = B, mesmo sendo medicamento',
+          },
+          {
+            titulo: 'RDC 222/2018',
+            descricao: 'RDC 222/2018 substituiu a RDC 306/2004',
+            dica: 'Cuidado com questões antigas que citam 306/2004',
+          },
+          {
+            titulo: 'Sangue em Curativo',
+            descricao: 'Sangue em pequenas quantidades (curativo) é A4, não precisa tratamento',
+            dica: 'Pequenas quantidades de sangue = A4 (não precisa tratar)',
+          },
+          {
+            titulo: 'Príons A5',
+            descricao: 'Príons (A5) = INCINERAÇÃO, não pode ser autoclave',
+            dica: 'Príons resistem a autoclave - só incineração',
+          },
+          {
+            titulo: 'Limite 2/3',
+            descricao: 'Caixa de perfurocortante enche até 2/3, não até o topo',
+            dica: 'Deixar espaço para fechar com segurança',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'ABCDE',
+            significado: 'Grupos de RSS',
+            frase: 'A-Biológico, B-Químico, C-Radioativo, D-Comum, E-Perfurocortante',
+          },
+          {
+            termo: 'A4-Aterro',
+            significado: 'Grupo A4 sem tratamento',
+            frase: 'A4 pode ir direto ao Aterro (sem tratamento)',
+          },
+          {
+            termo: 'A5-PIRA',
+            significado: 'Grupo A5 = Incineração',
+            frase: 'A5 (príons) precisa de INCINERAÇÃO - associar 5 com fogo/pira',
+          },
+          {
+            termo: '2/3 E',
+            significado: 'Limite de perfurocortantes',
+            frase: 'Grupo E (perfurocortante): encher até 2/3 da capacidade',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-31-1',
+            frente: 'Qual a RDC da ANVISA que regulamenta o gerenciamento de RSS?',
+            verso: 'RDC 222/2018. Estabelece requisitos de boas práticas de gerenciamento de resíduos de serviços de saúde.',
+            tags: ['RSS', 'RDC 222'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-31-2',
+            frente: 'Quais são os 5 grupos de classificação dos RSS?',
+            verso: 'A (biológicos/infectantes), B (químicos), C (radioativos), D (comuns), E (perfurocortantes).',
+            tags: ['RSS', 'classificação'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-31-3',
+            frente: 'Qual subgrupo do Grupo A NÃO precisa de tratamento antes da disposição final?',
+            verso: 'Subgrupo A4 (kits de linhas arteriais, filtros, sobras de amostras). Pode ir DIRETO ao aterro sanitário.',
+            tags: ['RSS', 'Grupo A4'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-31-4',
+            frente: 'Qual o tratamento obrigatório para resíduos do Grupo A5 (príons)?',
+            verso: 'INCINERAÇÃO OBRIGATÓRIA. Príons são resistentes a autoclave e outros métodos convencionais. Exemplo: materiais em contato com pacientes com Creutzfeldt-Jakob.',
+            tags: ['RSS', 'príons', 'A5'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-31-5',
+            frente: 'Até que nível deve ser preenchida a caixa de perfurocortantes?',
+            verso: 'Até 2/3 (dois terços) da capacidade. Deve ser fechada ao atingir esse limite, evitando acidentes.',
+            tags: ['RSS', 'perfurocortante', 'Grupo E'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-31-6',
+            frente: 'Qual a cor do saco para acondicionamento de resíduos infectantes (Grupo A)?',
+            verso: 'Saco BRANCO LEITOSO, impermeável, com símbolo de substância infectante.',
+            tags: ['RSS', 'acondicionamento'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-31-7',
+            frente: 'O que é PGRSS e quem deve elaborar?',
+            verso: 'Plano de Gerenciamento de Resíduos de Serviços de Saúde. É OBRIGATÓRIO para TODOS os geradores de RSS, independente do porte.',
+            tags: ['RSS', 'PGRSS'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-31-8',
+            frente: 'A qual grupo pertencem os resíduos de quimioterápicos?',
+            verso: 'Grupo B (químicos). Quimioterápicos/citostáticos são considerados resíduos químicos perigosos, não biológicos.',
+            tags: ['RSS', 'quimioterápicos', 'Grupo B'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-31-9',
+            frente: 'Qual a etapa mais importante do gerenciamento de RSS?',
+            verso: 'SEGREGAÇÃO - separação dos resíduos no momento e local de geração. Quando bem feita, reduz volume de resíduos perigosos e custos.',
+            tags: ['RSS', 'segregação'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-31-10',
+            frente: 'Qual a resolução do CONAMA que trata de RSS?',
+            verso: 'Resolução CONAMA 358/2005. Dispõe sobre tratamento e disposição final de RSS (aspectos ambientais). Complementa a RDC ANVISA.',
+            tags: ['RSS', 'CONAMA'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-31-1',
+            enunciado: 'Segundo a RDC 222/2018 da ANVISA, os resíduos de serviços de saúde são classificados em:',
+            alternativas: [
+              { letra: 'A', texto: '3 grupos: A, B e C.' },
+              { letra: 'B', texto: '4 grupos: A, B, C e D.' },
+              { letra: 'C', texto: '5 grupos: A, B, C, D e E.' },
+              { letra: 'D', texto: '6 grupos: A, B, C, D, E e F.' },
+              { letra: 'E', texto: '2 grupos: perigosos e não perigosos.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Os RSS são classificados em 5 grupos: A (biológicos), B (químicos), C (radioativos), D (comuns) e E (perfurocortantes).',
+            dificuldade: 'facil',
+            competencia: 'Classificação RSS',
+            banca: 'IADES',
+            tags: ['RSS', 'classificação'],
+          },
+          {
+            id: 'ce-q-31-2',
+            enunciado: 'Os resíduos perfurocortantes, como agulhas e lâminas de bisturi, pertencem ao Grupo:',
+            alternativas: [
+              { letra: 'A', texto: 'A.' },
+              { letra: 'B', texto: 'B.' },
+              { letra: 'C', texto: 'C.' },
+              { letra: 'D', texto: 'D.' },
+              { letra: 'E', texto: 'E.' },
+            ],
+            gabarito: 'E',
+            justificativa: 'Perfurocortantes pertencem ao Grupo E. Devem ser acondicionados em caixas rígidas amarelas, preenchidas até 2/3 da capacidade.',
+            dificuldade: 'facil',
+            competencia: 'Grupo E',
+            banca: 'IADES',
+            tags: ['perfurocortantes', 'Grupo E'],
+          },
+          {
+            id: 'ce-q-31-3',
+            enunciado: 'Dentre os subgrupos do Grupo A, aquele que pode ser encaminhado diretamente ao aterro sanitário SEM tratamento prévio é o:',
+            alternativas: [
+              { letra: 'A', texto: 'A1.' },
+              { letra: 'B', texto: 'A2.' },
+              { letra: 'C', texto: 'A3.' },
+              { letra: 'D', texto: 'A4.' },
+              { letra: 'E', texto: 'A5.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'O subgrupo A4 (kits de linhas, filtros, sobras de amostras) NÃO requer tratamento prévio, podendo ir direto ao aterro sanitário.',
+            dificuldade: 'medio',
+            competencia: 'Subgrupo A4',
+            banca: 'IADES',
+            tags: ['A4', 'tratamento'],
+          },
+          {
+            id: 'ce-q-31-4',
+            enunciado: 'O tratamento obrigatório para resíduos do subgrupo A5, que inclui materiais em contato com pacientes com doenças priônicas, é:',
+            alternativas: [
+              { letra: 'A', texto: 'autoclavagem.' },
+              { letra: 'B', texto: 'micro-ondas.' },
+              { letra: 'C', texto: 'incineração.' },
+              { letra: 'D', texto: 'tratamento químico.' },
+              { letra: 'E', texto: 'aterramento direto.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Resíduos A5 (príons - ex: Creutzfeldt-Jakob) requerem INCINERAÇÃO OBRIGATÓRIA, pois príons são resistentes aos métodos convencionais.',
+            dificuldade: 'medio',
+            competencia: 'Subgrupo A5',
+            banca: 'IADES',
+            tags: ['A5', 'príons', 'incineração'],
+          },
+          {
+            id: 'ce-q-31-5',
+            enunciado: 'A caixa de perfurocortantes deve ser fechada quando atingir:',
+            alternativas: [
+              { letra: 'A', texto: '1/3 da capacidade.' },
+              { letra: 'B', texto: '1/2 da capacidade.' },
+              { letra: 'C', texto: '2/3 da capacidade.' },
+              { letra: 'D', texto: '3/4 da capacidade.' },
+              { letra: 'E', texto: 'capacidade total.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A caixa de perfurocortantes deve ser fechada ao atingir 2/3 (dois terços) da capacidade, evitando acidentes por excesso de preenchimento.',
+            dificuldade: 'facil',
+            competencia: 'Perfurocortantes',
+            banca: 'IADES',
+            tags: ['perfurocortantes', '2/3'],
+          },
+          {
+            id: 'ce-q-31-6',
+            enunciado: 'Os resíduos de medicamentos quimioterápicos são classificados como Grupo:',
+            alternativas: [
+              { letra: 'A', texto: 'A, pois são biologicamente perigosos.' },
+              { letra: 'B', texto: 'B, pois são quimicamente perigosos.' },
+              { letra: 'C', texto: 'C, pois são radioativos.' },
+              { letra: 'D', texto: 'D, pois são comuns.' },
+              { letra: 'E', texto: 'E, pois são perfurocortantes.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Quimioterápicos (citostáticos) são resíduos QUÍMICOS, portanto Grupo B. Apresentam características de toxicidade e carcinogenicidade.',
+            dificuldade: 'medio',
+            competencia: 'Grupo B',
+            banca: 'IADES',
+            tags: ['quimioterápicos', 'Grupo B'],
+          },
+          {
+            id: 'ce-q-31-7',
+            enunciado: 'A cor do saco para acondicionamento de resíduos do Grupo A (infectantes) é:',
+            alternativas: [
+              { letra: 'A', texto: 'preta.' },
+              { letra: 'B', texto: 'branca leitosa.' },
+              { letra: 'C', texto: 'vermelha.' },
+              { letra: 'D', texto: 'amarela.' },
+              { letra: 'E', texto: 'azul.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Resíduos do Grupo A são acondicionados em sacos BRANCOS LEITOSOS, impermeáveis, com símbolo de substância infectante.',
+            dificuldade: 'facil',
+            competencia: 'Acondicionamento',
+            banca: 'IADES',
+            tags: ['acondicionamento', 'saco branco'],
+          },
+          {
+            id: 'ce-q-31-8',
+            enunciado: 'A etapa do gerenciamento de RSS que consiste na separação dos resíduos no momento e local da geração é denominada:',
+            alternativas: [
+              { letra: 'A', texto: 'acondicionamento.' },
+              { letra: 'B', texto: 'identificação.' },
+              { letra: 'C', texto: 'segregação.' },
+              { letra: 'D', texto: 'tratamento.' },
+              { letra: 'E', texto: 'disposição.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'SEGREGAÇÃO é a separação dos resíduos no momento e local de sua geração. É considerada a etapa mais importante do gerenciamento.',
+            dificuldade: 'facil',
+            competencia: 'Etapas do gerenciamento',
+            banca: 'IADES',
+            tags: ['segregação', 'gerenciamento'],
+          },
+          {
+            id: 'ce-q-31-9',
+            enunciado: 'A resolução do CONAMA que dispõe sobre o tratamento e disposição final de resíduos de serviços de saúde é a:',
+            alternativas: [
+              { letra: 'A', texto: 'CONAMA 237/1997.' },
+              { letra: 'B', texto: 'CONAMA 275/2001.' },
+              { letra: 'C', texto: 'CONAMA 358/2005.' },
+              { letra: 'D', texto: 'CONAMA 382/2006.' },
+              { letra: 'E', texto: 'CONAMA 430/2011.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A Resolução CONAMA 358/2005 dispõe sobre tratamento e disposição final de RSS, complementando a regulamentação sanitária da ANVISA.',
+            dificuldade: 'medio',
+            competencia: 'Legislação',
+            banca: 'IADES',
+            tags: ['CONAMA 358', 'legislação'],
+          },
+          {
+            id: 'ce-q-31-10',
+            enunciado: 'O documento obrigatório que estabelece as diretrizes de manejo dos RSS em um estabelecimento de saúde é o:',
+            alternativas: [
+              { letra: 'A', texto: 'Plano de Contingência Ambiental.' },
+              { letra: 'B', texto: 'Manual de Biossegurança.' },
+              { letra: 'C', texto: 'Programa de Controle Médico.' },
+              { letra: 'D', texto: 'Plano de Gerenciamento de Resíduos de Serviços de Saúde.' },
+              { letra: 'E', texto: 'Relatório de Impacto Ambiental.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'O PGRSS (Plano de Gerenciamento de Resíduos de Serviços de Saúde) é OBRIGATÓRIO para todos os geradores de RSS, independente do porte.',
+            dificuldade: 'facil',
+            competencia: 'PGRSS',
+            banca: 'IADES',
+            tags: ['PGRSS', 'obrigatoriedade'],
           },
         ],
       },
