@@ -6906,5 +6906,672 @@ PPA → LDO → LOA → Execução → Avaliação
         ],
       },
     },
+    {
+      id: "ap-topico-12",
+      numero: 12,
+      titulo: "Indicadores de Desempenho",
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### O que são Indicadores de Desempenho?
+
+| Aspecto | Definição |
+|---------|-----------|
+| **Conceito** | Métricas que quantificam resultados e processos organizacionais |
+| **Finalidade** | Medir, monitorar e avaliar o desempenho institucional |
+| **Natureza** | Instrumento de gestão para tomada de decisão |
+
+### Os 6Es do Desempenho (Cadeia de Valor)
+
+| Dimensão | O que mede | Pergunta-chave |
+|----------|------------|----------------|
+| **Eficiência** | Relação insumos/produtos | Usamos bem os recursos? |
+| **Eficácia** | Alcance das metas | Atingimos os objetivos? |
+| **Efetividade** | Impacto na sociedade | Transformamos a realidade? |
+| **Economicidade** | Otimização dos custos | Gastamos menos? |
+| **Execução** | Realização física | Entregamos o previsto? |
+| **Excelência** | Qualidade dos serviços | O usuário está satisfeito? |
+
+### Atributos de um Bom Indicador (SMART)
+- **S**pecific (Específico)
+- **M**easurable (Mensurável)
+- **A**chievable (Alcançável)
+- **R**elevant (Relevante)
+- **T**ime-bound (Temporal)
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito de Indicadores de Desempenho
+
+**Indicadores de desempenho** são instrumentos de gestão essenciais para o monitoramento e avaliação das organizações públicas. Permitem **medir**, de forma objetiva, aspectos relevantes da atuação governamental.
+
+#### Definição Técnica
+> Indicador é uma representação quantitativa ou qualitativa que permite observar o comportamento de um fenômeno ao longo do tempo, comparando-o com padrões ou metas estabelecidas.
+
+#### Por que são importantes na Administração Pública?
+1. **Transparência**: prestação de contas à sociedade
+2. **Melhoria contínua**: identificar pontos de aprimoramento
+3. **Planejamento**: subsidiar decisões estratégicas
+4. **Controle**: verificar cumprimento de metas do PPA
+5. **Accountability**: responsabilização de gestores
+
+### 2. Tipos de Indicadores
+
+#### 2.1 Por Dimensão de Análise (6Es do Desempenho)
+
+##### EFICIÊNCIA
+**O que mede**: relação entre os insumos utilizados e os produtos gerados.
+
+- Foco no **processo** (como fazer)
+- Otimização de recursos
+- "Fazer certo as coisas"
+
+**Exemplos**:
+- Custo por aluno matriculado
+- Tempo médio de atendimento
+- Gastos por fiscal de vigilância sanitária
+- Processos analisados por servidor
+
+##### EFICÁCIA
+**O que mede**: grau de alcance das metas estabelecidas.
+
+- Foco no **resultado** (o que fazer)
+- Atingimento de objetivos
+- "Fazer a coisa certa"
+
+**Exemplos**:
+- % de metas do PPA alcançadas
+- Taxa de conclusão do curso
+- Número de fiscalizações realizadas vs. planejadas
+- Percentual de vacinação atingido
+
+##### EFETIVIDADE
+**O que mede**: impacto real na sociedade (outcomes/impactos).
+
+- Foco no **impacto social**
+- Transformação da realidade
+- "Fazer a diferença"
+
+**Exemplos**:
+- Redução da mortalidade infantil
+- Diminuição de surtos de intoxicação alimentar
+- Melhoria no IDH
+- Aumento da expectativa de vida
+
+##### ECONOMICIDADE
+**O que mede**: obtenção e uso de recursos com menor custo.
+
+- Foco na **aquisição** de insumos
+- Menor preço, mesma qualidade
+- "Gastar menos"
+
+**Exemplos**:
+- Economia obtida em licitações
+- Redução de custos operacionais
+- Valor pago vs. preço de referência
+
+##### EXECUÇÃO
+**O que mede**: realização física e financeira das ações.
+
+- Foco na **entrega** de produtos/serviços
+- Cumprimento do cronograma
+- "Entregar o prometido"
+
+**Exemplos**:
+- % de obras concluídas
+- % do orçamento executado
+- Quantidade de atendimentos realizados
+
+##### EXCELÊNCIA
+**O que mede**: qualidade dos produtos e serviços, satisfação do usuário.
+
+- Foco na **qualidade** percebida
+- Conformidade com padrões
+- "Satisfazer o cidadão"
+
+**Exemplos**:
+- Índice de satisfação do usuário
+- Tempo de espera
+- Taxa de reclamações
+- Avaliação do serviço
+
+#### 2.2 Por Posição na Cadeia de Valor
+
+| Tipo | Posição | O que mede |
+|------|---------|------------|
+| **Insumo** (Input) | Entrada | Recursos disponibilizados |
+| **Processo** | Meio | Atividades de transformação |
+| **Produto** (Output) | Saída | Bens e serviços entregues |
+| **Resultado** (Outcome) | Impacto | Efeitos na sociedade |
+
+**Exemplo na Vigilância Sanitária:**
+- **Insumo**: número de fiscais, orçamento disponível
+- **Processo**: tempo de análise de processos
+- **Produto**: número de alvarás emitidos
+- **Resultado**: redução de surtos de DTAs
+
+### 3. Atributos de um Bom Indicador
+
+#### Critérios SMART
+
+| Critério | Significado | Exemplo |
+|----------|-------------|---------|
+| **Specific** | Claro e específico | "% de alvarás emitidos em até 30 dias" (não "agilidade") |
+| **Measurable** | Pode ser medido | Dados disponíveis e confiáveis |
+| **Achievable** | Meta realista | Desafiadora, mas possível |
+| **Relevant** | Importa para a organização | Alinhado aos objetivos estratégicos |
+| **Time-bound** | Prazo definido | Mensal, trimestral, anual |
+
+#### Outros Atributos Desejáveis
+
+| Atributo | Descrição |
+|----------|-----------|
+| **Comparabilidade** | Permite comparação temporal ou entre unidades |
+| **Simplicidade** | Fácil compreensão e comunicação |
+| **Sensibilidade** | Reage às mudanças do fenômeno |
+| **Disponibilidade** | Dados acessíveis em tempo hábil |
+| **Economicidade** | Custo de mensuração razoável |
+| **Estabilidade** | Mantém a série histórica |
+| **Auditabilidade** | Permite verificação e validação |
+
+### 4. Componentes de um Indicador
+
+Todo indicador deve ter os seguintes componentes definidos:
+
+| Componente | Descrição | Exemplo |
+|------------|-----------|---------|
+| **Nome** | Denominação clara | Taxa de mortalidade infantil |
+| **Fórmula** | Método de cálculo | (Óbitos <1 ano / Nascidos vivos) × 1000 |
+| **Unidade de medida** | Escala | Por mil nascidos vivos |
+| **Polaridade** | Se maior é melhor ou pior | Quanto menor, melhor |
+| **Periodicidade** | Frequência de medição | Anual |
+| **Meta** | Valor desejado | Reduzir para 10 por mil |
+| **Fonte** | Origem dos dados | SIM/SINASC |
+| **Responsável** | Quem apura | Coordenação de Epidemiologia |
+
+### 5. Metas e Padrões de Referência
+
+#### Tipos de Metas
+1. **Meta histórica**: baseada no desempenho passado
+2. **Meta normativa**: definida em lei ou regulamento
+3. **Meta negociada**: acordada entre partes
+4. **Meta de benchmark**: baseada em melhores práticas
+
+#### Padrões de Comparação (Benchmarking)
+- **Interno**: entre unidades da mesma organização
+- **Competitivo**: com organizações similares
+- **Funcional**: com funções similares em outros setores
+- **Genérico**: melhores práticas do mercado
+
+### 6. Sistema de Indicadores
+
+#### Estruturação em Painéis (Dashboards)
+
+| Nível | Indicadores | Usuários |
+|-------|------------|----------|
+| **Estratégico** | Poucos, de impacto | Alta direção |
+| **Tático** | Intermediários | Gerentes |
+| **Operacional** | Muitos, de processo | Equipes |
+
+#### Balanced Scorecard (BSC) - Perspectivas
+
+| Perspectiva | Pergunta-chave | Indicadores típicos |
+|-------------|----------------|---------------------|
+| **Financeira** | Estamos agregando valor? | ROI, economicidade |
+| **Clientes** | Estamos satisfazendo? | Satisfação, tempo de espera |
+| **Processos** | Onde devemos melhorar? | Eficiência, qualidade |
+| **Aprendizado** | Estamos evoluindo? | Capacitação, inovação |
+
+⚠️ **Adaptação ao setor público**: a perspectiva "financeira" é meio, não fim. A perspectiva "clientes/cidadãos" ganha centralidade.
+
+### 7. Indicadores no Ciclo PDCA
+
+| Fase | Uso dos Indicadores |
+|------|---------------------|
+| **Plan (Planejar)** | Definir indicadores e metas |
+| **Do (Executar)** | Coletar dados e registrar |
+| **Check (Verificar)** | Analisar desempenho vs. meta |
+| **Act (Agir)** | Corrigir desvios, melhorar processos |
+
+### 8. Indicadores na Vigilância Sanitária
+
+#### Exemplos Práticos
+
+| Tipo | Indicador | Fórmula |
+|------|-----------|---------|
+| **Eficiência** | Custo por inspeção | Custo total / nº de inspeções |
+| **Eficácia** | Taxa de cumprimento do plano | Inspeções realizadas / planejadas × 100 |
+| **Efetividade** | Redução de surtos DTAs | (Surtos ano atual - ano anterior) / ano anterior × 100 |
+| **Qualidade** | % de processos sem inconsistências | Processos conformes / total × 100 |
+
+#### Indicadores do Sistema Nacional de Vigilância Sanitária
+
+1. **Cobertura de inspeções** em estabelecimentos de alto risco
+2. **Tempo médio de análise** de petições
+3. **Taxa de registro de produtos** em prazo legal
+4. **Índice de conformidade** de produtos fiscalizados
+5. **Notificações de eventos adversos** por 100 mil habitantes
+
+### 9. Erros Comuns na Construção de Indicadores
+
+| Erro | Problema | Solução |
+|------|----------|---------|
+| **Indicador vago** | "Melhorar o atendimento" | Definir métrica específica |
+| **Excesso de indicadores** | Perda de foco | Priorizar os essenciais |
+| **Indicador sem meta** | Não permite avaliar | Estabelecer meta e prazo |
+| **Dados não confiáveis** | Decisões equivocadas | Validar fonte e coleta |
+| **Foco apenas em resultados** | Ignora processos | Balancear tipos de indicadores |
+| **Meta irreal** | Desmotivação | Negociar metas desafiadoras mas possíveis |
+
+### 10. Indicadores e Gestão por Resultados
+
+Na **Administração Pública Gerencial**, indicadores são fundamentais para:
+
+1. **Contratualização de resultados** (contratos de gestão, termos de parceria)
+2. **Avaliação de desempenho institucional** (gratificações, bônus)
+3. **Accountability** (prestação de contas)
+4. **Planejamento estratégico** (PPA, LDO, LOA)
+5. **Orçamento por resultados** (vinculação recursos-resultados)
+
+#### No Brasil: Instrumentos Legais
+- **PPA** (Plano Plurianual): define indicadores dos programas
+- **LRF** (Lei de Responsabilidade Fiscal): exige metas fiscais
+- **TCU**: audita indicadores de desempenho
+- **CGU**: avalia programas governamentais
+        `,
+
+        pontosChave: [
+          "Indicadores de desempenho: métricas para medir, monitorar e avaliar resultados",
+          "6Es: Eficiência, Eficácia, Efetividade, Economicidade, Execução, Excelência",
+          "EFICIÊNCIA = relação insumos/produtos (fazer certo)",
+          "EFICÁCIA = alcance de metas (fazer a coisa certa)",
+          "EFETIVIDADE = impacto real na sociedade (fazer diferença)",
+          "SMART: Específico, Mensurável, Alcançável, Relevante, Temporal",
+          "Cadeia de valor: Insumo → Processo → Produto → Resultado",
+          "BSC adapta-se ao setor público: cidadão no centro",
+          "Indicadores subsidiam o ciclo PDCA de melhoria contínua",
+          "PPA define indicadores dos programas governamentais",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir eficiência com eficácia",
+            descricao:
+              "Eficiência = COMO fazer (usar bem os recursos). Eficácia = O QUE fazer (atingir a meta). São conceitos diferentes!",
+            dica: "Eficiência é MEIO (processo), Eficácia é FIM (resultado).",
+          },
+          {
+            titulo: "Achar que efetividade é o mesmo que eficácia",
+            descricao:
+              "Eficácia = atingir metas internas. Efetividade = impacto REAL na sociedade. Uma ação pode ser eficaz mas não efetiva.",
+            dica: "Efetividade pergunta: a vida das pessoas melhorou?",
+          },
+          {
+            titulo: "Criar indicadores sem meta definida",
+            descricao:
+              "Um indicador sem meta não permite avaliar desempenho. Não basta medir, é preciso ter parâmetro de comparação.",
+            dica: "Indicador sem meta = dado, não informação de gestão.",
+          },
+          {
+            titulo: "Pensar que mais indicadores é melhor",
+            descricao:
+              "Excesso de indicadores dispersa a atenção e dificulta a gestão. Priorize os indicadores-chave (KPIs).",
+            dica: "Menos é mais: poucos indicadores, bem escolhidos.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "6Es",
+            significado: "Eficiência, Eficácia, Efetividade, Economicidade, Execução, Excelência",
+            frase: "Os 6Es do desempenho começam todos com E!",
+          },
+          {
+            termo: "SMART",
+            significado: "Specific, Measurable, Achievable, Relevant, Time-bound",
+            frase: "Meta SMART é meta inteligente (smart = inteligente em inglês)",
+          },
+          {
+            termo: "IPR",
+            significado: "Insumo, Processo, Resultado",
+            frase: "Cadeia de valor: IPR (Insumo → Processo → Resultado)",
+          },
+          {
+            termo: "EEE",
+            significado: "Eficiência (como), Eficácia (o quê), Efetividade (impacto)",
+            frase: "EEE: os três Es mais cobrados em prova!",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "ap-fc-12-1",
+            frente: "O que mede a EFICIÊNCIA?",
+            verso:
+              "**EFICIÊNCIA** mede a relação entre **insumos utilizados** e **produtos gerados**.\n\nÉ o \"fazer certo as coisas\".\n\nFoco: otimização de recursos (processo)\n\n**Exemplo**: custo por aluno, tempo de atendimento, gastos por inspeção",
+            tags: ["eficiência", "insumos", "produtos"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-12-2",
+            frente: "O que mede a EFICÁCIA?",
+            verso:
+              "**EFICÁCIA** mede o grau de **alcance das metas** estabelecidas.\n\nÉ o \"fazer a coisa certa\".\n\nFoco: atingimento de objetivos (resultado)\n\n**Exemplo**: % de metas atingidas, taxa de vacinação alcançada, número de fiscalizações vs. planejadas",
+            tags: ["eficácia", "metas", "resultados"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-12-3",
+            frente: "O que mede a EFETIVIDADE?",
+            verso:
+              "**EFETIVIDADE** mede o **impacto real na sociedade** (outcomes).\n\nÉ o \"fazer a diferença\".\n\nFoco: transformação social\n\n**Exemplo**: redução da mortalidade infantil, melhoria do IDH, diminuição de surtos alimentares\n\nVai além de atingir metas!",
+            tags: ["efetividade", "impacto", "sociedade"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-12-4",
+            frente: "O que significa o acrônimo SMART para metas?",
+            verso:
+              "**S**pecific - Específico\n**M**easurable - Mensurável\n**A**chievable - Alcançável\n**R**elevant - Relevante\n**T**ime-bound - Temporal (prazo definido)\n\nMetas SMART são claras, mensuráveis e têm prazo!",
+            tags: ["SMART", "metas", "atributos"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-12-5",
+            frente: "Quais são os 6Es do desempenho?",
+            verso:
+              "1. **Eficiência**: relação insumo/produto\n2. **Eficácia**: alcance de metas\n3. **Efetividade**: impacto social\n4. **Economicidade**: otimização de custos\n5. **Execução**: realização física/financeira\n6. **Excelência**: qualidade/satisfação\n\nDimensões de análise da gestão pública!",
+            tags: ["6Es", "desempenho", "dimensões"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-12-6",
+            frente: "Qual a diferença entre indicador de PRODUTO e de RESULTADO?",
+            verso:
+              "**PRODUTO (Output)**:\n- O que a organização ENTREGA\n- Bens e serviços produzidos\n- Ex: nº de alvarás emitidos\n\n**RESULTADO (Outcome)**:\n- EFEITOS na sociedade\n- Impacto das entregas\n- Ex: redução de DTAs\n\nProduto é entrega. Resultado é impacto.",
+            tags: ["produto", "resultado", "output", "outcome"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-12-7",
+            frente: "O que é ECONOMICIDADE como dimensão de desempenho?",
+            verso:
+              "**ECONOMICIDADE** mede a obtenção e uso de recursos com o **menor custo** possível.\n\nFoco: aquisição de insumos\n\n\"Gastar menos, sem perder qualidade\"\n\n**Exemplo**:\n- Economia em licitações\n- Redução de custos operacionais\n- Preço pago vs. preço de referência",
+            tags: ["economicidade", "custos", "aquisição"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-12-8",
+            frente: "Como os indicadores se relacionam com o ciclo PDCA?",
+            verso:
+              "**Plan**: definir indicadores e metas\n**Do**: coletar dados, registrar medições\n**Check**: analisar desempenho vs. meta\n**Act**: corrigir desvios, melhorar processos\n\nIndicadores são essenciais para o **Check** (verificar) e alimentam o **Act** (agir corretivamente).",
+            tags: ["PDCA", "ciclo", "melhoria"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-12-9",
+            frente: "Qual a diferença entre indicadores de OUTPUT e OUTCOME?",
+            verso:
+              "**OUTPUT (Produto)**:\n→ O que a organização ENTREGA diretamente\n→ Bens e serviços produzidos\n→ Ex: nº de alvarás emitidos, aulas ministradas\n\n**OUTCOME (Resultado/Impacto)**:\n→ EFEITOS das entregas na sociedade\n→ Mudança na realidade\n→ Ex: redução de DTAs, melhoria no aprendizado\n\nOutput é ENTREGA, Outcome é IMPACTO!",
+            tags: ["output", "outcome", "cadeia de valor"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-12-10",
+            frente: "Como o Balanced Scorecard (BSC) se adapta ao setor público?",
+            verso:
+              "**BSC no Setor Público**:\n\nPerspectivas adaptadas:\n1. **Cidadão/Sociedade** → no TOPO (não financeira)\n2. **Processos Internos** → eficiência operacional\n3. **Aprendizado** → capacitação de servidores\n4. **Orçamentária** → como MEIO, não fim\n\n**Diferença crucial**:\n- Privado: financeiro é objetivo final\n- Público: cidadão é objetivo final, recursos são instrumentais",
+            tags: ["BSC", "setor público", "perspectivas"],
+            dificuldade: "dificil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "ap-q-12-1",
+            enunciado:
+              "O indicador que mede a relação entre os insumos utilizados e os produtos gerados refere-se a:",
+            alternativas: [
+              { letra: "A", texto: "eficácia." },
+              { letra: "B", texto: "efetividade." },
+              { letra: "C", texto: "eficiência." },
+              { letra: "D", texto: "economicidade." },
+              { letra: "E", texto: "excelência." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "EFICIÊNCIA mede a relação entre insumos (recursos utilizados) e produtos (resultados gerados). É a dimensão do 'fazer certo as coisas', otimizando recursos.",
+            dificuldade: "Fácil",
+            competencia: "Eficiência",
+            banca: "IADES",
+            tags: ["eficiência", "insumos"],
+          },
+          {
+            id: "ap-q-12-2",
+            enunciado:
+              "O impacto real das ações governamentais na transformação da realidade social é medido pelo conceito de:",
+            alternativas: [
+              { letra: "A", texto: "eficiência." },
+              { letra: "B", texto: "eficácia." },
+              { letra: "C", texto: "efetividade." },
+              { letra: "D", texto: "economicidade." },
+              { letra: "E", texto: "execução." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "EFETIVIDADE é o impacto real das ações na sociedade (outcomes). Vai além de atingir metas (eficácia) ou usar bem os recursos (eficiência). Mede se a realidade social de fato mudou.",
+            dificuldade: "Fácil",
+            competencia: "Efetividade",
+            banca: "IADES",
+            tags: ["efetividade", "impacto"],
+          },
+          {
+            id: "ap-q-12-3",
+            enunciado:
+              "O acrônimo SMART, utilizado na definição de metas e indicadores, significa:",
+            alternativas: [
+              { letra: "A", texto: "Simples, Moderado, Acessível, Razoável, Transitório." },
+              { letra: "B", texto: "Específico, Mensurável, Alcançável, Relevante, Temporal." },
+              { letra: "C", texto: "Sistemático, Metodológico, Analítico, Racional, Técnico." },
+              { letra: "D", texto: "Seguro, Monitorável, Auditável, Realista, Tangível." },
+              { letra: "E", texto: "Sintético, Macro, Avaliável, Reproduzível, Testável." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "SMART: Specific (Específico), Measurable (Mensurável), Achievable (Alcançável), Relevant (Relevante), Time-bound (Temporal/com prazo). São critérios para boas metas.",
+            dificuldade: "Média",
+            competencia: "SMART",
+            banca: "IADES",
+            tags: ["SMART", "metas"],
+          },
+          {
+            id: "ap-q-12-4",
+            enunciado:
+              "A dimensão de desempenho que avalia se a organização atingiu os objetivos planejados é a:",
+            alternativas: [
+              { letra: "A", texto: "eficiência." },
+              { letra: "B", texto: "eficácia." },
+              { letra: "C", texto: "efetividade." },
+              { letra: "D", texto: "economicidade." },
+              { letra: "E", texto: "excelência." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "EFICÁCIA mede o grau de alcance das metas estabelecidas, ou seja, se os objetivos planejados foram atingidos. É o 'fazer a coisa certa'.",
+            dificuldade: "Fácil",
+            competencia: "Eficácia",
+            banca: "IADES",
+            tags: ["eficácia", "metas"],
+          },
+          {
+            id: "ap-q-12-5",
+            enunciado:
+              "Um indicador que mede o número de fiscalizações realizadas em relação ao número de fiscais disponíveis é classificado como indicador de:",
+            alternativas: [
+              { letra: "A", texto: "efetividade." },
+              { letra: "B", texto: "eficácia." },
+              { letra: "C", texto: "eficiência." },
+              { letra: "D", texto: "impacto." },
+              { letra: "E", texto: "resultado." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "O indicador relaciona produtos (fiscalizações realizadas) com insumos (fiscais disponíveis), caracterizando um indicador de EFICIÊNCIA, que mede a produtividade dos recursos.",
+            dificuldade: "Média",
+            competencia: "Eficiência",
+            banca: "IADES",
+            tags: ["eficiência", "produtividade"],
+          },
+          {
+            id: "ap-q-12-6",
+            enunciado:
+              "Na cadeia de valor da gestão pública, os indicadores de PRODUTO (output) medem:",
+            alternativas: [
+              { letra: "A", texto: "os recursos disponibilizados." },
+              { letra: "B", texto: "os bens e serviços entregues à sociedade." },
+              { letra: "C", texto: "os impactos na realidade social." },
+              { letra: "D", texto: "as atividades de transformação." },
+              { letra: "E", texto: "o custo por unidade produzida." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "Indicadores de PRODUTO (output) medem os bens e serviços que a organização entrega diretamente. Insumos (input) são recursos, Processo são atividades, e Resultado (outcome) são impactos.",
+            dificuldade: "Média",
+            competencia: "Cadeia de valor",
+            banca: "IADES",
+            tags: ["produto", "output"],
+          },
+          {
+            id: "ap-q-12-7",
+            enunciado:
+              "A obtenção de insumos com o menor custo possível, mantendo a qualidade adequada, refere-se à dimensão de:",
+            alternativas: [
+              { letra: "A", texto: "eficiência." },
+              { letra: "B", texto: "eficácia." },
+              { letra: "C", texto: "efetividade." },
+              { letra: "D", texto: "economicidade." },
+              { letra: "E", texto: "excelência." },
+            ],
+            gabarito: "D",
+            justificativa:
+              "ECONOMICIDADE refere-se à obtenção de recursos (insumos) com o menor custo, mantendo a qualidade. É a dimensão de 'gastar menos' na aquisição, diferente da eficiência que trata do uso dos recursos.",
+            dificuldade: "Média",
+            competencia: "Economicidade",
+            banca: "IADES",
+            tags: ["economicidade", "custos"],
+          },
+          {
+            id: "ap-q-12-8",
+            enunciado:
+              "Para que um indicador seja considerado adequado, é essencial que ele apresente, entre outras, a característica de:",
+            alternativas: [
+              { letra: "A", texto: "complexidade máxima." },
+              { letra: "B", texto: "custo elevado de apuração." },
+              { letra: "C", texto: "impossibilidade de verificação." },
+              { letra: "D", texto: "mensurabilidade." },
+              { letra: "E", texto: "subjetividade na interpretação." },
+            ],
+            gabarito: "D",
+            justificativa:
+              "MENSURABILIDADE é característica essencial de um bom indicador (critério 'M' do SMART). Deve ser possível medir o indicador de forma objetiva, com dados disponíveis e confiáveis.",
+            dificuldade: "Fácil",
+            competencia: "Atributos de indicadores",
+            banca: "IADES",
+            tags: ["mensurável", "atributos"],
+          },
+          {
+            id: "ap-q-12-9",
+            enunciado:
+              "A satisfação do usuário com os serviços prestados é medida por indicadores de:",
+            alternativas: [
+              { letra: "A", texto: "eficiência." },
+              { letra: "B", texto: "eficácia." },
+              { letra: "C", texto: "efetividade." },
+              { letra: "D", texto: "economicidade." },
+              { letra: "E", texto: "excelência." },
+            ],
+            gabarito: "E",
+            justificativa:
+              "EXCELÊNCIA mede a qualidade percebida dos produtos e serviços, incluindo a satisfação do usuário. É a dimensão de 'satisfazer o cidadão' com serviços de qualidade.",
+            dificuldade: "Média",
+            competencia: "Excelência",
+            banca: "IADES",
+            tags: ["excelência", "satisfação"],
+          },
+          {
+            id: "ap-q-12-10",
+            enunciado:
+              "No ciclo PDCA, os indicadores de desempenho são especialmente importantes na fase de:",
+            alternativas: [
+              { letra: "A", texto: "Plan (Planejar), exclusivamente." },
+              { letra: "B", texto: "Do (Executar), exclusivamente." },
+              { letra: "C", texto: "Check (Verificar), para análise do desempenho." },
+              { letra: "D", texto: "Act (Agir), exclusivamente." },
+              { letra: "E", texto: "nenhuma das fases, pois são externos ao ciclo." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "Embora os indicadores sejam usados em todo o ciclo, eles são especialmente importantes na fase CHECK (Verificar), onde se analisa o desempenho real em comparação com as metas estabelecidas no Plan.",
+            dificuldade: "Média",
+            competencia: "PDCA",
+            banca: "IADES",
+            tags: ["PDCA", "verificar"],
+          },
+        ],
+      },
+    },
   ],
 };

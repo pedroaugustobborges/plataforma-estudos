@@ -6443,5 +6443,673 @@ Logo, Maria é F. ❌
         ],
       },
     },
+    {
+      id: 'rl-topico-12',
+      numero: 12,
+      titulo: 'Diagramas Lógicos',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### O que são Diagramas Lógicos?
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Conceito** | Representações gráficas de relações entre conjuntos |
+| **Finalidade** | Visualizar e analisar argumentos/proposições |
+| **Tipos principais** | Diagramas de Venn e Diagramas de Euler |
+
+### Representação de Proposições
+
+| Proposição | Representação | Diagrama |
+|------------|---------------|----------|
+| Todo A é B | A ⊂ B | Círculo A dentro de B |
+| Nenhum A é B | A ∩ B = ∅ | Círculos separados |
+| Algum A é B | A ∩ B ≠ ∅ | Círculos com interseção |
+| Algum A não é B | A ⊄ B | Parte de A fora de B |
+
+### Dica Essencial para Provas
+- "TODO A é B" → círculo de A **dentro** do círculo de B
+- "NENHUM A é B" → círculos **separados**
+- "ALGUM A é B" → círculos com **interseção**
+- "ALGUM A NÃO é B" → parte de A **fora** de B
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Introdução aos Diagramas Lógicos
+
+**Diagramas lógicos** são representações visuais de relações entre conjuntos ou categorias. São ferramentas poderosas para analisar a validade de argumentos e visualizar proposições categóricas.
+
+#### Por que usar diagramas?
+1. **Visualização**: torna abstrato em concreto
+2. **Verificação**: facilita checar validade de argumentos
+3. **Rapidez**: resolve questões mais rápido que tabelas-verdade
+4. **Intuição**: aproveita o processamento visual do cérebro
+
+#### Tipos Principais
+- **Diagramas de Euler**: representam apenas as relações existentes
+- **Diagramas de Venn**: representam todas as relações possíveis
+
+### 2. Proposições Categóricas
+
+Antes de desenhar, precisamos entender as quatro formas de proposições categóricas:
+
+| Tipo | Nome | Forma | Exemplo |
+|------|------|-------|---------|
+| **A** | Universal afirmativa | Todo A é B | Todo fiscal é servidor |
+| **E** | Universal negativa | Nenhum A é B | Nenhum fiscal é corrupto |
+| **I** | Particular afirmativa | Algum A é B | Algum fiscal é jovem |
+| **O** | Particular negativa | Algum A não é B | Algum fiscal não é concursado |
+
+⚠️ Mnemônico: **A**fIrmo (A, I) e n**E**gO (E, O)
+
+### 3. Representação em Diagramas de Euler
+
+#### 3.1 Todo A é B (Universal Afirmativa - Tipo A)
+
+\`\`\`
+      ┌─────────────────────┐
+      │         B           │
+      │    ┌───────┐        │
+      │    │   A   │        │
+      │    └───────┘        │
+      └─────────────────────┘
+\`\`\`
+
+**Interpretação**: O conjunto A está **completamente contido** em B.
+- Todo elemento de A é também elemento de B
+- A ⊂ B (A é subconjunto de B)
+- Existem elementos de B que não são A
+
+**Exemplo**: "Todo fiscal é servidor"
+- Fiscais estão dentro de servidores
+- Mas há servidores que não são fiscais
+
+#### 3.2 Nenhum A é B (Universal Negativa - Tipo E)
+
+\`\`\`
+  ┌───────┐     ┌───────┐
+  │   A   │     │   B   │
+  └───────┘     └───────┘
+\`\`\`
+
+**Interpretação**: Os conjuntos A e B são **completamente separados** (disjuntos).
+- Nenhum elemento de A é elemento de B
+- A ∩ B = ∅ (interseção vazia)
+
+**Exemplo**: "Nenhum fiscal é corrupto"
+- Fiscais e corruptos são conjuntos sem elementos comuns
+
+#### 3.3 Algum A é B (Particular Afirmativa - Tipo I)
+
+\`\`\`
+      ┌───────┬───┬───────┐
+      │   A   │ X │   B   │
+      └───────┴───┴───────┘
+\`\`\`
+
+**Interpretação**: Existe **pelo menos um elemento** que pertence a ambos os conjuntos.
+- A ∩ B ≠ ∅ (interseção não vazia)
+- Há interseção entre A e B
+
+**Atenção**: "Algum" significa **pelo menos um** (pode ser todos!)
+
+**Exemplo**: "Algum fiscal é formado em direito"
+- Há interseção entre fiscais e formados em direito
+
+#### 3.4 Algum A não é B (Particular Negativa - Tipo O)
+
+\`\`\`
+      ┌───────────┬───────┐
+      │     A     │   B   │
+      │  X        │       │
+      └───────────┴───────┘
+\`\`\`
+
+**Interpretação**: Existe **pelo menos um elemento** de A que não pertence a B.
+- Há parte de A fora de B
+- A ⊄ B (A não está contido em B)
+
+**Exemplo**: "Algum fiscal não é concursado"
+- Há pelo menos um fiscal fora do conjunto dos concursados
+
+### 4. Diagramas de Venn
+
+Os diagramas de Venn mostram **todas as regiões possíveis** de interseção entre conjuntos.
+
+#### 4.1 Dois Conjuntos (4 regiões)
+
+\`\`\`
+    ┌─────────────────────────┐
+    │         U               │
+    │    ┌─────┬─────┐       │
+    │    │  1  │  2  │  3    │
+    │    │  A  │ A∩B │  B    │
+    │    │     │     │       │
+    │    └─────┴─────┘       │
+    │          4              │
+    └─────────────────────────┘
+
+Regiões:
+1: Apenas A (A - B)
+2: A e B (A ∩ B)
+3: Apenas B (B - A)
+4: Nem A nem B (Ā ∩ B̄)
+\`\`\`
+
+#### 4.2 Três Conjuntos (8 regiões)
+
+\`\`\`
+         ┌───────────┐
+         │     A     │
+     ┌───┼───┬───────┼───┐
+     │   │ 1 │   2   │   │
+     │ B ├───┼───────┤ C │
+     │   │ 3 │   4   │   │
+     └───┴───┴───────┴───┘
+\`\`\`
+
+Com 3 conjuntos, há 2³ = 8 regiões possíveis.
+
+### 5. Aplicação em Silogismos
+
+O diagrama é muito útil para verificar a validade de silogismos.
+
+#### Exemplo 1: Silogismo Válido
+
+**Premissa 1**: Todo fiscal é servidor
+**Premissa 2**: Todo servidor é concursado
+**Conclusão**: Todo fiscal é concursado
+
+\`\`\`
+    ┌───────────────────────────────┐
+    │           CONCURSADO          │
+    │    ┌───────────────────┐      │
+    │    │     SERVIDOR      │      │
+    │    │    ┌─────────┐    │      │
+    │    │    │  FISCAL │    │      │
+    │    │    └─────────┘    │      │
+    │    └───────────────────┘      │
+    └───────────────────────────────┘
+\`\`\`
+
+✅ **Válido**: Fiscais estão dentro de concursados.
+
+#### Exemplo 2: Silogismo Inválido
+
+**Premissa 1**: Todo fiscal é servidor
+**Premissa 2**: João é servidor
+**Conclusão**: João é fiscal
+
+\`\`\`
+    ┌───────────────────────────────┐
+    │           SERVIDOR            │
+    │    ┌─────────┐                │
+    │    │  FISCAL │     • João?    │
+    │    └─────────┘                │
+    └───────────────────────────────┘
+\`\`\`
+
+❌ **Inválido**: João pode estar na região de servidores que não são fiscais.
+
+### 6. Técnicas para Resolver Questões
+
+#### Passo a Passo
+
+1. **Identifique** os conjuntos mencionados
+2. **Desenhe** as premissas como diagramas
+3. **Verifique** se a conclusão é necessariamente verdadeira
+4. Se houver **múltiplas possibilidades**, a conclusão não é válida
+
+#### Dica: "Forçar" o diagrama
+
+Para testar se uma conclusão é necessária:
+- Tente desenhar um diagrama onde as premissas são verdadeiras
+- MAS a conclusão é falsa
+- Se conseguir → conclusão NÃO é válida
+- Se não conseguir → conclusão é válida
+
+### 7. Equivalências Importantes
+
+| Proposição | Equivalente | Diagrama idêntico |
+|------------|-------------|-------------------|
+| Todo A é B | Nenhum A é não-B | A dentro de B |
+| Nenhum A é B | Nenhum B é A | Separados |
+| Algum A é B | Algum B é A | Com interseção |
+| Algum A não é B | ≠ Algum B não é A | Parte de A fora de B |
+
+⚠️ **Cuidado**: "Algum A não é B" NÃO equivale a "Algum B não é A"!
+
+### 8. Negações
+
+| Proposição | Negação |
+|------------|---------|
+| Todo A é B | Algum A não é B |
+| Nenhum A é B | Algum A é B |
+| Algum A é B | Nenhum A é B |
+| Algum A não é B | Todo A é B |
+
+**Regra**: Universal ↔ Particular com troca de qualidade
+
+### 9. Quantificadores Especiais
+
+#### "Somente" / "Apenas"
+
+"**Somente** A é B" significa "Todo B é A" (inversão!)
+
+**Exemplo**: "Somente fiscais podem lavrar autos"
+- Significa: Todo quem lavra auto é fiscal
+- NÃO significa: Todo fiscal lavra auto
+
+\`\`\`
+    ┌───────────────────────────────┐
+    │           FISCAL              │
+    │    ┌─────────────────┐        │
+    │    │  Quem lavra auto│        │
+    │    └─────────────────┘        │
+    └───────────────────────────────┘
+\`\`\`
+
+#### "Pelo menos um" / "Existe"
+
+"**Existe** A que é B" = "Algum A é B"
+- Afirma a existência de interseção
+- Não determina quantos
+
+### 10. Aplicação na Vigilância Sanitária
+
+**Exemplo prático**:
+
+**Premissa 1**: Todo estabelecimento de alto risco deve ser inspecionado semestralmente.
+**Premissa 2**: Restaurantes são estabelecimentos de alto risco.
+**Conclusão**: Restaurantes devem ser inspecionados semestralmente.
+
+\`\`\`
+    ┌────────────────────────────────────────┐
+    │  Inspecionados Semestralmente          │
+    │    ┌────────────────────────────┐      │
+    │    │  Estabelecimentos Alto Risco│     │
+    │    │    ┌──────────────┐        │      │
+    │    │    │ RESTAURANTES │        │      │
+    │    │    └──────────────┘        │      │
+    │    └────────────────────────────┘      │
+    └────────────────────────────────────────┘
+\`\`\`
+
+✅ **Conclusão válida**: Restaurantes estão dentro dos que devem ser inspecionados semestralmente.
+        `,
+
+        pontosChave: [
+          'Diagramas lógicos: representação visual de relações entre conjuntos',
+          'TODO A é B: círculo A completamente dentro de B (A ⊂ B)',
+          'NENHUM A é B: círculos totalmente separados (A ∩ B = ∅)',
+          'ALGUM A é B: círculos com interseção (A ∩ B ≠ ∅)',
+          'ALGUM A NÃO é B: parte de A fora de B',
+          'AEIO: Afirmativas (A, I), Negativas (E, O)',
+          'Negação: Todo ↔ Algum não; Nenhum ↔ Algum',
+          'SOMENTE A é B = Todo B é A (inversão!)',
+          'Para testar validade: tente falsear a conclusão mantendo premissas',
+          'Diagramas de Venn mostram todas as regiões possíveis',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Inverter "Todo A é B" com "Todo B é A"',
+            descricao:
+              '"Todo fiscal é servidor" NÃO significa "Todo servidor é fiscal". O primeiro coloca fiscal dentro de servidor, não o contrário.',
+            dica: 'Desenhe! O sujeito fica DENTRO do predicado.',
+          },
+          {
+            titulo: 'Confundir "Somente" com "Todo"',
+            descricao:
+              '"Somente A é B" significa "Todo B é A", não "Todo A é B". É uma inversão!',
+            dica: '"Somente fiscais podem multar" = "Todo quem multa é fiscal".',
+          },
+          {
+            titulo: 'Achar que "Algum A não é B" equivale a "Algum B não é A"',
+            descricao:
+              'Essas proposições NÃO são equivalentes. "Algum fiscal não é jovem" não implica "Algum jovem não é fiscal".',
+            dica: 'Particular negativa NÃO converte simplesmente.',
+          },
+          {
+            titulo: 'Esquecer que "Algum" pode significar "Todos"',
+            descricao:
+              '"Algum A é B" significa "pelo menos um", podendo ser todos. Não exclui a possibilidade de todos serem.',
+            dica: '"Algum" = "existe pelo menos um" (de 1 a todos).',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'AEIO',
+            significado: 'Universal Afirmativa (A), Universal Negativa (E), Particular Afirmativa (I), Particular Negativa (O)',
+            frase: 'AEIO: AfIrmo (A,I) e nEgO (E,O)',
+          },
+          {
+            termo: 'DENTRO-FORA',
+            significado: 'Todo = dentro, Nenhum = fora/separado',
+            frase: 'TODO está DENTRO, NENHUM está FORA',
+          },
+          {
+            termo: 'SOMENTE INVERTE',
+            significado: 'Somente A é B = Todo B é A',
+            frase: '"Somente" INVERTE a proposição universal',
+          },
+          {
+            termo: 'NEG-TROCA',
+            significado: 'Negação troca Universal/Particular',
+            frase: 'Negar TODO vira ALGUM NÃO, negar NENHUM vira ALGUM',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'rl-fc-12-1',
+            frente: 'Como representar "Todo A é B" em diagrama?',
+            verso:
+              'O círculo de **A** fica **completamente DENTRO** do círculo de B.\n\n```\n    ┌─────────────┐\n    │      B      │\n    │   ┌───┐     │\n    │   │ A │     │\n    │   └───┘     │\n    └─────────────┘\n```\n\nA ⊂ B (A é subconjunto de B)\nTodo elemento de A é também de B.',
+            tags: ['diagrama', 'todo', 'universal'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-12-2',
+            frente: 'Como representar "Nenhum A é B" em diagrama?',
+            verso:
+              'Os círculos de A e B ficam **completamente SEPARADOS** (disjuntos).\n\n```\n  ┌───┐     ┌───┐\n  │ A │     │ B │\n  └───┘     └───┘\n```\n\nA ∩ B = ∅ (interseção vazia)\nNenhum elemento em comum.',
+            tags: ['diagrama', 'nenhum', 'separados'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-12-3',
+            frente: 'Como representar "Algum A é B" em diagrama?',
+            verso:
+              'Os círculos de A e B têm **INTERSEÇÃO** (parte em comum).\n\n```\n  ┌─────┬───┬─────┐\n  │  A  │ X │  B  │\n  └─────┴───┴─────┘\n```\n\nA ∩ B ≠ ∅\nPelo menos um elemento em comum.\n\n⚠️ "Algum" pode ser de 1 até todos!',
+            tags: ['diagrama', 'algum', 'interseção'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-12-4',
+            frente: 'Como representar "Algum A não é B" em diagrama?',
+            verso:
+              'Há uma **parte de A FORA de B** (mas pode haver interseção).\n\n```\n  ┌─────────┬─────┐\n  │    A    │  B  │\n  │  X      │     │\n  └─────────┴─────┘\n```\n\nPelo menos um elemento de A que não está em B.\nA ⊄ B (A não está contido em B).',
+            tags: ['diagrama', 'algum não', 'parcial'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-12-5',
+            frente: 'O que significa "SOMENTE A é B" em termos de diagrama?',
+            verso:
+              '**SOMENTE A é B** significa **TODO B é A** (inversão!)\n\nO círculo de B fica DENTRO de A.\n\n```\n    ┌─────────────┐\n    │      A      │\n    │   ┌───┐     │\n    │   │ B │     │\n    │   └───┘     │\n    └─────────────┘\n```\n\n"Somente fiscais podem multar"\n= "Todo quem multa é fiscal"',
+            tags: ['somente', 'inversão', 'apenas'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-12-6',
+            frente: 'Qual a negação de "Todo A é B"?',
+            verso:
+              '**Negação de "Todo A é B"**:\n→ **"Algum A não é B"**\n\nRegra: Universal ↔ Particular + troca qualidade\n\n| Original | Negação |\n|----------|----------|\n| Todo A é B | Algum A não é B |\n| Nenhum A é B | Algum A é B |\n| Algum A é B | Nenhum A é B |\n| Algum A não é B | Todo A é B |',
+            tags: ['negação', 'todo', 'algum'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-12-7',
+            frente: 'Como verificar se um silogismo é válido usando diagrama?',
+            verso:
+              '**Método**:\n1. Desenhe as premissas como diagramas\n2. Verifique se a conclusão é NECESSARIAMENTE verdadeira\n\n**Dica "Forçar"**:\n- Tente desenhar onde premissas são verdadeiras\n- MAS conclusão é falsa\n- Se conseguir → INVÁLIDO\n- Se não conseguir → VÁLIDO\n\nSe houver múltiplas configurações possíveis, a conclusão não é necessária.',
+            tags: ['silogismo', 'validade', 'verificação'],
+            dificuldade: 'dificil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-12-8',
+            frente: 'O que são as categorias AEIO das proposições?',
+            verso:
+              '**A** = Universal Afirmativa: "Todo A é B"\n**E** = Universal Negativa: "Nenhum A é B"\n**I** = Particular Afirmativa: "Algum A é B"\n**O** = Particular Negativa: "Algum A não é B"\n\n**Mnemônico**:\n- **A**f**I**rmo → A e I são afirmativas\n- n**E**g**O** → E e O são negativas',
+            tags: ['AEIO', 'proposições', 'categorias'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-12-9',
+            frente: 'Qual a diferença entre Diagramas de Euler e de Venn?',
+            verso:
+              '**Diagrama de EULER**:\n→ Representa apenas as relações EXISTENTES\n→ Mais simples e intuitivo\n→ Mostra só o que é verdadeiro\n\n**Diagrama de VENN**:\n→ Representa TODAS as regiões possíveis\n→ Com 2 conjuntos: 4 regiões\n→ Com 3 conjuntos: 8 regiões\n→ Usa sombreamento para indicar vazios\n\nEuler = só o necessário. Venn = todas as possibilidades.',
+            tags: ['Euler', 'Venn', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-12-10',
+            frente: 'Quais proposições podem ser CONVERTIDAS simplesmente?',
+            verso:
+              '**Conversão Simples** (trocar sujeito e predicado):\n\n✅ **Tipo E**: "Nenhum A é B" = "Nenhum B é A"\n✅ **Tipo I**: "Algum A é B" = "Algum B é A"\n\n❌ **Tipo A**: "Todo A é B" ≠ "Todo B é A"\n❌ **Tipo O**: "Algum A não é B" ≠ "Algum B não é A"\n\n**Regra**: Apenas E e I convertem simplesmente!\nUniversais afirmativas e particulares negativas NÃO convertem.',
+            tags: ['conversão', 'equivalência', 'proposições'],
+            dificuldade: 'dificil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'rl-q-12-1',
+            enunciado: 'Considerando a proposição "Todo fiscal é servidor", a representação correta em diagrama de Euler é:',
+            alternativas: [
+              { letra: 'A', texto: 'Dois círculos separados.' },
+              { letra: 'B', texto: 'O círculo "servidor" dentro do círculo "fiscal".' },
+              { letra: 'C', texto: 'O círculo "fiscal" dentro do círculo "servidor".' },
+              { letra: 'D', texto: 'Dois círculos parcialmente sobrepostos.' },
+              { letra: 'E', texto: 'Dois círculos coincidentes (mesmo círculo).' },
+            ],
+            gabarito: 'C',
+            justificativa: '"Todo A é B" implica que A está DENTRO de B. Portanto, "Todo fiscal é servidor" coloca o círculo FISCAL dentro do círculo SERVIDOR. Todo fiscal é servidor, mas nem todo servidor é fiscal.',
+            dificuldade: 'Fácil',
+            competencia: 'Representação de Todo',
+            banca: 'IADES',
+            tags: ['diagrama', 'todo'],
+          },
+          {
+            id: 'rl-q-12-2',
+            enunciado: 'A proposição "Nenhum corrupto é honesto" é representada em diagrama lógico por:',
+            alternativas: [
+              { letra: 'A', texto: 'Círculos totalmente sobrepostos.' },
+              { letra: 'B', texto: 'Círculos completamente separados.' },
+              { letra: 'C', texto: 'Um círculo dentro do outro.' },
+              { letra: 'D', texto: 'Círculos com interseção.' },
+              { letra: 'E', texto: 'Um único círculo.' },
+            ],
+            gabarito: 'B',
+            justificativa: '"Nenhum A é B" indica que os conjuntos A e B são disjuntos (não têm elementos em comum). Portanto, os círculos devem estar completamente SEPARADOS.',
+            dificuldade: 'Fácil',
+            competencia: 'Representação de Nenhum',
+            banca: 'IADES',
+            tags: ['diagrama', 'nenhum'],
+          },
+          {
+            id: 'rl-q-12-3',
+            enunciado: 'Considere as premissas: "Todo A é B" e "Todo B é C". A conclusão "Todo A é C" é:',
+            alternativas: [
+              { letra: 'A', texto: 'inválida, pois não há relação entre A e C.' },
+              { letra: 'B', texto: 'válida, pois A está contido em B, que está contido em C.' },
+              { letra: 'C', texto: 'inválida, pois A pode estar fora de C.' },
+              { letra: 'D', texto: 'válida apenas se A = B.' },
+              { letra: 'E', texto: 'indeterminada, dependendo dos valores.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Se A ⊂ B e B ⊂ C, então A ⊂ C (propriedade transitiva da inclusão). No diagrama, A está dentro de B, que está dentro de C, logo A está dentro de C. Silogismo válido.',
+            dificuldade: 'Média',
+            competencia: 'Silogismo',
+            banca: 'IADES',
+            tags: ['silogismo', 'validade'],
+          },
+          {
+            id: 'rl-q-12-4',
+            enunciado: 'A proposição "Somente aprovados podem tomar posse" equivale a:',
+            alternativas: [
+              { letra: 'A', texto: 'Todo aprovado pode tomar posse.' },
+              { letra: 'B', texto: 'Todo que toma posse é aprovado.' },
+              { letra: 'C', texto: 'Algum aprovado pode tomar posse.' },
+              { letra: 'D', texto: 'Nenhum aprovado pode tomar posse.' },
+              { letra: 'E', texto: 'Algum que toma posse não é aprovado.' },
+            ],
+            gabarito: 'B',
+            justificativa: '"SOMENTE A é B" equivale a "TODO B é A" (inversão). "Somente aprovados podem tomar posse" significa "Todo que toma posse é aprovado". O conjunto "toma posse" está dentro de "aprovados".',
+            dificuldade: 'Média',
+            competencia: 'Somente/Apenas',
+            banca: 'IADES',
+            tags: ['somente', 'equivalência'],
+          },
+          {
+            id: 'rl-q-12-5',
+            enunciado: 'A negação de "Todo fiscal é pontual" é:',
+            alternativas: [
+              { letra: 'A', texto: 'Nenhum fiscal é pontual.' },
+              { letra: 'B', texto: 'Todo fiscal não é pontual.' },
+              { letra: 'C', texto: 'Algum fiscal não é pontual.' },
+              { letra: 'D', texto: 'Algum fiscal é pontual.' },
+              { letra: 'E', texto: 'Todo pontual é fiscal.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A negação de "Todo A é B" é "Algum A não é B". Trocamos universal por particular e afirmativa por negativa. A negação de "Todo fiscal é pontual" é "Algum fiscal não é pontual".',
+            dificuldade: 'Fácil',
+            competencia: 'Negação',
+            banca: 'IADES',
+            tags: ['negação', 'todo'],
+          },
+          {
+            id: 'rl-q-12-6',
+            enunciado: 'Considere: "Todo médico é profissional de saúde" e "Maria é médica". Pode-se concluir que:',
+            alternativas: [
+              { letra: 'A', texto: 'Maria não é profissional de saúde.' },
+              { letra: 'B', texto: 'Maria é profissional de saúde.' },
+              { letra: 'C', texto: 'Maria pode ou não ser profissional de saúde.' },
+              { letra: 'D', texto: 'Alguns profissionais de saúde são Maria.' },
+              { letra: 'E', texto: 'Todo profissional de saúde é médico.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Se todo médico está dentro de profissional de saúde, e Maria está em médico, então Maria está em profissional de saúde. Conclusão válida por Modus Ponens com silogismo.',
+            dificuldade: 'Fácil',
+            competencia: 'Inferência',
+            banca: 'IADES',
+            tags: ['inferência', 'silogismo'],
+          },
+          {
+            id: 'rl-q-12-7',
+            enunciado: 'Considere: "Todo A é B" e "Algum A é C". Pode-se concluir NECESSARIAMENTE que:',
+            alternativas: [
+              { letra: 'A', texto: 'Todo B é C.' },
+              { letra: 'B', texto: 'Algum B é C.' },
+              { letra: 'C', texto: 'Nenhum B é C.' },
+              { letra: 'D', texto: 'Todo C é B.' },
+              { letra: 'E', texto: 'Nenhum A é C.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Se todo A está em B, e algum A está em C, então esse "algum A" que está em C também está em B (pois é A). Logo, há interseção entre B e C, ou seja, "Algum B é C".',
+            dificuldade: 'Difícil',
+            competencia: 'Silogismo com particular',
+            banca: 'IADES',
+            tags: ['silogismo', 'algum'],
+          },
+          {
+            id: 'rl-q-12-8',
+            enunciado: 'Se "Algum fiscal é especialista" e "Todo especialista tem pós-graduação", então:',
+            alternativas: [
+              { letra: 'A', texto: 'Todo fiscal tem pós-graduação.' },
+              { letra: 'B', texto: 'Algum fiscal tem pós-graduação.' },
+              { letra: 'C', texto: 'Nenhum fiscal tem pós-graduação.' },
+              { letra: 'D', texto: 'Todo que tem pós-graduação é fiscal.' },
+              { letra: 'E', texto: 'Não se pode concluir nada sobre fiscais e pós-graduação.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Se algum fiscal é especialista, e todo especialista tem pós-graduação, então esse "algum fiscal" que é especialista necessariamente tem pós-graduação. Conclusão: "Algum fiscal tem pós-graduação".',
+            dificuldade: 'Média',
+            competencia: 'Silogismo',
+            banca: 'IADES',
+            tags: ['silogismo', 'particular'],
+          },
+          {
+            id: 'rl-q-12-9',
+            enunciado: 'A representação de "Algum A é B" em diagrama significa que:',
+            alternativas: [
+              { letra: 'A', texto: 'os círculos A e B são idênticos.' },
+              { letra: 'B', texto: 'o círculo A está completamente dentro de B.' },
+              { letra: 'C', texto: 'os círculos A e B não têm interseção.' },
+              { letra: 'D', texto: 'há pelo menos um elemento na interseção de A e B.' },
+              { letra: 'E', texto: 'todos os elementos de A estão fora de B.' },
+            ],
+            gabarito: 'D',
+            justificativa: '"Algum A é B" significa que existe pelo menos um elemento que pertence tanto a A quanto a B, ou seja, a interseção A ∩ B não é vazia. Os círculos têm uma região comum.',
+            dificuldade: 'Fácil',
+            competencia: 'Representação de Algum',
+            banca: 'IADES',
+            tags: ['diagrama', 'algum'],
+          },
+          {
+            id: 'rl-q-12-10',
+            enunciado: 'Considere: "Nenhum A é B" e "Todo C é A". Pode-se concluir que:',
+            alternativas: [
+              { letra: 'A', texto: 'Todo C é B.' },
+              { letra: 'B', texto: 'Algum C é B.' },
+              { letra: 'C', texto: 'Nenhum C é B.' },
+              { letra: 'D', texto: 'Algum B é C.' },
+              { letra: 'E', texto: 'Todo B é C.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Se nenhum A é B (A e B separados), e todo C está dentro de A, então C também está separado de B. Logo, "Nenhum C é B". O conjunto C herda a propriedade de A de ser disjunto de B.',
+            dificuldade: 'Média',
+            competencia: 'Silogismo com negativa',
+            banca: 'IADES',
+            tags: ['silogismo', 'nenhum'],
+          },
+        ],
+      },
+    },
   ],
 };

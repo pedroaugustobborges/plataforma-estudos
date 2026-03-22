@@ -8012,5 +8012,659 @@ A responsabilização por improbidade é **independente** de:
         ],
       },
     },
+    {
+      id: "da-topico-12",
+      numero: 12,
+      titulo: "Lei nº 12.846/2013 e alterações (Lei Anticorrupção)",
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### O que é a Lei Anticorrupção?
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Número** | Lei nº 12.846/2013 |
+| **Nome popular** | Lei Anticorrupção ou Lei da Empresa Limpa |
+| **Foco** | Responsabilização de **PESSOAS JURÍDICAS** |
+| **Tipo de responsabilidade** | **OBJETIVA** (civil e administrativa) |
+| **Regulamentação** | Decreto nº 11.129/2022 (antigo 8.420/2015) |
+
+### Pontos Essenciais
+
+- Responsabilidade **OBJETIVA** da pessoa jurídica (não precisa provar culpa)
+- Aplica-se a atos praticados contra a Administração **nacional ou estrangeira**
+- Pessoas físicas (dirigentes) respondem **subjetivamente** (na medida de sua culpabilidade)
+- **Acordo de Leniência**: reduz penalidades em troca de colaboração
+- **Programa de Integridade** (Compliance): pode atenuar sanções
+
+### Sanções Administrativas (art. 6º)
+1. **Multa**: 0,1% a 20% do faturamento bruto (ou R$ 6 mil a R$ 60 milhões)
+2. **Publicação** extraordinária da decisão condenatória
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Introdução à Lei Anticorrupção
+
+A **Lei nº 12.846/2013** representa um marco no combate à corrupção no Brasil, ao estabelecer a **responsabilização objetiva** de pessoas jurídicas por atos lesivos praticados contra a Administração Pública.
+
+#### Contexto Histórico
+- Aprovada em decorrência de compromissos internacionais do Brasil
+- Convenção da OCDE sobre Corrupção de Funcionários Públicos Estrangeiros
+- Convenção das Nações Unidas contra a Corrupção (Convenção de Mérida)
+- Resposta às manifestações de junho de 2013
+
+#### Por que é inovadora?
+| Antes | Depois (Lei 12.846/2013) |
+|-------|-------------------------|
+| Apenas pessoas físicas respondiam | Pessoas jurídicas respondem diretamente |
+| Responsabilidade subjetiva | Responsabilidade **objetiva** |
+| Difícil punir empresas corruptoras | Sanções administrativas e judiciais diretas |
+
+### 2. Âmbito de Aplicação (art. 1º)
+
+#### Quem está sujeito?
+- Sociedades empresárias
+- Sociedades simples (personificadas ou não)
+- Fundações
+- Associações de entidades ou pessoas
+- Sociedades estrangeiras com sede, filial ou representação no Brasil
+
+#### Contra quem protege?
+- Administração Pública **nacional** (direta e indireta, todos os Poderes e entes)
+- Administração Pública **estrangeira**
+
+⚠️ **ATENÇÃO IADES**: A lei se aplica mesmo a atos praticados contra Administração de outros países!
+
+### 3. Atos Lesivos (art. 5º)
+
+São atos lesivos à Administração Pública:
+
+#### I - Prometer, oferecer ou dar vantagem indevida
+- A agente público ou terceiro a ele relacionado
+- Corrupção ativa empresarial
+
+#### II - Financiar, custear ou patrocinar
+- A prática de atos ilícitos previstos na lei
+- Inclusive lavagem de dinheiro
+
+#### III - Utilizar pessoa interposta
+- "Laranjas" para ocultar interesses ou identidade
+- Fraude à lei
+
+#### IV - Fraudes em licitações e contratos
+- Frustrar ou fraudar o caráter competitivo
+- Afastar licitantes mediante fraude ou vantagem
+- Fraudar licitação pública ou contrato dela decorrente
+- Criar pessoa jurídica fraudulentamente
+- Obter vantagem ou benefício indevido
+
+#### V - Dificultar investigação ou fiscalização
+- Obstruir atividade de investigação ou fiscalização
+- Intervir na atuação de órgãos públicos
+
+### 4. Responsabilidade OBJETIVA (art. 2º)
+
+Este é o **ponto central** da lei!
+
+#### Conceito
+- A pessoa jurídica responde **independentemente** de comprovação de dolo ou culpa
+- Basta demonstrar: ato lesivo + nexo causal + dano
+
+#### Requisitos
+1. Ato lesivo praticado em **benefício** da pessoa jurídica (direto ou indireto)
+2. Por seu **interesse** (ainda que potencial)
+
+#### Comparativo de Responsabilidades
+
+| Pessoa | Tipo | Prova necessária |
+|--------|------|------------------|
+| **Jurídica** | OBJETIVA | Ato + nexo + dano (sem culpa) |
+| **Física (dirigente)** | SUBJETIVA | Ato + nexo + dano + CULPA/DOLO |
+
+#### Subsistência da Responsabilidade (art. 4º)
+A responsabilidade subsiste mesmo em caso de:
+- Alteração contratual
+- Transformação, incorporação, fusão ou cisão societária
+
+⚠️ Nas operações societárias, a responsabilidade da sucessora é limitada ao pagamento de multa e reparação integral do dano, até o limite do patrimônio transferido (exceto se houver simulação/fraude).
+
+### 5. Sanções Administrativas (art. 6º)
+
+Aplicadas pela autoridade máxima de cada órgão ou entidade, no âmbito do PAR (Processo Administrativo de Responsabilização).
+
+#### I - Multa
+- **Valor**: 0,1% a 20% do faturamento bruto do exercício anterior
+- Se não for possível utilizar o critério do faturamento: R$ 6.000 a R$ 60.000.000
+- A multa **nunca será inferior** à vantagem auferida, quando for possível sua estimação
+
+#### II - Publicação extraordinária da decisão condenatória
+- Em meio de grande circulação
+- No próprio estabelecimento
+- No site da empresa
+- Às expensas da pessoa jurídica
+
+#### Parâmetros de Dosimetria (art. 7º)
+Na aplicação das sanções, serão considerados:
+1. Gravidade da infração
+2. Vantagem auferida ou pretendida
+3. Consumação ou não da infração
+4. Grau de lesão ou perigo de lesão
+5. Efeito negativo produzido
+6. Situação econômica do infrator
+7. Cooperação da pessoa jurídica
+8. **Existência de programa de integridade** (compliance)
+9. Valor dos contratos com o órgão lesado
+
+### 6. Sanções Judiciais (art. 19)
+
+Aplicadas pelo Poder Judiciário, mediante ação civil proposta pelo MP ou pela pessoa jurídica de direito público lesada.
+
+#### I - Perdimento de bens, direitos ou valores
+- Que representem vantagem ou proveito obtidos da infração
+
+#### II - Suspensão ou interdição parcial das atividades
+- Quando comprovada a utilização da empresa para prática de ilícitos
+
+#### III - Dissolução compulsória da pessoa jurídica
+- Quando comprovado que a personalidade jurídica foi utilizada para ocultar ou facilitar a prática de atos ilícitos
+- Ou quando foi constituída especificamente para esse fim
+
+#### IV - Proibição de receber incentivos, subsídios, etc.
+- Prazo: 1 a 5 anos
+- Inclui: incentivos fiscais, subsídios, subvenções, doações, empréstimos de órgãos públicos
+
+### 7. Processo Administrativo de Responsabilização (PAR)
+
+#### Características
+- **Competência**: autoridade máxima do órgão ou entidade lesada
+- **Comissão**: 2 ou mais servidores estáveis
+- **Prazo**: 180 dias, prorrogável
+- **Contraditório e ampla defesa**: garantidos
+
+#### Fases do PAR
+1. **Instauração**: de ofício ou mediante provocação
+2. **Instrução**: coleta de provas, diligências
+3. **Defesa**: prazo de 30 dias
+4. **Relatório**: conclusivo da comissão
+5. **Julgamento**: pela autoridade competente
+
+### 8. Acordo de Leniência (arts. 16-17)
+
+#### O que é?
+Acordo celebrado com pessoa jurídica que colabora efetivamente com as investigações, em troca de redução de penalidades.
+
+#### Requisitos para celebração (art. 16, §1º)
+1. Ser a **primeira** a se manifestar sobre o ilícito
+2. **Cessar** completamente o envolvimento no ilícito
+3. Admitir participação e **cooperar** plena e permanentemente
+4. Comparecer a todos os atos processuais
+5. **Identificar** demais envolvidos e **fornecer** documentos e informações
+
+#### Benefícios do Acordo
+- Isenção da publicação extraordinária
+- Isenção da proibição de receber incentivos
+- **Redução de até 2/3 da multa**
+- Não afasta a obrigação de reparar integralmente o dano
+
+#### Quem pode celebrar?
+- CGU (no âmbito federal) em conjunto com a AGU em atos de menor ofensividade
+- Ou exclusivamente CGU se houver descumprimento ou fraude
+
+⚠️ **ATENÇÃO**: A proposta de acordo de leniência somente se tornará pública após a celebração, protegendo a empresa colaboradora.
+
+### 9. Programa de Integridade (Compliance)
+
+#### Conceito
+Mecanismos e procedimentos internos de integridade, auditoria e incentivo à denúncia de irregularidades.
+
+#### Por que é importante?
+- É fator **atenuante** na dosimetria das sanções
+- Pode demonstrar boa-fé da empresa
+- Cada vez mais exigido em contratações públicas
+
+#### Elementos de um Programa de Integridade (Decreto 11.129/2022)
+1. **Comprometimento** da alta direção
+2. **Código de Ética** e políticas internas
+3. Controles internos e **auditoria**
+4. **Canal de denúncias** (anônimo e protegido)
+5. **Treinamentos** periódicos
+6. Análise de riscos
+7. Due diligence de terceiros
+8. Ações corretivas
+
+### 10. Prescrição (art. 25)
+
+#### Prazo prescricional
+- **5 anos** contados da ciência da infração
+
+#### Infrações permanentes ou continuadas
+- Contam-se do dia em que tiver cessado
+
+#### Interrupção da prescrição
+- Instauração de processo administrativo ou judicial
+- Citação do responsável
+
+### 11. Cadastro Nacional de Empresas Punidas (CNEP)
+
+#### O que contém
+- Sanções aplicadas às pessoas jurídicas
+- Acordos de leniência celebrados
+- Mantido e publicado pela CGU
+
+#### Outros cadastros
+- **CEIS**: Cadastro Nacional de Empresas Inidôneas e Suspensas
+- **CNEP**: Cadastro Nacional de Empresas Punidas
+
+### 12. Aplicação no Contexto da Vigilância Sanitária
+
+#### Exemplos de atos lesivos no setor
+- Empresa que corrompe fiscal sanitário para aprovar produto
+- Laboratório que frauda licitação de medicamentos
+- Fornecedor que paga propina para manter contrato de insumos
+
+#### Competência para aplicar sanções
+- ANVISA e SES podem instaurar PAR
+- CGU pode avocar ou requisitar processos
+- MP pode ajuizar ação judicial
+
+#### Importância do Compliance no setor de saúde
+- Empresas reguladas devem ter programas de integridade robustos
+- Reduz riscos de sanções administrativas
+- Demonstra comprometimento com a ética
+        `,
+
+        pontosChave: [
+          "Lei 12.846/2013: responsabilização OBJETIVA de PESSOAS JURÍDICAS",
+          "Pessoa jurídica responde sem precisar provar dolo ou culpa",
+          "Dirigentes (pessoas físicas) respondem SUBJETIVAMENTE",
+          "Sanções ADMINISTRATIVAS: multa (0,1% a 20%) + publicação da condenação",
+          "Sanções JUDICIAIS: perdimento, suspensão, dissolução, proibição de incentivos",
+          "Acordo de Leniência: primeira a colaborar, redução de até 2/3 da multa",
+          "Programa de Integridade (Compliance): fator ATENUANTE na dosimetria",
+          "Prescrição: 5 anos da ciência da infração",
+          "PAR: 180 dias, comissão de 2+ servidores estáveis",
+          "Aplica-se contra administração NACIONAL e ESTRANGEIRA",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir responsabilidade objetiva com subjetiva",
+            descricao:
+              "A pessoa JURÍDICA responde objetivamente (sem culpa). A pessoa FÍSICA (dirigente) responde subjetivamente (precisa provar culpa/dolo).",
+            dica: "Jurídica = objetiva. Física = subjetiva. Não confunda!",
+          },
+          {
+            titulo: "Achar que a Lei Anticorrupção é penal",
+            descricao:
+              "A Lei 12.846/2013 é de natureza CIVIL e ADMINISTRATIVA, não penal. Não há previsão de prisão.",
+            dica: "Lei Anticorrupção = sanções administrativas e civis, não penais.",
+          },
+          {
+            titulo: "Pensar que o acordo de leniência elimina todas as sanções",
+            descricao:
+              "O acordo de leniência NÃO afasta a obrigação de reparar integralmente o dano. Reduz multa em até 2/3 e isenta da publicação e proibição de incentivos.",
+            dica: "Leniência NÃO isenta de reparar o dano!",
+          },
+          {
+            titulo: "Confundir com a Lei de Improbidade",
+            descricao:
+              "Lei 12.846/2013 é voltada a PESSOAS JURÍDICAS. Lei 8.429/92 (Improbidade) é voltada a AGENTES PÚBLICOS.",
+            dica: "Anticorrupção = empresas. Improbidade = servidores.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "PJ-OB",
+            significado: "Pessoa Jurídica = Responsabilidade OBjetiva",
+            frase: "PJ-OB: Pessoa Jurídica, Objetiva!",
+          },
+          {
+            termo: "2/3-L",
+            significado: "Redução de até 2/3 no acordo de Leniência",
+            frase: "Leniência pode reduzir até 2/3 da multa",
+          },
+          {
+            termo: "0,1-20",
+            significado: "Multa de 0,1% a 20% do faturamento",
+            frase: "Multa vai de ZERO-UM a VINTE por cento",
+          },
+          {
+            termo: "PCPI",
+            significado: "Programa de Compliance = Possível Integridade",
+            frase: "Ter Compliance pode reduzir sanções (atenuante)",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "da-fc-12-1",
+            frente: "Qual o tipo de responsabilidade da pessoa jurídica na Lei Anticorrupção?",
+            verso:
+              "**RESPONSABILIDADE OBJETIVA**\n\nA pessoa jurídica responde pelos atos lesivos independentemente de comprovação de dolo ou culpa.\n\nBasta demonstrar: ato + nexo causal + dano\n\n(art. 2º, Lei 12.846/2013)",
+            tags: ["responsabilidade", "objetiva", "pessoa jurídica"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-12-2",
+            frente: "Qual o valor da multa administrativa na Lei Anticorrupção?",
+            verso:
+              "**0,1% a 20%** do faturamento bruto do último exercício anterior.\n\nSe não puder usar o critério do faturamento:\n→ R$ 6.000 a R$ 60.000.000\n\nA multa nunca será inferior à vantagem auferida.\n\n(art. 6º, I)",
+            tags: ["multa", "sanção administrativa"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-12-3",
+            frente: "O que é o Acordo de Leniência na Lei Anticorrupção?",
+            verso:
+              "Acordo com pessoa jurídica que **colabora** com investigações.\n\n**Requisitos:**\n- Ser a 1ª a se manifestar\n- Cessar envolvimento\n- Cooperar plenamente\n- Identificar demais envolvidos\n\n**Benefícios:**\n- Redução de até 2/3 da multa\n- Isenção da publicação e proibição de incentivos\n\n**NÃO isenta** de reparar o dano!",
+            tags: ["leniência", "acordo", "colaboração"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-12-4",
+            frente: "Quais são as sanções JUDICIAIS da Lei Anticorrupção?",
+            verso:
+              "Sanções aplicadas pelo **Judiciário** (art. 19):\n\n1. **Perdimento** de bens/valores (vantagem obtida)\n2. **Suspensão/interdição** das atividades\n3. **Dissolução compulsória** da PJ\n4. **Proibição** de receber incentivos (1-5 anos)\n\nSão mais graves que as administrativas!",
+            tags: ["sanções judiciais", "dissolução"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-12-5",
+            frente: "O Programa de Integridade (Compliance) é obrigatório na Lei Anticorrupção?",
+            verso:
+              "**NÃO é obrigatório**, mas é **altamente recomendável**.\n\nÉ fator **ATENUANTE** na dosimetria das sanções (art. 7º, VIII).\n\nElementos:\n- Código de ética\n- Canal de denúncias\n- Treinamentos\n- Auditoria interna\n- Due diligence de terceiros",
+            tags: ["compliance", "integridade", "atenuante"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-12-6",
+            frente: "Qual o prazo prescricional na Lei Anticorrupção?",
+            verso:
+              "**5 ANOS** contados da ciência da infração.\n\nSe a infração for permanente ou continuada: conta-se do dia em que cessar.\n\n**Interrompe-se** com:\n- Instauração de processo administrativo/judicial\n- Citação do responsável\n\n(art. 25)",
+            tags: ["prescrição", "prazo"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-12-7",
+            frente: "A Lei Anticorrupção aplica-se a atos contra administração estrangeira?",
+            verso:
+              "**SIM!**\n\nA Lei 12.846/2013 aplica-se aos atos lesivos praticados contra:\n\n- Administração pública **NACIONAL** (todos os entes e poderes)\n- Administração pública **ESTRANGEIRA**\n\nIsso atende compromissos internacionais do Brasil (OCDE, ONU).",
+            tags: ["administração estrangeira", "aplicação"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-12-8",
+            frente: "Como é a responsabilidade dos dirigentes (pessoas físicas) na Lei Anticorrupção?",
+            verso:
+              "Os dirigentes respondem **SUBJETIVAMENTE**.\n\nNa medida de sua culpabilidade (dolo ou culpa).\n\n**Comparativo:**\n- Pessoa Jurídica → OBJETIVA (sem culpa)\n- Pessoa Física → SUBJETIVA (com culpa)\n\n(art. 3º)",
+            tags: ["dirigentes", "responsabilidade subjetiva"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-12-9",
+            frente: "O que são o CNEP e o CEIS?",
+            verso:
+              "**CNEP** - Cadastro Nacional de Empresas Punidas:\n→ Sanções da Lei Anticorrupção\n→ Acordos de leniência celebrados\n\n**CEIS** - Cadastro Nacional de Empresas Inidôneas e Suspensas:\n→ Empresas impedidas de licitar\n→ Declaradas inidôneas\n\nAmbos são mantidos pela **CGU** e de acesso público.",
+            tags: ["CNEP", "CEIS", "cadastros"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-12-10",
+            frente: "Como funciona o PAR (Processo Administrativo de Responsabilização)?",
+            verso:
+              "**PAR** - Processo Administrativo de Responsabilização:\n\n**Competência**: autoridade máxima do órgão lesado\n**Comissão**: 2 ou mais servidores estáveis\n**Prazo**: 180 dias (prorrogável)\n**Defesa**: 30 dias\n\n**Fases**:\n1. Instauração\n2. Instrução\n3. Defesa\n4. Relatório\n5. Julgamento\n\nGarante contraditório e ampla defesa!",
+            tags: ["PAR", "processo", "responsabilização"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "da-q-12-1",
+            enunciado:
+              "A responsabilidade das pessoas jurídicas na Lei nº 12.846/2013 (Lei Anticorrupção) é:",
+            alternativas: [
+              { letra: "A", texto: "subjetiva, dependendo de comprovação de dolo." },
+              { letra: "B", texto: "subjetiva, dependendo de comprovação de culpa." },
+              { letra: "C", texto: "objetiva, independente de dolo ou culpa." },
+              { letra: "D", texto: "solidária com os dirigentes, sempre subjetiva." },
+              { letra: "E", texto: "subsidiária, dependendo de condenação prévia." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A Lei 12.846/2013 estabelece a responsabilidade OBJETIVA das pessoas jurídicas por atos lesivos à Administração Pública. Não é necessário comprovar dolo ou culpa (art. 2º).",
+            dificuldade: "Fácil",
+            competencia: "Responsabilidade objetiva",
+            banca: "IADES",
+            tags: ["responsabilidade", "objetiva"],
+          },
+          {
+            id: "da-q-12-2",
+            enunciado:
+              "A multa administrativa prevista na Lei Anticorrupção (Lei 12.846/2013) varia de:",
+            alternativas: [
+              { letra: "A", texto: "1% a 10% do faturamento bruto." },
+              { letra: "B", texto: "0,1% a 20% do faturamento bruto." },
+              { letra: "C", texto: "5% a 30% do faturamento bruto." },
+              { letra: "D", texto: "0,5% a 15% do faturamento bruto." },
+              { letra: "E", texto: "2% a 25% do faturamento bruto." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "Conforme art. 6º, I, da Lei 12.846/2013, a multa varia de 0,1% a 20% do faturamento bruto do último exercício anterior ao da instauração do PAR.",
+            dificuldade: "Média",
+            competencia: "Sanções administrativas",
+            banca: "IADES",
+            tags: ["multa", "sanção"],
+          },
+          {
+            id: "da-q-12-3",
+            enunciado:
+              "O acordo de leniência previsto na Lei Anticorrupção pode resultar em:",
+            alternativas: [
+              { letra: "A", texto: "isenção total da multa e do dever de reparar o dano." },
+              { letra: "B", texto: "redução de até 2/3 da multa, mas NÃO afasta a reparação do dano." },
+              { letra: "C", texto: "extinção da punibilidade criminal." },
+              { letra: "D", texto: "perdão judicial integral." },
+              { letra: "E", texto: "prescrição imediata." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "O acordo de leniência pode reduzir a multa em até 2/3 e isentar da publicação da decisão e da proibição de receber incentivos. Porém, NÃO afasta a obrigação de reparar integralmente o dano (art. 16, §3º).",
+            dificuldade: "Média",
+            competencia: "Acordo de Leniência",
+            banca: "IADES",
+            tags: ["leniência", "multa"],
+          },
+          {
+            id: "da-q-12-4",
+            enunciado:
+              "O Programa de Integridade (compliance), na Lei 12.846/2013, configura:",
+            alternativas: [
+              { letra: "A", texto: "agravante na aplicação das sanções." },
+              { letra: "B", texto: "requisito obrigatório para contratar com o poder público." },
+              { letra: "C", texto: "causa de isenção automática de responsabilidade." },
+              { letra: "D", texto: "fator atenuante na dosimetria das sanções." },
+              { letra: "E", texto: "elemento sem relevância jurídica." },
+            ],
+            gabarito: "D",
+            justificativa:
+              "A existência de mecanismos e procedimentos internos de integridade (compliance) é fator ATENUANTE na dosimetria das sanções, conforme art. 7º, VIII, da Lei 12.846/2013.",
+            dificuldade: "Média",
+            competencia: "Compliance",
+            banca: "IADES",
+            tags: ["compliance", "atenuante"],
+          },
+          {
+            id: "da-q-12-5",
+            enunciado:
+              "A dissolução compulsória da pessoa jurídica, prevista na Lei Anticorrupção, é sanção de natureza:",
+            alternativas: [
+              { letra: "A", texto: "administrativa, aplicada pelo órgão lesado." },
+              { letra: "B", texto: "judicial, aplicada pelo Poder Judiciário." },
+              { letra: "C", texto: "penal, aplicada pelo juiz criminal." },
+              { letra: "D", texto: "arbitral, decidida por câmara de mediação." },
+              { letra: "E", texto: "regulatória, aplicada pela agência reguladora." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "A dissolução compulsória é sanção JUDICIAL, aplicada pelo Poder Judiciário em ação civil, quando comprovado que a personalidade jurídica foi usada para ocultar ou facilitar a prática de ilícitos (art. 19, III).",
+            dificuldade: "Média",
+            competencia: "Sanções judiciais",
+            banca: "IADES",
+            tags: ["dissolução", "judicial"],
+          },
+          {
+            id: "da-q-12-6",
+            enunciado:
+              "A Lei 12.846/2013 aplica-se a atos lesivos praticados contra:",
+            alternativas: [
+              { letra: "A", texto: "apenas a Administração Pública federal." },
+              { letra: "B", texto: "apenas a Administração Pública brasileira." },
+              { letra: "C", texto: "a Administração Pública nacional e estrangeira." },
+              { letra: "D", texto: "apenas empresas públicas e sociedades de economia mista." },
+              { letra: "E", texto: "apenas autarquias federais." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A Lei 12.846/2013 aplica-se aos atos lesivos praticados contra a administração pública NACIONAL (todos os entes) e ESTRANGEIRA (art. 1º), atendendo compromissos internacionais do Brasil.",
+            dificuldade: "Fácil",
+            competencia: "Âmbito de aplicação",
+            banca: "IADES",
+            tags: ["aplicação", "estrangeira"],
+          },
+          {
+            id: "da-q-12-7",
+            enunciado:
+              "O prazo prescricional para a aplicação das sanções previstas na Lei Anticorrupção é de:",
+            alternativas: [
+              { letra: "A", texto: "3 anos." },
+              { letra: "B", texto: "5 anos." },
+              { letra: "C", texto: "8 anos." },
+              { letra: "D", texto: "10 anos." },
+              { letra: "E", texto: "imprescritível." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "O prazo prescricional é de 5 ANOS, contados da data da ciência da infração ou, no caso de infração permanente ou continuada, do dia em que tiver cessado (art. 25).",
+            dificuldade: "Fácil",
+            competencia: "Prescrição",
+            banca: "IADES",
+            tags: ["prescrição", "prazo"],
+          },
+          {
+            id: "da-q-12-8",
+            enunciado:
+              "Na Lei Anticorrupção, os dirigentes e administradores das pessoas jurídicas respondem:",
+            alternativas: [
+              { letra: "A", texto: "objetivamente, assim como a pessoa jurídica." },
+              { letra: "B", texto: "subjetivamente, na medida de sua culpabilidade." },
+              { letra: "C", texto: "solidariamente, independentemente de culpa." },
+              { letra: "D", texto: "não respondem, pois a lei só atinge pessoas jurídicas." },
+              { letra: "E", texto: "subsidiariamente, após esgotado o patrimônio da empresa." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "Os dirigentes ou administradores respondem SUBJETIVAMENTE, na medida de sua culpabilidade, pelos atos ilícitos praticados (art. 3º). Diferentemente da pessoa jurídica, que responde objetivamente.",
+            dificuldade: "Média",
+            competencia: "Responsabilidade dos dirigentes",
+            banca: "IADES",
+            tags: ["dirigentes", "subjetiva"],
+          },
+          {
+            id: "da-q-12-9",
+            enunciado:
+              "Constitui ato lesivo à Administração Pública, nos termos da Lei 12.846/2013:",
+            alternativas: [
+              { letra: "A", texto: "contratar servidor público para cargo de confiança." },
+              { letra: "B", texto: "participar regularmente de processo licitatório." },
+              { letra: "C", texto: "financiar ou custear a prática de atos ilícitos previstos na lei." },
+              { letra: "D", texto: "apresentar recursos administrativos contra decisões." },
+              { letra: "E", texto: "exercer o direito de petição perante órgãos públicos." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "Financiar, custear, patrocinar ou de qualquer modo subvencionar a prática dos atos ilícitos previstos na lei é ato lesivo à Administração Pública, conforme art. 5º, II, da Lei 12.846/2013.",
+            dificuldade: "Média",
+            competencia: "Atos lesivos",
+            banca: "IADES",
+            tags: ["atos lesivos", "financiar"],
+          },
+          {
+            id: "da-q-12-10",
+            enunciado:
+              "O Processo Administrativo de Responsabilização (PAR) previsto na Lei Anticorrupção deve ser concluído no prazo de:",
+            alternativas: [
+              { letra: "A", texto: "60 dias, improrrogáveis." },
+              { letra: "B", texto: "90 dias, prorrogáveis." },
+              { letra: "C", texto: "120 dias, improrrogáveis." },
+              { letra: "D", texto: "180 dias, prorrogáveis." },
+              { letra: "E", texto: "1 ano, improrrogável." },
+            ],
+            gabarito: "D",
+            justificativa:
+              "O PAR deve ser concluído no prazo de 180 dias, contados da data de publicação do ato de instauração. Esse prazo pode ser prorrogado, mediante ato fundamentado da autoridade instauradora (art. 10).",
+            dificuldade: "Média",
+            competencia: "PAR",
+            banca: "IADES",
+            tags: ["PAR", "prazo"],
+          },
+        ],
+      },
+    },
   ],
 };
