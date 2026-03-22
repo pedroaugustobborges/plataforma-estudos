@@ -6843,8 +6843,11 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
 
         flashcards: [
           {
+            id: 'ce-fc-12-1',
             frente: "O que regulamenta o Decreto nº 8.077/2013?",
-            verso: "Regulamenta a Lei nº 6.360/1976, dispondo sobre condições para funcionamento de empresas e registro de produtos sujeitos à vigilância sanitária.",
+            verso: "Regulamenta a **Lei nº 6.360/1976**, dispondo sobre:\n\n1. Condições para **funcionamento de empresas**\n2. **Registro** de produtos\n3. **Controle e monitoramento** de produtos\n\nTodos sujeitos à vigilância sanitária (medicamentos, cosméticos, saneantes, correlatos).",
+            tags: ['decreto 8077', 'lei 6360', 'regulamentação'],
+            dificuldade: 'facil',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6852,8 +6855,11 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             erros: 0,
           },
           {
+            id: 'ce-fc-12-2',
             frente: "Qual a diferença entre AFE e AE?",
-            verso: "AFE (Autorização de Funcionamento): para todas as atividades com produtos VISA. AE (Autorização Especial): para atividades com substâncias CONTROLADAS (Portaria 344/98).",
+            verso: "**AFE** (Autorização de Funcionamento):\n→ Para TODAS as atividades com produtos VISA\n→ Obrigatória para funcionar\n\n**AE** (Autorização Especial):\n→ Para substâncias **CONTROLADAS** (Portaria 344/98)\n→ Além da AFE\n→ Entorpecentes, psicotrópicos\n\nAmbas emitidas pela ANVISA!",
+            tags: ['AFE', 'AE', 'diferença'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6861,8 +6867,11 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             erros: 0,
           },
           {
+            id: 'ce-fc-12-3',
             frente: "Qual a validade da AFE?",
-            verso: "INDETERMINADA, condicionada à manutenção dos requisitos (RT, instalações, boas práticas). O registro de produtos é que tem validade de 5 anos.",
+            verso: "**INDETERMINADA**\n\nCondicionada à manutenção dos requisitos:\n- Responsável técnico ativo\n- Instalações adequadas\n- Boas práticas (CBPF)\n- Licença sanitária local\n\n⚠️ NÃO confundir: **Registro de PRODUTOS** é que vale 5 anos!",
+            tags: ['AFE', 'validade', 'indeterminada'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6870,8 +6879,11 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             erros: 0,
           },
           {
+            id: 'ce-fc-12-4',
             frente: "Quem pode ser RT de estabelecimentos que fabricam medicamentos?",
-            verso: "FARMACÊUTICO, obrigatoriamente. Para cosméticos, pode ser farmacêutico ou químico. Para saneantes, pode ser farmacêutico, químico ou engenheiro químico.",
+            verso: "**FARMACÊUTICO**, obrigatoriamente.\n\nPara outros produtos:\n- **Cosméticos**: farmacêutico OU químico\n- **Saneantes**: farmacêutico, químico OU engenheiro químico\n- **Correlatos**: conforme regulamento específico\n\nO RT é obrigatório - sem ele, atividades SUSPENSAS!",
+            tags: ['RT', 'farmacêutico', 'responsável técnico'],
+            dificuldade: 'facil',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6879,8 +6891,11 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             erros: 0,
           },
           {
+            id: 'ce-fc-12-5',
             frente: "O que acontece quando o RT se desliga da empresa?",
-            verso: "A empresa deve comunicar à ANVISA em até 10 DIAS e providenciar substituto. Sem RT, as atividades devem ser SUSPENSAS.",
+            verso: "1. Comunicar à **ANVISA em até 10 DIAS**\n2. Providenciar **SUBSTITUTO**\n3. Sem RT → atividades **SUSPENSAS**\n\nAtribuições do RT:\n- Garantir BPF\n- Assinar documentos técnicos\n- Comunicar irregularidades\n- Supervisionar operações",
+            tags: ['RT', 'desligamento', 'prazo'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6888,8 +6903,11 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             erros: 0,
           },
           {
+            id: 'ce-fc-12-6',
             frente: "Qual a diferença entre registro e notificação de produtos?",
-            verso: "REGISTRO: para produtos de maior risco (cosméticos grau 2, saneantes risco 2), validade 5 anos. NOTIFICAÇÃO: para produtos de baixo risco (grau 1, risco 1), procedimento simplificado.",
+            verso: "**REGISTRO** (produtos de MAIOR risco):\n- Cosméticos grau 2\n- Saneantes risco 2\n- Validade: 5 anos\n- Análise prévia pela ANVISA\n\n**NOTIFICAÇÃO** (BAIXO risco):\n- Cosméticos grau 1\n- Saneantes risco 1\n- Procedimento simplificado\n- Comunicação à ANVISA",
+            tags: ['registro', 'notificação', 'diferença'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6897,8 +6915,11 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             erros: 0,
           },
           {
-            frente: "Quem precisa de Certificado de Boas Práticas de Fabricação?",
-            verso: "FABRICANTES e IMPORTADORES de medicamentos e outros produtos sujeitos à vigilância sanitária. O CBPF é emitido pela ANVISA após inspeção.",
+            id: 'ce-fc-12-7',
+            frente: "Quem precisa de Certificado de Boas Práticas de Fabricação (CBPF)?",
+            verso: "**FABRICANTES** e **IMPORTADORES** de:\n- Medicamentos\n- Produtos para saúde\n- Outros produtos sujeitos à VISA\n\nO CBPF é:\n- Emitido pela ANVISA\n- Após **inspeção**\n- Validade: 2-3 anos (conforme regulamento)\n- Condição para manter AFE",
+            tags: ['CBPF', 'boas práticas', 'fabricantes'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -6906,8 +6927,35 @@ As infrações ao Decreto são punidas conforme a **Lei nº 6.437/1977** (já es
             erros: 0,
           },
           {
+            id: 'ce-fc-12-8',
             frente: "Como é a publicidade de medicamentos que exigem prescrição?",
-            verso: "Permitida APENAS para profissionais de saúde habilitados a prescrever. É PROIBIDA ao público em geral.",
+            verso: "Permitida **APENAS para profissionais de saúde** habilitados a prescrever.\n\n**PROIBIDA** ao público em geral!\n\nMedicamentos SEM prescrição:\n- Publicidade permitida com restrições\n- Advertências obrigatórias\n\nControlados (Portaria 344): publicidade PROIBIDA.",
+            tags: ['publicidade', 'prescrição', 'propaganda'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-12-9',
+            frente: "Quais são as 8 atividades reguladas pelo Decreto 8.077/2013?",
+            verso: "1. **Fabricação** - produção industrial\n2. **Importação** - entrada de produtos\n3. **Exportação** - saída para exterior\n4. **Distribuição** - comércio atacado\n5. **Comercialização** - venda direta\n6. **Fracionamento** - divisão de produtos\n7. **Armazenamento** - guarda\n8. **Transporte** - movimentação\n\nTodas exigem AFE!",
+            tags: ['atividades', 'AFE', 'regulação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-12-10',
+            frente: "Qual a diferença entre AFE e Licença Sanitária?",
+            verso: "**AFE** (Autorização de Funcionamento):\n- Órgão: **ANVISA** (federal)\n- Âmbito: Nacional\n- Validade: Indeterminada\n\n**Licença Sanitária**:\n- Órgão: **VISA local** (estadual/municipal)\n- Âmbito: Local\n- Validade: Anual/bienal\n\n⚠️ **AMBAS são obrigatórias** para funcionar!",
+            tags: ['AFE', 'licença sanitária', 'diferença'],
+            dificuldade: 'medio',
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -13287,6 +13335,2231 @@ Análise de modos de falha e seus efeitos:
             competencia: 'Causa raiz',
             banca: 'IADES',
             tags: ['causa raiz', 'conceito'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-23',
+      numero: 23,
+      titulo: 'Gestão da Qualidade',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### O que é Gestão da Qualidade?
+
+Sistema de gestão que direciona e controla uma organização para atender requisitos de qualidade, garantindo produtos/serviços seguros e eficazes.
+
+### Pilares da Gestão da Qualidade
+
+| Pilar | Descrição |
+|-------|-----------|
+| **SGQ** | Sistema de Gestão da Qualidade |
+| **BPF/GMP** | Boas Práticas de Fabricação |
+| **Garantia da Qualidade** | Ações planejadas e sistemáticas |
+| **Controle de Qualidade** | Verificação dos requisitos |
+
+### Ciclo PDCA
+
+| Fase | Ação | Descrição |
+|------|------|-----------|
+| **P** | Plan (Planejar) | Definir objetivos e métodos |
+| **D** | Do (Executar) | Implementar as ações |
+| **C** | Check (Verificar) | Medir resultados |
+| **A** | Act (Agir) | Corrigir e melhorar |
+
+### Principais Normas
+- **ISO 9001**: SGQ genérico
+- **RDC 658/2022**: BPF medicamentos (antiga RDC 301)
+- **RDC 16/2013**: BPF produtos para saúde
+- **ICH Q10**: Sistema Farmacêutico de Qualidade
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceitos Fundamentais
+
+#### 1.1 O que é Qualidade?
+
+> "Grau no qual um conjunto de características inerentes satisfaz a requisitos" (ISO 9000)
+
+Na indústria farmacêutica, qualidade significa:
+- **Identidade**: o produto é o que diz ser
+- **Pureza**: livre de contaminantes
+- **Potência**: concentração correta do ativo
+- **Segurança**: não causa danos ao usuário
+
+#### 1.2 Sistema de Gestão da Qualidade (SGQ)
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Política da Qualidade** | Intenções da direção |
+| **Objetivos** | Metas mensuráveis |
+| **Processos** | Atividades documentadas |
+| **Recursos** | Pessoas, infraestrutura |
+| **Monitoramento** | Indicadores, auditorias |
+| **Melhoria Contínua** | Ciclo PDCA |
+
+### 2. Garantia da Qualidade vs Controle de Qualidade
+
+| Aspecto | Garantia da Qualidade (GQ) | Controle de Qualidade (CQ) |
+|---------|---------------------------|---------------------------|
+| **Foco** | Sistema/processo | Produto |
+| **Natureza** | Preventiva | Reativa |
+| **Abrangência** | Toda organização | Laboratório |
+| **Objetivo** | Prevenir defeitos | Detectar defeitos |
+| **Atividades** | Auditorias, treinamentos, documentação | Análises, testes, inspeções |
+
+### 3. Boas Práticas de Fabricação (BPF/GMP)
+
+#### 3.1 Conceito
+
+> "Parte da garantia da qualidade que assegura que os produtos são consistentemente produzidos e controlados de acordo com os padrões de qualidade" (RDC 658/2022)
+
+#### 3.2 Os 10 Pilares das BPF
+
+| Pilar | Descrição |
+|-------|-----------|
+| 1. **Pessoal** | Qualificado e treinado |
+| 2. **Instalações** | Projeto adequado |
+| 3. **Equipamentos** | Qualificados e calibrados |
+| 4. **Materiais** | Controlados e rastreáveis |
+| 5. **Documentação** | Procedimentos escritos |
+| 6. **Produção** | Processos validados |
+| 7. **Controle de Qualidade** | Análises confiáveis |
+| 8. **Terceirização** | Contratos e auditorias |
+| 9. **Reclamações e Recalls** | Sistema de tratamento |
+| 10. **Autoinspeção** | Auditorias internas |
+
+### 4. Ciclo PDCA (Deming)
+
+#### 4.1 As Quatro Fases
+
+**P - PLAN (Planejar)**
+- Identificar problema/oportunidade
+- Analisar causas
+- Definir metas e métodos
+
+**D - DO (Executar)**
+- Treinar equipe
+- Implementar ações
+- Coletar dados
+
+**C - CHECK (Verificar)**
+- Comparar resultados com metas
+- Identificar desvios
+- Analisar eficácia
+
+**A - ACT (Agir)**
+- Padronizar o que funcionou
+- Corrigir o que não funcionou
+- Reiniciar o ciclo
+
+### 5. Ferramentas da Qualidade
+
+#### 5.1 As 7 Ferramentas Básicas
+
+| Ferramenta | Aplicação |
+|------------|-----------|
+| **Diagrama de Pareto** | Priorizar problemas (80/20) |
+| **Diagrama de Ishikawa** | Identificar causas (6Ms) |
+| **Histograma** | Visualizar distribuição |
+| **Carta de Controle** | Monitorar processo |
+| **Diagrama de Dispersão** | Correlação entre variáveis |
+| **Fluxograma** | Mapear processos |
+| **Folha de Verificação** | Coletar dados |
+
+#### 5.2 Os 6Ms do Ishikawa
+
+- **M**áquina
+- **M**étodo
+- **M**ão de obra
+- **M**aterial
+- **M**eio ambiente
+- **M**edição
+
+### 6. Documentação na Gestão da Qualidade
+
+#### 6.1 Hierarquia Documental
+
+| Nível | Documento | Conteúdo |
+|-------|-----------|----------|
+| 1 | Manual da Qualidade | Política, escopo, responsabilidades |
+| 2 | Procedimentos (POPs) | Como fazer |
+| 3 | Instruções de Trabalho | Passo a passo detalhado |
+| 4 | Registros | Evidências de execução |
+
+#### 6.2 Boas Práticas de Documentação
+
+- Documentos aprovados antes do uso
+- Revisões controladas
+- Registros legíveis e indeléveis
+- Correções com data e assinatura
+- Tempo de retenção definido
+
+### 7. Qualificação e Validação
+
+| Termo | Definição |
+|-------|-----------|
+| **Qualificação** | Demonstrar que equipamento/sistema funciona |
+| **Validação** | Demonstrar que processo atinge resultados |
+| **Calibração** | Ajustar instrumento ao padrão |
+| **Verificação** | Confirmar cumprimento de requisitos |
+
+### 8. Auditorias
+
+| Tipo | Quem realiza |
+|------|--------------|
+| **Interna** | Própria empresa (autoinspeção) |
+| **Segunda parte** | Cliente no fornecedor |
+| **Terceira parte** | Organismo certificador/ANVISA |
+        `,
+
+        pontosChave: [
+          "SGQ: Sistema de Gestão da Qualidade - estrutura para garantir qualidade",
+          "Garantia da Qualidade: PREVENTIVA, foca no sistema/processo",
+          "Controle de Qualidade: REATIVO, foca no produto (análises, testes)",
+          "PDCA: Plan-Do-Check-Act (ciclo de melhoria contínua)",
+          "BPF/GMP: Boas Práticas de Fabricação - requisito legal",
+          "10 pilares BPF: Pessoal, Instalações, Equipamentos, Materiais, Documentação...",
+          "Ishikawa: 6Ms (Máquina, Método, Mão de obra, Material, Meio ambiente, Medição)",
+          "Pareto: 80/20 (80% dos problemas vêm de 20% das causas)",
+          "Documentação: Manual > POPs > ITs > Registros",
+          "Qualificação = equipamentos; Validação = processos",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir GQ com CQ",
+            descricao: "Garantia da Qualidade é PREVENTIVA (sistema). Controle de Qualidade é REATIVO (produto).",
+            dica: "GQ previne; CQ detecta.",
+          },
+          {
+            titulo: "Inverter PDCA",
+            descricao: "A ordem correta é Plan-Do-Check-Act, não outra sequência.",
+            dica: "PDCA: Planejar, Fazer, Verificar, Agir.",
+          },
+          {
+            titulo: "Confundir qualificação com validação",
+            descricao: "Qualificação é para EQUIPAMENTOS. Validação é para PROCESSOS.",
+            dica: "Equipamento se qualifica; Processo se valida.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "PDCA",
+            significado: "Plan, Do, Check, Act",
+            frase: "Planejar, Desenvolver, Checar, Agir",
+          },
+          {
+            termo: "6Ms",
+            significado: "Máquina, Método, Mão de obra, Material, Meio ambiente, Medição",
+            frase: "6Ms do Ishikawa - causas de problemas",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-23-1',
+            frente: "Qual a diferença entre Garantia da Qualidade e Controle de Qualidade?",
+            verso: "**Garantia da Qualidade (GQ)**:\n- PREVENTIVA\n- Foca no SISTEMA/PROCESSO\n- Abrange toda organização\n- Ex: auditorias, treinamentos\n\n**Controle de Qualidade (CQ)**:\n- REATIVO\n- Foca no PRODUTO\n- Atividade de laboratório\n- Ex: análises, testes",
+            tags: ['GQ', 'CQ', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-23-2',
+            frente: "O que significa o ciclo PDCA?",
+            verso: "**P** - Plan (Planejar): definir objetivos e métodos\n**D** - Do (Executar): implementar ações\n**C** - Check (Verificar): medir resultados\n**A** - Act (Agir): corrigir e padronizar\n\nCiclo de MELHORIA CONTÍNUA (Deming)",
+            tags: ['PDCA', 'melhoria contínua'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-23-3',
+            frente: "Quais são os 6Ms do Diagrama de Ishikawa?",
+            verso: "1. **M**áquina\n2. **M**étodo\n3. **M**ão de obra\n4. **M**aterial\n5. **M**eio ambiente\n6. **M**edição\n\nUsado para identificar CAUSAS de problemas (diagrama espinha de peixe).",
+            tags: ['Ishikawa', '6Ms', 'causa raiz'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-23-4',
+            frente: "O que é o Princípio de Pareto (80/20)?",
+            verso: "**80% dos efeitos** vêm de **20% das causas**.\n\nAplicação: priorizar os POUCOS problemas VITAIS (20%) que causam a maioria dos efeitos (80%).\n\nFerramenta: Diagrama de Pareto (barras + linha acumulada).",
+            tags: ['Pareto', '80/20', 'priorização'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-23-5',
+            frente: "Qual a diferença entre Qualificação e Validação?",
+            verso: "**QUALIFICAÇÃO**:\n→ Para EQUIPAMENTOS/SISTEMAS\n→ Demonstra que funciona corretamente\n→ QI, QO, QD (instalação, operação, desempenho)\n\n**VALIDAÇÃO**:\n→ Para PROCESSOS\n→ Demonstra que atinge resultados consistentes\n→ Prospectiva, retrospectiva, concorrente",
+            tags: ['qualificação', 'validação', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-23-6',
+            frente: "Qual a hierarquia da documentação no SGQ?",
+            verso: "1. **Manual da Qualidade** - Política, escopo\n2. **Procedimentos (POPs)** - Como fazer\n3. **Instruções de Trabalho (ITs)** - Passo a passo\n4. **Registros** - Evidências de execução\n\nCada nível é mais detalhado que o anterior.",
+            tags: ['documentação', 'hierarquia', 'POPs'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-23-7',
+            frente: "Quais são os tipos de auditoria da qualidade?",
+            verso: "**1ª parte (Interna)**:\n→ Própria empresa (autoinspeção)\n\n**2ª parte**:\n→ Cliente audita fornecedor\n\n**3ª parte**:\n→ Organismo independente\n→ Certificação (ISO)\n→ Inspeção sanitária (ANVISA)",
+            tags: ['auditoria', 'tipos', 'interna'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-23-8',
+            frente: "O que são Boas Práticas de Fabricação (BPF)?",
+            verso: "Parte da **Garantia da Qualidade** que assegura que produtos são:\n- **Consistentemente** produzidos\n- **Controlados** conforme padrões de qualidade\n\n10 pilares: Pessoal, Instalações, Equipamentos, Materiais, Documentação, Produção, CQ, Terceirização, Reclamações, Autoinspeção.",
+            tags: ['BPF', 'GMP', 'pilares'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-23-9',
+            frente: "Quais são as 7 ferramentas básicas da qualidade?",
+            verso: "1. **Diagrama de Pareto** - priorização\n2. **Diagrama de Ishikawa** - causas (6Ms)\n3. **Histograma** - distribuição\n4. **Carta de Controle** - monitoramento\n5. **Diagrama de Dispersão** - correlação\n6. **Fluxograma** - mapeamento\n7. **Folha de Verificação** - coleta dados",
+            tags: ['ferramentas', 'qualidade', '7 ferramentas'],
+            dificuldade: 'dificil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-23-10',
+            frente: "O que é melhoria contínua no contexto da qualidade?",
+            verso: "Atividade **recorrente** para aumentar a capacidade de atender requisitos.\n\nFerramentas:\n- Ciclo **PDCA**\n- Análise de **indicadores**\n- Tratamento de **não conformidades**\n- **Auditorias** internas\n- **CAPA** (ações corretivas/preventivas)\n\nNunca termina - é um CICLO!",
+            tags: ['melhoria contínua', 'PDCA', 'CAPA'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-23-1',
+            enunciado: 'A atividade que foca na prevenção de defeitos, abrangendo toda a organização, é denominada:',
+            alternativas: [
+              { letra: 'A', texto: 'Controle de Qualidade.' },
+              { letra: 'B', texto: 'Garantia da Qualidade.' },
+              { letra: 'C', texto: 'Inspeção final.' },
+              { letra: 'D', texto: 'Análise laboratorial.' },
+              { letra: 'E', texto: 'Amostragem.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A GARANTIA DA QUALIDADE é preventiva e abrange toda a organização. O Controle de Qualidade é reativo e foca no produto.',
+            dificuldade: 'Fácil',
+            competencia: 'GQ vs CQ',
+            banca: 'IADES',
+            tags: ['GQ', 'prevenção'],
+          },
+          {
+            id: 'ce-q-23-2',
+            enunciado: 'O ciclo PDCA é composto pelas fases:',
+            alternativas: [
+              { letra: 'A', texto: 'Planejar, Desenvolver, Corrigir, Avaliar.' },
+              { letra: 'B', texto: 'Planejar, Executar, Verificar, Agir.' },
+              { letra: 'C', texto: 'Pesquisar, Definir, Controlar, Ajustar.' },
+              { letra: 'D', texto: 'Projetar, Documentar, Certificar, Auditar.' },
+              { letra: 'E', texto: 'Preparar, Dirigir, Checar, Aprovar.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'PDCA: Plan (Planejar), Do (Executar), Check (Verificar), Act (Agir). É o ciclo de melhoria contínua de Deming.',
+            dificuldade: 'Fácil',
+            competencia: 'PDCA',
+            banca: 'IADES',
+            tags: ['PDCA', 'fases'],
+          },
+          {
+            id: 'ce-q-23-3',
+            enunciado: 'O Diagrama de Ishikawa organiza as causas potenciais de um problema em categorias conhecidas como:',
+            alternativas: [
+              { letra: 'A', texto: '5 Porquês.' },
+              { letra: 'B', texto: '5S.' },
+              { letra: 'C', texto: '6Ms.' },
+              { letra: 'D', texto: '7 ferramentas.' },
+              { letra: 'E', texto: '8D.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O Diagrama de Ishikawa (espinha de peixe) usa os 6Ms: Máquina, Método, Mão de obra, Material, Meio ambiente e Medição.',
+            dificuldade: 'Média',
+            competencia: 'Ishikawa',
+            banca: 'IADES',
+            tags: ['Ishikawa', '6Ms'],
+          },
+          {
+            id: 'ce-q-23-4',
+            enunciado: 'Segundo o Princípio de Pareto, pode-se afirmar que:',
+            alternativas: [
+              { letra: 'A', texto: 'todas as causas têm o mesmo peso.' },
+              { letra: 'B', texto: '80% dos efeitos vêm de 20% das causas.' },
+              { letra: 'C', texto: '50% dos problemas são críticos.' },
+              { letra: 'D', texto: 'as causas devem ser tratadas aleatoriamente.' },
+              { letra: 'E', texto: '100% dos problemas devem ser resolvidos simultaneamente.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O Princípio de Pareto (80/20) estabelece que 80% dos efeitos são causados por 20% das causas. Permite priorizar ações.',
+            dificuldade: 'Fácil',
+            competencia: 'Pareto',
+            banca: 'IADES',
+            tags: ['Pareto', '80/20'],
+          },
+          {
+            id: 'ce-q-23-5',
+            enunciado: 'A demonstração documentada de que um equipamento funciona adequadamente denomina-se:',
+            alternativas: [
+              { letra: 'A', texto: 'validação de processo.' },
+              { letra: 'B', texto: 'qualificação.' },
+              { letra: 'C', texto: 'certificação.' },
+              { letra: 'D', texto: 'auditoria.' },
+              { letra: 'E', texto: 'calibração.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'QUALIFICAÇÃO é para equipamentos/sistemas. VALIDAÇÃO é para processos. Qualificação demonstra que o equipamento funciona adequadamente.',
+            dificuldade: 'Média',
+            competencia: 'Qualificação',
+            banca: 'IADES',
+            tags: ['qualificação', 'equipamento'],
+          },
+          {
+            id: 'ce-q-23-6',
+            enunciado: 'A auditoria realizada pela própria empresa para verificar seu sistema de qualidade é denominada:',
+            alternativas: [
+              { letra: 'A', texto: 'auditoria de terceira parte.' },
+              { letra: 'B', texto: 'auditoria de certificação.' },
+              { letra: 'C', texto: 'auditoria externa.' },
+              { letra: 'D', texto: 'auditoria interna (autoinspeção).' },
+              { letra: 'E', texto: 'auditoria regulatória.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Auditoria INTERNA (1ª parte ou autoinspeção) é realizada pela própria empresa. Auditoria de 3ª parte é por organismo independente.',
+            dificuldade: 'Fácil',
+            competencia: 'Auditoria',
+            banca: 'IADES',
+            tags: ['auditoria', 'interna'],
+          },
+          {
+            id: 'ce-q-23-7',
+            enunciado: 'Na hierarquia da documentação do SGQ, os POPs (Procedimentos Operacionais Padrão) estão:',
+            alternativas: [
+              { letra: 'A', texto: 'no nível mais alto, acima do Manual da Qualidade.' },
+              { letra: 'B', texto: 'abaixo do Manual e acima das Instruções de Trabalho.' },
+              { letra: 'C', texto: 'no nível dos registros.' },
+              { letra: 'D', texto: 'fora do sistema documental.' },
+              { letra: 'E', texto: 'no mesmo nível das políticas.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Hierarquia: Manual da Qualidade > Procedimentos (POPs) > Instruções de Trabalho > Registros. POPs descrevem "como fazer".',
+            dificuldade: 'Média',
+            competencia: 'Documentação',
+            banca: 'IADES',
+            tags: ['POPs', 'hierarquia'],
+          },
+          {
+            id: 'ce-q-23-8',
+            enunciado: 'As BPF (Boas Práticas de Fabricação) fazem parte de qual componente do sistema de qualidade?',
+            alternativas: [
+              { letra: 'A', texto: 'Controle de Qualidade.' },
+              { letra: 'B', texto: 'Garantia da Qualidade.' },
+              { letra: 'C', texto: 'Inspeção final.' },
+              { letra: 'D', texto: 'Auditoria externa.' },
+              { letra: 'E', texto: 'Análise de risco.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'BPF/GMP é parte da GARANTIA DA QUALIDADE, assegurando que produtos são consistentemente produzidos e controlados conforme padrões.',
+            dificuldade: 'Média',
+            competencia: 'BPF',
+            banca: 'IADES',
+            tags: ['BPF', 'GQ'],
+          },
+          {
+            id: 'ce-q-23-9',
+            enunciado: 'A ferramenta da qualidade utilizada para monitorar a estabilidade de um processo ao longo do tempo é:',
+            alternativas: [
+              { letra: 'A', texto: 'Diagrama de Pareto.' },
+              { letra: 'B', texto: 'Diagrama de Ishikawa.' },
+              { letra: 'C', texto: 'Carta de Controle.' },
+              { letra: 'D', texto: 'Histograma.' },
+              { letra: 'E', texto: 'Fluxograma.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A CARTA DE CONTROLE (ou gráfico de controle) monitora a estabilidade do processo ao longo do tempo, identificando variações.',
+            dificuldade: 'Média',
+            competencia: 'Ferramentas',
+            banca: 'IADES',
+            tags: ['carta de controle', 'monitoramento'],
+          },
+          {
+            id: 'ce-q-23-10',
+            enunciado: 'O conceito de melhoria contínua pressupõe que:',
+            alternativas: [
+              { letra: 'A', texto: 'existe um ponto final a ser atingido.' },
+              { letra: 'B', texto: 'as melhorias são implementadas uma única vez.' },
+              { letra: 'C', texto: 'o ciclo PDCA é aplicado de forma recorrente.' },
+              { letra: 'D', texto: 'apenas grandes mudanças são válidas.' },
+              { letra: 'E', texto: 'a qualidade não pode ser medida.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A melhoria contínua é RECORRENTE, aplicando o ciclo PDCA repetidamente. Não existe ponto final - sempre há oportunidade de melhorar.',
+            dificuldade: 'Fácil',
+            competencia: 'Melhoria contínua',
+            banca: 'IADES',
+            tags: ['melhoria contínua', 'PDCA'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-24',
+      numero: 24,
+      titulo: 'Plano Mestre de Validação',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### O que é o Plano Mestre de Validação (PMV)?
+
+Documento que descreve a **filosofia, intenções e abordagem** da empresa para demonstrar que seus processos, equipamentos e sistemas estão sob controle.
+
+### Elementos Essenciais do PMV
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Política de validação** | Compromisso da direção |
+| **Estrutura organizacional** | Responsabilidades |
+| **Inventário** | O que será validado |
+| **Critérios de aceitação** | Parâmetros de aprovação |
+| **Cronograma** | Planejamento temporal |
+| **Controle de mudanças** | Revalidação |
+
+### Tipos de Validação
+
+| Tipo | Quando |
+|------|--------|
+| **Prospectiva** | ANTES da produção comercial |
+| **Concorrente** | DURANTE a produção (casos excepcionais) |
+| **Retrospectiva** | Dados HISTÓRICOS (não mais aceita) |
+| **Revalidação** | Após mudanças significativas |
+
+### Tipos de Qualificação
+
+| Sigla | Nome | Objetivo |
+|-------|------|----------|
+| **QD** | Qualificação de Desenho | Projeto atende requisitos |
+| **QI** | Qualificação de Instalação | Instalado conforme especificado |
+| **QO** | Qualificação de Operação | Opera dentro dos limites |
+| **QP/QD** | Qualificação de Performance/Desempenho | Desempenho consistente |
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito de Validação
+
+> "Ação de provar, de acordo com os princípios das BPF, que qualquer procedimento, processo, equipamento, material, atividade ou sistema leva aos resultados esperados." (RDC 658/2022)
+
+#### Por que validar?
+
+- Garantir **consistência** e **reprodutibilidade**
+- Atender **requisitos regulatórios**
+- Reduzir **riscos** de desvios
+- Demonstrar **controle** do processo
+
+### 2. O Plano Mestre de Validação (PMV)
+
+#### 2.1 Definição
+
+Documento de alto nível que estabelece:
+- **Filosofia** e política de validação
+- **Escopo** das atividades
+- **Responsabilidades**
+- **Cronograma** de execução
+- **Critérios** de aceitação
+
+#### 2.2 Conteúdo Típico do PMV
+
+| Seção | Conteúdo |
+|-------|----------|
+| 1. Introdução | Objetivos, escopo, definições |
+| 2. Política | Compromisso da alta direção |
+| 3. Organização | Responsabilidades, organograma |
+| 4. Inventário | Lista de itens a validar |
+| 5. Abordagem | Tipos de validação/qualificação |
+| 6. Critérios | Parâmetros de aceitação |
+| 7. Documentação | Protocolos, relatórios |
+| 8. Cronograma | Planejamento temporal |
+| 9. Controle de mudanças | Revalidação |
+| 10. Referências | Normas aplicáveis |
+
+### 3. Tipos de Validação de Processo
+
+#### 3.1 Validação PROSPECTIVA
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Quando** | ANTES da comercialização |
+| **Base** | Dados experimentais |
+| **Lotes** | Mínimo 3 lotes consecutivos |
+| **Aplicação** | Novos produtos/processos |
+
+É o tipo **preferencial** e mais robusto.
+
+#### 3.2 Validação CONCORRENTE
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Quando** | DURANTE a produção comercial |
+| **Base** | Dados de produção em andamento |
+| **Aplicação** | Casos excepcionais justificados |
+| **Requisito** | Aprovação regulatória prévia |
+
+Usada apenas quando não é possível a prospectiva.
+
+#### 3.3 Validação RETROSPECTIVA
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Quando** | Com base em dados HISTÓRICOS |
+| **Base** | Lotes já produzidos |
+| **Status** | NÃO mais aceita pela ANVISA |
+
+⚠️ A RDC 658/2022 não aceita mais validação retrospectiva!
+
+### 4. Qualificação de Equipamentos
+
+#### 4.1 As Fases da Qualificação (QD-QI-QO-QP)
+
+**QD - Qualificação de Desenho (Design)**
+- Verificar se o projeto atende aos requisitos
+- Especificações técnicas adequadas
+- Análise de riscos do design
+
+**QI - Qualificação de Instalação**
+- Verificar instalação conforme especificações
+- Checklist de componentes
+- Documentação, manuais, certificados
+
+**QO - Qualificação de Operação**
+- Testar funcionamento em condições operacionais
+- Verificar limites alto/baixo (worst case)
+- Calibração de instrumentos
+
+**QP/QD - Qualificação de Performance/Desempenho**
+- Demonstrar desempenho consistente
+- Condições reais de uso
+- Geralmente 3 corridas consecutivas
+
+#### 4.2 Fluxo da Qualificação
+
+\`\`\`
+QD → QI → QO → QP
+\`\`\`
+
+Cada fase deve ser concluída antes da próxima!
+
+### 5. Validação de Processos
+
+#### 5.1 Etapas
+
+1. **Planejamento** - Protocolo de validação
+2. **Execução** - Produção dos lotes
+3. **Avaliação** - Análise dos dados
+4. **Documentação** - Relatório final
+5. **Manutenção** - Monitoramento contínuo
+
+#### 5.2 Protocolo de Validação
+
+| Item | Descrição |
+|------|-----------|
+| Objetivo | O que será validado |
+| Responsabilidades | Quem executa, aprova |
+| Descrição do processo | Etapas, parâmetros |
+| Equipamentos | Lista e status de qualificação |
+| Critérios de aceitação | Limites, especificações |
+| Amostragem | Pontos, frequência |
+| Metodologia analítica | Métodos validados |
+| Critérios de revalidação | Quando repetir |
+
+### 6. Outros Tipos de Validação
+
+#### 6.1 Validação de Limpeza
+
+- Demonstra eficácia dos procedimentos de limpeza
+- Remove resíduos de produto, agentes de limpeza, microorganismos
+- Define limites de aceitação (MACO, NOEL)
+
+#### 6.2 Validação de Métodos Analíticos
+
+| Parâmetro | O que avalia |
+|-----------|--------------|
+| Especificidade | Mede apenas o analito |
+| Linearidade | Resposta proporcional |
+| Precisão | Reprodutibilidade |
+| Exatidão | Proximidade do valor real |
+| Limite de detecção | Menor quantidade detectável |
+| Limite de quantificação | Menor quantidade quantificável |
+| Robustez | Resistência a variações |
+
+#### 6.3 Validação de Sistemas Computadorizados
+
+- Software que afeta qualidade do produto
+- Baseada em análise de risco (GAMP 5)
+- Categorias de software (1 a 5)
+- Integridade de dados (ALCOA+)
+
+### 7. Revalidação
+
+#### 7.1 Quando Revalidar?
+
+- Mudança em matéria-prima crítica
+- Mudança em equipamento
+- Mudança em processo
+- Mudança em instalações
+- Após período prolongado sem produção
+- Tendências negativas
+
+#### 7.2 Validação Contínua de Processo (VCP)
+
+Abordagem moderna:
+- Monitoramento contínuo do processo
+- Uso de dados de produção rotineira
+- Avaliação estatística
+- Ciclo de vida da validação
+        `,
+
+        pontosChave: [
+          "PMV: documento que define filosofia, escopo e cronograma de validação",
+          "Validação PROSPECTIVA: ANTES da comercialização (preferencial)",
+          "Validação CONCORRENTE: durante produção (excepcional)",
+          "Validação RETROSPECTIVA: NÃO mais aceita pela ANVISA",
+          "Qualificação: QD → QI → QO → QP (sequência obrigatória)",
+          "QI = Instalação; QO = Operação; QP = Performance",
+          "Mínimo 3 LOTES consecutivos para validação de processo",
+          "Revalidação após mudanças significativas",
+          "Validação de limpeza: demonstra remoção de resíduos (MACO)",
+          "VCP (Validação Contínua): abordagem moderna de ciclo de vida",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Validação retrospectiva ainda válida",
+            descricao: "A validação RETROSPECTIVA não é mais aceita pela ANVISA (RDC 658/2022). Era baseada em dados históricos.",
+            dica: "Apenas prospectiva e concorrente são aceitas atualmente.",
+          },
+          {
+            titulo: "Confundir QI com QO",
+            descricao: "QI (Instalação) verifica se foi instalado corretamente. QO (Operação) verifica se opera dentro dos limites.",
+            dica: "QI = está instalado? QO = funciona bem?",
+          },
+          {
+            titulo: "Pular etapas de qualificação",
+            descricao: "A sequência QD→QI→QO→QP deve ser seguida. Não se pode fazer QO sem ter feito QI.",
+            dica: "Cada fase é pré-requisito da próxima.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "QIOP",
+            significado: "Qualificação de Instalação, Operação, Performance",
+            frase: "QIOP: Instalou? Opera? Performa?",
+          },
+          {
+            termo: "3 LOTES",
+            significado: "Mínimo para validação de processo",
+            frase: "Validação de processo = mínimo 3 lotes consecutivos",
+          },
+          {
+            termo: "PRO-CON",
+            significado: "Prospectiva e Concorrente",
+            frase: "Validações aceitas: PROspectiva e CONcorrente (não retrospectiva)",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-24-1',
+            frente: "O que é o Plano Mestre de Validação (PMV)?",
+            verso: "Documento que descreve a **filosofia, intenções e abordagem** da empresa para validação.\n\nConteúdo:\n- Política de validação\n- Estrutura organizacional\n- Inventário de itens a validar\n- Critérios de aceitação\n- Cronograma\n- Controle de mudanças",
+            tags: ['PMV', 'validação', 'documento'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-24-2',
+            frente: "Quais são os tipos de validação de processo?",
+            verso: "**PROSPECTIVA** (preferencial):\n→ ANTES da comercialização\n→ Baseada em dados experimentais\n\n**CONCORRENTE** (excepcional):\n→ DURANTE a produção\n→ Casos justificados\n\n**RETROSPECTIVA**:\n→ NÃO MAIS ACEITA pela ANVISA!\n→ Era baseada em dados históricos",
+            tags: ['validação', 'tipos', 'prospectiva'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-24-3',
+            frente: "Quais são as fases da qualificação de equipamentos?",
+            verso: "**QD** - Qualificação de Desenho\n→ Projeto atende requisitos?\n\n**QI** - Qualificação de Instalação\n→ Instalado conforme especificado?\n\n**QO** - Qualificação de Operação\n→ Opera dentro dos limites?\n\n**QP** - Qualificação de Performance\n→ Desempenho consistente?\n\nSequência: QD → QI → QO → QP",
+            tags: ['qualificação', 'QI', 'QO', 'QP'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-24-4',
+            frente: "Quantos lotes são necessários para validação de processo?",
+            verso: "**Mínimo 3 LOTES CONSECUTIVOS**\n\n- Demonstram reprodutibilidade\n- Devem atender todas as especificações\n- Produzidos nas mesmas condições\n\nAlgumas empresas fazem mais para maior confiança estatística.",
+            tags: ['validação', 'lotes', 'processo'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-24-5',
+            frente: "O que é validação de limpeza?",
+            verso: "Demonstra que os procedimentos de limpeza **removem efetivamente**:\n\n- Resíduos de PRODUTO anterior\n- Agentes de LIMPEZA\n- Contaminação MICROBIANA\n\nDefine limites de aceitação:\n- **MACO** (Maximum Allowable Carryover)\n- **NOEL** (No Observable Effect Level)",
+            tags: ['validação', 'limpeza', 'MACO'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-24-6',
+            frente: "Quando é necessária a revalidação?",
+            verso: "Após **mudanças significativas** em:\n\n- Matéria-prima crítica\n- Equipamento\n- Processo\n- Instalações\n- Tamanho de lote\n\nOutras situações:\n- Período prolongado sem produção\n- Tendências negativas nos dados\n- Desvios recorrentes",
+            tags: ['revalidação', 'mudanças', 'controle'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-24-7',
+            frente: "O que é verificação de método analítico vs validação?",
+            verso: "**VALIDAÇÃO**:\n→ Para métodos NOVOS ou modificados\n→ Avalia todos os parâmetros\n→ Especificidade, linearidade, precisão, exatidão...\n\n**VERIFICAÇÃO**:\n→ Para métodos de FARMACOPEIA\n→ Confirma adequação ao uso pretendido\n→ Menos extensiva que validação",
+            tags: ['validação', 'verificação', 'método'],
+            dificuldade: 'dificil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-24-8',
+            frente: "O que contém um protocolo de validação?",
+            verso: "1. **Objetivo** - o que será validado\n2. **Responsabilidades** - quem faz o quê\n3. **Descrição do processo** - etapas, parâmetros\n4. **Equipamentos** - lista e qualificação\n5. **Critérios de aceitação** - limites\n6. **Amostragem** - pontos e frequência\n7. **Metodologia** - métodos analíticos\n8. **Aprovações** - assinaturas",
+            tags: ['protocolo', 'validação', 'conteúdo'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-24-9',
+            frente: "O que é Validação Contínua de Processo (VCP)?",
+            verso: "Abordagem **moderna** (FDA, ICH):\n\n- Monitoramento **contínuo** do processo\n- Usa dados de **produção rotineira**\n- Avaliação **estatística** dos dados\n- Ciclo de **vida** da validação\n\n3 Estágios:\n1. Design do processo\n2. Qualificação do processo\n3. Verificação contínua",
+            tags: ['VCP', 'contínua', 'ciclo de vida'],
+            dificuldade: 'dificil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-24-10',
+            frente: "Qual a diferença entre qualificação e validação?",
+            verso: "**QUALIFICAÇÃO**:\n→ Para EQUIPAMENTOS e SISTEMAS\n→ Demonstra que funciona adequadamente\n→ QD, QI, QO, QP\n\n**VALIDAÇÃO**:\n→ Para PROCESSOS e MÉTODOS\n→ Demonstra resultados consistentes\n→ Prospectiva, concorrente\n\nEquipamento se QUALIFICA; Processo se VALIDA.",
+            tags: ['qualificação', 'validação', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-24-1',
+            enunciado: 'O documento que descreve a filosofia, intenções e abordagem de validação de uma empresa é o:',
+            alternativas: [
+              { letra: 'A', texto: 'Protocolo de validação.' },
+              { letra: 'B', texto: 'Relatório de validação.' },
+              { letra: 'C', texto: 'Plano Mestre de Validação (PMV).' },
+              { letra: 'D', texto: 'Manual da Qualidade.' },
+              { letra: 'E', texto: 'Procedimento Operacional Padrão.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O PMV (Plano Mestre de Validação) é o documento de alto nível que define a filosofia, escopo, responsabilidades e cronograma das atividades de validação.',
+            dificuldade: 'Fácil',
+            competencia: 'PMV',
+            banca: 'IADES',
+            tags: ['PMV', 'documento'],
+          },
+          {
+            id: 'ce-q-24-2',
+            enunciado: 'A validação realizada ANTES da comercialização do produto, com base em dados experimentais, é denominada:',
+            alternativas: [
+              { letra: 'A', texto: 'retrospectiva.' },
+              { letra: 'B', texto: 'concorrente.' },
+              { letra: 'C', texto: 'prospectiva.' },
+              { letra: 'D', texto: 'contínua.' },
+              { letra: 'E', texto: 'periódica.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Validação PROSPECTIVA é realizada ANTES da comercialização, baseada em dados experimentais. É o tipo preferencial de validação.',
+            dificuldade: 'Fácil',
+            competencia: 'Tipos de validação',
+            banca: 'IADES',
+            tags: ['prospectiva', 'validação'],
+          },
+          {
+            id: 'ce-q-24-3',
+            enunciado: 'A validação retrospectiva, baseada em dados históricos:',
+            alternativas: [
+              { letra: 'A', texto: 'é o tipo preferencial de validação.' },
+              { letra: 'B', texto: 'é aceita pela ANVISA em todos os casos.' },
+              { letra: 'C', texto: 'não é mais aceita pela regulamentação vigente.' },
+              { letra: 'D', texto: 'dispensa a qualificação de equipamentos.' },
+              { letra: 'E', texto: 'substitui a validação prospectiva.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A validação RETROSPECTIVA NÃO é mais aceita pela ANVISA (RDC 658/2022). Apenas prospectiva e concorrente são aceitas.',
+            dificuldade: 'Média',
+            competencia: 'Validação retrospectiva',
+            banca: 'IADES',
+            tags: ['retrospectiva', 'ANVISA'],
+          },
+          {
+            id: 'ce-q-24-4',
+            enunciado: 'A qualificação que verifica se o equipamento foi instalado conforme as especificações é a:',
+            alternativas: [
+              { letra: 'A', texto: 'Qualificação de Desenho (QD).' },
+              { letra: 'B', texto: 'Qualificação de Instalação (QI).' },
+              { letra: 'C', texto: 'Qualificação de Operação (QO).' },
+              { letra: 'D', texto: 'Qualificação de Performance (QP).' },
+              { letra: 'E', texto: 'Qualificação Analítica.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A QI (Qualificação de Instalação) verifica se o equipamento foi INSTALADO conforme especificações do fabricante e do projeto.',
+            dificuldade: 'Fácil',
+            competencia: 'QI',
+            banca: 'IADES',
+            tags: ['QI', 'instalação'],
+          },
+          {
+            id: 'ce-q-24-5',
+            enunciado: 'Para validação de processo, o número mínimo de lotes consecutivos geralmente exigido é:',
+            alternativas: [
+              { letra: 'A', texto: '1 lote.' },
+              { letra: 'B', texto: '2 lotes.' },
+              { letra: 'C', texto: '3 lotes.' },
+              { letra: 'D', texto: '5 lotes.' },
+              { letra: 'E', texto: '10 lotes.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O mínimo são 3 LOTES CONSECUTIVOS para validação de processo, demonstrando reprodutibilidade e consistência do processo.',
+            dificuldade: 'Fácil',
+            competencia: 'Lotes',
+            banca: 'IADES',
+            tags: ['3 lotes', 'validação'],
+          },
+          {
+            id: 'ce-q-24-6',
+            enunciado: 'A sequência correta das fases de qualificação de equipamentos é:',
+            alternativas: [
+              { letra: 'A', texto: 'QO → QI → QP → QD.' },
+              { letra: 'B', texto: 'QI → QO → QD → QP.' },
+              { letra: 'C', texto: 'QD → QI → QO → QP.' },
+              { letra: 'D', texto: 'QP → QO → QI → QD.' },
+              { letra: 'E', texto: 'QI → QD → QP → QO.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A sequência correta é: QD (Desenho) → QI (Instalação) → QO (Operação) → QP (Performance). Cada fase é pré-requisito da seguinte.',
+            dificuldade: 'Média',
+            competencia: 'Sequência',
+            banca: 'IADES',
+            tags: ['qualificação', 'sequência'],
+          },
+          {
+            id: 'ce-q-24-7',
+            enunciado: 'A validação de limpeza tem como objetivo demonstrar:',
+            alternativas: [
+              { letra: 'A', texto: 'que o produto atende às especificações.' },
+              { letra: 'B', texto: 'que os resíduos são removidos a níveis aceitáveis.' },
+              { letra: 'C', texto: 'que o equipamento está calibrado.' },
+              { letra: 'D', texto: 'que o processo é validado.' },
+              { letra: 'E', texto: 'que a matéria-prima é aprovada.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A validação de limpeza demonstra que os procedimentos removem RESÍDUOS (produto, agente de limpeza, microbiológicos) a níveis aceitáveis.',
+            dificuldade: 'Média',
+            competencia: 'Validação de limpeza',
+            banca: 'IADES',
+            tags: ['limpeza', 'resíduos'],
+          },
+          {
+            id: 'ce-q-24-8',
+            enunciado: 'A necessidade de revalidação de um processo deve ser avaliada quando houver:',
+            alternativas: [
+              { letra: 'A', texto: 'aprovação de um lote.' },
+              { letra: 'B', texto: 'mudança significativa em matéria-prima ou equipamento.' },
+              { letra: 'C', texto: 'aumento de vendas.' },
+              { letra: 'D', texto: 'contratação de novos funcionários.' },
+              { letra: 'E', texto: 'alteração no logotipo da empresa.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A revalidação é necessária após MUDANÇAS SIGNIFICATIVAS em matéria-prima, equipamento, processo, instalações ou tamanho de lote.',
+            dificuldade: 'Média',
+            competencia: 'Revalidação',
+            banca: 'IADES',
+            tags: ['revalidação', 'mudanças'],
+          },
+          {
+            id: 'ce-q-24-9',
+            enunciado: 'A qualificação que testa o funcionamento do equipamento em condições operacionais é a:',
+            alternativas: [
+              { letra: 'A', texto: 'Qualificação de Desenho (QD).' },
+              { letra: 'B', texto: 'Qualificação de Instalação (QI).' },
+              { letra: 'C', texto: 'Qualificação de Operação (QO).' },
+              { letra: 'D', texto: 'Calibração.' },
+              { letra: 'E', texto: 'Manutenção preventiva.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A QO (Qualificação de Operação) testa o FUNCIONAMENTO do equipamento em condições operacionais, verificando limites alto e baixo.',
+            dificuldade: 'Fácil',
+            competencia: 'QO',
+            banca: 'IADES',
+            tags: ['QO', 'operação'],
+          },
+          {
+            id: 'ce-q-24-10',
+            enunciado: 'O protocolo de validação deve conter, entre outros itens:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas o nome do produto.' },
+              { letra: 'B', texto: 'somente os resultados esperados.' },
+              { letra: 'C', texto: 'objetivo, responsabilidades, critérios de aceitação e metodologia.' },
+              { letra: 'D', texto: 'apenas a assinatura do responsável.' },
+              { letra: 'E', texto: 'somente a data de execução.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O protocolo de validação deve conter: objetivo, responsabilidades, descrição do processo, critérios de aceitação, metodologia e aprovações.',
+            dificuldade: 'Média',
+            competencia: 'Protocolo',
+            banca: 'IADES',
+            tags: ['protocolo', 'conteúdo'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-25',
+      numero: 25,
+      titulo: 'Análise de Risco Potencial',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### O que é Análise de Risco?
+
+Processo sistemático para **identificar, avaliar e controlar** riscos à qualidade do produto e segurança do paciente.
+
+### Componentes do Risco
+
+| Componente | Descrição |
+|------------|-----------|
+| **Severidade (S)** | Gravidade do dano |
+| **Probabilidade (P)** | Chance de ocorrer |
+| **Detectabilidade (D)** | Capacidade de detectar |
+
+### Fórmula do Risco (FMEA)
+
+**RPN = S × P × D**
+
+(Risk Priority Number = Severidade × Probabilidade × Detectabilidade)
+
+### Principais Ferramentas
+
+| Ferramenta | Aplicação |
+|------------|-----------|
+| **FMEA** | Modos de falha e efeitos |
+| **HACCP** | Segurança alimentar |
+| **FTA** | Árvore de falhas |
+| **HAZOP** | Desvios de processo |
+| **PHA** | Análise preliminar de perigos |
+
+### Etapas da Gestão de Risco (ICH Q9)
+
+1. **Avaliação** do risco
+2. **Controle** do risco
+3. **Comunicação** do risco
+4. **Revisão** do risco
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito de Risco
+
+> "Risco é a combinação da probabilidade de ocorrência de um dano e a severidade desse dano." (ICH Q9)
+
+#### Elementos do Risco
+
+| Elemento | Pergunta |
+|----------|----------|
+| **Perigo** | O que pode dar errado? |
+| **Dano** | Qual a consequência? |
+| **Risco** | Qual a combinação de probabilidade e severidade? |
+
+### 2. Gestão de Risco da Qualidade (ICH Q9)
+
+#### 2.1 Princípios Fundamentais
+
+1. A avaliação deve ser **baseada em conhecimento científico**
+2. O nível de esforço deve ser **proporcional ao risco**
+3. A decisão deve considerar a **proteção do paciente**
+
+#### 2.2 Etapas do Processo
+
+**1. AVALIAÇÃO DO RISCO**
+- Identificação: o que pode dar errado?
+- Análise: qual a probabilidade e severidade?
+- Avaliação: o risco é aceitável?
+
+**2. CONTROLE DO RISCO**
+- Redução: diminuir probabilidade ou severidade
+- Aceitação: assumir risco residual
+
+**3. COMUNICAÇÃO DO RISCO**
+- Compartilhar informações com stakeholders
+- Documentar decisões
+
+**4. REVISÃO DO RISCO**
+- Monitorar continuamente
+- Reavaliar quando necessário
+
+### 3. FMEA - Failure Mode and Effects Analysis
+
+#### 3.1 Conceito
+
+Ferramenta para identificar **modos de falha** potenciais e avaliar seus **efeitos**.
+
+#### 3.2 Componentes da Avaliação
+
+| Fator | Sigla | Escala | Pergunta |
+|-------|-------|--------|----------|
+| **Severidade** | S | 1-10 | Quão grave é o efeito? |
+| **Ocorrência** | O/P | 1-10 | Qual a frequência esperada? |
+| **Detecção** | D | 1-10 | Quão fácil é detectar? |
+
+#### 3.3 Cálculo do RPN
+
+**RPN = S × O × D**
+
+| RPN | Interpretação |
+|-----|---------------|
+| Alto (>100) | Ação prioritária |
+| Médio (50-100) | Avaliar ação |
+| Baixo (<50) | Monitorar |
+
+#### 3.4 Etapas do FMEA
+
+1. Definir escopo e equipe
+2. Listar funções e requisitos
+3. Identificar modos de falha
+4. Identificar efeitos potenciais
+5. Identificar causas potenciais
+6. Avaliar S, O, D
+7. Calcular RPN
+8. Priorizar ações
+9. Implementar ações
+10. Recalcular RPN
+
+### 4. FTA - Fault Tree Analysis
+
+#### 4.1 Conceito
+
+Análise **dedutiva** que parte de um evento indesejado (topo) e identifica as causas (base).
+
+#### 4.2 Símbolos
+
+| Símbolo | Significado |
+|---------|-------------|
+| **Evento topo** | Falha principal analisada |
+| **Porta AND** | Todas as causas precisam ocorrer |
+| **Porta OR** | Qualquer causa pode levar à falha |
+| **Evento básico** | Causa raiz (círculo) |
+
+### 5. HAZOP - Hazard and Operability Study
+
+#### 5.1 Conceito
+
+Análise sistemática de **desvios** de processo usando palavras-guia.
+
+#### 5.2 Palavras-Guia
+
+| Palavra | Significado |
+|---------|-------------|
+| **NENHUM** | Ausência total |
+| **MAIS** | Aumento |
+| **MENOS** | Diminuição |
+| **REVERSO** | Oposto do esperado |
+| **PARTE DE** | Incompleto |
+| **ALÉM DE** | Algo adicional |
+| **OUTRO** | Substituição |
+
+### 6. Matriz de Risco
+
+#### 6.1 Estrutura
+
+|  | Baixa Severidade | Média | Alta |
+|--|-----------------|-------|------|
+| **Alta Probabilidade** | Médio | Alto | Crítico |
+| **Média** | Baixo | Médio | Alto |
+| **Baixa** | Baixo | Baixo | Médio |
+
+#### 6.2 Interpretação
+
+| Nível | Ação |
+|-------|------|
+| **Crítico** | Ação imediata obrigatória |
+| **Alto** | Ação prioritária |
+| **Médio** | Plano de ação |
+| **Baixo** | Monitorar |
+
+### 7. Análise de Risco na Indústria Farmacêutica
+
+#### 7.1 Aplicações
+
+| Área | Aplicação |
+|------|-----------|
+| Desenvolvimento | Design de produto e processo |
+| Produção | Controle de processo |
+| Qualidade | Investigação de desvios |
+| Validação | Definição de criticidade |
+| Fornecedores | Qualificação e auditoria |
+
+#### 7.2 ICH Q9 - Quality Risk Management
+
+Guia internacional que define:
+- Princípios de gestão de risco
+- Ferramentas aplicáveis
+- Integração ao sistema de qualidade
+
+### 8. Controle de Mudanças e Risco
+
+#### 8.1 Avaliação de Impacto
+
+Toda mudança deve ter avaliação de risco:
+- Impacto na qualidade do produto
+- Impacto na segurança do paciente
+- Necessidade de revalidação
+
+#### 8.2 Classificação de Mudanças
+
+| Tipo | Risco | Aprovação |
+|------|-------|-----------|
+| Menor | Baixo | Garantia da Qualidade |
+| Maior | Médio/Alto | Comitê técnico |
+| Crítica | Alto | Alta direção + regulatório |
+        `,
+
+        pontosChave: [
+          "Risco = Probabilidade × Severidade (e detectabilidade no FMEA)",
+          "ICH Q9: guia de Gestão de Risco da Qualidade farmacêutica",
+          "FMEA: RPN = Severidade × Ocorrência × Detecção",
+          "Quanto MAIOR o RPN, MAIOR a prioridade de ação",
+          "FTA: análise dedutiva (do efeito para as causas)",
+          "HAZOP: usa palavras-guia para identificar desvios",
+          "Etapas: Avaliação → Controle → Comunicação → Revisão",
+          "Matriz de risco: cruza probabilidade × severidade",
+          "Análise de risco é base para decisões em validação",
+          "Toda mudança significativa requer análise de risco",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir perigo com risco",
+            descricao: "PERIGO é a fonte potencial de dano. RISCO é a combinação de probabilidade e severidade do dano.",
+            dica: "Perigo = o que pode causar dano. Risco = chance e gravidade.",
+          },
+          {
+            titulo: "Inverter a escala de detecção no FMEA",
+            descricao: "Detecção ALTA (fácil detectar) = nota BAIXA. Detecção BAIXA (difícil) = nota ALTA.",
+            dica: "Detecção é INVERSA: difícil detectar = número alto!",
+          },
+          {
+            titulo: "Achar que baixo risco dispensa ação",
+            descricao: "Mesmo riscos baixos devem ser MONITORADOS e podem requerer ações se o cenário mudar.",
+            dica: "Risco baixo = aceitar com monitoramento, não ignorar.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "SOP",
+            significado: "Severidade, Ocorrência, Detecção",
+            frase: "FMEA avalia SOP: Severidade, Ocorrência, Proteção (detecção)",
+          },
+          {
+            termo: "ACCR",
+            significado: "Avaliação, Controle, Comunicação, Revisão",
+            frase: "Etapas da gestão de risco: ACCR",
+          },
+          {
+            termo: "RPN",
+            significado: "Risk Priority Number",
+            frase: "RPN = S × O × D (quanto maior, pior)",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-25-1',
+            frente: "O que é risco segundo a ICH Q9?",
+            verso: "**Risco** é a combinação da:\n\n1. **Probabilidade** de ocorrência de um dano\n2. **Severidade** desse dano\n\nRisco = P × S\n\nNo FMEA, inclui também a **Detectabilidade**:\nRPN = S × O × D",
+            tags: ['risco', 'ICH Q9', 'definição'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-25-2',
+            frente: "Quais são as etapas da Gestão de Risco (ICH Q9)?",
+            verso: "1. **AVALIAÇÃO** do risco\n   - Identificação\n   - Análise\n   - Avaliação\n\n2. **CONTROLE** do risco\n   - Redução\n   - Aceitação\n\n3. **COMUNICAÇÃO** do risco\n\n4. **REVISÃO** do risco",
+            tags: ['gestão de risco', 'ICH Q9', 'etapas'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-25-3',
+            frente: "Como é calculado o RPN no FMEA?",
+            verso: "**RPN = S × O × D**\n\n- **S** = Severidade (1-10)\n- **O** = Ocorrência/Probabilidade (1-10)\n- **D** = Detecção (1-10)\n\nRPN varia de 1 a 1000.\n\n⚠️ Detecção é INVERSA:\n- Fácil detectar = nota baixa\n- Difícil detectar = nota alta",
+            tags: ['FMEA', 'RPN', 'cálculo'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-25-4',
+            frente: "O que é FMEA?",
+            verso: "**F**ailure **M**ode and **E**ffects **A**nalysis\n(Análise de Modos de Falha e Efeitos)\n\nFerramenta para:\n- Identificar modos de falha potenciais\n- Avaliar efeitos das falhas\n- Priorizar ações corretivas\n\nCalcula o RPN (Risk Priority Number)",
+            tags: ['FMEA', 'ferramenta', 'falha'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-25-5',
+            frente: "O que é FTA (Fault Tree Analysis)?",
+            verso: "**Análise de Árvore de Falhas**\n\nCaracterísticas:\n- Análise **DEDUTIVA** (top-down)\n- Parte do **evento indesejado** (topo)\n- Identifica **causas** (base)\n\nUsa portas lógicas:\n- **AND**: todas as causas precisam ocorrer\n- **OR**: qualquer causa pode causar a falha",
+            tags: ['FTA', 'árvore de falhas', 'dedutiva'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-25-6',
+            frente: "O que é HAZOP?",
+            verso: "**HAZ**ard and **OP**erability Study\n(Estudo de Perigos e Operabilidade)\n\nCaracterísticas:\n- Identifica **desvios** de processo\n- Usa **palavras-guia**:\n  - NENHUM, MAIS, MENOS\n  - REVERSO, PARTE DE\n  - ALÉM DE, OUTRO\n\nMuito usado em indústria química/farmacêutica.",
+            tags: ['HAZOP', 'palavras-guia', 'desvios'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-25-7',
+            frente: "Como funciona a matriz de risco?",
+            verso: "Cruza **Probabilidade** × **Severidade**:\n\n|  | Sev. Baixa | Média | Alta |\n|--|------------|-------|------|\n| **Prob. Alta** | Médio | Alto | Crítico |\n| **Média** | Baixo | Médio | Alto |\n| **Baixa** | Baixo | Baixo | Médio |\n\nResultado indica a **prioridade de ação**.",
+            tags: ['matriz de risco', 'priorização'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-25-8',
+            frente: "Qual a diferença entre perigo e risco?",
+            verso: "**PERIGO**:\n→ Fonte potencial de dano\n→ Propriedade intrínseca\n→ Ex: substância tóxica, equipamento defeituoso\n\n**RISCO**:\n→ Combinação de probabilidade e severidade\n→ Pode ser gerenciado\n→ Ex: risco de exposição à substância tóxica\n\nPerigo existe; risco se calcula.",
+            tags: ['perigo', 'risco', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-25-9',
+            frente: "Por que a detectabilidade é inversa no FMEA?",
+            verso: "Quanto **MAIS DIFÍCIL** detectar a falha:\n→ **MAIOR** o número atribuído\n→ **MAIOR** o RPN\n→ **MAIOR** o risco\n\nLógica:\n- Detecção 1 = certeza de detectar\n- Detecção 10 = impossível detectar\n\nSe não detecta, o risco aumenta!",
+            tags: ['detectabilidade', 'FMEA', 'escala'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-25-10',
+            frente: "Quando aplicar análise de risco na indústria farmacêutica?",
+            verso: "Aplicações:\n\n1. **Desenvolvimento** - design de produto/processo\n2. **Validação** - definir parâmetros críticos\n3. **Produção** - controle de processo\n4. **Desvios** - investigação e CAPA\n5. **Mudanças** - avaliar impacto\n6. **Fornecedores** - qualificação\n7. **Reclamações** - análise de tendência\n\nBase: ICH Q9",
+            tags: ['aplicação', 'farmacêutica', 'ICH Q9'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-25-1',
+            enunciado: 'Segundo a ICH Q9, risco é definido como a combinação de:',
+            alternativas: [
+              { letra: 'A', texto: 'custo e benefício.' },
+              { letra: 'B', texto: 'probabilidade e severidade do dano.' },
+              { letra: 'C', texto: 'tempo e recurso.' },
+              { letra: 'D', texto: 'produto e processo.' },
+              { letra: 'E', texto: 'fornecedor e cliente.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Risco é a combinação da PROBABILIDADE de ocorrência de um dano e a SEVERIDADE desse dano (ICH Q9).',
+            dificuldade: 'Fácil',
+            competencia: 'Definição de risco',
+            banca: 'IADES',
+            tags: ['risco', 'ICH Q9'],
+          },
+          {
+            id: 'ce-q-25-2',
+            enunciado: 'No FMEA, o RPN (Risk Priority Number) é calculado por:',
+            alternativas: [
+              { letra: 'A', texto: 'Severidade + Ocorrência + Detecção.' },
+              { letra: 'B', texto: 'Severidade × Ocorrência × Detecção.' },
+              { letra: 'C', texto: 'Severidade - Ocorrência - Detecção.' },
+              { letra: 'D', texto: 'Severidade ÷ Ocorrência ÷ Detecção.' },
+              { letra: 'E', texto: 'Severidade × Ocorrência ÷ Detecção.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'No FMEA, o RPN é calculado pela MULTIPLICAÇÃO: Severidade × Ocorrência (Probabilidade) × Detecção.',
+            dificuldade: 'Fácil',
+            competencia: 'RPN',
+            banca: 'IADES',
+            tags: ['FMEA', 'RPN'],
+          },
+          {
+            id: 'ce-q-25-3',
+            enunciado: 'A ferramenta de análise de risco que usa palavras-guia como "MAIS", "MENOS", "REVERSO" é:',
+            alternativas: [
+              { letra: 'A', texto: 'FMEA.' },
+              { letra: 'B', texto: 'FTA.' },
+              { letra: 'C', texto: 'HAZOP.' },
+              { letra: 'D', texto: 'PHA.' },
+              { letra: 'E', texto: 'HACCP.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O HAZOP (Hazard and Operability Study) usa palavras-guia como NENHUM, MAIS, MENOS, REVERSO para identificar desvios de processo.',
+            dificuldade: 'Média',
+            competencia: 'HAZOP',
+            banca: 'IADES',
+            tags: ['HAZOP', 'palavras-guia'],
+          },
+          {
+            id: 'ce-q-25-4',
+            enunciado: 'A análise de risco que parte de um evento indesejado (topo) e identifica as causas (base) é a:',
+            alternativas: [
+              { letra: 'A', texto: 'FMEA.' },
+              { letra: 'B', texto: 'FTA (Fault Tree Analysis).' },
+              { letra: 'C', texto: 'HAZOP.' },
+              { letra: 'D', texto: 'Diagrama de Pareto.' },
+              { letra: 'E', texto: 'Histograma.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A FTA (Fault Tree Analysis) é uma análise DEDUTIVA que parte do evento indesejado no topo e identifica as causas na base.',
+            dificuldade: 'Média',
+            competencia: 'FTA',
+            banca: 'IADES',
+            tags: ['FTA', 'dedutiva'],
+          },
+          {
+            id: 'ce-q-25-5',
+            enunciado: 'No FMEA, quanto à detectabilidade, uma nota ALTA (ex: 9 ou 10) significa que:',
+            alternativas: [
+              { letra: 'A', texto: 'é muito fácil detectar a falha.' },
+              { letra: 'B', texto: 'é muito difícil ou impossível detectar a falha.' },
+              { letra: 'C', texto: 'a severidade é alta.' },
+              { letra: 'D', texto: 'a probabilidade é baixa.' },
+              { letra: 'E', texto: 'não há necessidade de ação.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Na escala de DETECÇÃO do FMEA, nota alta significa DIFÍCIL detectar. É uma escala INVERSA: 1 = fácil, 10 = impossível.',
+            dificuldade: 'Média',
+            competencia: 'Detectabilidade',
+            banca: 'IADES',
+            tags: ['FMEA', 'detecção'],
+          },
+          {
+            id: 'ce-q-25-6',
+            enunciado: 'As etapas da Gestão de Risco da Qualidade (ICH Q9) são, na ordem:',
+            alternativas: [
+              { letra: 'A', texto: 'Controle, Avaliação, Comunicação, Revisão.' },
+              { letra: 'B', texto: 'Avaliação, Controle, Comunicação, Revisão.' },
+              { letra: 'C', texto: 'Comunicação, Avaliação, Controle, Revisão.' },
+              { letra: 'D', texto: 'Revisão, Avaliação, Controle, Comunicação.' },
+              { letra: 'E', texto: 'Avaliação, Comunicação, Controle, Revisão.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A ordem correta é: 1) Avaliação, 2) Controle, 3) Comunicação, 4) Revisão do risco.',
+            dificuldade: 'Média',
+            competencia: 'Etapas',
+            banca: 'IADES',
+            tags: ['ICH Q9', 'etapas'],
+          },
+          {
+            id: 'ce-q-25-7',
+            enunciado: 'A diferença entre PERIGO e RISCO é que:',
+            alternativas: [
+              { letra: 'A', texto: 'são sinônimos.' },
+              { letra: 'B', texto: 'perigo é a fonte potencial de dano; risco é a combinação de probabilidade e severidade.' },
+              { letra: 'C', texto: 'risco é a fonte de dano; perigo é a probabilidade.' },
+              { letra: 'D', texto: 'perigo se calcula; risco existe intrinsecamente.' },
+              { letra: 'E', texto: 'não há diferença prática.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'PERIGO é a fonte potencial de dano (propriedade intrínseca). RISCO é a combinação de probabilidade e severidade do dano.',
+            dificuldade: 'Média',
+            competencia: 'Perigo vs Risco',
+            banca: 'IADES',
+            tags: ['perigo', 'risco'],
+          },
+          {
+            id: 'ce-q-25-8',
+            enunciado: 'Na matriz de risco, um evento com ALTA probabilidade e ALTA severidade é classificado como:',
+            alternativas: [
+              { letra: 'A', texto: 'baixo risco.' },
+              { letra: 'B', texto: 'médio risco.' },
+              { letra: 'C', texto: 'risco aceitável.' },
+              { letra: 'D', texto: 'risco crítico.' },
+              { letra: 'E', texto: 'risco ignorável.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Na matriz de risco, alta probabilidade + alta severidade = RISCO CRÍTICO, que requer ação imediata obrigatória.',
+            dificuldade: 'Fácil',
+            competencia: 'Matriz de risco',
+            banca: 'IADES',
+            tags: ['matriz', 'crítico'],
+          },
+          {
+            id: 'ce-q-25-9',
+            enunciado: 'O FMEA é a sigla para:',
+            alternativas: [
+              { letra: 'A', texto: 'Failure Mode and Effects Analysis.' },
+              { letra: 'B', texto: 'Fault Management and Evaluation Analysis.' },
+              { letra: 'C', texto: 'First Method for Error Assessment.' },
+              { letra: 'D', texto: 'Final Measure and Effect Analysis.' },
+              { letra: 'E', texto: 'Failure Measurement and Evaluation Action.' },
+            ],
+            gabarito: 'A',
+            justificativa: 'FMEA = Failure Mode and Effects Analysis (Análise de Modos de Falha e Efeitos).',
+            dificuldade: 'Fácil',
+            competencia: 'FMEA',
+            banca: 'IADES',
+            tags: ['FMEA', 'sigla'],
+          },
+          {
+            id: 'ce-q-25-10',
+            enunciado: 'A análise de risco deve ser realizada antes de:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas auditorias externas.' },
+              { letra: 'B', texto: 'mudanças significativas em processo, equipamento ou matéria-prima.' },
+              { letra: 'C', texto: 'apenas compra de equipamentos novos.' },
+              { letra: 'D', texto: 'reuniões de diretoria.' },
+              { letra: 'E', texto: 'aprovação de férias de funcionários.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A análise de risco é fundamental ANTES de mudanças significativas em processo, equipamento, matéria-prima ou instalações.',
+            dificuldade: 'Média',
+            competencia: 'Aplicação',
+            banca: 'IADES',
+            tags: ['mudanças', 'aplicação'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-26',
+      numero: 26,
+      titulo: 'Análise de Perigos e Pontos Críticos de Controle (APPCC/HACCP)',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### O que é APPCC/HACCP?
+
+| Sigla | Significado |
+|-------|-------------|
+| **APPCC** | Análise de Perigos e Pontos Críticos de Controle |
+| **HACCP** | Hazard Analysis and Critical Control Points |
+
+Sistema **preventivo** para garantir a segurança de alimentos e produtos.
+
+### Os 7 Princípios do APPCC
+
+| Nº | Princípio |
+|----|-----------|
+| 1 | Análise de perigos |
+| 2 | Identificação dos PCCs |
+| 3 | Estabelecimento de limites críticos |
+| 4 | Monitoramento dos PCCs |
+| 5 | Ações corretivas |
+| 6 | Verificação |
+| 7 | Documentação e registros |
+
+### Tipos de Perigos
+
+| Tipo | Exemplos |
+|------|----------|
+| **Biológico** | Bactérias, vírus, parasitas |
+| **Químico** | Pesticidas, metais, alérgenos |
+| **Físico** | Vidro, metal, plástico |
+
+### Conceitos-Chave
+
+| Termo | Definição |
+|-------|-----------|
+| **PCC** | Ponto onde o controle é ESSENCIAL |
+| **PC** | Ponto de controle (não crítico) |
+| **Limite Crítico** | Valor que separa aceitável de inaceitável |
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Introdução ao APPCC
+
+#### 1.1 Histórico
+
+- Desenvolvido pela NASA nos anos 1960
+- Objetivo: garantir segurança alimentar para astronautas
+- Evoluiu de controle do produto para controle do PROCESSO
+
+#### 1.2 Conceito
+
+> "Sistema preventivo que identifica perigos específicos e medidas para seu controle, garantindo a segurança do alimento/produto."
+
+#### 1.3 Diferencial do APPCC
+
+| Abordagem Tradicional | APPCC |
+|----------------------|-------|
+| Controle do produto final | Controle do PROCESSO |
+| Reativa | PREVENTIVA |
+| Amostragem de lotes | Monitoramento contínuo |
+| Detecta problemas | PREVINE problemas |
+
+### 2. Pré-Requisitos do APPCC
+
+Antes de implementar o APPCC, é necessário ter:
+
+#### 2.1 Boas Práticas de Fabricação (BPF)
+- Higiene pessoal
+- Limpeza e sanitização
+- Controle de pragas
+- Manutenção de equipamentos
+
+#### 2.2 Procedimentos Operacionais Padronizados (POPs)
+- Higienização de instalações
+- Controle de potabilidade da água
+- Higiene dos manipuladores
+- Manejo de resíduos
+- Manutenção preventiva
+- Controle de vetores e pragas
+- Seleção de matérias-primas
+- Programa de recolhimento (recall)
+
+### 3. Os 7 Princípios do APPCC
+
+#### PRINCÍPIO 1: Análise de Perigos
+
+**Objetivo**: Identificar perigos potenciais e avaliar sua significância.
+
+| Tipo de Perigo | Descrição | Exemplos |
+|----------------|-----------|----------|
+| **Biológico** | Organismos vivos | Salmonella, E. coli, vírus |
+| **Químico** | Substâncias químicas | Pesticidas, toxinas, alérgenos |
+| **Físico** | Corpos estranhos | Vidro, metal, pedras, cabelo |
+
+**Etapas:**
+1. Listar todos os perigos potenciais
+2. Avaliar severidade e probabilidade
+3. Identificar medidas de controle
+
+#### PRINCÍPIO 2: Identificação dos PCCs
+
+**PCC** = Ponto Crítico de Controle
+
+> "Etapa onde o controle pode ser aplicado e é ESSENCIAL para prevenir, eliminar ou reduzir um perigo a níveis aceitáveis."
+
+**Ferramenta: Árvore Decisória**
+
+Perguntas sequenciais para determinar se um ponto é PCC:
+1. Existem medidas de controle?
+2. O controle é essencial para a segurança?
+3. Uma etapa posterior eliminará o perigo?
+
+**PCC vs PC:**
+| PCC | PC |
+|-----|-----|
+| Controle ESSENCIAL | Controle desejável |
+| Perda = produto inseguro | Perda = desvio de qualidade |
+| Monitoramento contínuo | Verificação periódica |
+
+#### PRINCÍPIO 3: Estabelecimento de Limites Críticos
+
+**Limite Crítico**: Valor máximo/mínimo que separa o aceitável do inaceitável.
+
+| Parâmetro | Exemplo de Limite Crítico |
+|-----------|--------------------------|
+| Temperatura | Mínimo 74°C por 15 segundos |
+| Tempo | Máximo 2 horas na zona de perigo |
+| pH | Entre 4,0 e 4,6 |
+| Cloro | Mínimo 0,5 ppm |
+
+**Características:**
+- Mensurável ou observável
+- Baseado em ciência
+- Validado
+
+#### PRINCÍPIO 4: Monitoramento
+
+**Objetivo**: Verificar se os PCCs estão sob controle.
+
+| Elemento | Descrição |
+|----------|-----------|
+| **O quê** | Parâmetro a ser medido |
+| **Como** | Método de medição |
+| **Quando** | Frequência |
+| **Quem** | Responsável |
+
+**Requisitos:**
+- Deve permitir ação rápida
+- Registros em tempo real
+- Calibração de instrumentos
+
+#### PRINCÍPIO 5: Ações Corretivas
+
+**Quando**: Sempre que o monitoramento indicar desvio do limite crítico.
+
+| Ação | Objetivo |
+|------|----------|
+| **Imediata** | Corrigir o desvio |
+| **Sobre o produto** | Decidir destino do afetado |
+| **Sobre o processo** | Evitar recorrência |
+
+**Registro obrigatório:**
+- Identificação do desvio
+- Ação tomada
+- Responsável
+- Destino do produto
+
+#### PRINCÍPIO 6: Verificação
+
+**Objetivo**: Confirmar que o sistema APPCC funciona adequadamente.
+
+| Atividade | Frequência |
+|-----------|------------|
+| Auditorias internas | Semestral/anual |
+| Análises laboratoriais | Conforme plano |
+| Revisão de registros | Mensal |
+| Calibração | Conforme cronograma |
+| Validação | Na implantação e mudanças |
+
+#### PRINCÍPIO 7: Documentação e Registros
+
+**Documentos necessários:**
+- Plano APPCC
+- Análise de perigos
+- Determinação dos PCCs
+- Limites críticos e justificativas
+- Procedimentos de monitoramento
+- Ações corretivas
+- Procedimentos de verificação
+
+**Registros:**
+- Monitoramento dos PCCs
+- Desvios e ações corretivas
+- Atividades de verificação
+- Modificações no plano
+
+### 4. Etapas de Implementação
+
+#### 4.1 Sequência Lógica (12 Etapas)
+
+| Etapa | Ação |
+|-------|------|
+| 1 | Formar equipe APPCC |
+| 2 | Descrever o produto |
+| 3 | Identificar uso pretendido |
+| 4 | Elaborar fluxograma |
+| 5 | Confirmar fluxograma in loco |
+| 6 | Análise de perigos (Princípio 1) |
+| 7 | Identificar PCCs (Princípio 2) |
+| 8 | Estabelecer limites (Princípio 3) |
+| 9 | Estabelecer monitoramento (Princípio 4) |
+| 10 | Estabelecer ações corretivas (Princípio 5) |
+| 11 | Estabelecer verificação (Princípio 6) |
+| 12 | Documentação (Princípio 7) |
+
+### 5. APPCC na Vigilância Sanitária
+
+#### 5.1 Base Legal
+- Portaria MS nº 1.428/1993
+- Portaria SVS/MS nº 326/1997
+- RDC nº 275/2002
+- RDC nº 216/2004 (serviços de alimentação)
+
+#### 5.2 Aplicação
+- Indústrias de alimentos
+- Serviços de alimentação
+- Indústria farmacêutica (adaptado)
+- Cosméticos e saneantes
+        `,
+
+        pontosChave: [
+          "APPCC = Análise de Perigos e Pontos Críticos de Controle",
+          "HACCP = Hazard Analysis and Critical Control Points",
+          "7 Princípios: Perigos, PCCs, Limites, Monitoramento, Ações, Verificação, Documentação",
+          "3 tipos de perigos: Biológico, Químico, Físico",
+          "PCC: ponto onde controle é ESSENCIAL para segurança",
+          "Limite crítico: valor que separa aceitável de inaceitável",
+          "Pré-requisitos: BPF e POPs (antes de implementar APPCC)",
+          "Sistema PREVENTIVO (não reativo)",
+          "Árvore decisória: ferramenta para identificar PCCs",
+          "Monitoramento contínuo é obrigatório nos PCCs",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir PCC com PC",
+            descricao: "PCC (Ponto Crítico de Controle) é ESSENCIAL para segurança. PC (Ponto de Controle) é controle de qualidade, não crítico.",
+            dica: "PCC = segurança do consumidor. PC = qualidade do produto.",
+          },
+          {
+            titulo: "Implementar APPCC sem pré-requisitos",
+            descricao: "BPF e POPs são PRÉ-REQUISITOS do APPCC. Sem eles, o sistema não funciona.",
+            dica: "Primeiro BPF/POPs, depois APPCC.",
+          },
+          {
+            titulo: "Achar que APPCC é apenas para alimentos",
+            descricao: "O APPCC pode ser adaptado para farmacêuticos, cosméticos e outros produtos regulados.",
+            dica: "APPCC é uma metodologia, aplicável a vários setores.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "BQF",
+            significado: "Biológico, Químico, Físico",
+            frase: "Os 3 tipos de perigos: BQF",
+          },
+          {
+            termo: "7 Ps",
+            significado: "Os 7 Princípios",
+            frase: "Perigos, PCCs, Parâmetros (limites), Pesquisa (monitoramento), Providências (ações), Prova (verificação), Papéis (documentação)",
+          },
+          {
+            termo: "APPCC",
+            significado: "Análise de Perigos e Pontos Críticos de Controle",
+            frase: "A Prevenção Permite Controlar Contaminações",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-26-1',
+            frente: "O que significa APPCC/HACCP?",
+            verso: "**APPCC**: Análise de Perigos e Pontos Críticos de Controle\n\n**HACCP**: Hazard Analysis and Critical Control Points\n\nSistema **PREVENTIVO** para garantir a segurança de alimentos/produtos, desenvolvido pela NASA nos anos 1960.",
+            tags: ['APPCC', 'HACCP', 'conceito'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-26-2',
+            frente: "Quais são os 7 Princípios do APPCC?",
+            verso: "1. **Análise de perigos**\n2. **Identificação dos PCCs**\n3. **Limites críticos**\n4. **Monitoramento**\n5. **Ações corretivas**\n6. **Verificação**\n7. **Documentação e registros**\n\nMnemônico: Perigos, PCCs, Parâmetros, Pesquisa, Providências, Prova, Papéis",
+            tags: ['APPCC', '7 princípios'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-26-3',
+            frente: "Quais são os 3 tipos de perigos no APPCC?",
+            verso: "**BIOLÓGICO**:\n→ Bactérias, vírus, parasitas, fungos\n→ Ex: Salmonella, E. coli\n\n**QUÍMICO**:\n→ Substâncias tóxicas\n→ Ex: pesticidas, alérgenos, metais pesados\n\n**FÍSICO**:\n→ Corpos estranhos\n→ Ex: vidro, metal, plástico, cabelo",
+            tags: ['perigos', 'BQF'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-26-4',
+            frente: "O que é um PCC (Ponto Crítico de Controle)?",
+            verso: "Etapa onde o controle pode ser aplicado e é **ESSENCIAL** para:\n\n- **Prevenir** um perigo\n- **Eliminar** um perigo\n- **Reduzir** a níveis aceitáveis\n\nSem controle no PCC = produto INSEGURO!\n\nIdentificado pela **Árvore Decisória**.",
+            tags: ['PCC', 'crítico', 'controle'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-26-5',
+            frente: "O que é limite crítico no APPCC?",
+            verso: "Valor **máximo ou mínimo** de um parâmetro que separa o **aceitável** do **inaceitável**.\n\nExemplos:\n- Temperatura: mín. 74°C por 15s\n- pH: entre 4,0 e 4,6\n- Cloro residual: mín. 0,5 ppm\n\nDeve ser mensurável e validado!",
+            tags: ['limite crítico', 'parâmetro'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-26-6',
+            frente: "Qual a diferença entre PCC e PC?",
+            verso: "**PCC (Ponto Crítico de Controle)**:\n→ Controle ESSENCIAL\n→ Afeta SEGURANÇA\n→ Monitoramento contínuo\n→ Perda = produto inseguro\n\n**PC (Ponto de Controle)**:\n→ Controle desejável\n→ Afeta QUALIDADE\n→ Verificação periódica\n→ Perda = desvio de qualidade",
+            tags: ['PCC', 'PC', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-26-7',
+            frente: "Quais são os pré-requisitos do APPCC?",
+            verso: "Antes de implementar APPCC:\n\n**1. BPF (Boas Práticas de Fabricação)**\n- Higiene pessoal\n- Limpeza e sanitização\n- Controle de pragas\n\n**2. POPs (Procedimentos Operacionais Padronizados)**\n- Higienização\n- Controle de água\n- Manejo de resíduos\n\nSem pré-requisitos, APPCC não funciona!",
+            tags: ['pré-requisitos', 'BPF', 'POPs'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-26-8',
+            frente: "O que é verificação no APPCC (Princípio 6)?",
+            verso: "Atividades para **confirmar** que o sistema APPCC funciona adequadamente.\n\nInclui:\n- Auditorias internas\n- Análises laboratoriais\n- Revisão de registros\n- Calibração de equipamentos\n- Validação do plano\n\nDiferente de MONITORAMENTO (que é contínuo nos PCCs).",
+            tags: ['verificação', 'princípio 6'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-26-9',
+            frente: "O que deve conter um plano APPCC?",
+            verso: "**Documentação obrigatória:**\n\n1. Descrição do produto\n2. Fluxograma do processo\n3. Análise de perigos\n4. Identificação dos PCCs\n5. Limites críticos\n6. Procedimentos de monitoramento\n7. Ações corretivas\n8. Procedimentos de verificação\n9. Sistema de registros",
+            tags: ['plano APPCC', 'documentação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-26-10',
+            frente: "Qual a diferença principal entre APPCC e controle tradicional?",
+            verso: "**Controle TRADICIONAL**:\n→ Foco no PRODUTO final\n→ Abordagem REATIVA\n→ Amostragem de lotes\n→ DETECTA problemas\n\n**APPCC**:\n→ Foco no PROCESSO\n→ Abordagem PREVENTIVA\n→ Monitoramento contínuo\n→ PREVINE problemas\n\nAPPCC = prevenção em vez de detecção!",
+            tags: ['APPCC', 'tradicional', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-26-1',
+            enunciado: 'A sigla APPCC significa:',
+            alternativas: [
+              { letra: 'A', texto: 'Análise de Procedimentos e Padrões de Controle Contínuo.' },
+              { letra: 'B', texto: 'Análise de Perigos e Pontos Críticos de Controle.' },
+              { letra: 'C', texto: 'Avaliação de Processos e Pontos de Conformidade.' },
+              { letra: 'D', texto: 'Auditoria de Produtos e Processos com Certificação.' },
+              { letra: 'E', texto: 'Análise Prévia de Parâmetros de Controle.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'APPCC = Análise de Perigos e Pontos Críticos de Controle (em inglês, HACCP = Hazard Analysis and Critical Control Points).',
+            dificuldade: 'Fácil',
+            competencia: 'APPCC',
+            banca: 'IADES',
+            tags: ['APPCC', 'sigla'],
+          },
+          {
+            id: 'ce-q-26-2',
+            enunciado: 'Os três tipos de perigos analisados no sistema APPCC são:',
+            alternativas: [
+              { letra: 'A', texto: 'mecânico, elétrico e térmico.' },
+              { letra: 'B', texto: 'biológico, químico e físico.' },
+              { letra: 'C', texto: 'operacional, ambiental e humano.' },
+              { letra: 'D', texto: 'estrutural, funcional e visual.' },
+              { letra: 'E', texto: 'primário, secundário e terciário.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Os perigos no APPCC são classificados em: BIOLÓGICO (microrganismos), QUÍMICO (substâncias tóxicas) e FÍSICO (corpos estranhos).',
+            dificuldade: 'Fácil',
+            competencia: 'Tipos de perigos',
+            banca: 'IADES',
+            tags: ['perigos', 'BQF'],
+          },
+          {
+            id: 'ce-q-26-3',
+            enunciado: 'O PCC (Ponto Crítico de Controle) é definido como:',
+            alternativas: [
+              { letra: 'A', texto: 'qualquer etapa do processo.' },
+              { letra: 'B', texto: 'etapa onde o controle é desejável.' },
+              { letra: 'C', texto: 'etapa onde o controle é essencial para a segurança.' },
+              { letra: 'D', texto: 'ponto de verificação final.' },
+              { letra: 'E', texto: 'local de armazenamento.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'PCC é a etapa onde o controle é ESSENCIAL para prevenir, eliminar ou reduzir um perigo a níveis aceitáveis.',
+            dificuldade: 'Fácil',
+            competencia: 'PCC',
+            banca: 'IADES',
+            tags: ['PCC', 'definição'],
+          },
+          {
+            id: 'ce-q-26-4',
+            enunciado: 'Os pré-requisitos para implementação do sistema APPCC incluem:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas treinamento de funcionários.' },
+              { letra: 'B', texto: 'Boas Práticas de Fabricação (BPF) e Procedimentos Operacionais Padronizados (POPs).' },
+              { letra: 'C', texto: 'apenas certificação ISO.' },
+              { letra: 'D', texto: 'somente análises laboratoriais.' },
+              { letra: 'E', texto: 'apenas controle de temperatura.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Os pré-requisitos do APPCC são as BPF (Boas Práticas de Fabricação) e os POPs (Procedimentos Operacionais Padronizados).',
+            dificuldade: 'Média',
+            competencia: 'Pré-requisitos',
+            banca: 'IADES',
+            tags: ['BPF', 'POPs'],
+          },
+          {
+            id: 'ce-q-26-5',
+            enunciado: 'O sistema APPCC é caracterizado como:',
+            alternativas: [
+              { letra: 'A', texto: 'reativo, focado no produto final.' },
+              { letra: 'B', texto: 'preventivo, focado no controle do processo.' },
+              { letra: 'C', texto: 'corretivo, focado em recalls.' },
+              { letra: 'D', texto: 'punitivo, focado em multas.' },
+              { letra: 'E', texto: 'opcional, focado em marketing.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O APPCC é um sistema PREVENTIVO que foca no CONTROLE DO PROCESSO, diferente da abordagem tradicional que é reativa e foca no produto final.',
+            dificuldade: 'Fácil',
+            competencia: 'Características',
+            banca: 'IADES',
+            tags: ['preventivo', 'processo'],
+          },
+          {
+            id: 'ce-q-26-6',
+            enunciado: 'O limite crítico no APPCC é:',
+            alternativas: [
+              { letra: 'A', texto: 'um valor sugerido, sem obrigatoriedade.' },
+              { letra: 'B', texto: 'o valor que separa o aceitável do inaceitável.' },
+              { letra: 'C', texto: 'a meta de produção diária.' },
+              { letra: 'D', texto: 'o custo máximo permitido.' },
+              { letra: 'E', texto: 'o número de funcionários.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Limite crítico é o valor máximo ou mínimo de um parâmetro que SEPARA o aceitável do inaceitável para a segurança.',
+            dificuldade: 'Fácil',
+            competencia: 'Limite crítico',
+            banca: 'IADES',
+            tags: ['limite crítico', 'parâmetro'],
+          },
+          {
+            id: 'ce-q-26-7',
+            enunciado: 'A ferramenta utilizada para identificar se uma etapa é um PCC é a:',
+            alternativas: [
+              { letra: 'A', texto: 'Diagrama de Pareto.' },
+              { letra: 'B', texto: 'Árvore Decisória.' },
+              { letra: 'C', texto: 'Histograma.' },
+              { letra: 'D', texto: 'Carta de Controle.' },
+              { letra: 'E', texto: 'Fluxograma simples.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A ÁRVORE DECISÓRIA é a ferramenta do APPCC que, através de perguntas sequenciais, determina se um ponto é PCC.',
+            dificuldade: 'Média',
+            competencia: 'Árvore decisória',
+            banca: 'IADES',
+            tags: ['árvore decisória', 'PCC'],
+          },
+          {
+            id: 'ce-q-26-8',
+            enunciado: 'Quantos princípios fundamentais possui o sistema APPCC?',
+            alternativas: [
+              { letra: 'A', texto: '3 princípios.' },
+              { letra: 'B', texto: '5 princípios.' },
+              { letra: 'C', texto: '7 princípios.' },
+              { letra: 'D', texto: '10 princípios.' },
+              { letra: 'E', texto: '12 princípios.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O APPCC possui 7 PRINCÍPIOS: análise de perigos, PCCs, limites críticos, monitoramento, ações corretivas, verificação e documentação.',
+            dificuldade: 'Fácil',
+            competencia: '7 Princípios',
+            banca: 'IADES',
+            tags: ['princípios', 'quantidade'],
+          },
+          {
+            id: 'ce-q-26-9',
+            enunciado: 'A ação corretiva no APPCC deve ser aplicada quando:',
+            alternativas: [
+              { letra: 'A', texto: 'o turno de trabalho terminar.' },
+              { letra: 'B', texto: 'houver desvio do limite crítico.' },
+              { letra: 'C', texto: 'o cliente reclamar.' },
+              { letra: 'D', texto: 'a produção atingir a meta.' },
+              { letra: 'E', texto: 'o gerente solicitar.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Ações corretivas são obrigatórias sempre que o MONITORAMENTO indicar DESVIO do limite crítico estabelecido para o PCC.',
+            dificuldade: 'Fácil',
+            competencia: 'Ação corretiva',
+            banca: 'IADES',
+            tags: ['ação corretiva', 'desvio'],
+          },
+          {
+            id: 'ce-q-26-10',
+            enunciado: 'A verificação no APPCC (Princípio 6) inclui:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas a medição de temperatura.' },
+              { letra: 'B', texto: 'auditorias, análises laboratoriais e revisão de registros.' },
+              { letra: 'C', texto: 'apenas a contagem de funcionários.' },
+              { letra: 'D', texto: 'somente a verificação visual.' },
+              { letra: 'E', texto: 'apenas a aprovação do gerente.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A verificação confirma que o sistema funciona e inclui: auditorias internas, análises laboratoriais, revisão de registros e calibração.',
+            dificuldade: 'Média',
+            competencia: 'Verificação',
+            banca: 'IADES',
+            tags: ['verificação', 'atividades'],
           },
         ],
       },
