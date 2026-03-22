@@ -10657,5 +10657,708 @@ O fiscal de vigilância sanitária:
         ],
       },
     },
+    {
+      id: 'ce-topico-19',
+      numero: 19,
+      titulo: 'RDC nº 50/2002 - Regulamento Técnico para Projetos Físicos de Estabelecimentos Assistenciais de Saúde',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Objeto da RDC 50/2002
+
+A **RDC nº 50/2002** da ANVISA dispõe sobre o **Regulamento Técnico para planejamento, programação, elaboração e avaliação de projetos físicos de Estabelecimentos Assistenciais de Saúde (EAS)**.
+
+### Objetivos Principais
+
+| Objetivo | Descrição |
+|----------|-----------|
+| **Funcionalidade** | Garantir que o EAS funcione adequadamente |
+| **Segurança** | Proteção de pacientes, trabalhadores e meio ambiente |
+| **Conforto** | Ambiente adequado para pacientes e trabalhadores |
+| **Acessibilidade** | Acesso a pessoas com deficiência |
+
+### Atribuições Arquitetônicas por Unidade
+
+| Unidade | Características |
+|---------|-----------------|
+| **Internação** | Quartos, enfermarias, posto de enfermagem |
+| **Centro Cirúrgico** | Salas cirúrgicas, lavabos, RPA |
+| **UTI** | Leitos com distância mínima, área de apoio |
+| **Emergência** | Sala de estabilização, observação |
+| **Apoio Diagnóstico** | Laboratório, imagem |
+
+### Conceitos-Chave
+
+| Termo | Definição |
+|-------|-----------|
+| **EAS** | Estabelecimento Assistencial de Saúde |
+| **Unidade Funcional** | Conjunto de ambientes com função específica |
+| **Programa Funcional** | Ambientes necessários para cada atividade |
+| **Dimensionamento** | Área mínima de cada ambiente |
+
+### Para IADES - Memorizar:
+- RDC 50/2002: projetos FÍSICOS de EAS
+- ANVISA = competência para aprovar
+- Unidades funcionais: 8 atribuições
+- Dimensionamento mínimo em m²
+- Classificação de ambientes: críticos, semicríticos, não críticos
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Fundamentos da RDC 50/2002
+
+#### 1.1 Objetivo
+
+A RDC 50/2002 estabelece os requisitos técnicos mínimos para:
+- **Planejamento** de projetos de EAS
+- **Programação** de necessidades físicas
+- **Elaboração** de projetos arquitetônicos
+- **Avaliação** de conformidade
+
+#### 1.2 Âmbito de Aplicação
+
+Aplica-se a:
+- Construções novas de EAS
+- Reformas de EAS existentes
+- Ampliações de EAS
+- Todos os níveis de complexidade
+
+#### 1.3 O que é um EAS?
+
+> **Estabelecimento Assistencial de Saúde (EAS):** Denominação dada a qualquer edificação destinada à prestação de assistência à saúde da população, que demande acesso de pacientes, em regime de internação ou não.
+
+**Exemplos:**
+- Hospitais
+- Clínicas
+- UBS (Unidades Básicas de Saúde)
+- Laboratórios
+- Hemocentros
+- CAPS
+
+### 2. Organização dos EAS
+
+#### 2.1 Atribuições (Unidades Funcionais)
+
+A RDC 50 organiza o EAS em **8 atribuições principais:**
+
+| Nº | Atribuição | Função |
+|----|------------|--------|
+| **1** | Atendimento imediato | Emergência, urgência |
+| **2** | Atendimento ambulatorial | Consultas, procedimentos |
+| **3** | Internação | Quartos, enfermarias |
+| **4** | Apoio diagnóstico e terapêutico | Lab, imagem, fisioterapia |
+| **5** | Apoio técnico | Farmácia, nutrição, CME |
+| **6** | Ensino e pesquisa | Salas de aula, biblioteca |
+| **7** | Apoio administrativo | Recepção, administração |
+| **8** | Apoio logístico | Almoxarifado, manutenção |
+
+#### 2.2 Unidades Funcionais
+
+Cada atribuição é composta por **unidades funcionais**, que são conjuntos de ambientes com função específica.
+
+**Exemplo - Atribuição 3 (Internação):**
+- Unidade de Internação Geral
+- Unidade de Internação Intensiva (UTI)
+- Unidade de Internação em Isolamento
+- Unidade de Internação Neonatal
+
+### 3. Dimensionamento de Ambientes
+
+#### 3.1 Conceitos
+
+| Termo | Definição |
+|-------|-----------|
+| **Dimensionamento** | Área mínima em m² para cada ambiente |
+| **Dimensão mínima** | Menor medida linear permitida |
+| **Instalações** | Água, esgoto, gases, elétrica |
+
+#### 3.2 Exemplos de Dimensionamento Mínimo
+
+##### a) Internação
+
+| Ambiente | Área Mínima |
+|----------|-------------|
+| Quarto (1 leito) | 10 m² |
+| Enfermaria (2-4 leitos) | 7 m² por leito |
+| Posto de enfermagem | 6 m² |
+| Banheiro paciente | 3,6 m² |
+
+##### b) Centro Cirúrgico
+
+| Ambiente | Área Mínima |
+|----------|-------------|
+| Sala de cirurgia pequena | 20 m² |
+| Sala de cirurgia média | 25 m² |
+| Sala de cirurgia grande | 36 m² |
+| Sala de cirurgia especial | 45 m² |
+| Lavabo | 1,10 m² por torneira |
+
+##### c) UTI
+
+| Ambiente | Área Mínima |
+|----------|-------------|
+| Quarto de UTI | 10 m² (sem banheiro) |
+| Área de prescrição médica | 2 m² |
+| Posto de enfermagem | 6 m² |
+
+##### d) Emergência
+
+| Ambiente | Área Mínima |
+|----------|-------------|
+| Sala de estabilização | 12 m² |
+| Sala de observação (2-6 macas) | 8,5 m² por leito |
+| Sala de isolamento | 8 m² |
+
+### 4. Classificação de Ambientes
+
+#### 4.1 Por Risco de Infecção
+
+| Classificação | Descrição | Exemplos |
+|---------------|-----------|----------|
+| **Áreas Críticas** | Alto risco de infecção | CC, UTI, CME, Lab |
+| **Áreas Semicríticas** | Médio risco | Enfermarias, ambulatório |
+| **Áreas Não Críticas** | Baixo risco | Administração, almoxarifado |
+
+#### 4.2 Por Tipo de Acabamento
+
+##### a) Áreas Críticas
+
+| Elemento | Requisito |
+|----------|-----------|
+| Piso | Monolítico, impermeável |
+| Parede | Lisa, impermeável |
+| Teto | Liso, contínuo |
+| Cantos | Arredondados |
+
+##### b) Áreas Semicríticas
+
+| Elemento | Requisito |
+|----------|-----------|
+| Piso | Liso, lavável |
+| Parede | Lisa, lavável |
+| Teto | Liso, lavável |
+
+##### c) Áreas Não Críticas
+
+| Elemento | Requisito |
+|----------|-----------|
+| Piso | Resistente |
+| Parede | Lavável |
+| Teto | Liso |
+
+### 5. Circulações
+
+#### 5.1 Tipos de Circulação
+
+| Tipo | Descrição |
+|------|-----------|
+| **Horizontal** | Corredores, halls |
+| **Vertical** | Escadas, elevadores, rampas |
+| **Externa** | Acessos, jardins |
+
+#### 5.2 Dimensões Mínimas de Corredores
+
+| Local | Largura Mínima |
+|-------|----------------|
+| Circulação de pacientes (maca/cadeira) | 2,00 m |
+| Circulação de funcionários | 1,20 m |
+| Circulação de serviço | 1,50 m |
+
+#### 5.3 Portas
+
+| Local | Largura Mínima |
+|-------|----------------|
+| Passagem de maca | 1,10 m |
+| Passagem de cadeira de rodas | 0,80 m |
+| Portas de emergência | 1,20 m (folha dupla) |
+
+### 6. Instalações Especiais
+
+#### 6.1 Gases Medicinais
+
+| Gás | Cor da Tubulação |
+|-----|------------------|
+| Oxigênio (O2) | Verde |
+| Ar comprimido | Amarelo |
+| Vácuo | Cinza |
+| Óxido nitroso (N2O) | Azul |
+
+#### 6.2 Instalações Elétricas
+
+| Requisito | Descrição |
+|-----------|-----------|
+| Aterramento | Obrigatório em áreas críticas |
+| Gerador | Emergência em áreas críticas |
+| Iluminação | Natural e artificial |
+| Tomadas | Altura e quantidade definidas |
+
+#### 6.3 Climatização
+
+| Área | Requisito |
+|------|-----------|
+| Centro Cirúrgico | Ar condicionado com filtros |
+| UTI | Climatização controlada |
+| Laboratório | Exaustão específica |
+| Farmácia | Controle de temperatura |
+
+### 7. Acessibilidade
+
+#### 7.1 Requisitos
+
+- Conformidade com NBR 9050 (Acessibilidade)
+- Rampas com inclinação máxima
+- Elevadores dimensionados para macas
+- Sanitários acessíveis
+- Sinalização tátil e visual
+
+#### 7.2 Banheiros Acessíveis
+
+| Elemento | Requisito |
+|----------|-----------|
+| Área mínima | 3,60 m² |
+| Portas | 0,80 m (mínimo) |
+| Barras de apoio | Obrigatórias |
+| Altura louças | Adequada a cadeirantes |
+
+### 8. Processo de Aprovação
+
+#### 8.1 Competências
+
+| Órgão | Competência |
+|-------|-------------|
+| **ANVISA** | Normas técnicas, fiscalização |
+| **VISA Estadual** | Aprovação de projetos |
+| **VISA Municipal** | Licenciamento sanitário |
+| **Conselhos** | Registro de profissionais |
+
+#### 8.2 Documentos para Aprovação
+
+| Documento | Descrição |
+|-----------|-----------|
+| Projeto arquitetônico | Plantas baixas, cortes, fachadas |
+| Memorial descritivo | Especificações técnicas |
+| ART/RRT | Responsabilidade técnica |
+| Laudo de acessibilidade | Conformidade NBR 9050 |
+| Projetos complementares | Hidráulico, elétrico, gases |
+
+### 9. Unidades Específicas
+
+#### 9.1 Central de Material Esterilizado (CME)
+
+| Área | Função |
+|------|--------|
+| Recepção | Receber material sujo |
+| Lavagem | Limpeza de artigos |
+| Preparo | Inspeção e embalagem |
+| Esterilização | Autoclaves |
+| Armazenamento | Guarda de material estéril |
+
+**Fluxo:** Sujo → Limpo → Estéril (barreira física)
+
+#### 9.2 Farmácia Hospitalar
+
+| Área | Função |
+|------|--------|
+| Recebimento | Entrada de medicamentos |
+| Armazenamento | Guarda em condições adequadas |
+| Dispensação | Entrega aos setores |
+| Manipulação | Preparo de medicamentos |
+| Controle de qualidade | Verificação |
+
+#### 9.3 Serviço de Nutrição e Dietética (SND)
+
+| Área | Função |
+|------|--------|
+| Recebimento | Entrada de alimentos |
+| Armazenamento | Despensa, câmaras frias |
+| Preparo | Cozinha |
+| Cocção | Fogões, fornos |
+| Distribuição | Entrega das refeições |
+| Higienização | Lavagem de utensílios |
+
+### 10. Aspectos para o Fiscal de Vigilância Sanitária
+
+#### 10.1 O que Verificar em Inspeção
+
+| Item | Verificação |
+|------|-------------|
+| Projeto aprovado | Conformidade com o executado |
+| Dimensionamento | Área mínima dos ambientes |
+| Acabamentos | Adequação à classificação |
+| Circulações | Largura de corredores e portas |
+| Instalações | Gases, elétrica, hidráulica |
+| Acessibilidade | Conformidade NBR 9050 |
+| Fluxos | Separação limpo/sujo |
+
+#### 10.2 Não Conformidades Comuns
+
+| Problema | Consequência |
+|----------|--------------|
+| Área insuficiente | Notificação, adequação |
+| Acabamento inadequado | Correção |
+| Circulação estreita | Risco de acidentes |
+| Ausência de acessibilidade | Adequação obrigatória |
+| Fluxos cruzados | Risco de infecção |
+        `,
+
+        pontosChave: [
+          'RDC 50/2002: projetos FÍSICOS de EAS',
+          'EAS: Estabelecimento Assistencial de Saúde',
+          '8 atribuições: atendimento, internação, apoio diagnóstico, apoio técnico, etc.',
+          'Áreas críticas: CC, UTI, CME, laboratório (maior rigor)',
+          'Áreas semicríticas: enfermarias, ambulatórios',
+          'Áreas não críticas: administração, almoxarifado',
+          'Corredor de pacientes: mínimo 2,00 m de largura',
+          'Sala de cirurgia pequena: mínimo 20 m²; grande: 36 m²',
+          'CME: fluxo SUJO → LIMPO → ESTÉRIL (barreira física)',
+          'Gases medicinais: O2 = verde, ar = amarelo, vácuo = cinza',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir áreas críticas com semicríticas',
+            descricao: 'Áreas CRÍTICAS: CC, UTI, CME, laboratório. Áreas SEMICRÍTICAS: enfermarias, ambulatório.',
+            dica: 'Crítico = maior risco de infecção (procedimentos invasivos).',
+          },
+          {
+            titulo: 'Errar as cores dos gases medicinais',
+            descricao: 'O2 = VERDE. Ar comprimido = AMARELO. Vácuo = CINZA. N2O = AZUL.',
+            dica: 'O2 = verde (vida). Vácuo = cinza (sucção). Ar = amarelo.',
+          },
+          {
+            titulo: 'Esquecer o dimensionamento mínimo',
+            descricao: 'Sala de cirurgia pequena: 20 m². Média: 25 m². Grande: 36 m². Especial: 45 m².',
+            dica: 'Cirurgia: 20-25-36-45 m² (cresce conforme complexidade).',
+          },
+          {
+            titulo: 'Ignorar a largura de corredores',
+            descricao: 'Circulação de pacientes (maca): mínimo 2,00 m. Funcionários: 1,20 m.',
+            dica: 'Paciente em maca precisa de 2 metros de corredor.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'VAAG',
+            significado: 'Verde (O2), Amarelo (Ar), Azul (N2O), Cinza (Vácuo)',
+            frase: 'Gases: VAAG - Verde Ar Amarelo... não, O2-Verde, Ar-Amarelo, Azul-N2O, Cinza-Vácuo',
+          },
+          {
+            termo: 'COUVE',
+            significado: 'Crítico, Semicrítico, Não crítico',
+            frase: 'Classificação de áreas: do mais ao menos crítico',
+          },
+          {
+            termo: 'SLE-CME',
+            significado: 'Sujo-Limpo-Estéril na CME',
+            frase: 'Fluxo da CME: SLE (Sujo → Limpo → Estéril)',
+          },
+          {
+            termo: '20-25-36-45',
+            significado: 'Salas de cirurgia em m²',
+            frase: 'Cirurgia: Pequena 20, Média 25, Grande 36, Especial 45 m²',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-19-1',
+            frente: 'O que regulamenta a RDC nº 50/2002?',
+            verso: '**RDC 50/2002** = Regulamento Técnico para **planejamento, programação, elaboração e avaliação de PROJETOS FÍSICOS** de Estabelecimentos Assistenciais de Saúde (EAS).\n\n**Aplica-se a:**\n- Construções novas\n- Reformas\n- Ampliações\n- Todos os níveis de complexidade',
+            tags: ['RDC 50', 'objeto'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-19-2',
+            frente: 'Quais são as 3 classificações de áreas por risco de infecção?',
+            verso: '**ÁREAS CRÍTICAS:**\n→ Alto risco de infecção\n→ Ex: CC, UTI, CME, Laboratório\n\n**ÁREAS SEMICRÍTICAS:**\n→ Médio risco\n→ Ex: Enfermarias, ambulatório\n\n**ÁREAS NÃO CRÍTICAS:**\n→ Baixo risco\n→ Ex: Administração, almoxarifado',
+            tags: ['classificação', 'áreas'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-19-3',
+            frente: 'Quais são as CORES das tubulações de GASES MEDICINAIS?',
+            verso: '**OXIGÊNIO (O2):** VERDE\n\n**AR COMPRIMIDO:** AMARELO\n\n**VÁCUO:** CINZA\n\n**ÓXIDO NITROSO (N2O):** AZUL\n\n⚠️ Memorize as cores! Cai em prova!',
+            tags: ['gases', 'cores'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-19-4',
+            frente: 'Qual o dimensionamento mínimo das SALAS DE CIRURGIA?',
+            verso: '**Sala de cirurgia PEQUENA:** 20 m²\n(procedimentos simples)\n\n**Sala de cirurgia MÉDIA:** 25 m²\n(cirurgias gerais)\n\n**Sala de cirurgia GRANDE:** 36 m²\n(cirurgias complexas)\n\n**Sala de cirurgia ESPECIAL:** 45 m²\n(cardiovascular, transplantes)',
+            tags: ['dimensionamento', 'cirurgia'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-19-5',
+            frente: 'Qual a largura mínima dos CORREDORES para circulação de pacientes?',
+            verso: '**Circulação de pacientes (maca/cadeira):**\n→ Largura mínima: **2,00 m**\n\n**Circulação de funcionários:**\n→ Largura mínima: 1,20 m\n\n**Circulação de serviço:**\n→ Largura mínima: 1,50 m\n\n⚠️ Porta para passagem de maca: mínimo 1,10 m',
+            tags: ['corredores', 'circulação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-19-6',
+            frente: 'Qual o fluxo correto na CME (Central de Material Esterilizado)?',
+            verso: '**Fluxo obrigatório:**\n\nSUJO → LIMPO → ESTÉRIL\n\n**Áreas:**\n1. Recepção (material sujo)\n2. Lavagem (limpeza)\n3. Preparo (inspeção/embalagem)\n4. Esterilização (autoclaves)\n5. Armazenamento (guarda estéril)\n\n⚠️ Deve haver BARREIRA FÍSICA entre áreas!',
+            tags: ['CME', 'fluxo'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-19-7',
+            frente: 'Quais são as 8 ATRIBUIÇÕES de um EAS segundo a RDC 50?',
+            verso: '**1.** Atendimento imediato (emergência)\n**2.** Atendimento ambulatorial\n**3.** Internação\n**4.** Apoio diagnóstico e terapêutico\n**5.** Apoio técnico (farmácia, CME, nutrição)\n**6.** Ensino e pesquisa\n**7.** Apoio administrativo\n**8.** Apoio logístico (almoxarifado, manutenção)',
+            tags: ['atribuições', 'unidades'],
+            dificuldade: 'dificil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-19-8',
+            frente: 'Quais os requisitos de acabamento para ÁREAS CRÍTICAS?',
+            verso: '**Áreas Críticas (CC, UTI, CME, Lab):**\n\n**Piso:**\n→ Monolítico, impermeável, antiderrapante\n\n**Paredes:**\n→ Lisas, impermeáveis, laváveis\n\n**Teto:**\n→ Liso, contínuo (sem frestas)\n\n**Cantos:**\n→ Arredondados (rodapé, rodateto)\n\n⚠️ Facilitar limpeza e desinfecção!',
+            tags: ['acabamento', 'críticas'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-19-9',
+            frente: 'Qual a largura mínima de PORTAS para passagem de maca?',
+            verso: '**Porta para passagem de MACA:**\n→ Largura mínima: **1,10 m**\n\n**Porta para cadeira de rodas:**\n→ Largura mínima: 0,80 m\n\n**Portas de emergência:**\n→ Largura mínima: 1,20 m (folha dupla)\n\n⚠️ Sentido de abertura: para fora em saídas de emergência!',
+            tags: ['portas', 'dimensionamento'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-19-10',
+            frente: 'Qual a cor da tubulação de AR COMPRIMIDO medicinal?',
+            verso: '**AR COMPRIMIDO:** AMARELO\n\n**Resumo das cores:**\n- O2 (Oxigênio) = VERDE\n- Ar comprimido = AMARELO\n- Vácuo = CINZA\n- N2O (Óxido nitroso) = AZUL\n\n⚠️ Questão recorrente em provas! Memorize as 4 cores!',
+            tags: ['gases', 'ar comprimido'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-19-1',
+            enunciado: 'A RDC nº 50/2002 da ANVISA dispõe sobre:',
+            alternativas: [
+              { letra: 'A', texto: 'licenciamento de estabelecimentos de alimentos.' },
+              { letra: 'B', texto: 'regulamento técnico para projetos físicos de EAS.' },
+              { letra: 'C', texto: 'padrões de potabilidade da água.' },
+              { letra: 'D', texto: 'notificação de doenças transmissíveis.' },
+              { letra: 'E', texto: 'controle de medicamentos.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A RDC 50/2002 dispõe sobre o REGULAMENTO TÉCNICO para planejamento, programação, elaboração e avaliação de PROJETOS FÍSICOS de Estabelecimentos Assistenciais de Saúde (EAS).',
+            dificuldade: 'Fácil',
+            competencia: 'Objeto da RDC 50',
+            banca: 'IADES',
+            tags: ['RDC 50', 'objeto'],
+          },
+          {
+            id: 'ce-q-19-2',
+            enunciado: 'Segundo a RDC 50/2002, são consideradas ÁREAS CRÍTICAS em um EAS:',
+            alternativas: [
+              { letra: 'A', texto: 'administração e almoxarifado.' },
+              { letra: 'B', texto: 'recepção e sala de espera.' },
+              { letra: 'C', texto: 'centro cirúrgico, UTI e CME.' },
+              { letra: 'D', texto: 'enfermarias e ambulatórios.' },
+              { letra: 'E', texto: 'vestiários e refeitórios.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'ÁREAS CRÍTICAS são aquelas com maior risco de infecção: Centro Cirúrgico (CC), UTI, Central de Material Esterilizado (CME), Laboratório. Exigem acabamentos especiais.',
+            dificuldade: 'Média',
+            competencia: 'Áreas críticas',
+            banca: 'IADES',
+            tags: ['áreas críticas', 'classificação'],
+          },
+          {
+            id: 'ce-q-19-3',
+            enunciado: 'A cor da tubulação de OXIGÊNIO medicinal, conforme normas técnicas, é:',
+            alternativas: [
+              { letra: 'A', texto: 'amarela.' },
+              { letra: 'B', texto: 'azul.' },
+              { letra: 'C', texto: 'verde.' },
+              { letra: 'D', texto: 'cinza.' },
+              { letra: 'E', texto: 'branca.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A tubulação de OXIGÊNIO (O2) é VERDE. Ar comprimido = amarelo. Vácuo = cinza. Óxido nitroso = azul.',
+            dificuldade: 'Média',
+            competencia: 'Gases medicinais',
+            banca: 'IADES',
+            tags: ['gases', 'oxigênio'],
+          },
+          {
+            id: 'ce-q-19-4',
+            enunciado: 'A área mínima de uma sala de cirurgia de grande porte é:',
+            alternativas: [
+              { letra: 'A', texto: '20 m².' },
+              { letra: 'B', texto: '25 m².' },
+              { letra: 'C', texto: '36 m².' },
+              { letra: 'D', texto: '45 m².' },
+              { letra: 'E', texto: '50 m².' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Sala de cirurgia GRANDE porte: mínimo 36 m². Pequena: 20 m². Média: 25 m². Especial (cardíaca, transplante): 45 m².',
+            dificuldade: 'Média',
+            competencia: 'Dimensionamento',
+            banca: 'IADES',
+            tags: ['dimensionamento', 'cirurgia'],
+          },
+          {
+            id: 'ce-q-19-5',
+            enunciado: 'A largura mínima de corredor para circulação de pacientes em maca ou cadeira de rodas é:',
+            alternativas: [
+              { letra: 'A', texto: '1,00 m.' },
+              { letra: 'B', texto: '1,20 m.' },
+              { letra: 'C', texto: '1,50 m.' },
+              { letra: 'D', texto: '2,00 m.' },
+              { letra: 'E', texto: '2,50 m.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'A circulação de PACIENTES (maca/cadeira de rodas) exige largura mínima de 2,00 m. Funcionários: 1,20 m. Serviço: 1,50 m.',
+            dificuldade: 'Média',
+            competencia: 'Circulações',
+            banca: 'IADES',
+            tags: ['corredores', 'dimensão'],
+          },
+          {
+            id: 'ce-q-19-6',
+            enunciado: 'O fluxo correto na Central de Material Esterilizado (CME) é:',
+            alternativas: [
+              { letra: 'A', texto: 'estéril → limpo → sujo.' },
+              { letra: 'B', texto: 'sujo → estéril → limpo.' },
+              { letra: 'C', texto: 'limpo → sujo → estéril.' },
+              { letra: 'D', texto: 'sujo → limpo → estéril.' },
+              { letra: 'E', texto: 'estéril → sujo → limpo.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'O fluxo na CME é: SUJO → LIMPO → ESTÉRIL. O material entra sujo, é lavado, preparado e esterilizado. Deve haver barreira física entre as áreas.',
+            dificuldade: 'Média',
+            competencia: 'CME',
+            banca: 'IADES',
+            tags: ['CME', 'fluxo'],
+          },
+          {
+            id: 'ce-q-19-7',
+            enunciado: 'A cor da tubulação de VÁCUO em um EAS é:',
+            alternativas: [
+              { letra: 'A', texto: 'verde.' },
+              { letra: 'B', texto: 'amarela.' },
+              { letra: 'C', texto: 'azul.' },
+              { letra: 'D', texto: 'cinza.' },
+              { letra: 'E', texto: 'vermelha.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'A tubulação de VÁCUO é CINZA. Oxigênio = verde. Ar comprimido = amarelo. Óxido nitroso = azul.',
+            dificuldade: 'Média',
+            competencia: 'Gases medicinais',
+            banca: 'IADES',
+            tags: ['gases', 'vácuo'],
+          },
+          {
+            id: 'ce-q-19-8',
+            enunciado: 'As áreas SEMICRÍTICAS em um EAS incluem:',
+            alternativas: [
+              { letra: 'A', texto: 'centro cirúrgico e UTI.' },
+              { letra: 'B', texto: 'laboratório e CME.' },
+              { letra: 'C', texto: 'enfermarias e ambulatórios.' },
+              { letra: 'D', texto: 'administração e almoxarifado.' },
+              { letra: 'E', texto: 'sala de autópsia e banco de sangue.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'SEMICRÍTICAS: enfermarias, ambulatórios, consultórios. CRÍTICAS: CC, UTI, CME, lab. NÃO CRÍTICAS: administração, almoxarifado.',
+            dificuldade: 'Média',
+            competencia: 'Classificação de áreas',
+            banca: 'IADES',
+            tags: ['semicríticas', 'classificação'],
+          },
+          {
+            id: 'ce-q-19-9',
+            enunciado: 'Os acabamentos de ÁREAS CRÍTICAS devem ter:',
+            alternativas: [
+              { letra: 'A', texto: 'piso de madeira e paredes com textura.' },
+              { letra: 'B', texto: 'cantos arredondados e superfícies lisas e impermeáveis.' },
+              { letra: 'C', texto: 'teto de gesso removível e piso cerâmico comum.' },
+              { letra: 'D', texto: 'paredes com papel de parede lavável.' },
+              { letra: 'E', texto: 'pisos com carpete e paredes acústicas.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Áreas críticas exigem: piso monolítico/impermeável, paredes lisas/laváveis, teto liso/contínuo, CANTOS ARREDONDADOS para facilitar limpeza e desinfecção.',
+            dificuldade: 'Média',
+            competencia: 'Acabamentos',
+            banca: 'IADES',
+            tags: ['acabamento', 'críticas'],
+          },
+          {
+            id: 'ce-q-19-10',
+            enunciado: 'A RDC 50/2002 organiza o EAS em quantas ATRIBUIÇÕES (unidades funcionais)?',
+            alternativas: [
+              { letra: 'A', texto: '4 atribuições.' },
+              { letra: 'B', texto: '6 atribuições.' },
+              { letra: 'C', texto: '8 atribuições.' },
+              { letra: 'D', texto: '10 atribuições.' },
+              { letra: 'E', texto: '12 atribuições.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A RDC 50 organiza o EAS em 8 ATRIBUIÇÕES: atendimento imediato, ambulatorial, internação, apoio diagnóstico/terapêutico, apoio técnico, ensino/pesquisa, apoio administrativo, apoio logístico.',
+            dificuldade: 'Difícil',
+            competencia: 'Atribuições',
+            banca: 'IADES',
+            tags: ['atribuições', 'número'],
+          },
+        ],
+      },
+    },
   ],
 };

@@ -7435,5 +7435,582 @@ Exercido diretamente pela sociedade:
         ],
       },
     },
+    {
+      id: "da-topico-11",
+      numero: 11,
+      titulo: "Improbidade Administrativa: Lei nº 8.429/1992 e Lei nº 14.230/2021",
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Lei de Improbidade Administrativa
+
+A **Lei nº 8.429/1992** (LIA), com as alterações da **Lei nº 14.230/2021**, dispõe sobre as sanções aplicáveis aos agentes públicos nos casos de improbidade administrativa.
+
+### Sujeitos
+
+| Sujeito | Descrição |
+|---------|-----------|
+| **Sujeito Ativo** | Agente público (qualquer um que exerça função pública) |
+| **Sujeito Passivo** | Entidade pública lesada |
+| **Terceiro** | Particular que induz, concorre ou se beneficia |
+
+### Categorias de Atos de Improbidade
+
+| Categoria | Artigo | Gravidade | Elemento Subjetivo |
+|-----------|--------|-----------|-------------------|
+| **Enriquecimento ilícito** | Art. 9º | Mais grave | DOLO |
+| **Prejuízo ao erário** | Art. 10 | Intermediária | DOLO |
+| **Violação de princípios** | Art. 11 | Menos grave | DOLO |
+
+### Principal Mudança - Lei 14.230/2021
+
+**TODAS as modalidades exigem DOLO** (antes, prejuízo ao erário admitia culpa).
+
+### Para IADES - Memorizar:
+- Improbidade NÃO é crime (ilícito civil-administrativo)
+- TODAS modalidades exigem DOLO (Lei 14.230/2021)
+- Enriquecimento ilícito = mais grave
+- Ação de improbidade: prescrição de 8 anos
+- Foro comum (não há foro privilegiado)
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Natureza Jurídica
+
+A improbidade administrativa é **ilícito de natureza civil-administrativa**, não criminal.
+
+#### 1.1 Fundamento Constitucional
+
+> Art. 37, §4º, CF: "Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível."
+
+### 2. Sujeito Ativo
+
+#### 2.1 Agente Público (Art. 2º)
+
+> "Todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função pública."
+
+**Abrange:**
+- Servidores estatutários
+- Empregados públicos (CLT)
+- Agentes políticos
+- Particulares em colaboração
+- Estagiários
+- Mesários eleitorais
+
+#### 2.2 Terceiros (Art. 3º)
+
+Particulares podem responder por improbidade quando:
+- **Induzem** o agente à prática do ato
+- **Concorrem** para o ato
+- **Beneficiam-se** direta ou indiretamente
+
+⚠️ A Lei 14.230/2021 exige que terceiros participem da conduta dolosa do agente.
+
+### 3. Sujeito Passivo
+
+São as entidades lesadas:
+- Administração direta e indireta
+- Empresas incorporadas ao patrimônio público
+- Entidades que recebam subvenção, auxílio, contribuição
+- Entidades com participação do Poder Público
+
+### 4. Atos de Improbidade (Após Lei 14.230/2021)
+
+#### 4.1 Enriquecimento Ilícito (Art. 9º) - MAIS GRAVE
+
+> "Auferir, mediante a prática de ato doloso, qualquer tipo de vantagem patrimonial indevida em razão do exercício de cargo, mandato, função, emprego ou atividade pública."
+
+**Exemplos:**
+- Receber propina
+- Usar bens públicos em proveito próprio
+- Aceitar presentes de interessados
+- Enriquecer durante mandato sem justificativa
+
+**Elemento subjetivo:** DOLO
+
+#### 4.2 Prejuízo ao Erário (Art. 10) - INTERMEDIÁRIA
+
+> "Causar dano ao erário ou concorrer para sua ocorrência, mediante ação ou omissão dolosa."
+
+**Exemplos:**
+- Permitir aquisição acima do preço
+- Facilitar alienação abaixo do valor
+- Frustrar licitação
+- Liberar verba indevidamente
+
+**Elemento subjetivo:** DOLO (após Lei 14.230/2021)
+
+⚠️ **IMPORTANTE:** Antes da Lei 14.230/2021, admitia-se CULPA no art. 10. Agora, somente DOLO.
+
+#### 4.3 Violação de Princípios (Art. 11) - MENOS GRAVE
+
+> "Praticar ato doloso que atente contra os princípios da administração pública, configurado quando verificada pelo menos uma das condutas."
+
+**Exemplos:**
+- Negar publicidade a atos oficiais
+- Frustrar concurso público
+- Revelar medida política antes da divulgação
+- Descumprir normas de acessibilidade
+
+**Elemento subjetivo:** DOLO
+
+### 5. Sanções (Art. 12)
+
+#### 5.1 Por Enriquecimento Ilícito (Art. 9º)
+
+| Sanção | Previsão |
+|--------|----------|
+| Perda de bens | Acrescidos ilicitamente |
+| Ressarcimento | Integral do dano |
+| Perda da função | Sim |
+| Suspensão direitos políticos | Até 14 anos |
+| Multa | Até 3x o acréscimo |
+| Proibição de contratar | Até 14 anos |
+
+#### 5.2 Por Prejuízo ao Erário (Art. 10)
+
+| Sanção | Previsão |
+|--------|----------|
+| Ressarcimento | Integral do dano |
+| Perda de bens | Se houver |
+| Perda da função | Sim |
+| Suspensão direitos políticos | Até 12 anos |
+| Multa | Até 2x o dano |
+| Proibição de contratar | Até 12 anos |
+
+#### 5.3 Por Violação de Princípios (Art. 11)
+
+| Sanção | Previsão |
+|--------|----------|
+| Ressarcimento | Se houver dano |
+| Perda da função | Sim |
+| Suspensão direitos políticos | Até 4 anos |
+| Multa | Até 24x a remuneração |
+| Proibição de contratar | Até 4 anos |
+
+### 6. Elemento Subjetivo - GRANDE MUDANÇA
+
+#### 6.1 Antes da Lei 14.230/2021
+
+| Artigo | Elemento Subjetivo |
+|--------|-------------------|
+| Art. 9º | Dolo |
+| Art. 10 | Dolo ou **Culpa** |
+| Art. 11 | Dolo |
+
+#### 6.2 Após Lei 14.230/2021
+
+| Artigo | Elemento Subjetivo |
+|--------|-------------------|
+| Art. 9º | DOLO |
+| Art. 10 | DOLO |
+| Art. 11 | DOLO |
+
+⚠️ **NÃO EXISTE MAIS improbidade culposa!**
+
+### 7. Prescrição (Art. 23)
+
+#### 7.1 Prazo
+
+| Situação | Prazo |
+|----------|-------|
+| **Regra geral** | 8 anos do fato |
+| **Durante mandato** | 8 anos do término |
+| **Inquérito/PAD instaurado** | Suspende até 180 dias |
+
+#### 7.2 Ressarcimento ao Erário
+
+- **Dano doloso:** Imprescritível (art. 37, §5º, CF)
+- **Dano culposo:** Prescritível (8 anos)
+
+### 8. Processo Judicial
+
+#### 8.1 Legitimidade Ativa
+
+- Ministério Público
+- Pessoa jurídica interessada (lesada)
+
+#### 8.2 Competência
+
+- **Justiça Comum** (não há foro privilegiado)
+- Estadual ou Federal, conforme o sujeito passivo
+
+#### 8.3 Procedimento
+
+1. Petição inicial com indícios
+2. Notificação do réu (15 dias para defesa prévia)
+3. Análise da inicial
+4. Citação
+5. Contestação
+6. Instrução
+7. Sentença
+
+### 9. Acordos
+
+#### 9.1 Acordo de Não Persecução Civil (Art. 17-B)
+
+A Lei 14.230/2021 introduziu a possibilidade de acordo.
+
+**Requisitos:**
+- Confissão e colaboração
+- Ressarcimento integral do dano
+- Transferência dos bens obtidos
+- Aplicação de sanções reduzidas
+- Homologação judicial
+
+### 10. Pontos Relevantes para Prova
+
+#### 10.1 O que NÃO é Improbidade
+
+- Mera ilegalidade (sem dolo)
+- Irregularidade formal
+- Erro administrativo de boa-fé
+- Decisão discricionária legítima
+
+#### 10.2 Independência das Instâncias
+
+A responsabilização por improbidade é **independente** de:
+- Processo criminal
+- Processo administrativo disciplinar
+- Ação de ressarcimento
+
+⚠️ A absolvição criminal por inexistência do fato ou negativa de autoria vincula as demais esferas.
+        `,
+
+        pontosChave: [
+          "Lei 8.429/1992 alterada pela Lei 14.230/2021",
+          "Improbidade é ilícito CIVIL-ADMINISTRATIVO, não crime",
+          "TODAS as modalidades exigem DOLO (mudança da Lei 14.230/2021)",
+          "Art. 9º: enriquecimento ilícito (mais grave)",
+          "Art. 10: prejuízo ao erário (intermediária)",
+          "Art. 11: violação de princípios (menos grave)",
+          "Prescrição: 8 anos do fato (regra geral)",
+          "Ressarcimento por dano DOLOSO é IMPRESCRITÍVEL",
+          "NÃO há foro privilegiado (Justiça comum)",
+          "Terceiros podem responder se induzirem/concorrerem/beneficiarem",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Achar que improbidade admite culpa",
+            descricao: "Após a Lei 14.230/2021, TODAS as modalidades exigem DOLO. Não existe mais improbidade culposa.",
+            dica: "Lei 14.230/2021 = só DOLO em todas as modalidades.",
+          },
+          {
+            titulo: "Confundir improbidade com crime",
+            descricao: "Improbidade é ilícito CIVIL-ADMINISTRATIVO. Crime é matéria penal. São esferas independentes.",
+            dica: "Improbidade = civil. Crime = penal. Podem coexistir.",
+          },
+          {
+            titulo: "Pensar que há foro privilegiado",
+            descricao: "Não existe foro privilegiado para improbidade. A competência é da Justiça comum.",
+            dica: "Improbidade = Justiça comum, mesmo para Presidente.",
+          },
+          {
+            titulo: "Esquecer que terceiros podem responder",
+            descricao: "Particulares que induzem, concorrem ou se beneficiam também podem ser réus na ação de improbidade.",
+            dica: "Terceiro responde se induzir/concorrer/beneficiar (com dolo).",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "EPV",
+            significado: "Enriquecimento, Prejuízo, Violação",
+            frase: "Os 3 atos de improbidade: EPV (do mais grave ao menos grave)",
+          },
+          {
+            termo: "DOLO-DOLO-DOLO",
+            significado: "Todas as modalidades exigem dolo",
+            frase: "Após 14.230/2021: DOLO-DOLO-DOLO (arts. 9, 10, 11)",
+          },
+          {
+            termo: "8 ANOS",
+            significado: "Prazo prescricional",
+            frase: "Prescrição de improbidade: 8 ANOS do fato",
+          },
+          {
+            termo: "ICB",
+            significado: "Induz, Concorre, Beneficia",
+            frase: "Terceiro responde se: ICB (Induz, Concorre, Beneficia)",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "da-fc-11-1",
+            frente: "Qual a natureza jurídica da improbidade administrativa?",
+            verso: "**Ilícito CIVIL-ADMINISTRATIVO**\n\nNÃO é crime (matéria penal).\n\nA ação de improbidade tramita na Justiça Comum, com sanções civis e políticas.\n\nPode haver responsabilização criminal SIMULTÂNEA, em processo separado.",
+            tags: ["improbidade", "natureza"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-11-2",
+            frente: "Quais são as 3 categorias de atos de improbidade e qual a mais grave?",
+            verso: "**1. Enriquecimento ilícito (Art. 9º)** → MAIS GRAVE\n\n**2. Prejuízo ao erário (Art. 10)** → Intermediária\n\n**3. Violação de princípios (Art. 11)** → Menos grave\n\nMnemônico: **EPV** (do mais grave ao menos grave)",
+            tags: ["atos", "categorias"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-11-3",
+            frente: "Qual o elemento subjetivo exigido para improbidade após a Lei 14.230/2021?",
+            verso: "**DOLO em TODAS as modalidades!**\n\nAntes da Lei 14.230/2021:\n- Art. 9º: Dolo\n- Art. 10: Dolo ou Culpa\n- Art. 11: Dolo\n\n**Após Lei 14.230/2021:**\n- Art. 9º: DOLO\n- Art. 10: DOLO\n- Art. 11: DOLO\n\n⚠️ Não existe mais improbidade culposa!",
+            tags: ["dolo", "Lei 14.230"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-11-4",
+            frente: "Qual o prazo prescricional da ação de improbidade?",
+            verso: "**8 ANOS** (regra geral)\n\nContados:\n- Do fato (regra)\n- Do término do mandato/cargo em comissão\n\n**Exceção - IMPRESCRITÍVEL:**\n- Ação de ressarcimento por dano DOLOSO ao erário (art. 37, §5º, CF)",
+            tags: ["prescrição", "prazo"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-11-5",
+            frente: "Quem pode ser sujeito ativo de improbidade?",
+            verso: "**Agente público:** qualquer pessoa que exerça função pública (art. 2º)\n\n- Servidor estatutário\n- Empregado público\n- Agente político\n- Particular em colaboração\n- Estagiário, mesário\n\n**Terceiros (art. 3º):**\n- Quem induz\n- Quem concorre\n- Quem se beneficia",
+            tags: ["sujeito ativo", "agente"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-11-6",
+            frente: "Existe foro privilegiado para ação de improbidade?",
+            verso: "**NÃO!**\n\nA ação de improbidade administrativa tramita na **Justiça Comum** (1ª instância).\n\nMesmo autoridades com foro privilegiado em matéria criminal (Presidente, Governadores, etc.) respondem em 1ª instância nas ações de improbidade.\n\nCompetência: Federal ou Estadual, conforme a entidade lesada.",
+            tags: ["competência", "foro"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-11-7",
+            frente: "Quais as sanções para enriquecimento ilícito (art. 9º)?",
+            verso: "**Sanções mais graves:**\n\n- Perda dos bens acrescidos ilicitamente\n- Ressarcimento integral do dano\n- Perda da função pública\n- Suspensão dos direitos políticos: **até 14 anos**\n- Multa: até 3x o acréscimo patrimonial\n- Proibição de contratar: até 14 anos",
+            tags: ["sanções", "art. 9"],
+            dificuldade: "dificil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "da-fc-11-8",
+            frente: "O que é o Acordo de Não Persecução Civil na LIA?",
+            verso: "**Acordo de Não Persecução Civil (Art. 17-B)**\n\nIntroduzido pela Lei 14.230/2021.\n\n**Requisitos:**\n- Confissão e colaboração\n- Ressarcimento integral do dano\n- Transferência de bens ilícitos\n- Sanções reduzidas\n- Homologação judicial\n\nPermite solução consensual em improbidade.",
+            tags: ["acordo", "ANPC"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "da-q-11-1",
+            enunciado: "A improbidade administrativa, nos termos da Lei nº 8.429/1992, é considerada:",
+            alternativas: [
+              { letra: "A", texto: "crime contra a administração pública." },
+              { letra: "B", texto: "infração penal de menor potencial ofensivo." },
+              { letra: "C", texto: "ilícito de natureza civil-administrativa." },
+              { letra: "D", texto: "contravenção administrativa." },
+              { letra: "E", texto: "falta disciplinar grave." },
+            ],
+            gabarito: "C",
+            justificativa: "A improbidade administrativa é ILÍCITO DE NATUREZA CIVIL-ADMINISTRATIVA, não criminal. As sanções são civis e políticas (perda de função, suspensão de direitos políticos, multa, etc.).",
+            dificuldade: "Fácil",
+            competencia: "Natureza da improbidade",
+            banca: "IADES",
+            tags: ["improbidade", "natureza"],
+          },
+          {
+            id: "da-q-11-2",
+            enunciado: "Com as alterações promovidas pela Lei nº 14.230/2021, o elemento subjetivo exigido para configuração de improbidade administrativa por prejuízo ao erário (art. 10) é:",
+            alternativas: [
+              { letra: "A", texto: "dolo ou culpa." },
+              { letra: "B", texto: "apenas culpa grave." },
+              { letra: "C", texto: "apenas dolo." },
+              { letra: "D", texto: "responsabilidade objetiva." },
+              { letra: "E", texto: "culpa presumida." },
+            ],
+            gabarito: "C",
+            justificativa: "Após a Lei 14.230/2021, TODAS as modalidades de improbidade exigem DOLO, inclusive o prejuízo ao erário (art. 10). Não existe mais improbidade culposa.",
+            dificuldade: "Média",
+            competencia: "Elemento subjetivo",
+            banca: "IADES",
+            tags: ["dolo", "Lei 14.230"],
+          },
+          {
+            id: "da-q-11-3",
+            enunciado: "Segundo a Lei de Improbidade Administrativa, constitui ato de improbidade que importa enriquecimento ilícito:",
+            alternativas: [
+              { letra: "A", texto: "permitir a aquisição de bens acima do valor de mercado." },
+              { letra: "B", texto: "negar publicidade aos atos oficiais." },
+              { letra: "C", texto: "receber vantagem econômica para intermediar liberação de verba." },
+              { letra: "D", texto: "frustrar a licitude de processo licitatório." },
+              { letra: "E", texto: "revelar medida política antes de sua divulgação oficial." },
+            ],
+            gabarito: "C",
+            justificativa: "Receber vantagem econômica indevida em razão da função pública é ENRIQUECIMENTO ILÍCITO (art. 9º). As alternativas A e D são prejuízo ao erário; B e E são violação de princípios.",
+            dificuldade: "Média",
+            competencia: "Enriquecimento ilícito",
+            banca: "IADES",
+            tags: ["art. 9", "enriquecimento"],
+          },
+          {
+            id: "da-q-11-4",
+            enunciado: "O prazo prescricional da ação de improbidade administrativa, conforme a Lei nº 14.230/2021, é de:",
+            alternativas: [
+              { letra: "A", texto: "5 anos do fato." },
+              { letra: "B", texto: "8 anos do fato." },
+              { letra: "C", texto: "10 anos do fato." },
+              { letra: "D", texto: "15 anos do fato." },
+              { letra: "E", texto: "imprescritível em qualquer caso." },
+            ],
+            gabarito: "B",
+            justificativa: "O prazo prescricional da ação de improbidade é de 8 ANOS, contados do fato (art. 23). Apenas o ressarcimento por dano doloso ao erário é imprescritível.",
+            dificuldade: "Fácil",
+            competencia: "Prescrição",
+            banca: "IADES",
+            tags: ["prescrição", "prazo"],
+          },
+          {
+            id: "da-q-11-5",
+            enunciado: "A ação de improbidade administrativa deve ser processada e julgada:",
+            alternativas: [
+              { letra: "A", texto: "pelo tribunal competente conforme prerrogativa de foro." },
+              { letra: "B", texto: "pela Justiça comum, em primeira instância." },
+              { letra: "C", texto: "pelo Tribunal de Contas." },
+              { letra: "D", texto: "pelo STF, em qualquer caso." },
+              { letra: "E", texto: "pela Justiça Eleitoral." },
+            ],
+            gabarito: "B",
+            justificativa: "NÃO há foro privilegiado para improbidade. A ação tramita na JUSTIÇA COMUM, em primeira instância, seja estadual ou federal, conforme a entidade lesada.",
+            dificuldade: "Média",
+            competencia: "Competência",
+            banca: "IADES",
+            tags: ["competência", "foro"],
+          },
+          {
+            id: "da-q-11-6",
+            enunciado: "A suspensão dos direitos políticos, no caso de enriquecimento ilícito (art. 9º), pode ser aplicada por até:",
+            alternativas: [
+              { letra: "A", texto: "4 anos." },
+              { letra: "B", texto: "8 anos." },
+              { letra: "C", texto: "10 anos." },
+              { letra: "D", texto: "12 anos." },
+              { letra: "E", texto: "14 anos." },
+            ],
+            gabarito: "E",
+            justificativa: "Para ENRIQUECIMENTO ILÍCITO (art. 9º, mais grave), a suspensão dos direitos políticos pode ser de até 14 ANOS. Para prejuízo ao erário: até 12 anos. Para violação de princípios: até 4 anos.",
+            dificuldade: "Média",
+            competencia: "Sanções art. 9º",
+            banca: "IADES",
+            tags: ["sanções", "suspensão"],
+          },
+          {
+            id: "da-q-11-7",
+            enunciado: "Quanto ao terceiro que concorre para a prática de ato de improbidade, é CORRETO afirmar que:",
+            alternativas: [
+              { letra: "A", texto: "não pode ser responsabilizado por improbidade." },
+              { letra: "B", texto: "responde apenas civilmente." },
+              { letra: "C", texto: "pode responder por improbidade se agir com dolo." },
+              { letra: "D", texto: "responde objetivamente." },
+              { letra: "E", texto: "só responde se for servidor público." },
+            ],
+            gabarito: "C",
+            justificativa: "O terceiro (particular) que induz, concorre ou se beneficia do ato de improbidade PODE RESPONDER, desde que tenha agido com DOLO (art. 3º, após Lei 14.230/2021).",
+            dificuldade: "Média",
+            competencia: "Terceiros",
+            banca: "IADES",
+            tags: ["terceiro", "responsabilidade"],
+          },
+          {
+            id: "da-q-11-8",
+            enunciado: "A ação de ressarcimento ao erário por dano causado dolosamente é:",
+            alternativas: [
+              { letra: "A", texto: "prescritível em 5 anos." },
+              { letra: "B", texto: "prescritível em 8 anos." },
+              { letra: "C", texto: "prescritível em 10 anos." },
+              { letra: "D", texto: "imprescritível." },
+              { letra: "E", texto: "prescritível em 20 anos." },
+            ],
+            gabarito: "D",
+            justificativa: "A ação de ressarcimento por dano DOLOSO ao erário é IMPRESCRITÍVEL (art. 37, §5º, CF). Apenas a ação de ressarcimento por dano culposo prescreve.",
+            dificuldade: "Fácil",
+            competencia: "Ressarcimento",
+            banca: "IADES",
+            tags: ["ressarcimento", "imprescritível"],
+          },
+          {
+            id: "da-q-11-9",
+            enunciado: "A Lei nº 14.230/2021 introduziu na Lei de Improbidade Administrativa a possibilidade de:",
+            alternativas: [
+              { letra: "A", texto: "aplicação de pena de prisão." },
+              { letra: "B", texto: "celebração de acordo de não persecução civil." },
+              { letra: "C", texto: "improbidade por omissão culposa." },
+              { letra: "D", texto: "foro privilegiado para autoridades." },
+              { letra: "E", texto: "responsabilidade objetiva." },
+            ],
+            gabarito: "B",
+            justificativa: "A Lei 14.230/2021 introduziu o ACORDO DE NÃO PERSECUÇÃO CIVIL (art. 17-B), permitindo solução consensual mediante confissão, ressarcimento e sanções reduzidas.",
+            dificuldade: "Média",
+            competencia: "Lei 14.230/2021",
+            banca: "IADES",
+            tags: ["acordo", "Lei 14.230"],
+          },
+          {
+            id: "da-q-11-10",
+            enunciado: "A mera ilegalidade, sem comprovação de dolo, configura improbidade administrativa?",
+            alternativas: [
+              { letra: "A", texto: "Sim, em qualquer modalidade." },
+              { letra: "B", texto: "Sim, apenas no art. 10." },
+              { letra: "C", texto: "Sim, se causar prejuízo ao erário." },
+              { letra: "D", texto: "Não, pois exige-se dolo específico." },
+              { letra: "E", texto: "Depende da decisão do juiz." },
+            ],
+            gabarito: "D",
+            justificativa: "Após a Lei 14.230/2021, a mera ilegalidade ou irregularidade NÃO configura improbidade. É necessária a comprovação de DOLO específico do agente.",
+            dificuldade: "Média",
+            competencia: "Elemento subjetivo",
+            banca: "IADES",
+            tags: ["dolo", "ilegalidade"],
+          },
+        ],
+      },
+    },
   ],
 };

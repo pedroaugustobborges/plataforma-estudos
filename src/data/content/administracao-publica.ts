@@ -6291,5 +6291,620 @@ PLANEJAR → EXECUTAR → MONITORAR → AVALIAR → CORRIGIR
         ],
       },
     },
+    {
+      id: "ap-topico-11",
+      numero: 11,
+      titulo: "Planejamento Estratégico no Setor Público",
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Conceito de Planejamento Estratégico
+
+O **planejamento estratégico** é um processo sistemático de definição de **objetivos de longo prazo**, identificação de **estratégias** e alocação de **recursos** para alcançá-los.
+
+### Níveis de Planejamento
+
+| Nível | Característica | Horizonte |
+|-------|----------------|-----------|
+| **Estratégico** | Global, alta direção | Longo prazo |
+| **Tático** | Departamental | Médio prazo |
+| **Operacional** | Execução, tarefas | Curto prazo |
+
+### Etapas do Planejamento Estratégico
+
+| Etapa | Descrição |
+|-------|-----------|
+| **1. Diagnóstico** | Análise interna e externa (SWOT) |
+| **2. Definição de missão/visão** | Identidade e futuro desejado |
+| **3. Objetivos** | Metas a alcançar |
+| **4. Formulação de estratégias** | Como alcançar os objetivos |
+| **5. Implementação** | Execução do plano |
+| **6. Controle e avaliação** | Monitoramento e ajustes |
+
+### Instrumentos no Setor Público
+
+- PPA (Plano Plurianual) - 4 anos
+- LDO (Lei de Diretrizes Orçamentárias) - 1 ano
+- LOA (Lei Orçamentária Anual) - 1 ano
+
+### Para IADES - Memorizar:
+- Estratégico = longo prazo, alta direção
+- Tático = médio prazo, departamentos
+- Operacional = curto prazo, execução
+- SWOT: Forças, Fraquezas, Oportunidades, Ameaças
+- BSC: 4 perspectivas (financeira, cliente, processos, aprendizado)
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito e Importância
+
+O **planejamento estratégico** no setor público é o processo pelo qual a organização define sua **missão**, estabelece **objetivos** e formula **estratégias** para alcançá-los, considerando o ambiente interno e externo.
+
+#### 1.1 Por que Planejar?
+
+- Direcionar esforços para resultados
+- Otimizar recursos escassos
+- Antecipar mudanças
+- Alinhar a organização
+- Melhorar a tomada de decisão
+- Prestar contas à sociedade
+
+### 2. Níveis de Planejamento
+
+#### 2.1 Planejamento Estratégico
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Quem** | Alta direção |
+| **Abrangência** | Toda a organização |
+| **Horizonte** | Longo prazo (3-10 anos) |
+| **Foco** | Objetivos globais |
+| **Conteúdo** | Genérico, sintético |
+
+**Exemplos no setor público:**
+- Plano de governo
+- PPA (Plano Plurianual)
+- Plano Estratégico institucional
+
+#### 2.2 Planejamento Tático
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Quem** | Gerência média |
+| **Abrangência** | Departamental |
+| **Horizonte** | Médio prazo (1-3 anos) |
+| **Foco** | Objetivos setoriais |
+| **Conteúdo** | Menos genérico |
+
+**Exemplos:**
+- Plano de marketing
+- Plano de recursos humanos
+- Plano de TI
+
+#### 2.3 Planejamento Operacional
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Quem** | Supervisão, execução |
+| **Abrangência** | Atividades específicas |
+| **Horizonte** | Curto prazo (até 1 ano) |
+| **Foco** | Tarefas e atividades |
+| **Conteúdo** | Detalhado, analítico |
+
+**Exemplos:**
+- Cronograma de atividades
+- Plano de trabalho
+- Procedimentos operacionais
+
+### 3. Etapas do Planejamento Estratégico
+
+#### 3.1 Diagnóstico Estratégico
+
+##### a) Análise Interna
+- **Forças (Strengths):** pontos fortes da organização
+- **Fraquezas (Weaknesses):** pontos fracos
+
+##### b) Análise Externa
+- **Oportunidades (Opportunities):** fatores externos favoráveis
+- **Ameaças (Threats):** fatores externos desfavoráveis
+
+##### c) Matriz SWOT
+
+| | Fatores Positivos | Fatores Negativos |
+|-|-------------------|-------------------|
+| **Interno** | Forças | Fraquezas |
+| **Externo** | Oportunidades | Ameaças |
+
+#### 3.2 Definição de Missão, Visão e Valores
+
+##### a) Missão
+> Razão de ser da organização. O que ela faz, para quem e por quê.
+
+**Exemplo:** "Promover a saúde da população goiana com qualidade e eficiência."
+
+##### b) Visão
+> Estado futuro desejado. Onde a organização quer chegar.
+
+**Exemplo:** "Ser referência nacional em vigilância sanitária até 2030."
+
+##### c) Valores
+> Princípios que orientam a conduta organizacional.
+
+**Exemplos:** Ética, transparência, eficiência, respeito.
+
+#### 3.3 Definição de Objetivos
+
+Os objetivos devem ser **SMART:**
+- **S**pecific (Específico)
+- **M**easurable (Mensurável)
+- **A**chievable (Alcançável)
+- **R**elevant (Relevante)
+- **T**ime-bound (Temporal)
+
+#### 3.4 Formulação de Estratégias
+
+Definição de como alcançar os objetivos:
+- Programas
+- Projetos
+- Ações
+
+#### 3.5 Implementação
+
+- Alocação de recursos
+- Definição de responsabilidades
+- Cronograma
+- Comunicação
+
+#### 3.6 Controle e Avaliação
+
+- Indicadores de desempenho
+- Metas
+- Monitoramento
+- Ações corretivas
+
+### 4. Ferramentas de Planejamento
+
+#### 4.1 Balanced Scorecard (BSC)
+
+Sistema de medição de desempenho com 4 perspectivas:
+
+| Perspectiva | Pergunta-chave |
+|-------------|----------------|
+| **Financeira** | Como estamos para os contribuintes? |
+| **Cliente/Cidadão** | Como os cidadãos nos veem? |
+| **Processos Internos** | Em que devemos ser excelentes? |
+| **Aprendizado e Crescimento** | Como continuar melhorando? |
+
+#### 4.2 Análise PESTEL
+
+Análise do macroambiente:
+- **P**olítico
+- **E**conômico
+- **S**ocial
+- **T**ecnológico
+- **E**cológico (ambiental)
+- **L**egal
+
+#### 4.3 5 Forças de Porter
+
+Análise competitiva:
+1. Rivalidade entre concorrentes
+2. Ameaça de novos entrantes
+3. Ameaça de substitutos
+4. Poder de barganha dos fornecedores
+5. Poder de barganha dos clientes
+
+### 5. Planejamento no Setor Público Brasileiro
+
+#### 5.1 Sistema de Planejamento
+
+A CF/88 estabelece o ciclo orçamentário:
+
+| Instrumento | Prazo | Conteúdo |
+|-------------|-------|----------|
+| **PPA** | 4 anos | Diretrizes, objetivos, metas |
+| **LDO** | 1 ano | Metas e prioridades |
+| **LOA** | 1 ano | Orçamento detalhado |
+
+#### 5.2 Plano Plurianual (PPA)
+
+- Vigência: 4 anos
+- Inicia no 2º ano de governo
+- Estabelece programas e ações
+- Regionaliza investimentos
+- Base para LDO e LOA
+
+#### 5.3 Integração Plano-Orçamento
+
+PPA → LDO → LOA → Execução → Avaliação
+
+### 6. Desafios no Setor Público
+
+#### 6.1 Dificuldades
+
+| Desafio | Descrição |
+|---------|-----------|
+| Descontinuidade | Mudanças de governo |
+| Rigidez | Limitações legais |
+| Política | Interferências políticas |
+| Cultura | Resistência a mudanças |
+| Recursos | Restrições orçamentárias |
+
+#### 6.2 Boas Práticas
+
+- Participação social
+- Transparência
+- Indicadores claros
+- Monitoramento constante
+- Flexibilidade para ajustes
+
+### 7. Indicadores de Desempenho
+
+#### 7.1 Tipos de Indicadores
+
+| Tipo | O que mede | Exemplo |
+|------|------------|---------|
+| **Eficiência** | Recursos/produtos | Custo por atendimento |
+| **Eficácia** | Metas/objetivos | % de metas alcançadas |
+| **Efetividade** | Impacto/sociedade | Redução de doenças |
+| **Economicidade** | Custos | Economia obtida |
+
+#### 7.2 Construção de Indicadores
+
+- Fórmula clara
+- Fonte de dados confiável
+- Periodicidade definida
+- Meta estabelecida
+- Responsável identificado
+
+### 8. Aplicação Prática
+
+#### 8.1 Planejamento na Vigilância Sanitária
+
+| Elemento | Exemplo |
+|----------|---------|
+| Missão | Proteger a saúde da população |
+| Visão | Ser referência em vigilância |
+| Objetivo | Aumentar inspeções em 20% |
+| Estratégia | Capacitar fiscais, ampliar equipe |
+| Indicador | Nº de inspeções realizadas |
+| Meta | 1.000 inspeções/ano |
+        `,
+
+        pontosChave: [
+          "Planejamento estratégico: longo prazo, alta direção, visão global",
+          "Planejamento tático: médio prazo, departamental",
+          "Planejamento operacional: curto prazo, execução, tarefas",
+          "SWOT: Forças, Fraquezas (interno) + Oportunidades, Ameaças (externo)",
+          "Missão: razão de ser. Visão: futuro desejado. Valores: princípios",
+          "BSC: 4 perspectivas (financeira, cliente, processos, aprendizado)",
+          "Objetivos SMART: Específico, Mensurável, Alcançável, Relevante, Temporal",
+          "PPA: 4 anos. LDO: 1 ano. LOA: 1 ano",
+          "Eficiência: recursos/produtos. Eficácia: metas. Efetividade: impacto",
+          "Controle e avaliação: indicadores, metas, monitoramento",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir os níveis de planejamento",
+            descricao: "Estratégico é LONGO prazo e global. Tático é MÉDIO prazo e departamental. Operacional é CURTO prazo e específico.",
+            dica: "Estratégico = estratégia global. Tático = tática setorial. Operacional = operações do dia.",
+          },
+          {
+            titulo: "Inverter análise interna e externa na SWOT",
+            descricao: "INTERNO = Forças e Fraquezas (dependem da organização). EXTERNO = Oportunidades e Ameaças (não controláveis).",
+            dica: "FOFA: Forças/Fraquezas = DENTRO. Oportunidades/Ameaças = FORA.",
+          },
+          {
+            titulo: "Confundir missão com visão",
+            descricao: "MISSÃO = razão de ser ATUAL. VISÃO = onde quer CHEGAR no futuro.",
+            dica: "Missão = o que sou. Visão = o que quero ser.",
+          },
+          {
+            titulo: "Trocar eficiência, eficácia e efetividade",
+            descricao: "Eficiência = fazer certo (recursos). Eficácia = fazer a coisa certa (metas). Efetividade = causar impacto.",
+            dica: "3 Es: eficiência (como), eficácia (o quê), efetividade (resultado).",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "FOFA",
+            significado: "Forças, Oportunidades, Fraquezas, Ameaças",
+            frase: "FOFA = SWOT em português (Forças-Fraquezas interno, Oportunidades-Ameaças externo)",
+          },
+          {
+            termo: "SMART",
+            significado: "Específico, Mensurável, Alcançável, Relevante, Temporal",
+            frase: "Objetivo SMART é objetivo bem definido",
+          },
+          {
+            termo: "ETO",
+            significado: "Estratégico, Tático, Operacional",
+            frase: "ETO: do mais alto (Estratégico) ao mais baixo (Operacional)",
+          },
+          {
+            termo: "BSC-4P",
+            significado: "Financeira, Cliente, Processos, Aprendizado",
+            frase: "BSC tem 4 Perspectivas: FCPA",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "ap-fc-11-1",
+            frente: "Quais são os 3 níveis de planejamento organizacional?",
+            verso: "**1. ESTRATÉGICO:**\n→ Longo prazo (3-10 anos)\n→ Alta direção\n→ Visão global\n\n**2. TÁTICO:**\n→ Médio prazo (1-3 anos)\n→ Gerência média\n→ Departamental\n\n**3. OPERACIONAL:**\n→ Curto prazo (até 1 ano)\n→ Supervisão\n→ Tarefas específicas",
+            tags: ["níveis", "planejamento"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-11-2",
+            frente: "O que é a análise SWOT e o que cada letra significa?",
+            verso: "**SWOT** = Ferramenta de diagnóstico estratégico\n\n**Ambiente INTERNO:**\n- **S**trengths (Forças)\n- **W**eaknesses (Fraquezas)\n\n**Ambiente EXTERNO:**\n- **O**pportunities (Oportunidades)\n- **T**hreats (Ameaças)\n\nEm português: FOFA",
+            tags: ["SWOT", "diagnóstico"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-11-3",
+            frente: "Qual a diferença entre MISSÃO e VISÃO?",
+            verso: "**MISSÃO:**\n→ Razão de ser da organização\n→ O que ela FAZ, para QUEM, POR QUÊ\n→ Presente/permanente\n\n**VISÃO:**\n→ Estado futuro DESEJADO\n→ Onde a organização QUER CHEGAR\n→ Inspiradora, desafiadora\n\n**Valores:** princípios que orientam a conduta",
+            tags: ["missão", "visão"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-11-4",
+            frente: "O que significa um objetivo SMART?",
+            verso: "**S** - Specific (Específico)\n**M** - Measurable (Mensurável)\n**A** - Achievable (Alcançável)\n**R** - Relevant (Relevante)\n**T** - Time-bound (Temporal)\n\nExemplo: \"Aumentar as inspeções sanitárias em 20% até dezembro de 2025.\"",
+            tags: ["SMART", "objetivos"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-11-5",
+            frente: "Quais são as 4 perspectivas do Balanced Scorecard (BSC)?",
+            verso: "**1. Financeira/Orçamentária:**\n→ Como estamos para contribuintes?\n\n**2. Cliente/Cidadão:**\n→ Como os cidadãos nos veem?\n\n**3. Processos Internos:**\n→ Em que devemos ser excelentes?\n\n**4. Aprendizado e Crescimento:**\n→ Como continuar melhorando?",
+            tags: ["BSC", "perspectivas"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-11-6",
+            frente: "Quais são os instrumentos do ciclo orçamentário brasileiro (CF/88)?",
+            verso: "**PPA** (Plano Plurianual):\n→ 4 anos\n→ Diretrizes, objetivos, metas\n\n**LDO** (Lei de Diretrizes Orçamentárias):\n→ 1 ano\n→ Metas e prioridades\n\n**LOA** (Lei Orçamentária Anual):\n→ 1 ano\n→ Orçamento detalhado\n\nFluxo: PPA → LDO → LOA",
+            tags: ["PPA", "LDO", "LOA"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-11-7",
+            frente: "Qual a diferença entre eficiência, eficácia e efetividade?",
+            verso: "**EFICIÊNCIA:**\n→ Relação insumos/produtos\n→ Fazer CERTO as coisas\n→ Uso racional de recursos\n\n**EFICÁCIA:**\n→ Alcance de metas/objetivos\n→ Fazer a COISA certa\n→ Resultados planejados\n\n**EFETIVIDADE:**\n→ Impacto na sociedade\n→ Transformação real\n→ Outcomes",
+            tags: ["eficiência", "eficácia", "efetividade"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-11-8",
+            frente: "Quais são as etapas do planejamento estratégico?",
+            verso: "**1. Diagnóstico** (análise SWOT)\n\n**2. Definição de missão/visão/valores**\n\n**3. Definição de objetivos** (SMART)\n\n**4. Formulação de estratégias**\n\n**5. Implementação** (execução)\n\n**6. Controle e avaliação** (indicadores, monitoramento)",
+            tags: ["etapas", "processo"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "ap-q-11-1",
+            enunciado: "O planejamento que envolve a alta direção, tem visão global da organização e horizonte de longo prazo é denominado:",
+            alternativas: [
+              { letra: "A", texto: "planejamento operacional." },
+              { letra: "B", texto: "planejamento tático." },
+              { letra: "C", texto: "planejamento estratégico." },
+              { letra: "D", texto: "planejamento funcional." },
+              { letra: "E", texto: "planejamento contingencial." },
+            ],
+            gabarito: "C",
+            justificativa: "O planejamento ESTRATÉGICO é de longo prazo, envolve a alta direção e tem visão global da organização. O tático é médio prazo/departamental. O operacional é curto prazo/tarefas.",
+            dificuldade: "Fácil",
+            competencia: "Níveis de planejamento",
+            banca: "IADES",
+            tags: ["estratégico", "níveis"],
+          },
+          {
+            id: "ap-q-11-2",
+            enunciado: "Na análise SWOT, as oportunidades e ameaças referem-se ao ambiente:",
+            alternativas: [
+              { letra: "A", texto: "interno da organização." },
+              { letra: "B", texto: "externo à organização." },
+              { letra: "C", texto: "departamental." },
+              { letra: "D", texto: "operacional." },
+              { letra: "E", texto: "funcional." },
+            ],
+            gabarito: "B",
+            justificativa: "Na SWOT: INTERNO = Forças e Fraquezas (controláveis). EXTERNO = Oportunidades e Ameaças (não controláveis pela organização).",
+            dificuldade: "Fácil",
+            competencia: "Análise SWOT",
+            banca: "IADES",
+            tags: ["SWOT", "externo"],
+          },
+          {
+            id: "ap-q-11-3",
+            enunciado: "A razão de ser de uma organização, que define o que ela faz e para quem, denomina-se:",
+            alternativas: [
+              { letra: "A", texto: "visão." },
+              { letra: "B", texto: "missão." },
+              { letra: "C", texto: "objetivo." },
+              { letra: "D", texto: "meta." },
+              { letra: "E", texto: "estratégia." },
+            ],
+            gabarito: "B",
+            justificativa: "MISSÃO é a razão de ser da organização (o que faz, para quem, por quê). VISÃO é o estado futuro desejado.",
+            dificuldade: "Fácil",
+            competencia: "Missão e visão",
+            banca: "IADES",
+            tags: ["missão", "conceito"],
+          },
+          {
+            id: "ap-q-11-4",
+            enunciado: "O Balanced Scorecard (BSC) contempla quantas perspectivas?",
+            alternativas: [
+              { letra: "A", texto: "2 perspectivas." },
+              { letra: "B", texto: "3 perspectivas." },
+              { letra: "C", texto: "4 perspectivas." },
+              { letra: "D", texto: "5 perspectivas." },
+              { letra: "E", texto: "6 perspectivas." },
+            ],
+            gabarito: "C",
+            justificativa: "O BSC possui 4 PERSPECTIVAS: Financeira, Cliente/Cidadão, Processos Internos e Aprendizado/Crescimento.",
+            dificuldade: "Fácil",
+            competencia: "BSC",
+            banca: "IADES",
+            tags: ["BSC", "perspectivas"],
+          },
+          {
+            id: "ap-q-11-5",
+            enunciado: "O Plano Plurianual (PPA) tem vigência de:",
+            alternativas: [
+              { letra: "A", texto: "1 ano." },
+              { letra: "B", texto: "2 anos." },
+              { letra: "C", texto: "3 anos." },
+              { letra: "D", texto: "4 anos." },
+              { letra: "E", texto: "5 anos." },
+            ],
+            gabarito: "D",
+            justificativa: "O PPA (Plano Plurianual) tem vigência de 4 ANOS, iniciando no segundo ano de governo e terminando no primeiro ano do governo seguinte.",
+            dificuldade: "Fácil",
+            competencia: "PPA",
+            banca: "IADES",
+            tags: ["PPA", "vigência"],
+          },
+          {
+            id: "ap-q-11-6",
+            enunciado: "A relação entre os recursos utilizados e os produtos obtidos refere-se ao conceito de:",
+            alternativas: [
+              { letra: "A", texto: "eficácia." },
+              { letra: "B", texto: "efetividade." },
+              { letra: "C", texto: "eficiência." },
+              { letra: "D", texto: "economicidade." },
+              { letra: "E", texto: "produtividade." },
+            ],
+            gabarito: "C",
+            justificativa: "EFICIÊNCIA é a relação entre insumos (recursos) e produtos. Eficácia é o alcance de metas. Efetividade é o impacto na sociedade.",
+            dificuldade: "Média",
+            competencia: "Eficiência",
+            banca: "IADES",
+            tags: ["eficiência", "conceito"],
+          },
+          {
+            id: "ap-q-11-7",
+            enunciado: "No critério SMART para definição de objetivos, a letra M significa:",
+            alternativas: [
+              { letra: "A", texto: "Metodológico." },
+              { letra: "B", texto: "Mensurável." },
+              { letra: "C", texto: "Motivador." },
+              { letra: "D", texto: "Material." },
+              { letra: "E", texto: "Multidimensional." },
+            ],
+            gabarito: "B",
+            justificativa: "SMART: S(Specific/Específico), M(Measurable/MENSURÁVEL), A(Achievable/Alcançável), R(Relevant/Relevante), T(Time-bound/Temporal).",
+            dificuldade: "Média",
+            competencia: "SMART",
+            banca: "IADES",
+            tags: ["SMART", "objetivos"],
+          },
+          {
+            id: "ap-q-11-8",
+            enunciado: "O planejamento que se caracteriza pelo médio prazo e foco departamental é o:",
+            alternativas: [
+              { letra: "A", texto: "estratégico." },
+              { letra: "B", texto: "tático." },
+              { letra: "C", texto: "operacional." },
+              { letra: "D", texto: "contingencial." },
+              { letra: "E", texto: "normativo." },
+            ],
+            gabarito: "B",
+            justificativa: "O planejamento TÁTICO é de médio prazo (1-3 anos), departamental, elaborado pela gerência média. Traduz o estratégico em ações setoriais.",
+            dificuldade: "Fácil",
+            competencia: "Planejamento tático",
+            banca: "IADES",
+            tags: ["tático", "níveis"],
+          },
+          {
+            id: "ap-q-11-9",
+            enunciado: "Na análise SWOT, os pontos fortes da organização são denominados:",
+            alternativas: [
+              { letra: "A", texto: "oportunidades." },
+              { letra: "B", texto: "ameaças." },
+              { letra: "C", texto: "fraquezas." },
+              { letra: "D", texto: "forças." },
+              { letra: "E", texto: "estratégias." },
+            ],
+            gabarito: "D",
+            justificativa: "Na SWOT, os pontos FORTES internos são chamados de FORÇAS (Strengths). Pontos fracos internos são Fraquezas (Weaknesses).",
+            dificuldade: "Fácil",
+            competencia: "SWOT",
+            banca: "IADES",
+            tags: ["SWOT", "forças"],
+          },
+          {
+            id: "ap-q-11-10",
+            enunciado: "O impacto real das ações governamentais na transformação da realidade social refere-se ao conceito de:",
+            alternativas: [
+              { letra: "A", texto: "eficiência." },
+              { letra: "B", texto: "eficácia." },
+              { letra: "C", texto: "efetividade." },
+              { letra: "D", texto: "economicidade." },
+              { letra: "E", texto: "legalidade." },
+            ],
+            gabarito: "C",
+            justificativa: "EFETIVIDADE é o impacto real na sociedade (outcomes). Mede se as ações de fato transformaram a realidade social, para além de atingir metas (eficácia) ou usar bem os recursos (eficiência).",
+            dificuldade: "Média",
+            competencia: "Efetividade",
+            banca: "IADES",
+            tags: ["efetividade", "impacto"],
+          },
+        ],
+      },
+    },
   ],
 };

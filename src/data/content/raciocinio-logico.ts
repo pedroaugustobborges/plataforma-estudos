@@ -5784,5 +5784,664 @@ Usando Modus Tollens:
         ],
       },
     },
+    {
+      id: 'rl-topico-11',
+      numero: 11,
+      titulo: 'Lógica de Argumentação: Analogias, Inferências, Deduções e Conclusões',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Conceitos Fundamentais
+
+| Conceito | Definição |
+|----------|-----------|
+| **Argumento** | Conjunto de proposições onde premissas sustentam uma conclusão |
+| **Inferência** | Processo de derivar conclusões a partir de premissas |
+| **Dedução** | Do geral para o particular (se premissas V, conclusão V) |
+| **Indução** | Do particular para o geral (probabilístico) |
+| **Analogia** | Conclusão baseada em semelhanças |
+
+### Estrutura do Argumento
+
+| Elemento | Função |
+|----------|--------|
+| **Premissa(s)** | Proposições de suporte |
+| **Conclusão** | Proposição derivada |
+| **Indicadores** | "Logo", "portanto", "assim" |
+
+### Validade vs. Verdade
+
+| Conceito | Significado |
+|----------|-------------|
+| **Válido** | Estrutura correta (se premissas V → conclusão V) |
+| **Verdadeiro** | Corresponde à realidade |
+| **Sólido** | Válido + premissas verdadeiras |
+
+### Para IADES - Memorizar:
+- Argumento válido: estrutura lógica correta
+- Dedução: geral → particular (certeza)
+- Indução: particular → geral (probabilidade)
+- Analogia: semelhança → conclusão
+- Falácia: argumento com erro lógico
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. O que é um Argumento?
+
+Um **argumento** é um conjunto de proposições onde uma ou mais (premissas) fornecem razões para aceitar outra (conclusão).
+
+#### Estrutura Básica
+
+\`\`\`
+Premissa 1: Todos os fiscais são servidores.
+Premissa 2: João é fiscal.
+─────────────────────────────────────────
+Conclusão: Logo, João é servidor.
+\`\`\`
+
+#### Indicadores de Conclusão
+
+- Logo
+- Portanto
+- Assim
+- Então
+- Por conseguinte
+- Dessa forma
+- Conclui-se que
+
+#### Indicadores de Premissa
+
+- Pois
+- Porque
+- Já que
+- Uma vez que
+- Dado que
+- Visto que
+
+### 2. Tipos de Raciocínio
+
+#### 2.1 Raciocínio Dedutivo
+
+**Do GERAL para o PARTICULAR**
+
+Se as premissas são verdadeiras, a conclusão é NECESSARIAMENTE verdadeira.
+
+**Exemplo:**
+\`\`\`
+P1: Todos os mamíferos são vertebrados. (Geral)
+P2: O gato é mamífero. (Particular)
+C: Logo, o gato é vertebrado. (Conclusão certa)
+\`\`\`
+
+**Característica:** Certeza lógica (se premissas V → conclusão V)
+
+#### 2.2 Raciocínio Indutivo
+
+**Do PARTICULAR para o GERAL**
+
+Parte de casos específicos para uma conclusão geral (probabilística).
+
+**Exemplo:**
+\`\`\`
+O cisne 1 é branco.
+O cisne 2 é branco.
+O cisne 3 é branco.
+─────────────────────
+Logo, todos os cisnes são brancos. (Provável, não certo)
+\`\`\`
+
+**Característica:** Probabilidade (conclusão pode ser falsa)
+
+#### 2.3 Raciocínio por Analogia
+
+**Por SEMELHANÇA**
+
+Conclui que algo terá uma característica porque é semelhante a outro que tem essa característica.
+
+**Exemplo:**
+\`\`\`
+A Terra tem atmosfera e tem vida.
+Marte tem atmosfera.
+─────────────────────
+Logo, Marte pode ter vida. (Analogia)
+\`\`\`
+
+**Característica:** Força depende do grau de semelhança
+
+### 3. Validade e Verdade
+
+#### 3.1 Argumento Válido
+
+Um argumento é **válido** quando sua estrutura lógica garante que, SE as premissas forem verdadeiras, ENTÃO a conclusão será verdadeira.
+
+**Exemplo válido (mesmo com premissas falsas):**
+\`\`\`
+P1: Todos os peixes voam. (Falsa)
+P2: O tubarão é peixe. (Verdadeira)
+C: Logo, o tubarão voa. (Válido, mas conclusão falsa)
+\`\`\`
+
+A estrutura é correta, mas as premissas são falsas.
+
+#### 3.2 Argumento Sólido (Verdadeiro)
+
+Um argumento é **sólido** quando:
+1. É válido (estrutura correta)
+2. Suas premissas são VERDADEIRAS
+
+**Exemplo sólido:**
+\`\`\`
+P1: Todos os mamíferos são animais. (V)
+P2: O cachorro é mamífero. (V)
+C: Logo, o cachorro é animal. (V e Válido)
+\`\`\`
+
+#### 3.3 Tabela Resumo
+
+| Premissas | Estrutura | Conclusão | Classificação |
+|-----------|-----------|-----------|---------------|
+| V | Válida | V | Sólido |
+| V | Inválida | ? | Inválido |
+| F | Válida | ? | Válido (não sólido) |
+| F | Inválida | ? | Inválido |
+
+### 4. Formas de Inferência Válidas
+
+#### 4.1 Modus Ponens (Afirmação do Antecedente)
+
+\`\`\`
+P1: Se p, então q. (p → q)
+P2: p.
+C: Logo, q.
+\`\`\`
+
+**Exemplo:**
+\`\`\`
+Se chove, então a rua fica molhada.
+Choveu.
+Logo, a rua está molhada.
+\`\`\`
+
+#### 4.2 Modus Tollens (Negação do Consequente)
+
+\`\`\`
+P1: Se p, então q. (p → q)
+P2: ¬q.
+C: Logo, ¬p.
+\`\`\`
+
+**Exemplo:**
+\`\`\`
+Se João estudou, então passou.
+João não passou.
+Logo, João não estudou.
+\`\`\`
+
+#### 4.3 Silogismo Hipotético
+
+\`\`\`
+P1: Se p, então q.
+P2: Se q, então r.
+C: Logo, se p, então r.
+\`\`\`
+
+**Exemplo:**
+\`\`\`
+Se estudo, então passo.
+Se passo, então sou nomeado.
+Logo, se estudo, então sou nomeado.
+\`\`\`
+
+#### 4.4 Silogismo Disjuntivo
+
+\`\`\`
+P1: p ou q.
+P2: ¬p.
+C: Logo, q.
+\`\`\`
+
+**Exemplo:**
+\`\`\`
+João é médico ou advogado.
+João não é médico.
+Logo, João é advogado.
+\`\`\`
+
+### 5. Falácias (Erros de Argumentação)
+
+#### 5.1 Falácias Formais
+
+Erros na estrutura lógica do argumento.
+
+##### a) Afirmação do Consequente (INVÁLIDA)
+
+\`\`\`
+Se p, então q.
+q.
+Logo, p. ❌ INVÁLIDO
+\`\`\`
+
+**Exemplo errado:**
+\`\`\`
+Se chove, a rua fica molhada.
+A rua está molhada.
+Logo, choveu. ❌ (Pode ter sido lavagem)
+\`\`\`
+
+##### b) Negação do Antecedente (INVÁLIDA)
+
+\`\`\`
+Se p, então q.
+¬p.
+Logo, ¬q. ❌ INVÁLIDO
+\`\`\`
+
+**Exemplo errado:**
+\`\`\`
+Se estudo, passo.
+Não estudei.
+Logo, não passei. ❌ (Pode passar sem estudar)
+\`\`\`
+
+#### 5.2 Falácias Informais
+
+Erros no conteúdo ou contexto.
+
+| Falácia | Descrição |
+|---------|-----------|
+| **Ad hominem** | Ataca a pessoa, não o argumento |
+| **Apelo à autoridade** | Usa autoridade irrelevante |
+| **Apelo à emoção** | Usa sentimentos em vez de razão |
+| **Generalização apressada** | Conclusão geral de poucos casos |
+| **Falsa causa** | Correlação ≠ causalidade |
+| **Espantalho** | Distorce o argumento do oponente |
+
+### 6. Análise de Argumentos
+
+#### 6.1 Passos para Analisar
+
+1. **Identificar** premissas e conclusão
+2. **Verificar** a estrutura lógica
+3. **Avaliar** se é válido
+4. **Verificar** se premissas são verdadeiras
+5. **Concluir** se é sólido
+
+#### 6.2 Exemplo de Análise
+
+**Argumento:**
+"Todo fiscal tem curso superior. Maria tem curso superior. Logo, Maria é fiscal."
+
+**Análise:**
+- P1: Todo fiscal tem curso superior. (Todo F é C)
+- P2: Maria tem curso superior. (Maria é C)
+- C: Maria é fiscal. (Maria é F)
+
+**Estrutura:**
+\`\`\`
+Todo F é C.
+Maria é C.
+Logo, Maria é F. ❌
+\`\`\`
+
+**Conclusão:** INVÁLIDO (afirmação do consequente). Maria pode ter curso superior sem ser fiscal.
+
+### 7. Aplicação em Provas
+
+#### 7.1 Dicas para IADES
+
+| Situação | O que fazer |
+|----------|-------------|
+| Identificar falácia | Procurar erro na estrutura |
+| Testar validade | Verificar se premissas V levam a conclusão V |
+| Analogia | Avaliar grau de semelhança |
+| Dedução | Verificar se vai do geral ao particular |
+| Indução | Verificar se vai do particular ao geral |
+
+#### 7.2 Palavras-Chave
+
+| Palavra | Indica |
+|---------|--------|
+| "Necessariamente" | Dedução |
+| "Provavelmente" | Indução |
+| "Assim como" | Analogia |
+| "Portanto" | Conclusão |
+| "Porque" | Premissa |
+        `,
+
+        pontosChave: [
+          'Argumento: premissas + conclusão',
+          'Dedução: geral → particular (certeza)',
+          'Indução: particular → geral (probabilidade)',
+          'Analogia: conclusão por semelhança',
+          'Válido: estrutura correta (se P verdadeiras → C verdadeira)',
+          'Sólido: válido + premissas verdadeiras',
+          'Modus Ponens: p→q, p ∴ q (afirma antecedente)',
+          'Modus Tollens: p→q, ¬q ∴ ¬p (nega consequente)',
+          'Afirmar consequente: FALÁCIA (p→q, q ∴ p)',
+          'Negar antecedente: FALÁCIA (p→q, ¬p ∴ ¬q)',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir validade com verdade',
+            descricao: 'Um argumento pode ser VÁLIDO mesmo com premissas FALSAS. Validade é sobre estrutura, não conteúdo.',
+            dica: 'Válido = estrutura. Verdadeiro = conteúdo. Sólido = ambos.',
+          },
+          {
+            titulo: 'Cair na falácia de afirmar o consequente',
+            descricao: 'De "Se p então q" e "q", NÃO se conclui "p". A rua pode estar molhada sem ter chovido.',
+            dica: 'p→q, q ∴ p? ERRADO! Só Modus Ponens (p) ou Tollens (¬q) são válidos.',
+          },
+          {
+            titulo: 'Confundir dedução com indução',
+            descricao: 'Dedução: geral→particular (certeza). Indução: particular→geral (probabilidade).',
+            dica: 'DEDução = DEsce (geral→particular). INDução = sobe (particular→geral).',
+          },
+          {
+            titulo: 'Achar que analogia é certeza',
+            descricao: 'Analogia é um argumento FRACO. A conclusão é provável, não certa.',
+            dica: 'Analogia = semelhança, não identidade. Quanto maior a semelhança, mais forte.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'MANÉ',
+            significado: 'Modus ponens Afirma, Negação do consequente (Tollens)',
+            frase: 'MANÉ: Modus Afirma antecedente, Nega consequente (Tollens)',
+          },
+          {
+            termo: 'DED-desce',
+            significado: 'DEDução desce (geral → particular)',
+            frase: 'DEDução DEsce: do geral para o particular',
+          },
+          {
+            termo: 'IND-sobe',
+            significado: 'INDução sobe (particular → geral)',
+            frase: 'INDução sobe: do particular para o geral',
+          },
+          {
+            termo: 'VVS',
+            significado: 'Válido + Verdadeiro = Sólido',
+            frase: 'Argumento VVS: Válido com premissas Verdadeiras = Sólido',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'rl-fc-11-1',
+            frente: 'Qual a diferença entre dedução e indução?',
+            verso: '**DEDUÇÃO:**\n→ Do GERAL para o PARTICULAR\n→ Certeza lógica\n→ Ex: "Todo fiscal é servidor. João é fiscal. Logo, João é servidor."\n\n**INDUÇÃO:**\n→ Do PARTICULAR para o GERAL\n→ Probabilidade\n→ Ex: "Cisne 1, 2 e 3 são brancos. Logo, todos os cisnes são brancos."',
+            tags: ['dedução', 'indução'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-11-2',
+            frente: 'O que é um argumento VÁLIDO?',
+            verso: '**Argumento VÁLIDO:**\n\nSua estrutura lógica garante que, SE as premissas forem verdadeiras, ENTÃO a conclusão será verdadeira.\n\n⚠️ Um argumento pode ser válido mesmo com premissas FALSAS!\n\n**Exemplo válido (premissa falsa):**\nTodo peixe voa. (F)\nTubarão é peixe. (V)\nLogo, tubarão voa. ✓ estrutura',
+            tags: ['validade', 'argumento'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-11-3',
+            frente: 'O que é Modus Ponens e Modus Tollens?',
+            verso: '**MODUS PONENS** (Afirmação do Antecedente):\nSe p → q, e p, então q ✓\n"Se chove, rua molha. Choveu. Logo, rua molhou."\n\n**MODUS TOLLENS** (Negação do Consequente):\nSe p → q, e ¬q, então ¬p ✓\n"Se chove, rua molha. Rua seca. Logo, não choveu."\n\nAmbos são VÁLIDOS!',
+            tags: ['modus ponens', 'modus tollens'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-11-4',
+            frente: 'Por que "afirmar o consequente" é uma falácia?',
+            verso: '**Afirmação do Consequente (FALÁCIA):**\n\nSe p → q, e q, então p? ❌ INVÁLIDO!\n\n**Exemplo errado:**\nSe chove, a rua fica molhada.\nA rua está molhada.\nLogo, choveu. ❌\n\n**Por que é errado?**\nA rua pode estar molhada por outra razão (lavagem, vazamento, etc.).',
+            tags: ['falácia', 'consequente'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-11-5',
+            frente: 'O que é raciocínio por ANALOGIA?',
+            verso: '**ANALOGIA:**\n\nConclui que algo terá uma característica porque é SEMELHANTE a outro que tem essa característica.\n\n**Exemplo:**\nA Terra tem água e tem vida.\nMarte tem água.\nLogo, Marte pode ter vida.\n\n**Força:** Depende do grau de semelhança.\n\n⚠️ Analogia é probabilística, não dá certeza!',
+            tags: ['analogia', 'semelhança'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-11-6',
+            frente: 'O que é um argumento SÓLIDO?',
+            verso: '**Argumento SÓLIDO:**\n\nÉ um argumento que é:\n1. **VÁLIDO** (estrutura correta)\n2. **VERDADEIRO** (premissas verdadeiras)\n\n**Resultado:** A conclusão é necessariamente VERDADEIRA.\n\n**Exemplo sólido:**\nTodo mamífero é animal. (V)\nCachorro é mamífero. (V)\nLogo, cachorro é animal. (V) ✓',
+            tags: ['sólido', 'argumento'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-11-7',
+            frente: 'O que é a falácia de "negar o antecedente"?',
+            verso: '**Negação do Antecedente (FALÁCIA):**\n\nSe p → q, e ¬p, então ¬q? ❌ INVÁLIDO!\n\n**Exemplo errado:**\nSe estudo, passo.\nNão estudei.\nLogo, não passei. ❌\n\n**Por que é errado?**\nPode passar sem estudar (cola, sorte, conhecimento prévio).',
+            tags: ['falácia', 'antecedente'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'rl-fc-11-8',
+            frente: 'Como identificar premissas e conclusão em um argumento?',
+            verso: '**INDICADORES DE CONCLUSÃO:**\n- Logo, portanto, assim\n- Então, por conseguinte\n- Dessa forma, conclui-se\n\n**INDICADORES DE PREMISSA:**\n- Pois, porque, já que\n- Uma vez que, dado que\n- Visto que, considerando que\n\n**Dica:** A conclusão é o que se quer provar!',
+            tags: ['indicadores', 'estrutura'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'rl-q-11-1',
+            enunciado: 'O raciocínio que parte de premissas gerais para uma conclusão particular é denominado:',
+            alternativas: [
+              { letra: 'A', texto: 'indução.' },
+              { letra: 'B', texto: 'dedução.' },
+              { letra: 'C', texto: 'analogia.' },
+              { letra: 'D', texto: 'abdução.' },
+              { letra: 'E', texto: 'intuição.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'DEDUÇÃO é o raciocínio que vai do GERAL para o PARTICULAR, com certeza lógica. Indução vai do particular para o geral.',
+            dificuldade: 'Fácil',
+            competencia: 'Tipos de raciocínio',
+            banca: 'IADES',
+            tags: ['dedução', 'raciocínio'],
+          },
+          {
+            id: 'rl-q-11-2',
+            enunciado: 'Considere o argumento: "Se o fiscal encontra irregularidade, aplica multa. O fiscal aplicou multa. Logo, o fiscal encontrou irregularidade." Este argumento:',
+            alternativas: [
+              { letra: 'A', texto: 'é válido por Modus Ponens.' },
+              { letra: 'B', texto: 'é válido por Modus Tollens.' },
+              { letra: 'C', texto: 'comete a falácia de afirmar o consequente.' },
+              { letra: 'D', texto: 'comete a falácia de negar o antecedente.' },
+              { letra: 'E', texto: 'é um silogismo válido.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O argumento afirma o consequente (q) para concluir o antecedente (p). Isso é FALÁCIA. O fiscal pode ter aplicado multa por outro motivo.',
+            dificuldade: 'Média',
+            competencia: 'Falácias',
+            banca: 'IADES',
+            tags: ['falácia', 'consequente'],
+          },
+          {
+            id: 'rl-q-11-3',
+            enunciado: 'Um argumento é considerado VÁLIDO quando:',
+            alternativas: [
+              { letra: 'A', texto: 'suas premissas são verdadeiras.' },
+              { letra: 'B', texto: 'sua conclusão é verdadeira.' },
+              { letra: 'C', texto: 'se as premissas forem verdadeiras, a conclusão será necessariamente verdadeira.' },
+              { letra: 'D', texto: 'apresenta pelo menos três premissas.' },
+              { letra: 'E', texto: 'suas premissas e conclusão são verdadeiras.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Um argumento é VÁLIDO quando sua estrutura garante que, SE as premissas forem verdadeiras, ENTÃO a conclusão será verdadeira. Validade é sobre estrutura, não conteúdo.',
+            dificuldade: 'Média',
+            competencia: 'Validade',
+            banca: 'IADES',
+            tags: ['validade', 'estrutura'],
+          },
+          {
+            id: 'rl-q-11-4',
+            enunciado: 'Considere: "Se estudo, passo. Não estudei. Logo, não passei." Este argumento:',
+            alternativas: [
+              { letra: 'A', texto: 'é válido por Modus Tollens.' },
+              { letra: 'B', texto: 'é válido por Modus Ponens.' },
+              { letra: 'C', texto: 'comete a falácia de negar o antecedente.' },
+              { letra: 'D', texto: 'é um silogismo hipotético.' },
+              { letra: 'E', texto: 'é um argumento sólido.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O argumento nega o antecedente (¬p) para concluir a negação do consequente (¬q). Isso é FALÁCIA. É possível passar sem estudar.',
+            dificuldade: 'Média',
+            competencia: 'Falácias',
+            banca: 'IADES',
+            tags: ['falácia', 'antecedente'],
+          },
+          {
+            id: 'rl-q-11-5',
+            enunciado: 'O Modus Tollens é a forma de inferência que:',
+            alternativas: [
+              { letra: 'A', texto: 'afirma o antecedente para concluir o consequente.' },
+              { letra: 'B', texto: 'nega o consequente para concluir a negação do antecedente.' },
+              { letra: 'C', texto: 'afirma o consequente para concluir o antecedente.' },
+              { letra: 'D', texto: 'nega o antecedente para concluir a negação do consequente.' },
+              { letra: 'E', texto: 'encadeia duas condicionais.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'MODUS TOLLENS: Se p→q, e ¬q, então ¬p. Nega o consequente para concluir a negação do antecedente. É uma inferência VÁLIDA.',
+            dificuldade: 'Média',
+            competencia: 'Modus Tollens',
+            banca: 'IADES',
+            tags: ['modus tollens', 'inferência'],
+          },
+          {
+            id: 'rl-q-11-6',
+            enunciado: 'O raciocínio que parte de casos particulares para uma conclusão geral é denominado:',
+            alternativas: [
+              { letra: 'A', texto: 'dedução.' },
+              { letra: 'B', texto: 'indução.' },
+              { letra: 'C', texto: 'analogia.' },
+              { letra: 'D', texto: 'silogismo.' },
+              { letra: 'E', texto: 'demonstração.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'INDUÇÃO é o raciocínio que vai do PARTICULAR para o GERAL. A conclusão é probabilística, não necessária.',
+            dificuldade: 'Fácil',
+            competencia: 'Indução',
+            banca: 'IADES',
+            tags: ['indução', 'raciocínio'],
+          },
+          {
+            id: 'rl-q-11-7',
+            enunciado: 'O argumento que conclui por semelhança entre casos é denominado:',
+            alternativas: [
+              { letra: 'A', texto: 'dedução.' },
+              { letra: 'B', texto: 'indução.' },
+              { letra: 'C', texto: 'analogia.' },
+              { letra: 'D', texto: 'abdução.' },
+              { letra: 'E', texto: 'tautologia.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'ANALOGIA é o raciocínio que conclui que algo terá uma característica porque é SEMELHANTE a outro que tem essa característica.',
+            dificuldade: 'Fácil',
+            competencia: 'Analogia',
+            banca: 'IADES',
+            tags: ['analogia', 'semelhança'],
+          },
+          {
+            id: 'rl-q-11-8',
+            enunciado: 'Um argumento que é válido E possui premissas verdadeiras é denominado:',
+            alternativas: [
+              { letra: 'A', texto: 'tautológico.' },
+              { letra: 'B', texto: 'sólido.' },
+              { letra: 'C', texto: 'analógico.' },
+              { letra: 'D', texto: 'indutivo.' },
+              { letra: 'E', texto: 'contingente.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Argumento SÓLIDO é aquele que é VÁLIDO (estrutura correta) e possui PREMISSAS VERDADEIRAS. A conclusão é necessariamente verdadeira.',
+            dificuldade: 'Média',
+            competencia: 'Argumento sólido',
+            banca: 'IADES',
+            tags: ['sólido', 'validade'],
+          },
+          {
+            id: 'rl-q-11-9',
+            enunciado: 'Considere: "Todo fiscal é servidor. João é servidor. Logo, João é fiscal." Este argumento:',
+            alternativas: [
+              { letra: 'A', texto: 'é válido.' },
+              { letra: 'B', texto: 'é sólido.' },
+              { letra: 'C', texto: 'comete a falácia do termo médio não distribuído.' },
+              { letra: 'D', texto: 'é um Modus Ponens.' },
+              { letra: 'E', texto: 'é um silogismo hipotético.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O argumento é inválido pois conclui que João é fiscal apenas por ser servidor. Todo fiscal é servidor, mas nem todo servidor é fiscal (falácia do termo médio).',
+            dificuldade: 'Média',
+            competencia: 'Falácias silogísticas',
+            banca: 'IADES',
+            tags: ['falácia', 'silogismo'],
+          },
+          {
+            id: 'rl-q-11-10',
+            enunciado: 'O Modus Ponens é a forma de inferência que:',
+            alternativas: [
+              { letra: 'A', texto: 'nega o consequente para concluir a negação do antecedente.' },
+              { letra: 'B', texto: 'afirma o antecedente para concluir o consequente.' },
+              { letra: 'C', texto: 'nega o antecedente para concluir a negação do consequente.' },
+              { letra: 'D', texto: 'afirma o consequente para concluir o antecedente.' },
+              { letra: 'E', texto: 'encadeia duas bicondicionais.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'MODUS PONENS: Se p→q, e p, então q. AFIRMA o ANTECEDENTE para concluir o consequente. É uma inferência VÁLIDA.',
+            dificuldade: 'Média',
+            competencia: 'Modus Ponens',
+            banca: 'IADES',
+            tags: ['modus ponens', 'inferência'],
+          },
+        ],
+      },
+    },
   ],
 };
