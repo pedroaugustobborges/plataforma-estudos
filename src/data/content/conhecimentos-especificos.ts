@@ -11360,5 +11360,1936 @@ Cada atribuição é composta por **unidades funcionais**, que são conjuntos de
         ],
       },
     },
+    {
+      id: 'ce-topico-20',
+      numero: 20,
+      titulo: 'RDC nº 51/2011 - Requisitos para Aprovação de Projetos Físicos de EAS no SNVS',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Objeto da RDC 51/2011
+
+A **RDC nº 51/2011** dispõe sobre os **requisitos mínimos para análise, avaliação e aprovação dos projetos físicos** de estabelecimentos de saúde no âmbito do **Sistema Nacional de Vigilância Sanitária (SNVS)**.
+
+### Diferença entre RDC 50 e RDC 51
+
+| RDC 50/2002 | RDC 51/2011 |
+|-------------|-------------|
+| Regulamento TÉCNICO | Regulamento PROCESSUAL |
+| O QUE fazer (dimensões, requisitos) | COMO aprovar (procedimentos) |
+| Aspectos físicos do EAS | Fluxo de aprovação no SNVS |
+
+### Competências
+
+| Órgão | Competência |
+|-------|-------------|
+| **ANVISA** | Normatizar, coordenar o SNVS |
+| **VISA Estadual** | Aprovar projetos de alta complexidade |
+| **VISA Municipal** | Aprovar projetos de baixa/média complexidade |
+
+### Documentos Necessários
+
+| Documento | Descrição |
+|-----------|-----------|
+| **Projeto básico de arquitetura** | Plantas, cortes, fachadas |
+| **Memorial descritivo** | Especificações técnicas |
+| **ART/RRT** | Responsabilidade técnica |
+| **Programa funcional** | Atividades e ambientes |
+
+### Para IADES - Memorizar:
+- RDC 51/2011: COMO aprovar projetos (processo)
+- RDC 50/2002: O QUE fazer (requisitos técnicos)
+- VISA municipal: baixa/média complexidade
+- VISA estadual: alta complexidade
+- Aprovação válida por prazo determinado
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Objetivo e Âmbito
+
+A **RDC 51/2011** estabelece os procedimentos e requisitos para que os órgãos de vigilância sanitária analisem, avaliem e aprovem os projetos físicos de EAS.
+
+#### 1.1 Relação com a RDC 50/2002
+
+| Aspecto | RDC 50/2002 | RDC 51/2011 |
+|---------|-------------|-------------|
+| **Foco** | Requisitos técnicos | Processo de aprovação |
+| **Conteúdo** | Dimensionamento, acabamentos | Competências, documentos, prazos |
+| **Pergunta** | "Como deve ser o EAS?" | "Como aprovar o projeto?" |
+
+**Complementaridade:** A RDC 50 define os requisitos técnicos. A RDC 51 define como a vigilância sanitária deve analisar e aprovar os projetos.
+
+### 2. Sistema Nacional de Vigilância Sanitária (SNVS)
+
+#### 2.1 Estrutura
+
+| Nível | Órgão | Função |
+|-------|-------|--------|
+| **Federal** | ANVISA | Coordenação, normatização |
+| **Estadual** | VISA Estadual | Execução, aprovação de projetos |
+| **Municipal** | VISA Municipal | Execução, licenciamento |
+
+#### 2.2 Princípios do SNVS
+
+- Descentralização
+- Hierarquização
+- Regionalização
+- Integração
+
+### 3. Competências para Aprovação
+
+#### 3.1 ANVISA (Federal)
+
+- Estabelecer normas técnicas
+- Coordenar o SNVS
+- Prestar assessoria técnica
+- Fiscalizar em caráter complementar
+- NÃO aprova projetos diretamente (exceto casos especiais)
+
+#### 3.2 VISA Estadual
+
+**Competência para aprovar:**
+- EAS de **alta complexidade**
+- Hospitais de grande porte
+- Serviços de alta tecnologia
+- Estabelecimentos com abrangência estadual
+
+**Funções:**
+- Coordenar ações no estado
+- Assessorar municípios
+- Aprovar projetos de sua competência
+- Fiscalizar
+
+#### 3.3 VISA Municipal
+
+**Competência para aprovar:**
+- EAS de **baixa e média complexidade**
+- UBS, clínicas, consultórios
+- Laboratórios de menor porte
+- Estabelecimentos de abrangência local
+
+**Funções:**
+- Licenciamento sanitário
+- Aprovação de projetos de sua competência
+- Fiscalização local
+- Inspeções
+
+### 4. Tipos de Intervenção
+
+#### 4.1 Classificação
+
+| Tipo | Descrição | Exigência |
+|------|-----------|-----------|
+| **Construção nova** | EAS novo | Projeto completo |
+| **Ampliação** | Aumento de área | Projeto parcial/completo |
+| **Reforma** | Alteração sem aumentar área | Projeto parcial |
+| **Adequação** | Ajustes para conformidade | Projeto simplificado |
+
+#### 4.2 Requisitos por Tipo
+
+##### a) Construção Nova
+
+- Projeto completo de arquitetura
+- Todos os projetos complementares
+- Memorial descritivo completo
+- ART/RRT de todos os responsáveis
+
+##### b) Ampliação
+
+- Projeto da área ampliada
+- Interface com área existente
+- Verificação de impactos no existente
+
+##### c) Reforma
+
+- Projeto das áreas reformadas
+- Descrição das alterações
+- Análise de impacto no funcionamento
+
+### 5. Documentos para Aprovação
+
+#### 5.1 Documentação Técnica
+
+| Documento | Conteúdo |
+|-----------|----------|
+| **Projeto básico de arquitetura** | Plantas baixas, cortes, fachadas, cobertura |
+| **Memorial descritivo** | Especificações de materiais e sistemas |
+| **Programa funcional** | Atividades, quantificação de ambientes |
+| **Projetos complementares** | Estrutural, elétrico, hidráulico, gases |
+
+#### 5.2 Documentação Legal
+
+| Documento | Finalidade |
+|-----------|------------|
+| **ART/RRT** | Responsabilidade técnica do autor |
+| **CNPJ/CPF** | Identificação do requerente |
+| **Contrato social** | Pessoa jurídica |
+| **Procuração** | Se representante |
+
+#### 5.3 Elementos Gráficos Obrigatórios
+
+##### a) Plantas Baixas
+
+| Elemento | Obrigatoriedade |
+|----------|-----------------|
+| Escala | 1:50 ou 1:100 |
+| Cotas | Dimensões dos ambientes |
+| Nomenclatura | Nome dos ambientes |
+| Área | Metragem de cada ambiente |
+| Layout | Equipamentos fixos |
+| Instalações | Pontos de água, esgoto, gases |
+
+##### b) Cortes e Fachadas
+
+| Elemento | Quantidade |
+|----------|------------|
+| Cortes | Mínimo 2 (longitudinal e transversal) |
+| Fachadas | Todas as visíveis |
+| Escala | 1:50 ou 1:100 |
+
+### 6. Análise e Aprovação
+
+#### 6.1 Critérios de Análise
+
+| Critério | Verificação |
+|----------|-------------|
+| **Conformidade técnica** | Atendimento à RDC 50 |
+| **Funcionalidade** | Fluxos, acessos, circulações |
+| **Segurança** | Saídas, incêndio, acessibilidade |
+| **Higiene** | Acabamentos, instalações |
+| **Documentação** | Completude, assinaturas |
+
+#### 6.2 Resultado da Análise
+
+| Resultado | Ação |
+|-----------|------|
+| **Aprovado** | Emissão de parecer favorável |
+| **Aprovado com ressalvas** | Aprovação condicionada a ajustes menores |
+| **Diligência** | Solicitação de complementação |
+| **Indeferido** | Rejeição fundamentada |
+
+#### 6.3 Prazos
+
+| Fase | Prazo |
+|------|-------|
+| Análise | Definido pelo órgão local |
+| Resposta a diligência | Geralmente 30-60 dias |
+| Validade da aprovação | Definido no parecer (geralmente 2-5 anos) |
+
+### 7. Aprovação de Projeto vs. Licenciamento
+
+#### 7.1 Diferenças
+
+| Aspecto | Aprovação de Projeto | Licenciamento |
+|---------|---------------------|---------------|
+| **Momento** | Antes da construção | Após construção |
+| **Objeto** | Projeto (papel) | Estabelecimento físico |
+| **Verificação** | Documental | In loco |
+| **Resultado** | Parecer de aprovação | Licença sanitária |
+
+#### 7.2 Sequência
+
+1. **Aprovação do projeto** (documental)
+2. **Construção/reforma** (obra)
+3. **Inspeção** (verificação física)
+4. **Licenciamento** (autorização de funcionamento)
+
+### 8. Responsabilidades
+
+#### 8.1 Do Requerente
+
+- Apresentar documentação completa
+- Garantir veracidade das informações
+- Executar conforme projeto aprovado
+- Comunicar alterações
+
+#### 8.2 Do Profissional Técnico
+
+- Elaborar projeto conforme normas
+- Emitir ART/RRT
+- Responsabilizar-se tecnicamente
+- Acompanhar execução
+
+#### 8.3 Da Vigilância Sanitária
+
+- Analisar projetos em prazo razoável
+- Fundamentar decisões
+- Orientar requerentes
+- Fiscalizar execução
+
+### 9. Alterações Durante a Obra
+
+#### 9.1 Procedimento
+
+| Situação | Ação |
+|----------|------|
+| Alteração significativa | Nova aprovação necessária |
+| Alteração menor | Comunicação ao órgão |
+| Divergência projeto/obra | Risco de embargo |
+
+#### 9.2 "As Built" (Como Construído)
+
+- Projeto atualizado após a obra
+- Reflete o realmente executado
+- Necessário para licenciamento
+- Deve manter conformidade com RDC 50
+
+### 10. Aplicação Prática para o Fiscal
+
+#### 10.1 Verificações em Inspeção
+
+| Item | O que verificar |
+|------|-----------------|
+| Projeto aprovado | Se existe e está válido |
+| Conformidade | Se executado conforme aprovado |
+| Alterações | Se houve modificações não aprovadas |
+| ART/RRT | Se há responsável técnico |
+
+#### 10.2 Não Conformidades
+
+| Situação | Providência |
+|----------|-------------|
+| Sem projeto aprovado | Notificação, regularização |
+| Obra divergente | Notificação, adequação ou novo projeto |
+| Projeto vencido | Nova aprovação |
+| Sem RT | Exigir ART/RRT |
+        `,
+
+        pontosChave: [
+          'RDC 51/2011: requisitos para APROVAÇÃO de projetos no SNVS',
+          'RDC 50 = O QUE fazer (técnico). RDC 51 = COMO aprovar (processo)',
+          'VISA Municipal: baixa/média complexidade',
+          'VISA Estadual: alta complexidade',
+          'Documentos: projeto arquitetônico, memorial, ART/RRT, programa funcional',
+          'Tipos: construção nova, ampliação, reforma, adequação',
+          'Aprovação é ANTES da construção; Licenciamento é APÓS',
+          'Projeto deve ter: plantas, cortes, fachadas, cotas, nomenclatura',
+          'Alterações significativas exigem nova aprovação',
+          'As Built: projeto atualizado conforme executado',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir RDC 50 com RDC 51',
+            descricao: 'RDC 50 define os REQUISITOS TÉCNICOS (dimensões, acabamentos). RDC 51 define o PROCESSO de aprovação (documentos, competências).',
+            dica: 'RDC 50 = técnico (O QUÊ). RDC 51 = processual (COMO).',
+          },
+          {
+            titulo: 'Confundir aprovação com licenciamento',
+            descricao: 'APROVAÇÃO é do projeto (antes da obra). LICENCIAMENTO é do estabelecimento (após a obra).',
+            dica: 'Aprovação = papel. Licenciamento = funcionamento.',
+          },
+          {
+            titulo: 'Errar a competência por complexidade',
+            descricao: 'VISA Municipal: baixa/média complexidade. VISA Estadual: ALTA complexidade.',
+            dica: 'Municipal = mais simples. Estadual = mais complexo.',
+          },
+          {
+            titulo: 'Achar que ANVISA aprova projetos',
+            descricao: 'A ANVISA NORMATIZA e COORDENA, mas quem APROVA projetos são as VISAs estaduais e municipais.',
+            dica: 'ANVISA = normas. VISA = aprovação.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: '50-Técnico, 51-Trâmite',
+            significado: 'RDC 50 = requisitos técnicos, RDC 51 = trâmite/processo',
+            frase: '50 é Técnico, 51 é Trâmite (processo de aprovação)',
+          },
+          {
+            termo: 'MEBA',
+            significado: 'Municipal = Baixa/Média, Estadual = Alta',
+            frase: 'Competência: Municipal Baixa, Estadual Alta (MEBA)',
+          },
+          {
+            termo: 'PAMP',
+            significado: 'Projeto, ART, Memorial, Programa funcional',
+            frase: 'Documentos: PAMP (Projeto, ART, Memorial, Programa)',
+          },
+          {
+            termo: 'CARA',
+            significado: 'Construção, Ampliação, Reforma, Adequação',
+            frase: 'Tipos de intervenção: CARA',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-20-1',
+            frente: 'O que regulamenta a RDC nº 51/2011?',
+            verso: '**RDC 51/2011** = Requisitos mínimos para **análise, avaliação e APROVAÇÃO de projetos físicos** de EAS no **SNVS**.\n\n**Foco:** Processo de aprovação (não requisitos técnicos).\n\n**Complementa a RDC 50:**\n- RDC 50 = O QUE fazer (técnico)\n- RDC 51 = COMO aprovar (processo)',
+            tags: ['RDC 51', 'objeto'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-20-2',
+            frente: 'Qual a diferença entre RDC 50/2002 e RDC 51/2011?',
+            verso: '**RDC 50/2002:**\n→ Regulamento TÉCNICO\n→ Define dimensões, acabamentos, instalações\n→ O QUE o EAS deve ter\n\n**RDC 51/2011:**\n→ Regulamento PROCESSUAL\n→ Define documentos, competências, prazos\n→ COMO aprovar o projeto\n\nSão COMPLEMENTARES!',
+            tags: ['RDC 50', 'RDC 51', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-20-3',
+            frente: 'Qual a competência da VISA Municipal e Estadual para aprovação de projetos?',
+            verso: '**VISA MUNICIPAL:**\n→ EAS de BAIXA e MÉDIA complexidade\n→ UBS, clínicas, consultórios\n→ Estabelecimentos locais\n\n**VISA ESTADUAL:**\n→ EAS de ALTA complexidade\n→ Hospitais de grande porte\n→ Serviços de alta tecnologia\n\n**ANVISA:** Normatiza, NÃO aprova projetos.',
+            tags: ['competência', 'VISA'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-20-4',
+            frente: 'Quais documentos são necessários para aprovação de projeto de EAS?',
+            verso: '**Documentação TÉCNICA:**\n- Projeto básico de arquitetura (plantas, cortes, fachadas)\n- Memorial descritivo\n- Programa funcional\n- Projetos complementares\n\n**Documentação LEGAL:**\n- ART/RRT\n- CNPJ/CPF\n- Contrato social (PJ)\n- Procuração (se representante)',
+            tags: ['documentos', 'aprovação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-20-5',
+            frente: 'Qual a diferença entre APROVAÇÃO de projeto e LICENCIAMENTO?',
+            verso: '**APROVAÇÃO DE PROJETO:**\n→ ANTES da construção\n→ Análise documental (projeto no papel)\n→ Resultado: parecer de aprovação\n\n**LICENCIAMENTO:**\n→ APÓS a construção\n→ Inspeção física (verificação in loco)\n→ Resultado: licença sanitária\n\n**Sequência:** Aprovação → Obra → Inspeção → Licença',
+            tags: ['aprovação', 'licenciamento'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-20-6',
+            frente: 'Quais são os tipos de intervenção em EAS?',
+            verso: '**1. CONSTRUÇÃO NOVA:**\n→ EAS novo, projeto completo\n\n**2. AMPLIAÇÃO:**\n→ Aumento de área construída\n\n**3. REFORMA:**\n→ Alteração SEM aumentar área\n\n**4. ADEQUAÇÃO:**\n→ Ajustes para conformidade\n\nMnemônico: **CARA** (Construção, Ampliação, Reforma, Adequação)',
+            tags: ['tipos', 'intervenção'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-20-7',
+            frente: 'O que é o projeto "As Built"?',
+            verso: '**AS BUILT** = "Como Construído"\n\nÉ o projeto ATUALIZADO após a obra, refletindo o que foi REALMENTE executado.\n\n**Uso:**\n- Necessário para licenciamento\n- Documenta alterações durante obra\n- Deve manter conformidade com RDC 50\n\n⚠️ Divergências significativas = nova aprovação',
+            tags: ['As Built', 'projeto'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-20-8',
+            frente: 'Quais elementos gráficos são obrigatórios nas plantas baixas?',
+            verso: '**Elementos obrigatórios:**\n\n- **Escala:** 1:50 ou 1:100\n- **Cotas:** Dimensões dos ambientes\n- **Nomenclatura:** Nome dos ambientes\n- **Área:** Metragem em m²\n- **Layout:** Equipamentos fixos\n- **Instalações:** Pontos de água, esgoto, gases\n\n**Cortes:** Mínimo 2 (longitudinal e transversal)',
+            tags: ['plantas', 'elementos'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-20-9',
+            frente: 'Quais são os possíveis resultados da análise de projeto?',
+            verso: '**APROVADO:**\n→ Parecer favorável, pode construir\n\n**APROVADO COM RESSALVAS:**\n→ Aprovação condicionada a ajustes menores\n\n**DILIGÊNCIA:**\n→ Solicitação de complementação/correção\n→ Prazo para resposta (30-60 dias)\n\n**INDEFERIDO:**\n→ Rejeição fundamentada\n→ Pode haver recurso',
+            tags: ['análise', 'resultado'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-20-10',
+            frente: 'A ANVISA aprova projetos de EAS?',
+            verso: '**NÃO diretamente!**\n\n**Papel da ANVISA:**\n- Estabelecer NORMAS técnicas\n- COORDENAR o SNVS\n- Prestar assessoria técnica\n- Fiscalizar em caráter complementar\n\n**Quem APROVA projetos:**\n- VISA ESTADUAL (alta complexidade)\n- VISA MUNICIPAL (baixa/média complexidade)',
+            tags: ['ANVISA', 'competência'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-20-1',
+            enunciado: 'A RDC nº 51/2011 da ANVISA dispõe sobre:',
+            alternativas: [
+              { letra: 'A', texto: 'requisitos técnicos para projetos físicos de EAS.' },
+              { letra: 'B', texto: 'requisitos para análise e aprovação de projetos físicos de EAS no SNVS.' },
+              { letra: 'C', texto: 'dimensionamento mínimo de salas cirúrgicas.' },
+              { letra: 'D', texto: 'classificação de áreas críticas em hospitais.' },
+              { letra: 'E', texto: 'cores de tubulações de gases medicinais.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A RDC 51/2011 dispõe sobre os requisitos mínimos para ANÁLISE, AVALIAÇÃO e APROVAÇÃO de projetos físicos de EAS no SNVS. Os requisitos técnicos estão na RDC 50/2002.',
+            dificuldade: 'Fácil',
+            competencia: 'Objeto da RDC 51',
+            banca: 'IADES',
+            tags: ['RDC 51', 'objeto'],
+          },
+          {
+            id: 'ce-q-20-2',
+            enunciado: 'A diferença fundamental entre a RDC 50/2002 e a RDC 51/2011 é que:',
+            alternativas: [
+              { letra: 'A', texto: 'a RDC 50 é federal e a RDC 51 é estadual.' },
+              { letra: 'B', texto: 'a RDC 50 trata de requisitos técnicos e a RDC 51 trata do processo de aprovação.' },
+              { letra: 'C', texto: 'a RDC 50 aplica-se a hospitais e a RDC 51 a clínicas.' },
+              { letra: 'D', texto: 'a RDC 50 foi revogada pela RDC 51.' },
+              { letra: 'E', texto: 'ambas tratam dos mesmos assuntos.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'RDC 50 = REQUISITOS TÉCNICOS (o que o EAS deve ter). RDC 51 = PROCESSO DE APROVAÇÃO (como aprovar o projeto). São complementares.',
+            dificuldade: 'Média',
+            competencia: 'Diferença RDC 50 x 51',
+            banca: 'IADES',
+            tags: ['RDC 50', 'RDC 51'],
+          },
+          {
+            id: 'ce-q-20-3',
+            enunciado: 'A competência para aprovar projetos de EAS de ALTA complexidade é da:',
+            alternativas: [
+              { letra: 'A', texto: 'ANVISA exclusivamente.' },
+              { letra: 'B', texto: 'vigilância sanitária municipal.' },
+              { letra: 'C', texto: 'vigilância sanitária estadual.' },
+              { letra: 'D', texto: 'Ministério da Saúde.' },
+              { letra: 'E', texto: 'prefeitura municipal.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A VISA ESTADUAL é competente para aprovar projetos de EAS de ALTA complexidade. A VISA Municipal aprova baixa/média complexidade. A ANVISA normatiza, não aprova.',
+            dificuldade: 'Média',
+            competencia: 'Competência',
+            banca: 'IADES',
+            tags: ['competência', 'estadual'],
+          },
+          {
+            id: 'ce-q-20-4',
+            enunciado: 'São documentos necessários para aprovação de projeto de EAS, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'projeto básico de arquitetura.' },
+              { letra: 'B', texto: 'memorial descritivo.' },
+              { letra: 'C', texto: 'ART ou RRT.' },
+              { letra: 'D', texto: 'licença ambiental do IBAMA.' },
+              { letra: 'E', texto: 'programa funcional.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Os documentos necessários incluem: projeto arquitetônico, memorial descritivo, ART/RRT e programa funcional. Licença ambiental do IBAMA não é exigência da RDC 51.',
+            dificuldade: 'Média',
+            competencia: 'Documentos',
+            banca: 'IADES',
+            tags: ['documentos', 'exceto'],
+          },
+          {
+            id: 'ce-q-20-5',
+            enunciado: 'A aprovação do projeto de EAS ocorre:',
+            alternativas: [
+              { letra: 'A', texto: 'após a construção e antes do funcionamento.' },
+              { letra: 'B', texto: 'antes da construção, mediante análise documental.' },
+              { letra: 'C', texto: 'durante a obra, por inspeção física.' },
+              { letra: 'D', texto: 'simultaneamente ao licenciamento sanitário.' },
+              { letra: 'E', texto: 'após o início do funcionamento.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A aprovação do projeto ocorre ANTES da construção, mediante análise DOCUMENTAL do projeto. O licenciamento (com inspeção física) ocorre APÓS a construção.',
+            dificuldade: 'Fácil',
+            competencia: 'Momento da aprovação',
+            banca: 'IADES',
+            tags: ['aprovação', 'momento'],
+          },
+          {
+            id: 'ce-q-20-6',
+            enunciado: 'O papel da ANVISA no processo de aprovação de projetos de EAS é:',
+            alternativas: [
+              { letra: 'A', texto: 'aprovar todos os projetos de hospitais.' },
+              { letra: 'B', texto: 'aprovar projetos de alta complexidade.' },
+              { letra: 'C', texto: 'estabelecer normas e coordenar o SNVS.' },
+              { letra: 'D', texto: 'emitir licenças sanitárias.' },
+              { letra: 'E', texto: 'fiscalizar todas as obras de EAS.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A ANVISA estabelece NORMAS técnicas e COORDENA o SNVS. Quem APROVA projetos são as VISAs estaduais (alta complexidade) e municipais (baixa/média).',
+            dificuldade: 'Média',
+            competencia: 'Papel da ANVISA',
+            banca: 'IADES',
+            tags: ['ANVISA', 'função'],
+          },
+          {
+            id: 'ce-q-20-7',
+            enunciado: 'Os tipos de intervenção em EAS previstos na RDC 51/2011 incluem:',
+            alternativas: [
+              { letra: 'A', texto: 'construção nova, ampliação, reforma e adequação.' },
+              { letra: 'B', texto: 'apenas construção nova e ampliação.' },
+              { letra: 'C', texto: 'apenas reforma e adequação.' },
+              { letra: 'D', texto: 'construção nova, demolição e reconstrução.' },
+              { letra: 'E', texto: 'ampliação, redução e manutenção.' },
+            ],
+            gabarito: 'A',
+            justificativa: 'Os tipos de intervenção são: CONSTRUÇÃO NOVA, AMPLIAÇÃO, REFORMA e ADEQUAÇÃO. Cada tipo tem requisitos específicos de documentação.',
+            dificuldade: 'Média',
+            competencia: 'Tipos de intervenção',
+            banca: 'IADES',
+            tags: ['intervenção', 'tipos'],
+          },
+          {
+            id: 'ce-q-20-8',
+            enunciado: 'O projeto "As Built" é:',
+            alternativas: [
+              { letra: 'A', texto: 'o projeto inicial antes da aprovação.' },
+              { letra: 'B', texto: 'o projeto atualizado conforme realmente executado.' },
+              { letra: 'C', texto: 'o projeto de demolição.' },
+              { letra: 'D', texto: 'o projeto complementar de instalações.' },
+              { letra: 'E', texto: 'o projeto paisagístico.' },
+            ],
+            gabarito: 'B',
+            justificativa: '"As Built" (como construído) é o projeto ATUALIZADO após a obra, refletindo o que foi REALMENTE EXECUTADO. É necessário para o licenciamento.',
+            dificuldade: 'Fácil',
+            competencia: 'As Built',
+            banca: 'IADES',
+            tags: ['As Built', 'conceito'],
+          },
+          {
+            id: 'ce-q-20-9',
+            enunciado: 'A escala recomendada para plantas baixas de projetos de EAS é:',
+            alternativas: [
+              { letra: 'A', texto: '1:500 ou 1:1000.' },
+              { letra: 'B', texto: '1:200 ou 1:250.' },
+              { letra: 'C', texto: '1:50 ou 1:100.' },
+              { letra: 'D', texto: '1:10 ou 1:20.' },
+              { letra: 'E', texto: '1:1 (escala real).' },
+            ],
+            gabarito: 'C',
+            justificativa: 'As plantas baixas devem ser apresentadas em escala 1:50 ou 1:100, permitindo visualização adequada dos ambientes, cotas e detalhes.',
+            dificuldade: 'Média',
+            competencia: 'Escala',
+            banca: 'IADES',
+            tags: ['escala', 'plantas'],
+          },
+          {
+            id: 'ce-q-20-10',
+            enunciado: 'A vigilância sanitária MUNICIPAL é competente para aprovar projetos de EAS de:',
+            alternativas: [
+              { letra: 'A', texto: 'alta complexidade exclusivamente.' },
+              { letra: 'B', texto: 'baixa e média complexidade.' },
+              { letra: 'C', texto: 'qualquer complexidade.' },
+              { letra: 'D', texto: 'hospitais de grande porte.' },
+              { letra: 'E', texto: 'serviços de transplante.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A VISA MUNICIPAL é competente para aprovar projetos de EAS de BAIXA e MÉDIA complexidade (UBS, clínicas, consultórios). Alta complexidade = VISA Estadual.',
+            dificuldade: 'Média',
+            competencia: 'Competência municipal',
+            banca: 'IADES',
+            tags: ['municipal', 'competência'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-21',
+      numero: 21,
+      titulo: 'Boas Práticas de Fabricação (BPF)',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Conceito de BPF
+
+As **Boas Práticas de Fabricação (BPF)** são um conjunto de normas e procedimentos que garantem a qualidade, segurança e eficácia de produtos fabricados, especialmente medicamentos, alimentos e cosméticos.
+
+### Pilares das BPF
+
+| Pilar | Descrição |
+|-------|-----------|
+| **Pessoal** | Qualificação, treinamento, higiene |
+| **Instalações** | Projeto, manutenção, limpeza |
+| **Equipamentos** | Calibração, validação, manutenção |
+| **Materiais** | Qualificação de fornecedores, controle |
+| **Documentação** | POPs, registros, rastreabilidade |
+| **Produção** | Procedimentos padronizados |
+| **Controle de qualidade** | Análises, liberação |
+| **Validação** | Processos, limpeza, sistemas |
+
+### Os 5 Ms das BPF
+
+| M | Elemento |
+|---|----------|
+| **Mão de obra** | Pessoas qualificadas |
+| **Materiais** | Insumos controlados |
+| **Máquinas** | Equipamentos validados |
+| **Métodos** | Procedimentos documentados |
+| **Meio ambiente** | Instalações adequadas |
+
+### Para IADES - Memorizar:
+- BPF = garantia da qualidade na fabricação
+- 5 Ms: Mão de obra, Materiais, Máquinas, Métodos, Meio ambiente
+- POP: Procedimento Operacional Padrão
+- Validação: comprovar que funciona
+- Rastreabilidade: poder identificar lotes
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito e Importância
+
+#### 1.1 Definição
+
+> **Boas Práticas de Fabricação (BPF):** Conjunto de normas obrigatórias que estabelecem os requisitos mínimos para garantir que os produtos sejam fabricados de forma consistente, com qualidade apropriada ao uso pretendido.
+
+#### 1.2 Objetivo
+
+- Garantir qualidade do produto
+- Assegurar segurança do consumidor
+- Manter eficácia (para medicamentos)
+- Evitar contaminação
+- Permitir rastreabilidade
+
+#### 1.3 Base Legal
+
+| Setor | Norma |
+|-------|-------|
+| **Medicamentos** | RDC 658/2022 (antiga RDC 17/2010) |
+| **Alimentos** | RDC 275/2002, RDC 216/2004 |
+| **Cosméticos** | RDC 48/2013 |
+| **Saneantes** | RDC 47/2013 |
+
+### 2. Os 5 Ms das BPF
+
+#### 2.1 Mão de Obra (Pessoal)
+
+| Requisito | Descrição |
+|-----------|-----------|
+| Qualificação | Formação adequada à função |
+| Treinamento | Capacitação inicial e contínua |
+| Higiene pessoal | Uniformes, EPIs, asseio |
+| Saúde | Exames periódicos |
+| Comportamento | Não comer, não fumar em áreas produtivas |
+
+#### 2.2 Materiais
+
+| Requisito | Descrição |
+|-----------|-----------|
+| Qualificação de fornecedores | Avaliar e aprovar fornecedores |
+| Recebimento | Inspeção na entrada |
+| Amostragem | Coleta para análise |
+| Armazenamento | Condições adequadas |
+| Identificação | Lote, validade, status |
+| FIFO/FEFO | Primeiro que entra/primeiro que vence |
+
+#### 2.3 Máquinas (Equipamentos)
+
+| Requisito | Descrição |
+|-----------|-----------|
+| Qualificação | QI, QO, QD (instalação, operação, desempenho) |
+| Calibração | Instrumentos de medição |
+| Manutenção | Preventiva e corretiva |
+| Limpeza | Procedimentos validados |
+| Identificação | Status (limpo, em uso, manutenção) |
+
+#### 2.4 Métodos (Processos)
+
+| Requisito | Descrição |
+|-----------|-----------|
+| POP | Procedimento Operacional Padrão |
+| Validação | Comprovar que o processo funciona |
+| Registros | Documentar todas as etapas |
+| Controles em processo | Verificações durante produção |
+| Desvios | Investigar e corrigir |
+
+#### 2.5 Meio Ambiente (Instalações)
+
+| Requisito | Descrição |
+|-----------|-----------|
+| Projeto | Layout adequado ao fluxo |
+| Materiais de construção | Fácil limpeza, não porosos |
+| Climatização | Controle de temperatura/umidade |
+| Iluminação | Adequada às atividades |
+| Segregação | Separar áreas por risco |
+
+### 3. Documentação
+
+#### 3.1 Tipos de Documentos
+
+| Documento | Função |
+|-----------|--------|
+| **POP** | Descreve como executar atividade |
+| **Fórmula mestre** | Composição do produto |
+| **Ordem de produção** | Registro de cada lote |
+| **Especificações** | Critérios de aprovação |
+| **Protocolos** | Validação, qualificação |
+
+#### 3.2 Requisitos dos Documentos
+
+| Requisito | Descrição |
+|-----------|-----------|
+| Aprovados | Por pessoa autorizada |
+| Datados | Data de emissão/revisão |
+| Claros | Linguagem objetiva |
+| Disponíveis | Acessíveis ao usuário |
+| Revisados | Atualizados periodicamente |
+| Rastreáveis | Controle de versões |
+
+#### 3.3 Registros
+
+| Característica | Descrição |
+|----------------|-----------|
+| Preenchidos no momento | Não preencher depois |
+| Indeléveis | Caneta, não lápis |
+| Sem rasuras | Correções datadas e assinadas |
+| Assinados | Por quem executou |
+| Arquivados | Pelo tempo determinado |
+
+### 4. Validação
+
+#### 4.1 Conceito
+
+> **Validação:** Ato documentado que atesta que qualquer procedimento, processo, equipamento, material, atividade ou sistema realmente produz os resultados esperados.
+
+#### 4.2 Tipos de Validação
+
+| Tipo | Descrição |
+|------|-----------|
+| **Validação de processo** | Produção consistente |
+| **Validação de limpeza** | Remoção de resíduos |
+| **Validação de sistemas** | Computadorizados |
+| **Validação de métodos** | Analíticos |
+
+#### 4.3 Qualificação de Equipamentos
+
+| Etapa | Sigla | Objetivo |
+|-------|-------|----------|
+| **Qualificação de Instalação** | QI | Verificar instalação |
+| **Qualificação de Operação** | QO | Verificar funcionamento |
+| **Qualificação de Desempenho** | QD | Verificar performance |
+
+### 5. Controle de Qualidade
+
+#### 5.1 Funções
+
+| Função | Descrição |
+|--------|-----------|
+| Amostragem | Coletar amostras |
+| Análises | Físicas, químicas, microbiológicas |
+| Aprovação/Reprovação | Liberar ou rejeitar lotes |
+| Estabilidade | Acompanhar ao longo do tempo |
+| Investigação | Resultados fora de especificação |
+
+#### 5.2 Controle em Processo
+
+| Momento | Verificação |
+|---------|-------------|
+| Início | Condições de partida |
+| Durante | Parâmetros críticos |
+| Final | Produto acabado |
+
+### 6. Tratamento de Desvios
+
+#### 6.1 O que é Desvio?
+
+Qualquer afastamento de procedimentos, especificações ou parâmetros estabelecidos.
+
+#### 6.2 Tratamento
+
+| Etapa | Ação |
+|-------|------|
+| 1. Identificação | Detectar o desvio |
+| 2. Registro | Documentar |
+| 3. Investigação | Identificar causa |
+| 4. Ação corretiva | Corrigir |
+| 5. Ação preventiva | Evitar recorrência |
+| 6. Verificação | Confirmar eficácia |
+
+### 7. Rastreabilidade
+
+#### 7.1 Conceito
+
+Capacidade de identificar a origem e o destino de um produto em todas as etapas de produção e distribuição.
+
+#### 7.2 Elementos
+
+| Elemento | Informação |
+|----------|------------|
+| Lote | Identificação única |
+| Matérias-primas | Origem, fornecedor |
+| Processo | Etapas, equipamentos |
+| Pessoal | Quem executou |
+| Distribuição | Para onde foi |
+
+### 8. Reclamações e Recall
+
+#### 8.1 Reclamações
+
+| Etapa | Ação |
+|-------|------|
+| Recebimento | Registrar reclamação |
+| Investigação | Analisar causa |
+| Resposta | Comunicar ao reclamante |
+| Ação | Correção se necessário |
+| Tendência | Analisar recorrência |
+
+#### 8.2 Recolhimento (Recall)
+
+| Etapa | Ação |
+|-------|------|
+| Decisão | Quando recolher |
+| Comunicação | ANVISA, distribuidores, público |
+| Execução | Retirar do mercado |
+| Destino | Destruição ou correção |
+| Relatório | Documentar todo o processo |
+
+### 9. Auto-Inspeção
+
+#### 9.1 Objetivo
+
+Verificar internamente o cumprimento das BPF.
+
+#### 9.2 Frequência
+
+- Programada (anual, semestral)
+- Antes de inspeções externas
+- Após mudanças significativas
+
+#### 9.3 Equipe
+
+- Independente da área auditada
+- Qualificada em BPF
+- Multidisciplinar
+        `,
+
+        pontosChave: [
+          'BPF: conjunto de normas para garantir qualidade na fabricação',
+          '5 Ms: Mão de obra, Materiais, Máquinas, Métodos, Meio ambiente',
+          'POP: Procedimento Operacional Padrão (documento essencial)',
+          'Validação: comprovar documentalmente que funciona',
+          'QI-QO-QD: qualificação de instalação, operação, desempenho',
+          'Rastreabilidade: identificar origem e destino por lote',
+          'Desvio: afastamento que deve ser investigado e corrigido',
+          'FIFO/FEFO: primeiro que entra/primeiro que vence sai primeiro',
+          'Registros: no momento, indeléveis, sem rasuras, assinados',
+          'Auto-inspeção: verificação interna do cumprimento das BPF',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir validação com calibração',
+            descricao: 'VALIDAÇÃO: comprovar que processo/equipamento funciona. CALIBRAÇÃO: ajustar instrumentos de medição.',
+            dica: 'Validação = comprovar. Calibração = ajustar medida.',
+          },
+          {
+            titulo: 'Esquecer a sequência QI-QO-QD',
+            descricao: 'Qualificação segue ordem: Instalação (QI), depois Operação (QO), depois Desempenho (QD).',
+            dica: 'QI-QO-QD: Instala, Opera, Desempenha.',
+          },
+          {
+            titulo: 'Confundir FIFO com FEFO',
+            descricao: 'FIFO: First In First Out (primeiro que entra). FEFO: First Expire First Out (primeiro que vence).',
+            dica: 'FIFO = entrada. FEFO = validade.',
+          },
+          {
+            titulo: 'Achar que desvio é só erro',
+            descricao: 'Desvio é qualquer AFASTAMENTO, mesmo que sem erro aparente. Deve ser investigado.',
+            dica: 'Desvio = qualquer diferença do planejado.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: '5 Ms',
+            significado: 'Mão de obra, Materiais, Máquinas, Métodos, Meio ambiente',
+            frase: 'Pilares das BPF: os 5 Ms',
+          },
+          {
+            termo: 'QI-QO-QD',
+            significado: 'Qualificação de Instalação, Operação, Desempenho',
+            frase: 'Sequência: primeiro Instala (QI), depois Opera (QO), depois Desempenha (QD)',
+          },
+          {
+            termo: 'CAPA',
+            significado: 'Corrective And Preventive Action',
+            frase: 'Desvio → CAPA (Ação Corretiva e Preventiva)',
+          },
+          {
+            termo: 'FEFO',
+            significado: 'First Expire First Out',
+            frase: 'Produtos com validade: FEFO (quem vence primeiro, sai primeiro)',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-21-1',
+            frente: 'O que são Boas Práticas de Fabricação (BPF)?',
+            verso: '**BPF** = Conjunto de normas que estabelecem requisitos mínimos para garantir que produtos sejam fabricados de forma **consistente e com qualidade**.\n\n**Objetivos:**\n- Garantir qualidade\n- Assegurar segurança\n- Evitar contaminação\n- Permitir rastreabilidade',
+            tags: ['BPF', 'conceito'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-21-2',
+            frente: 'Quais são os 5 Ms das BPF?',
+            verso: '**1. MÃO DE OBRA:**\n→ Pessoal qualificado e treinado\n\n**2. MATERIAIS:**\n→ Insumos controlados e aprovados\n\n**3. MÁQUINAS:**\n→ Equipamentos validados\n\n**4. MÉTODOS:**\n→ Procedimentos documentados (POPs)\n\n**5. MEIO AMBIENTE:**\n→ Instalações adequadas',
+            tags: ['5 Ms', 'pilares'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-21-3',
+            frente: 'O que é um POP e qual sua importância nas BPF?',
+            verso: '**POP** = Procedimento Operacional Padrão\n\n**Função:** Descrever COMO executar uma atividade de forma padronizada.\n\n**Requisitos:**\n- Aprovado por pessoa autorizada\n- Datado e versionado\n- Claro e objetivo\n- Disponível ao usuário\n- Revisado periodicamente',
+            tags: ['POP', 'documentação'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-21-4',
+            frente: 'O que é VALIDAÇÃO nas BPF?',
+            verso: '**VALIDAÇÃO** = Ato DOCUMENTADO que comprova que processo, equipamento ou sistema produz os RESULTADOS ESPERADOS.\n\n**Tipos:**\n- Validação de processo\n- Validação de limpeza\n- Validação de sistemas\n- Validação de métodos analíticos\n\n⚠️ Sem validação = sem garantia!',
+            tags: ['validação', 'conceito'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-21-5',
+            frente: 'O que significa QI, QO e QD?',
+            verso: '**QI** - Qualificação de INSTALAÇÃO:\n→ Verificar se foi instalado corretamente\n\n**QO** - Qualificação de OPERAÇÃO:\n→ Verificar se opera conforme especificado\n\n**QD** - Qualificação de DESEMPENHO:\n→ Verificar se desempenha em condições reais\n\n**Sequência:** QI → QO → QD',
+            tags: ['qualificação', 'QI-QO-QD'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-21-6',
+            frente: 'O que é RASTREABILIDADE nas BPF?',
+            verso: '**RASTREABILIDADE** = Capacidade de identificar ORIGEM e DESTINO do produto em TODAS as etapas.\n\n**Elementos:**\n- Número de lote\n- Matérias-primas usadas\n- Equipamentos utilizados\n- Operadores\n- Distribuição\n\n**Importância:** Permite recall direcionado.',
+            tags: ['rastreabilidade', 'lote'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-21-7',
+            frente: 'O que é um DESVIO e como deve ser tratado?',
+            verso: '**DESVIO** = Qualquer AFASTAMENTO de procedimentos, especificações ou parâmetros estabelecidos.\n\n**Tratamento:**\n1. Identificação\n2. Registro\n3. Investigação (causa raiz)\n4. Ação CORRETIVA\n5. Ação PREVENTIVA\n6. Verificação de eficácia\n\n(CAPA = Corrective And Preventive Action)',
+            tags: ['desvio', 'CAPA'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-21-8',
+            frente: 'Qual a diferença entre FIFO e FEFO?',
+            verso: '**FIFO** = First In, First Out\n→ Primeiro que ENTRA, primeiro que sai\n→ Usado para materiais sem validade crítica\n\n**FEFO** = First Expire, First Out\n→ Primeiro que VENCE, primeiro que sai\n→ Usado para produtos com VALIDADE\n\n⚠️ Para medicamentos: geralmente FEFO!',
+            tags: ['FIFO', 'FEFO'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-21-9',
+            frente: 'Quais são os requisitos para REGISTROS nas BPF?',
+            verso: '**Requisitos dos registros:**\n\n- Preenchidos NO MOMENTO da atividade\n- INDELÉVEIS (caneta, não lápis)\n- SEM RASURAS (correções datadas/assinadas)\n- ASSINADOS por quem executou\n- ARQUIVADOS pelo tempo determinado\n\n⚠️ "Se não está registrado, não foi feito!"',
+            tags: ['registros', 'documentação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-21-10',
+            frente: 'O que é AUTO-INSPEÇÃO nas BPF?',
+            verso: '**AUTO-INSPEÇÃO** = Verificação INTERNA do cumprimento das BPF.\n\n**Características:**\n- Equipe independente da área auditada\n- Profissionais qualificados em BPF\n- Multidisciplinar\n\n**Frequência:**\n- Programada (anual/semestral)\n- Antes de inspeções externas\n- Após mudanças significativas',
+            tags: ['auto-inspeção', 'auditoria'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-21-1',
+            enunciado: 'As Boas Práticas de Fabricação (BPF) têm como principal objetivo:',
+            alternativas: [
+              { letra: 'A', texto: 'reduzir custos de produção.' },
+              { letra: 'B', texto: 'garantir qualidade, segurança e eficácia dos produtos.' },
+              { letra: 'C', texto: 'aumentar a velocidade de produção.' },
+              { letra: 'D', texto: 'eliminar a necessidade de controle de qualidade.' },
+              { letra: 'E', texto: 'substituir a fiscalização sanitária.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'As BPF têm como objetivo garantir que os produtos sejam fabricados com QUALIDADE, SEGURANÇA e EFICÁCIA, de forma consistente.',
+            dificuldade: 'Fácil',
+            competencia: 'Objetivo das BPF',
+            banca: 'IADES',
+            tags: ['BPF', 'objetivo'],
+          },
+          {
+            id: 'ce-q-21-2',
+            enunciado: 'Os "5 Ms" das Boas Práticas de Fabricação referem-se a:',
+            alternativas: [
+              { letra: 'A', texto: 'Medicamentos, Materiais, Máquinas, Métodos, Medidas.' },
+              { letra: 'B', texto: 'Mão de obra, Materiais, Máquinas, Métodos, Meio ambiente.' },
+              { letra: 'C', texto: 'Manutenção, Materiais, Máquinas, Métodos, Monitoramento.' },
+              { letra: 'D', texto: 'Mão de obra, Manutenção, Máquinas, Métodos, Medidas.' },
+              { letra: 'E', texto: 'Medicamentos, Manutenção, Máquinas, Meios, Métodos.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Os 5 Ms são: MÃO DE OBRA (pessoal), MATERIAIS (insumos), MÁQUINAS (equipamentos), MÉTODOS (procedimentos) e MEIO AMBIENTE (instalações).',
+            dificuldade: 'Média',
+            competencia: '5 Ms',
+            banca: 'IADES',
+            tags: ['5 Ms', 'pilares'],
+          },
+          {
+            id: 'ce-q-21-3',
+            enunciado: 'O documento que descreve como executar uma atividade de forma padronizada é denominado:',
+            alternativas: [
+              { letra: 'A', texto: 'Fórmula mestre.' },
+              { letra: 'B', texto: 'Ordem de produção.' },
+              { letra: 'C', texto: 'Procedimento Operacional Padrão (POP).' },
+              { letra: 'D', texto: 'Protocolo de validação.' },
+              { letra: 'E', texto: 'Especificação técnica.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O POP (Procedimento Operacional Padrão) é o documento que descreve COMO executar uma atividade de forma padronizada e reprodutível.',
+            dificuldade: 'Fácil',
+            competencia: 'POP',
+            banca: 'IADES',
+            tags: ['POP', 'documentação'],
+          },
+          {
+            id: 'ce-q-21-4',
+            enunciado: 'A validação nas BPF pode ser definida como:',
+            alternativas: [
+              { letra: 'A', texto: 'calibração de equipamentos de medição.' },
+              { letra: 'B', texto: 'treinamento de funcionários.' },
+              { letra: 'C', texto: 'comprovação documentada de que processo ou sistema produz resultados esperados.' },
+              { letra: 'D', texto: 'limpeza de áreas produtivas.' },
+              { letra: 'E', texto: 'emissão de licença sanitária.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'VALIDAÇÃO é a comprovação DOCUMENTADA de que um processo, equipamento ou sistema produz os RESULTADOS ESPERADOS de forma consistente.',
+            dificuldade: 'Média',
+            competencia: 'Validação',
+            banca: 'IADES',
+            tags: ['validação', 'conceito'],
+          },
+          {
+            id: 'ce-q-21-5',
+            enunciado: 'A sequência correta das etapas de qualificação de equipamentos é:',
+            alternativas: [
+              { letra: 'A', texto: 'QO, QI, QD.' },
+              { letra: 'B', texto: 'QD, QO, QI.' },
+              { letra: 'C', texto: 'QI, QO, QD.' },
+              { letra: 'D', texto: 'QD, QI, QO.' },
+              { letra: 'E', texto: 'QO, QD, QI.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A sequência correta é: QI (Qualificação de Instalação) → QO (Qualificação de Operação) → QD (Qualificação de Desempenho).',
+            dificuldade: 'Média',
+            competencia: 'Qualificação',
+            banca: 'IADES',
+            tags: ['QI-QO-QD', 'sequência'],
+          },
+          {
+            id: 'ce-q-21-6',
+            enunciado: 'A capacidade de identificar a origem e o destino de um produto em todas as etapas denomina-se:',
+            alternativas: [
+              { letra: 'A', texto: 'validação.' },
+              { letra: 'B', texto: 'calibração.' },
+              { letra: 'C', texto: 'rastreabilidade.' },
+              { letra: 'D', texto: 'especificação.' },
+              { letra: 'E', texto: 'qualificação.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'RASTREABILIDADE é a capacidade de identificar a ORIGEM e o DESTINO de um produto em todas as etapas de produção e distribuição.',
+            dificuldade: 'Fácil',
+            competencia: 'Rastreabilidade',
+            banca: 'IADES',
+            tags: ['rastreabilidade', 'conceito'],
+          },
+          {
+            id: 'ce-q-21-7',
+            enunciado: 'O sistema FEFO (First Expire, First Out) é utilizado para:',
+            alternativas: [
+              { letra: 'A', texto: 'organização de funcionários por antiguidade.' },
+              { letra: 'B', texto: 'gestão de produtos com validade, priorizando os que vencem primeiro.' },
+              { letra: 'C', texto: 'controle de entrada de matérias-primas.' },
+              { letra: 'D', texto: 'sequenciamento de equipamentos na produção.' },
+              { letra: 'E', texto: 'ordenação de documentos por data.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'FEFO (First Expire, First Out) = o produto que VENCE primeiro deve SAIR primeiro. É usado para gestão de produtos com VALIDADE.',
+            dificuldade: 'Média',
+            competencia: 'FEFO',
+            banca: 'IADES',
+            tags: ['FEFO', 'validade'],
+          },
+          {
+            id: 'ce-q-21-8',
+            enunciado: 'Quando ocorre um DESVIO nas BPF, a ação correta é:',
+            alternativas: [
+              { letra: 'A', texto: 'ignorar se não houver impacto aparente.' },
+              { letra: 'B', texto: 'registrar, investigar a causa e implementar ações corretivas e preventivas.' },
+              { letra: 'C', texto: 'descartar o lote imediatamente.' },
+              { letra: 'D', texto: 'comunicar apenas ao controle de qualidade.' },
+              { letra: 'E', texto: 'aguardar a próxima auditoria.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Todo desvio deve ser REGISTRADO, INVESTIGADO (identificar causa raiz) e tratado com AÇÕES CORRETIVAS e PREVENTIVAS (CAPA).',
+            dificuldade: 'Média',
+            competencia: 'Desvios',
+            banca: 'IADES',
+            tags: ['desvio', 'CAPA'],
+          },
+          {
+            id: 'ce-q-21-9',
+            enunciado: 'Os registros nas BPF devem ser:',
+            alternativas: [
+              { letra: 'A', texto: 'preenchidos após o término do turno.' },
+              { letra: 'B', texto: 'feitos a lápis para facilitar correções.' },
+              { letra: 'C', texto: 'preenchidos no momento da atividade, indeléveis e assinados.' },
+              { letra: 'D', texto: 'mantidos apenas em formato digital.' },
+              { letra: 'E', texto: 'descartados após 30 dias.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Os registros devem ser: preenchidos NO MOMENTO, INDELÉVEIS (caneta), SEM RASURAS, ASSINADOS por quem executou e ARQUIVADOS pelo tempo determinado.',
+            dificuldade: 'Média',
+            competencia: 'Registros',
+            banca: 'IADES',
+            tags: ['registros', 'requisitos'],
+          },
+          {
+            id: 'ce-q-21-10',
+            enunciado: 'A auto-inspeção nas BPF tem como objetivo:',
+            alternativas: [
+              { letra: 'A', texto: 'substituir a fiscalização da vigilância sanitária.' },
+              { letra: 'B', texto: 'verificar internamente o cumprimento das BPF.' },
+              { letra: 'C', texto: 'treinar novos funcionários.' },
+              { letra: 'D', texto: 'aprovar novos produtos.' },
+              { letra: 'E', texto: 'validar processos de produção.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A auto-inspeção é a verificação INTERNA do cumprimento das BPF, realizada por equipe independente da área auditada.',
+            dificuldade: 'Fácil',
+            competencia: 'Auto-inspeção',
+            banca: 'IADES',
+            tags: ['auto-inspeção', 'objetivo'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ce-topico-22',
+      numero: 22,
+      titulo: 'Investigação e Análise de Desvios de Qualidade',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Conceito de Desvio de Qualidade
+
+**Desvio de qualidade** é qualquer afastamento dos parâmetros de qualidade estabelecidos para matérias-primas, materiais de embalagem, produtos intermediários e produtos terminados.
+
+### Tipos de Desvios
+
+| Tipo | Descrição |
+|------|-----------|
+| **Desvio de processo** | Afastamento do procedimento |
+| **Desvio de produto** | Não conformidade do produto |
+| **Resultado OOS** | Out of Specification (fora de especificação) |
+| **Resultado OOT** | Out of Trend (fora de tendência) |
+
+### Etapas da Investigação
+
+| Etapa | Descrição |
+|-------|-----------|
+| **1. Identificação** | Detectar e registrar o desvio |
+| **2. Avaliação** | Classificar gravidade e impacto |
+| **3. Investigação** | Identificar causa raiz |
+| **4. Ação corretiva** | Corrigir o problema |
+| **5. Ação preventiva** | Evitar recorrência |
+| **6. Verificação** | Confirmar eficácia |
+
+### Ferramentas de Investigação
+
+| Ferramenta | Uso |
+|------------|-----|
+| **5 Porquês** | Identificar causa raiz |
+| **Ishikawa** | Diagrama de causa e efeito |
+| **Brainstorming** | Gerar ideias de causas |
+| **FMEA** | Análise de modos de falha |
+
+### Para IADES - Memorizar:
+- Desvio = afastamento que deve ser investigado
+- OOS = Out of Specification (fora de especificação)
+- CAPA = Corrective And Preventive Action
+- Causa raiz: a origem real do problema
+- 5 Porquês: perguntar "por quê?" 5 vezes
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceitos Fundamentais
+
+#### 1.1 O que é Desvio?
+
+> **Desvio:** Qualquer afastamento de procedimentos escritos, especificações, limites estabelecidos ou parâmetros de processo durante a fabricação, embalagem, análise, armazenamento ou distribuição de produtos.
+
+#### 1.2 Por que Investigar?
+
+- Identificar a causa do problema
+- Avaliar impacto na qualidade
+- Prevenir recorrência
+- Atender requisitos regulatórios
+- Manter a confiança no produto
+
+### 2. Tipos de Desvios
+
+#### 2.1 Desvio de Processo
+
+| Exemplo | Descrição |
+|---------|-----------|
+| Temperatura fora do range | Processo fora dos parâmetros |
+| Tempo excedido | Duração além do especificado |
+| Sequência alterada | Etapas fora da ordem |
+| Equipamento diferente | Uso de equipamento não previsto |
+
+#### 2.2 Desvio de Produto
+
+| Exemplo | Descrição |
+|---------|-----------|
+| Aspecto alterado | Cor, odor, aparência |
+| Teor fora de especificação | Concentração incorreta |
+| Contaminação | Presença de impurezas |
+| Embalagem danificada | Problemas na apresentação |
+
+#### 2.3 Resultado OOS (Out of Specification)
+
+> Resultado analítico que está FORA das especificações estabelecidas.
+
+**Procedimento:**
+1. Verificar erro de analista
+2. Verificar erro de equipamento
+3. Verificar erro de amostragem
+4. Se confirmado, investigar processo
+
+#### 2.4 Resultado OOT (Out of Trend)
+
+> Resultado que está DENTRO da especificação, mas fora da tendência histórica.
+
+**Importância:** Pode indicar problema antes de virar OOS.
+
+### 3. Classificação de Desvios
+
+#### 3.1 Por Gravidade
+
+| Classificação | Descrição | Ação |
+|---------------|-----------|------|
+| **Crítico** | Risco à saúde, recall | Imediata, interdição |
+| **Maior** | Afeta qualidade significativamente | Urgente, lote retido |
+| **Menor** | Baixo impacto | Prazo maior |
+
+#### 3.2 Por Origem
+
+| Origem | Exemplos |
+|--------|----------|
+| **Humana** | Erro de operador, falta de treinamento |
+| **Material** | Matéria-prima inadequada |
+| **Máquina** | Falha de equipamento |
+| **Método** | Procedimento inadequado |
+| **Meio ambiente** | Condições ambientais |
+
+### 4. Processo de Investigação
+
+#### 4.1 Etapa 1: Identificação
+
+| Ação | Descrição |
+|------|-----------|
+| Detectar | Observar a não conformidade |
+| Registrar | Documentar imediatamente |
+| Comunicar | Informar responsáveis |
+| Segregar | Isolar produto/material |
+
+#### 4.2 Etapa 2: Avaliação
+
+| Ação | Descrição |
+|------|-----------|
+| Classificar | Crítico, maior, menor |
+| Avaliar impacto | Lote, lotes anteriores, produtos |
+| Definir prazo | Para investigação e conclusão |
+| Designar responsável | Quem vai investigar |
+
+#### 4.3 Etapa 3: Investigação
+
+##### a) Coleta de Informações
+
+| Informação | Fonte |
+|------------|-------|
+| O que ocorreu | Descrição detalhada |
+| Quando ocorreu | Data, hora, turno |
+| Onde ocorreu | Local, equipamento |
+| Quem estava envolvido | Operadores, analistas |
+| Como foi detectado | Controle em processo, análise |
+
+##### b) Análise de Causa Raiz
+
+A **causa raiz** é a origem fundamental do problema, cuja eliminação previne recorrência.
+
+| Ferramenta | Como usar |
+|------------|-----------|
+| **5 Porquês** | Perguntar "por quê?" até chegar à raiz |
+| **Ishikawa** | Diagrama espinha de peixe (6Ms) |
+| **Brainstorming** | Reunir equipe para gerar ideias |
+| **Análise de dados** | Verificar registros, tendências |
+
+##### c) Exemplo de 5 Porquês
+
+\`\`\`
+Desvio: Produto com teor abaixo da especificação.
+
+1. Por quê? → A pesagem foi incorreta.
+2. Por quê? → A balança estava descalibrada.
+3. Por quê? → A calibração estava vencida.
+4. Por quê? → O cronograma não foi seguido.
+5. Por quê? → Não havia responsável definido.
+
+CAUSA RAIZ: Falta de definição de responsabilidade pela calibração.
+\`\`\`
+
+#### 4.4 Etapa 4: Ação Corretiva
+
+> **Ação corretiva:** Eliminar a causa de uma não conformidade detectada.
+
+| Característica | Descrição |
+|----------------|-----------|
+| Imediata | Resolver o problema atual |
+| Específica | Direcionada à causa |
+| Documentada | Registrada formalmente |
+| Com prazo | Data para implementação |
+
+#### 4.5 Etapa 5: Ação Preventiva
+
+> **Ação preventiva:** Eliminar a causa de uma não conformidade potencial, prevenindo sua ocorrência.
+
+| Característica | Descrição |
+|----------------|-----------|
+| Proativa | Antes de ocorrer novamente |
+| Sistêmica | Atua no sistema/processo |
+| Abrangente | Considera outros processos similares |
+| Sustentável | Mantém-se ao longo do tempo |
+
+#### 4.6 Etapa 6: Verificação de Eficácia
+
+| Ação | Descrição |
+|------|-----------|
+| Monitorar | Acompanhar após implementação |
+| Verificar recorrência | O problema voltou a ocorrer? |
+| Avaliar indicadores | Métricas melhoraram? |
+| Documentar | Registrar conclusão |
+
+### 5. Sistema CAPA
+
+#### 5.1 Conceito
+
+**CAPA** = Corrective And Preventive Action (Ação Corretiva e Preventiva)
+
+É o sistema formal de gestão de ações corretivas e preventivas.
+
+#### 5.2 Elementos do CAPA
+
+| Elemento | Descrição |
+|----------|-----------|
+| Abertura | Registro do problema |
+| Investigação | Identificação da causa raiz |
+| Plano de ação | Definição de ações |
+| Implementação | Execução das ações |
+| Verificação | Eficácia das ações |
+| Fechamento | Conclusão formal |
+
+### 6. Ferramentas de Investigação
+
+#### 6.1 Diagrama de Ishikawa (Espinha de Peixe)
+
+Organiza as causas potenciais em categorias:
+
+| Categoria | Exemplos |
+|-----------|----------|
+| **Máquina** | Falha, descalibração |
+| **Método** | Procedimento inadequado |
+| **Mão de obra** | Erro, falta de treinamento |
+| **Material** | Insumo inadequado |
+| **Meio ambiente** | Temperatura, umidade |
+| **Medição** | Erro de análise |
+
+#### 6.2 FMEA (Failure Mode and Effect Analysis)
+
+Análise de modos de falha e seus efeitos:
+
+| Elemento | Pergunta |
+|----------|----------|
+| Modo de falha | O que pode dar errado? |
+| Efeito | Qual a consequência? |
+| Causa | Por que ocorreria? |
+| Controle | Como detectar? |
+| RPN | Severidade x Ocorrência x Detecção |
+
+### 7. Documentação da Investigação
+
+#### 7.1 Relatório de Investigação
+
+| Seção | Conteúdo |
+|-------|----------|
+| Identificação | Número, data, responsável |
+| Descrição | O que ocorreu |
+| Investigação | Causa raiz identificada |
+| Impacto | Avaliação de consequências |
+| Ações | Corretivas e preventivas |
+| Verificação | Eficácia das ações |
+| Conclusão | Fechamento formal |
+
+#### 7.2 Indicadores de Desvios
+
+| Indicador | Uso |
+|-----------|-----|
+| Número de desvios | Quantidade total |
+| Desvios por área | Identificar setores críticos |
+| Tempo de fechamento | Eficiência da investigação |
+| Recorrência | Eficácia das ações |
+| CAPA abertos/fechados | Gestão do sistema |
+
+### 8. Aplicação Prática
+
+#### 8.1 Para o Fiscal
+
+| Verificação | O que avaliar |
+|-------------|---------------|
+| Sistema de desvios | Existe procedimento? |
+| Registros | Desvios são documentados? |
+| Investigações | Causa raiz identificada? |
+| CAPA | Ações implementadas? |
+| Eficácia | Desvios recorrem? |
+        `,
+
+        pontosChave: [
+          'Desvio: qualquer afastamento de parâmetros estabelecidos',
+          'OOS: Out of Specification (resultado fora de especificação)',
+          'OOT: Out of Trend (resultado fora de tendência)',
+          'Classificação: crítico, maior, menor',
+          'Causa raiz: origem fundamental do problema',
+          '5 Porquês: perguntar "por quê?" até chegar à raiz',
+          'Ishikawa: diagrama de causa e efeito (espinha de peixe)',
+          'CAPA: Corrective And Preventive Action',
+          'Ação corretiva: eliminar causa de NC detectada',
+          'Ação preventiva: evitar que NC ocorra',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir sintoma com causa raiz',
+            descricao: 'O sintoma é o que se observa. A causa raiz é a ORIGEM do problema. Usar os 5 Porquês ajuda a chegar à raiz.',
+            dica: 'Sintoma = o que vejo. Causa raiz = por que aconteceu.',
+          },
+          {
+            titulo: 'Confundir ação corretiva com preventiva',
+            descricao: 'CORRETIVA: eliminar causa de NC já detectada. PREVENTIVA: evitar que NC ocorra (antes de acontecer).',
+            dica: 'Corretiva = depois. Preventiva = antes.',
+          },
+          {
+            titulo: 'Confundir OOS com OOT',
+            descricao: 'OOS: FORA da especificação. OOT: DENTRO da especificação, mas fora da tendência histórica.',
+            dica: 'OOS = fora do limite. OOT = fora do padrão usual.',
+          },
+          {
+            titulo: 'Parar no primeiro "por quê"',
+            descricao: 'A técnica dos 5 Porquês exige continuar perguntando até chegar à causa fundamental.',
+            dica: 'Se parou no primeiro, provavelmente é sintoma, não causa.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: '5 Porquês',
+            significado: 'Perguntar por quê 5 vezes',
+            frase: 'Por quê? Por quê? Por quê? Por quê? Por quê? = Causa raiz!',
+          },
+          {
+            termo: '6 Ms',
+            significado: 'Máquina, Método, Mão de obra, Material, Meio ambiente, Medição',
+            frase: 'Ishikawa: 6 Ms como categorias de causas',
+          },
+          {
+            termo: 'CAPA',
+            significado: 'Corrective And Preventive Action',
+            frase: 'Sistema CAPA: Corrige e Previne',
+          },
+          {
+            termo: 'OOS-OOT',
+            significado: 'Out of Specification, Out of Trend',
+            frase: 'OOS = Spec (limite). OOT = Trend (tendência).',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ce-fc-22-1',
+            frente: 'O que é um DESVIO de qualidade?',
+            verso: '**DESVIO** = Qualquer AFASTAMENTO de:\n- Procedimentos escritos\n- Especificações\n- Limites estabelecidos\n- Parâmetros de processo\n\nDurante fabricação, análise, armazenamento ou distribuição.\n\n⚠️ Todo desvio deve ser INVESTIGADO!',
+            tags: ['desvio', 'conceito'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-22-2',
+            frente: 'Qual a diferença entre OOS e OOT?',
+            verso: '**OOS** (Out of Specification):\n→ Resultado FORA da especificação\n→ Já ultrapassou o limite\n→ Produto pode ser reprovado\n\n**OOT** (Out of Trend):\n→ Resultado DENTRO da especificação\n→ Mas FORA da tendência histórica\n→ Alerta precoce de problema',
+            tags: ['OOS', 'OOT'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-22-3',
+            frente: 'O que é CAUSA RAIZ?',
+            verso: '**CAUSA RAIZ** = Origem FUNDAMENTAL do problema.\n\nSua eliminação PREVINE a recorrência.\n\n**Diferente de sintoma:**\n- Sintoma = o que se observa\n- Causa raiz = POR QUE aconteceu\n\n**Ferramentas:**\n- 5 Porquês\n- Ishikawa\n- Brainstorming',
+            tags: ['causa raiz', 'investigação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-22-4',
+            frente: 'Como funciona a técnica dos 5 PORQUÊS?',
+            verso: '**5 Porquês** = Perguntar "Por quê?" repetidamente até chegar à causa raiz.\n\n**Exemplo:**\nDesvio: Produto com teor baixo.\n1. Por quê? → Pesagem incorreta.\n2. Por quê? → Balança descalibrada.\n3. Por quê? → Calibração vencida.\n4. Por quê? → Cronograma não seguido.\n5. Por quê? → Sem responsável definido.\n\n**Causa raiz:** Falta de responsável.',
+            tags: ['5 porquês', 'ferramenta'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-22-5',
+            frente: 'O que é o Diagrama de ISHIKAWA?',
+            verso: '**ISHIKAWA** = Diagrama de causa e efeito (espinha de peixe)\n\nOrganiza causas em 6 categorias (6 Ms):\n- **M**áquina\n- **M**étodo\n- **M**ão de obra\n- **M**aterial\n- **M**eio ambiente\n- **M**edição\n\nO "peixe" aponta para o EFEITO (problema).',
+            tags: ['Ishikawa', '6 Ms'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-22-6',
+            frente: 'Qual a diferença entre AÇÃO CORRETIVA e PREVENTIVA?',
+            verso: '**AÇÃO CORRETIVA:**\n→ Elimina causa de NC já DETECTADA\n→ Após o problema ocorrer\n→ "Consertar o que aconteceu"\n\n**AÇÃO PREVENTIVA:**\n→ Elimina causa de NC POTENCIAL\n→ Antes do problema ocorrer\n→ "Evitar que aconteça"\n\n**CAPA** = Corrective And Preventive Action',
+            tags: ['corretiva', 'preventiva'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-22-7',
+            frente: 'Quais são as etapas de investigação de um desvio?',
+            verso: '**1. IDENTIFICAÇÃO:**\n→ Detectar, registrar, segregar\n\n**2. AVALIAÇÃO:**\n→ Classificar gravidade, avaliar impacto\n\n**3. INVESTIGAÇÃO:**\n→ Identificar causa raiz\n\n**4. AÇÃO CORRETIVA:**\n→ Resolver o problema\n\n**5. AÇÃO PREVENTIVA:**\n→ Evitar recorrência\n\n**6. VERIFICAÇÃO:**\n→ Confirmar eficácia',
+            tags: ['etapas', 'investigação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-22-8',
+            frente: 'Como se classifica a gravidade dos desvios?',
+            verso: '**CRÍTICO:**\n→ Risco à saúde do consumidor\n→ Pode exigir recall\n→ Ação imediata\n\n**MAIOR:**\n→ Afeta qualidade significativamente\n→ Lote retido\n→ Ação urgente\n\n**MENOR:**\n→ Baixo impacto na qualidade\n→ Prazo maior para resolução',
+            tags: ['classificação', 'gravidade'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-22-9',
+            frente: 'O que é o sistema CAPA?',
+            verso: '**CAPA** = Corrective And Preventive Action\n\nSistema formal de gestão de ações.\n\n**Elementos:**\n1. Abertura (registro)\n2. Investigação (causa raiz)\n3. Plano de ação\n4. Implementação\n5. Verificação de eficácia\n6. Fechamento\n\n⚠️ Exigência regulatória em BPF!',
+            tags: ['CAPA', 'sistema'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ce-fc-22-10',
+            frente: 'O que deve conter um relatório de investigação de desvio?',
+            verso: '**Relatório de Investigação:**\n\n- **Identificação:** número, data, responsável\n- **Descrição:** o que ocorreu\n- **Investigação:** causa raiz identificada\n- **Impacto:** avaliação de consequências\n- **Ações:** corretivas e preventivas\n- **Verificação:** eficácia das ações\n- **Conclusão:** fechamento formal',
+            tags: ['relatório', 'documentação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ce-q-22-1',
+            enunciado: 'Um desvio de qualidade é definido como:',
+            alternativas: [
+              { letra: 'A', texto: 'melhoria no processo produtivo.' },
+              { letra: 'B', texto: 'qualquer afastamento de parâmetros estabelecidos.' },
+              { letra: 'C', texto: 'resultado de análise dentro da especificação.' },
+              { letra: 'D', texto: 'procedimento operacional padrão.' },
+              { letra: 'E', texto: 'calibração de equipamentos.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'DESVIO é qualquer AFASTAMENTO de procedimentos, especificações, limites ou parâmetros estabelecidos durante fabricação, análise ou distribuição.',
+            dificuldade: 'Fácil',
+            competencia: 'Conceito de desvio',
+            banca: 'IADES',
+            tags: ['desvio', 'conceito'],
+          },
+          {
+            id: 'ce-q-22-2',
+            enunciado: 'O resultado OOS (Out of Specification) significa que:',
+            alternativas: [
+              { letra: 'A', texto: 'o resultado está dentro da especificação.' },
+              { letra: 'B', texto: 'o resultado está fora da especificação estabelecida.' },
+              { letra: 'C', texto: 'o equipamento está em manutenção.' },
+              { letra: 'D', texto: 'o operador não está treinado.' },
+              { letra: 'E', texto: 'o lote foi aprovado.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'OOS (Out of Specification) significa que o resultado analítico está FORA da especificação estabelecida para o produto.',
+            dificuldade: 'Fácil',
+            competencia: 'OOS',
+            banca: 'IADES',
+            tags: ['OOS', 'conceito'],
+          },
+          {
+            id: 'ce-q-22-3',
+            enunciado: 'A técnica dos "5 Porquês" é utilizada para:',
+            alternativas: [
+              { letra: 'A', texto: 'contar erros de produção.' },
+              { letra: 'B', texto: 'identificar a causa raiz de um problema.' },
+              { letra: 'C', texto: 'treinar funcionários.' },
+              { letra: 'D', texto: 'calcular custos de produção.' },
+              { letra: 'E', texto: 'aprovar lotes de produção.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Os 5 Porquês é uma técnica para identificar a CAUSA RAIZ de um problema, perguntando "por quê?" repetidamente até chegar à origem fundamental.',
+            dificuldade: 'Fácil',
+            competencia: '5 Porquês',
+            banca: 'IADES',
+            tags: ['5 porquês', 'causa raiz'],
+          },
+          {
+            id: 'ce-q-22-4',
+            enunciado: 'O Diagrama de Ishikawa organiza as causas potenciais em categorias conhecidas como:',
+            alternativas: [
+              { letra: 'A', texto: '5 Ss.' },
+              { letra: 'B', texto: '5 Ws.' },
+              { letra: 'C', texto: '6 Ms.' },
+              { letra: 'D', texto: '4 Ps.' },
+              { letra: 'E', texto: '3 Rs.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O Diagrama de Ishikawa (espinha de peixe) organiza as causas em 6 Ms: Máquina, Método, Mão de obra, Material, Meio ambiente e Medição.',
+            dificuldade: 'Média',
+            competencia: 'Ishikawa',
+            banca: 'IADES',
+            tags: ['Ishikawa', '6 Ms'],
+          },
+          {
+            id: 'ce-q-22-5',
+            enunciado: 'A ação que elimina a causa de uma não conformidade já detectada é denominada:',
+            alternativas: [
+              { letra: 'A', texto: 'ação preventiva.' },
+              { letra: 'B', texto: 'ação corretiva.' },
+              { letra: 'C', texto: 'ação de melhoria.' },
+              { letra: 'D', texto: 'ação de monitoramento.' },
+              { letra: 'E', texto: 'ação de validação.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'AÇÃO CORRETIVA elimina a causa de uma não conformidade já DETECTADA. Ação preventiva elimina a causa de uma NC potencial (antes de ocorrer).',
+            dificuldade: 'Média',
+            competencia: 'Ação corretiva',
+            banca: 'IADES',
+            tags: ['corretiva', 'conceito'],
+          },
+          {
+            id: 'ce-q-22-6',
+            enunciado: 'O sistema CAPA significa:',
+            alternativas: [
+              { letra: 'A', texto: 'Controle e Análise de Processos Automatizados.' },
+              { letra: 'B', texto: 'Corrective And Preventive Action.' },
+              { letra: 'C', texto: 'Calibração e Ajuste de Parâmetros Analíticos.' },
+              { letra: 'D', texto: 'Certificação de Análises de Produtos Acabados.' },
+              { letra: 'E', texto: 'Controle Ambiental de Produção Asséptica.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'CAPA = Corrective And Preventive Action (Ação Corretiva e Preventiva). É o sistema formal de gestão de ações corretivas e preventivas.',
+            dificuldade: 'Média',
+            competencia: 'CAPA',
+            banca: 'IADES',
+            tags: ['CAPA', 'sigla'],
+          },
+          {
+            id: 'ce-q-22-7',
+            enunciado: 'A classificação de um desvio como "crítico" indica que:',
+            alternativas: [
+              { letra: 'A', texto: 'tem baixo impacto na qualidade.' },
+              { letra: 'B', texto: 'pode representar risco à saúde do consumidor.' },
+              { letra: 'C', texto: 'não necessita de investigação.' },
+              { letra: 'D', texto: 'o lote pode ser liberado imediatamente.' },
+              { letra: 'E', texto: 'é apenas uma observação.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Desvio CRÍTICO pode representar RISCO À SAÚDE do consumidor, podendo exigir recall. Requer ação IMEDIATA.',
+            dificuldade: 'Média',
+            competencia: 'Classificação',
+            banca: 'IADES',
+            tags: ['crítico', 'classificação'],
+          },
+          {
+            id: 'ce-q-22-8',
+            enunciado: 'A diferença entre OOS e OOT é que:',
+            alternativas: [
+              { letra: 'A', texto: 'OOS está dentro e OOT está fora da especificação.' },
+              { letra: 'B', texto: 'OOS está fora da especificação e OOT está dentro, mas fora da tendência.' },
+              { letra: 'C', texto: 'ambos estão fora da especificação.' },
+              { letra: 'D', texto: 'ambos estão dentro da especificação.' },
+              { letra: 'E', texto: 'OOS é para processos e OOT é para produtos.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'OOS: resultado FORA da especificação. OOT: resultado DENTRO da especificação, mas fora da TENDÊNCIA histórica (alerta precoce).',
+            dificuldade: 'Média',
+            competencia: 'OOS x OOT',
+            banca: 'IADES',
+            tags: ['OOS', 'OOT', 'diferença'],
+          },
+          {
+            id: 'ce-q-22-9',
+            enunciado: 'A última etapa do processo de investigação de desvios é:',
+            alternativas: [
+              { letra: 'A', texto: 'identificação do desvio.' },
+              { letra: 'B', texto: 'investigação da causa raiz.' },
+              { letra: 'C', texto: 'ação corretiva.' },
+              { letra: 'D', texto: 'verificação da eficácia das ações.' },
+              { letra: 'E', texto: 'classificação do desvio.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'A última etapa é a VERIFICAÇÃO DA EFICÁCIA das ações implementadas, confirmando que o problema foi resolvido e não há recorrência.',
+            dificuldade: 'Média',
+            competencia: 'Etapas',
+            banca: 'IADES',
+            tags: ['verificação', 'etapa'],
+          },
+          {
+            id: 'ce-q-22-10',
+            enunciado: 'A causa raiz de um problema é:',
+            alternativas: [
+              { letra: 'A', texto: 'o primeiro sintoma observado.' },
+              { letra: 'B', texto: 'a origem fundamental cuja eliminação previne recorrência.' },
+              { letra: 'C', texto: 'qualquer causa identificada.' },
+              { letra: 'D', texto: 'a consequência do desvio.' },
+              { letra: 'E', texto: 'o resultado da análise.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'CAUSA RAIZ é a origem FUNDAMENTAL do problema, cuja eliminação PREVINE a recorrência. É diferente de sintoma (o que se observa).',
+            dificuldade: 'Fácil',
+            competencia: 'Causa raiz',
+            banca: 'IADES',
+            tags: ['causa raiz', 'conceito'],
+          },
+        ],
+      },
+    },
   ],
 };
