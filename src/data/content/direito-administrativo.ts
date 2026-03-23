@@ -8679,5 +8679,2197 @@ Mecanismos e procedimentos internos de integridade, auditoria e incentivo à den
         ],
       },
     },
+    {
+      id: 'da-topico-13',
+      numero: 13,
+      titulo: 'Licitações e Contratos Administrativos - Lei nº 14.133/2021',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Nova Lei de Licitações (Lei 14.133/2021)
+
+| Aspecto | Lei 14.133/2021 |
+|---------|-----------------|
+| **Vigência** | Publicada em 01/04/2021 |
+| **Revoga** | Lei 8.666/93, Lei 10.520/02 (Pregão), Lei 12.462/11 (RDC) |
+| **Período de transição** | Até 30/12/2023 (órgãos podiam escolher qual lei usar) |
+
+### Modalidades de Licitação
+
+| Modalidade | Característica | Critérios de Julgamento |
+|------------|----------------|------------------------|
+| **Pregão** | Obrigatório para bens e serviços COMUNS | Menor preço ou maior desconto |
+| **Concorrência** | Qualquer valor, obras, serviços especiais | Todos os critérios |
+| **Concurso** | Trabalho técnico, científico, artístico | Melhor técnica ou conteúdo artístico |
+| **Leilão** | Alienação de bens | Maior lance |
+| **Diálogo Competitivo** | NOVIDADE! Soluções inovadoras | Técnica e preço combinados |
+
+### Critérios de Julgamento (Art. 33)
+
+1. Menor preço
+2. Maior desconto
+3. Melhor técnica ou conteúdo artístico
+4. Técnica e preço
+5. Maior lance (leilão)
+6. Maior retorno econômico
+
+### Limites para Dispensa (valores atualizados)
+
+| Tipo | Valor |
+|------|-------|
+| Obras e serviços de engenharia | R$ 100.000,00 |
+| Outros serviços e compras | R$ 50.000,00 |
+
+### Prazos de Publicidade Mínima
+
+| Modalidade/Critério | Prazo |
+|--------------------|-------|
+| Concorrência (técnica e preço) | 35 dias úteis |
+| Concorrência (outros) | 25 dias úteis |
+| Pregão | 8 dias úteis |
+| Leilão | 15 dias úteis |
+| Concurso | 35 dias úteis |
+
+### Contratos Administrativos
+
+| Aspecto | Regra |
+|---------|-------|
+| Prazo máximo (regra) | 5 anos (incluindo prorrogações) |
+| Serviços contínuos | Até 10 anos |
+| Aluguel de equipamentos/programas | Até 15 anos |
+| Garantia de execução | Até 5% do valor inicial |
+| Garantia adicional (obras) | Até 10% |
+
+### Para IADES:
+- Pregão = bens e serviços COMUNS (obrigatório)
+- Diálogo Competitivo = NOVIDADE da lei
+- Não existe mais CONVITE nem TOMADA DE PREÇOS
+- Seguro-garantia pode substituir caução
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Contexto e Vigência
+
+A Lei 14.133/2021 (Nova Lei de Licitações) substituiu três diplomas:
+- Lei 8.666/1993 (Lei Geral de Licitações)
+- Lei 10.520/2002 (Lei do Pregão)
+- Lei 12.462/2011 (RDC - Regime Diferenciado de Contratações)
+
+**Período de transição:** Até 30/12/2023, os órgãos podiam optar por qual regime usar, mas NÃO podiam misturar regimes (princípio da segregação).
+
+### 2. Princípios (Art. 5º)
+
+**Princípios expressos:**
+- Legalidade, impessoalidade, moralidade, publicidade, eficiência
+- Interesse público, probidade administrativa
+- Igualdade, planejamento, transparência, eficácia
+- Segregação de funções
+- Motivação, vinculação ao edital
+- Julgamento objetivo
+- Segurança jurídica
+- Razoabilidade, competitividade
+- Proporcionalidade, celeridade
+- Economicidade
+- **Desenvolvimento nacional sustentável** (NOVIDADE!)
+
+### 3. Agentes Públicos
+
+**Agente de contratação:**
+- Servidor efetivo ou empregado público
+- Designado para conduzir o processo licitatório
+- Pode ser substituído por comissão de contratação
+
+**Pregoeiro:**
+- Conduz o pregão (eletrônico ou presencial)
+- Deve ter capacitação específica
+
+**Comissão de contratação:**
+- Mínimo 3 membros
+- Maioria servidores efetivos
+
+### 4. Modalidades de Licitação
+
+#### 4.1 Pregão (Art. 28, I)
+- Para aquisição de bens e serviços **COMUNS**
+- Bem/serviço comum: padrões de desempenho definíveis objetivamente
+- Critérios: menor preço ou maior desconto
+- Forma: **PREFERENCIALMENTE ELETRÔNICO**
+
+#### 4.2 Concorrência (Art. 28, II)
+- Para qualquer valor
+- Obras, serviços especiais, compras de grande valor
+- Admite todos os critérios de julgamento
+
+#### 4.3 Concurso (Art. 28, III)
+- Escolha de trabalho técnico, científico ou artístico
+- Prêmio ou remuneração aos vencedores
+
+#### 4.4 Leilão (Art. 28, IV)
+- Alienação de bens móveis ou imóveis
+- Critério: maior lance
+
+#### 4.5 Diálogo Competitivo (Art. 28, V) - NOVIDADE!
+- Para contratações de soluções inovadoras
+- Administração dialoga com licitantes pré-selecionados
+- Busca identificar alternativas para necessidades complexas
+- Fases: 1) Pré-qualificação 2) Diálogo 3) Competição
+
+### 5. Dispensa e Inexigibilidade
+
+#### 5.1 Dispensa (Art. 75)
+Situações em que a licitação é possível, mas a lei permite não fazer:
+
+**Por valor:**
+- Obras/engenharia: até R$ 100.000,00
+- Outros: até R$ 50.000,00
+- Pode ir ao DOBRO para consórcios públicos
+
+**Outras situações:**
+- Guerra, emergência, calamidade
+- Licitação deserta ou fracassada
+- Compras de entidades sem fins lucrativos
+- Contratação de instituição brasileira de pesquisa
+
+#### 5.2 Inexigibilidade (Art. 74)
+Quando a competição é **INVIÁVEL**:
+- Fornecedor exclusivo
+- Serviços técnicos especializados de profissional notório
+- Artista consagrado
+- Credenciamento (NOVIDADE expressa!)
+
+### 6. Fases da Licitação (Art. 17)
+
+**Fase preparatória:**
+1. Estudo técnico preliminar
+2. Termo de referência ou projeto básico
+3. Orçamento estimado
+4. Edital
+
+**Fase externa:**
+1. Publicação do edital
+2. Apresentação de propostas
+3. Julgamento
+4. Habilitação (PODE SER INVERTIDA)
+5. Recursos
+6. Homologação e adjudicação
+
+**INVERSÃO DE FASES:** O julgamento pode ocorrer ANTES da habilitação (como no pregão da lei antiga).
+
+### 7. Contratos Administrativos
+
+#### 7.1 Cláusulas Exorbitantes
+- Alteração unilateral
+- Rescisão unilateral
+- Fiscalização
+- Aplicação de sanções
+- Ocupação temporária
+
+#### 7.2 Prazos de Duração
+| Tipo | Prazo máximo |
+|------|--------------|
+| Regra geral | 5 anos |
+| Serviços contínuos | 10 anos |
+| Aluguel equipamentos/TI | 15 anos |
+| Concessões | Conforme lei específica |
+
+#### 7.3 Garantias
+- Até 5% do valor inicial (regra)
+- Até 10% para obras de grande vulto ou alta complexidade
+- Seguro-garantia pode ser exigido
+
+### 8. Sanções Administrativas (Art. 155-163)
+
+| Sanção | Aplicação |
+|--------|-----------|
+| Advertência | Infrações leves |
+| Multa | Infrações de qualquer gravidade |
+| Impedimento de licitar/contratar | Até 3 anos |
+| Declaração de inidoneidade | 3 a 6 anos |
+
+### 9. Portal Nacional de Contratações Públicas (PNCP)
+
+- Sítio eletrônico oficial
+- Centraliza informações sobre licitações e contratos
+- Divulgação obrigatória de editais e contratos
+- Cadastro unificado de fornecedores
+        `,
+
+        pontosChave: [
+          'Lei 14.133/2021 revogou Leis 8.666/93, 10.520/02 e 12.462/11',
+          'Modalidades: Pregão, Concorrência, Concurso, Leilão e Diálogo Competitivo',
+          'NÃO existem mais Convite e Tomada de Preços',
+          'Diálogo Competitivo é NOVIDADE para soluções inovadoras',
+          'Pregão é OBRIGATÓRIO para bens e serviços comuns',
+          'Dispensa por valor: obras R$ 100.000 / outros R$ 50.000',
+          'Inexigibilidade = competição INVIÁVEL (fornecedor exclusivo, notória especialização)',
+          'Prazo máximo dos contratos: 5 anos (regra), 10 anos (contínuos), 15 anos (TI)',
+          'PNCP = Portal Nacional de Contratações Públicas',
+          'Habilitação pode ser APÓS o julgamento (inversão de fases)',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Convite e Tomada de Preços',
+            descricao: 'NÃO existem mais na Lei 14.133/2021',
+            dica: 'Cuidado com questões que mencionam essas modalidades como se fossem da nova lei',
+          },
+          {
+            titulo: 'Pregão x Concorrência',
+            descricao: 'Pregão é para bens/serviços COMUNS; Concorrência para especiais ou qualquer critério',
+            dica: 'Se mencionar técnica e preço para serviços especiais = Concorrência, não Pregão',
+          },
+          {
+            titulo: 'Período de Transição',
+            descricao: 'Terminou em 30/12/2023 - agora só vale a Lei 14.133/2021',
+            dica: 'Após 2024, não cabe mais opção entre regimes',
+          },
+          {
+            titulo: 'Dispensa x Inexigibilidade',
+            descricao: 'Dispensa = licitação possível, mas dispensada. Inexigibilidade = competição INVIÁVEL',
+            dica: 'Fornecedor exclusivo = INEXIGIBILIDADE, não dispensa',
+          },
+          {
+            titulo: 'Valores de Dispensa',
+            descricao: 'R$ 100.000 para obras, R$ 50.000 para outros (não confundir)',
+            dica: 'Obras = valor MAIOR; compras = valor MENOR',
+          },
+          {
+            titulo: 'Prazo de Contrato',
+            descricao: '5 anos é regra GERAL, não absoluta (serviços contínuos podem ir a 10)',
+            dica: 'Não marque que todo contrato tem limite de 5 anos',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'PCCLD',
+            significado: 'Modalidades de Licitação',
+            frase: 'Pregão, Concorrência, Concurso, Leilão, Diálogo Competitivo',
+          },
+          {
+            termo: '100-50',
+            significado: 'Valores de dispensa',
+            frase: 'R$ 100 mil (obras) / R$ 50 mil (outros)',
+          },
+          {
+            termo: '5-10-15',
+            significado: 'Prazos de contrato',
+            frase: '5 anos (geral), 10 anos (contínuos), 15 anos (TI)',
+          },
+          {
+            termo: 'INVIÁVEL = INEXIGÍVEL',
+            significado: 'Inexigibilidade',
+            frase: 'Se a competição é INVIÁVEL, a licitação é INEXIGÍVEL',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'da-fc-13-1',
+            frente: 'Quais são as modalidades de licitação na Lei 14.133/2021?',
+            verso: 'Pregão, Concorrência, Concurso, Leilão e Diálogo Competitivo. Atenção: NÃO existem mais Convite e Tomada de Preços.',
+            tags: ['modalidades', 'licitação'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-13-2',
+            frente: 'O que é o Diálogo Competitivo?',
+            verso: 'NOVIDADE da Lei 14.133/2021. Modalidade para contratação de soluções INOVADORAS, em que a Administração dialoga com licitantes pré-selecionados para identificar alternativas técnicas.',
+            tags: ['diálogo competitivo', 'novidade'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-13-3',
+            frente: 'Quando o Pregão é obrigatório?',
+            verso: 'Para aquisição de BENS e SERVIÇOS COMUNS, cujos padrões de desempenho podem ser objetivamente definidos pelo edital. Deve ser preferencialmente ELETRÔNICO.',
+            tags: ['pregão', 'obrigatório'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-13-4',
+            frente: 'Quais os valores para dispensa de licitação por valor na Lei 14.133/2021?',
+            verso: 'Obras e serviços de engenharia: até R$ 100.000,00. Outros serviços e compras: até R$ 50.000,00. Pode ser o DOBRO para consórcios públicos.',
+            tags: ['dispensa', 'valores'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-13-5',
+            frente: 'Qual a diferença entre dispensa e inexigibilidade?',
+            verso: 'DISPENSA: competição é possível, mas a lei permite não licitar. INEXIGIBILIDADE: competição é INVIÁVEL (fornecedor exclusivo, notória especialização, artista consagrado).',
+            tags: ['dispensa', 'inexigibilidade'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-13-6',
+            frente: 'Qual o prazo máximo dos contratos administrativos na Lei 14.133/2021?',
+            verso: 'Regra geral: 5 anos. Serviços contínuos: até 10 anos. Aluguel de equipamentos e programas de TI: até 15 anos.',
+            tags: ['contratos', 'prazos'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-13-7',
+            frente: 'Quais são os critérios de julgamento na Lei 14.133/2021?',
+            verso: '1) Menor preço; 2) Maior desconto; 3) Melhor técnica ou conteúdo artístico; 4) Técnica e preço; 5) Maior lance (leilão); 6) Maior retorno econômico.',
+            tags: ['critérios', 'julgamento'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-13-8',
+            frente: 'O que é o PNCP?',
+            verso: 'Portal Nacional de Contratações Públicas - sítio eletrônico oficial que centraliza informações sobre licitações e contratos, com cadastro unificado de fornecedores.',
+            tags: ['PNCP', 'portal'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-13-9',
+            frente: 'Quais leis a Lei 14.133/2021 revogou?',
+            verso: 'Lei 8.666/1993 (Lei Geral), Lei 10.520/2002 (Pregão) e Lei 12.462/2011 (RDC). Houve período de transição até 30/12/2023.',
+            tags: ['revogação', 'transição'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-13-10',
+            frente: 'Qual a composição mínima da comissão de contratação?',
+            verso: 'Mínimo 3 membros, sendo a MAIORIA servidores efetivos ou empregados públicos do quadro permanente da Administração.',
+            tags: ['comissão', 'composição'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'da-q-13-1',
+            enunciado: 'Segundo a Lei nº 14.133/2021, são modalidades de licitação, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'pregão.' },
+              { letra: 'B', texto: 'concorrência.' },
+              { letra: 'C', texto: 'tomada de preços.' },
+              { letra: 'D', texto: 'diálogo competitivo.' },
+              { letra: 'E', texto: 'leilão.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A Lei 14.133/2021 extinguiu as modalidades TOMADA DE PREÇOS e CONVITE. As modalidades são: Pregão, Concorrência, Concurso, Leilão e Diálogo Competitivo.',
+            dificuldade: 'facil',
+            competencia: 'Modalidades de licitação',
+            banca: 'IADES',
+            tags: ['modalidades', 'tomada de preços'],
+          },
+          {
+            id: 'da-q-13-2',
+            enunciado: 'A modalidade de licitação introduzida pela Lei 14.133/2021 para contratação de soluções inovadoras é o(a):',
+            alternativas: [
+              { letra: 'A', texto: 'pregão eletrônico.' },
+              { letra: 'B', texto: 'concorrência especial.' },
+              { letra: 'C', texto: 'diálogo competitivo.' },
+              { letra: 'D', texto: 'licitação técnica.' },
+              { letra: 'E', texto: 'consulta pública.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O DIÁLOGO COMPETITIVO é a novidade da Lei 14.133/2021, destinado à contratação de soluções inovadoras quando a Administração dialoga com licitantes pré-selecionados.',
+            dificuldade: 'facil',
+            competencia: 'Diálogo competitivo',
+            banca: 'IADES',
+            tags: ['diálogo competitivo', 'novidade'],
+          },
+          {
+            id: 'da-q-13-3',
+            enunciado: 'Para aquisição de bens e serviços comuns, a Lei 14.133/2021 determina que seja utilizada a modalidade:',
+            alternativas: [
+              { letra: 'A', texto: 'concorrência, obrigatoriamente.' },
+              { letra: 'B', texto: 'pregão, preferencialmente eletrônico.' },
+              { letra: 'C', texto: 'leilão, para garantir competitividade.' },
+              { letra: 'D', texto: 'diálogo competitivo, para inovação.' },
+              { letra: 'E', texto: 'qualquer modalidade, a critério da Administração.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O PREGÃO é obrigatório para bens e serviços comuns, devendo ser realizado preferencialmente na forma ELETRÔNICA, conforme art. 28, I, da Lei 14.133/2021.',
+            dificuldade: 'facil',
+            competencia: 'Pregão',
+            banca: 'IADES',
+            tags: ['pregão', 'bens comuns'],
+          },
+          {
+            id: 'da-q-13-4',
+            enunciado: 'Nos termos da Lei 14.133/2021, a dispensa de licitação por valor é aplicável para obras e serviços de engenharia de até:',
+            alternativas: [
+              { letra: 'A', texto: 'R$ 33.000,00.' },
+              { letra: 'B', texto: 'R$ 50.000,00.' },
+              { letra: 'C', texto: 'R$ 100.000,00.' },
+              { letra: 'D', texto: 'R$ 150.000,00.' },
+              { letra: 'E', texto: 'R$ 200.000,00.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Para OBRAS e serviços de engenharia, o limite é R$ 100.000,00. Para outros serviços e compras, o limite é R$ 50.000,00.',
+            dificuldade: 'medio',
+            competencia: 'Dispensa de licitação',
+            banca: 'IADES',
+            tags: ['dispensa', 'valores'],
+          },
+          {
+            id: 'da-q-13-5',
+            enunciado: 'A inexigibilidade de licitação ocorre quando:',
+            alternativas: [
+              { letra: 'A', texto: 'o valor da contratação é inferior ao limite legal.' },
+              { letra: 'B', texto: 'há situação de emergência ou calamidade.' },
+              { letra: 'C', texto: 'a competição é inviável.' },
+              { letra: 'D', texto: 'a licitação anterior foi deserta.' },
+              { letra: 'E', texto: 'há necessidade de padronização.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A INEXIGIBILIDADE ocorre quando a COMPETIÇÃO é INVIÁVEL, como nos casos de fornecedor exclusivo, profissional de notória especialização ou artista consagrado.',
+            dificuldade: 'facil',
+            competencia: 'Inexigibilidade',
+            banca: 'IADES',
+            tags: ['inexigibilidade', 'competição'],
+          },
+          {
+            id: 'da-q-13-6',
+            enunciado: 'O prazo de duração dos contratos administrativos, como regra geral, é de até:',
+            alternativas: [
+              { letra: 'A', texto: '1 ano.' },
+              { letra: 'B', texto: '2 anos.' },
+              { letra: 'C', texto: '5 anos.' },
+              { letra: 'D', texto: '10 anos.' },
+              { letra: 'E', texto: 'prazo indeterminado.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A regra geral é prazo de até 5 ANOS. Exceções: serviços contínuos (10 anos) e aluguel de equipamentos/TI (15 anos).',
+            dificuldade: 'medio',
+            competencia: 'Duração dos contratos',
+            banca: 'IADES',
+            tags: ['contratos', 'prazo'],
+          },
+          {
+            id: 'da-q-13-7',
+            enunciado: 'O Portal Nacional de Contratações Públicas (PNCP) tem como função:',
+            alternativas: [
+              { letra: 'A', texto: 'realizar licitações em âmbito federal apenas.' },
+              { letra: 'B', texto: 'centralizar informações sobre licitações e contratos.' },
+              { letra: 'C', texto: 'substituir os diários oficiais dos Estados.' },
+              { letra: 'D', texto: 'cadastrar apenas empresas de grande porte.' },
+              { letra: 'E', texto: 'emitir certificados de regularidade fiscal.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O PNCP é o sítio eletrônico oficial que CENTRALIZA informações sobre licitações e contratos de todos os entes federativos, com cadastro unificado de fornecedores.',
+            dificuldade: 'facil',
+            competencia: 'PNCP',
+            banca: 'IADES',
+            tags: ['PNCP', 'portal'],
+          },
+          {
+            id: 'da-q-13-8',
+            enunciado: 'São critérios de julgamento previstos na Lei 14.133/2021, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'menor preço.' },
+              { letra: 'B', texto: 'maior desconto.' },
+              { letra: 'C', texto: 'técnica e preço.' },
+              { letra: 'D', texto: 'menor custo total.' },
+              { letra: 'E', texto: 'maior retorno econômico.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Os critérios são: menor preço, maior desconto, melhor técnica, técnica e preço, maior lance e maior retorno econômico. "Menor custo total" não é critério previsto.',
+            dificuldade: 'medio',
+            competencia: 'Critérios de julgamento',
+            banca: 'IADES',
+            tags: ['critérios', 'julgamento'],
+          },
+          {
+            id: 'da-q-13-9',
+            enunciado: 'A Lei 14.133/2021 revogou as seguintes leis:',
+            alternativas: [
+              { letra: 'A', texto: 'Lei 8.666/93 e Lei 9.784/99.' },
+              { letra: 'B', texto: 'Lei 8.666/93, Lei 10.520/02 e Lei 12.462/11.' },
+              { letra: 'C', texto: 'Lei 8.666/93 apenas.' },
+              { letra: 'D', texto: 'Lei 10.520/02 e Lei 12.462/11 apenas.' },
+              { letra: 'E', texto: 'Lei 8.666/93 e Lei 8.987/95.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A Lei 14.133/2021 revogou a Lei 8.666/93 (Lei Geral), Lei 10.520/02 (Pregão) e Lei 12.462/11 (RDC).',
+            dificuldade: 'medio',
+            competencia: 'Revogação',
+            banca: 'IADES',
+            tags: ['revogação', 'transição'],
+          },
+          {
+            id: 'da-q-13-10',
+            enunciado: 'Na Lei 14.133/2021, a fase de habilitação:',
+            alternativas: [
+              { letra: 'A', texto: 'deve ocorrer sempre antes do julgamento das propostas.' },
+              { letra: 'B', texto: 'foi eliminada do processo licitatório.' },
+              { letra: 'C', texto: 'pode ocorrer após o julgamento das propostas.' },
+              { letra: 'D', texto: 'é dispensada em todas as modalidades.' },
+              { letra: 'E', texto: 'é obrigatória apenas no diálogo competitivo.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A Lei 14.133/2021 permite a INVERSÃO DE FASES: a habilitação PODE ocorrer APÓS o julgamento das propostas, como já ocorria no pregão.',
+            dificuldade: 'medio',
+            competencia: 'Fases da licitação',
+            banca: 'IADES',
+            tags: ['habilitação', 'inversão'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'da-topico-14',
+      numero: 14,
+      titulo: 'Bens Públicos',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Conceito e Classificação
+
+| Critério | Tipos |
+|----------|-------|
+| **Quanto à titularidade** | Federais, Estaduais, Municipais, Distritais |
+| **Quanto à destinação** | Uso comum, Uso especial, Dominicais |
+
+### Classificação por Destinação (Art. 99, CC)
+
+| Categoria | Definição | Exemplos | Alienável? |
+|-----------|-----------|----------|------------|
+| **Uso comum do povo** | Destinados ao uso geral | Praças, ruas, praias, mares | NÃO |
+| **Uso especial** | Afetados ao serviço público | Repartições, escolas, hospitais públicos | NÃO |
+| **Dominicais** | Patrimônio disponível do Estado | Terras devolutas, prédios desativados | SIM |
+
+### Características dos Bens Públicos
+
+| Característica | Significado |
+|----------------|-------------|
+| **Inalienabilidade** | Não podem ser vendidos (enquanto afetados) |
+| **Impenhorabilidade** | Não podem ser penhorados |
+| **Imprescritibilidade** | Não podem ser usucapidos |
+| **Não oneração** | Não podem ser dados em garantia |
+
+### Formas de Utilização por Terceiros
+
+| Forma | Precariedade | Interesse | Exemplo |
+|-------|--------------|-----------|---------|
+| **Autorização** | SIM (mais precária) | Privado | Fechamento de rua para festa |
+| **Permissão** | SIM | Público + Privado | Banca de jornal em praça |
+| **Concessão** | NÃO (prazo determinado) | Público | Restaurante em aeroporto |
+
+### Afetação e Desafetação
+
+| Conceito | Significado |
+|----------|-------------|
+| **Afetação** | Atribuir destinação pública ao bem |
+| **Desafetação** | Retirar a destinação pública (tornar dominical) |
+
+### Para IADES:
+- Bens de uso comum e especial são INALIENÁVEIS (enquanto afetados)
+- Bens dominicais PODEM ser alienados (Lei autorizativa, avaliação, licitação)
+- Bens públicos são IMPRESCRITÍVEIS (não há usucapião)
+- Autorização é mais precária que permissão
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito de Bens Públicos
+
+São bens públicos aqueles pertencentes às pessoas jurídicas de direito público interno (União, Estados, DF, Municípios, autarquias e fundações públicas de direito público).
+
+**Base legal:** Arts. 98 a 103 do Código Civil.
+
+### 2. Classificação dos Bens Públicos
+
+#### 2.1 Quanto à Titularidade
+- **Federais:** Pertencem à União
+- **Estaduais:** Pertencem aos Estados
+- **Municipais:** Pertencem aos Municípios
+- **Distritais:** Pertencem ao DF
+
+#### 2.2 Quanto à Destinação (Art. 99, CC)
+
+**Bens de USO COMUM DO POVO:**
+- Destinados ao uso GERAL, sem restrição individual
+- Exemplos: praças, ruas, estradas, praias, mares, rios
+- Podem ser de uso GRATUITO ou RETRIBUÍDO (pedágio)
+- São INALIENÁVEIS (enquanto afetados)
+
+**Bens de USO ESPECIAL:**
+- AFETADOS ao serviço público
+- Destinados ao exercício das atividades administrativas
+- Exemplos: prédios de repartições, escolas públicas, hospitais públicos
+- São INALIENÁVEIS (enquanto afetados)
+
+**Bens DOMINICAIS (ou dominiais):**
+- Constituem o patrimônio DISPONÍVEL do Estado
+- NÃO estão afetados a qualquer destinação pública
+- Exemplos: terras devolutas, prédios desativados, móveis inservíveis
+- São ALIENÁVEIS (com requisitos legais)
+
+### 3. Regime Jurídico dos Bens Públicos
+
+#### 3.1 Inalienabilidade
+- Bens de uso comum e especial são INALIENÁVEIS
+- A inalienabilidade é RELATIVA (pode ser desafetado)
+- Bens dominicais podem ser alienados
+
+**Requisitos para alienação de dominicais:**
+1. Lei autorizativa (móveis dependendo do valor)
+2. Avaliação prévia
+3. Licitação (regra: concorrência ou leilão)
+4. Interesse público justificado
+
+#### 3.2 Impenhorabilidade
+- Bens públicos NÃO podem ser penhorados
+- Consequência do sistema de precatórios (art. 100, CF)
+- Aplica-se a TODOS os bens públicos
+
+#### 3.3 Imprescritibilidade
+- Bens públicos NÃO podem ser objeto de usucapião
+- Previsão constitucional (arts. 183, §3º e 191, p.ú., CF)
+- Aplica-se a TODOS os bens públicos, inclusive dominicais
+
+#### 3.4 Não Onerabilidade
+- Não podem ser objeto de direitos reais de garantia
+- Não podem ser hipotecados, penhorados ou dados em anticrese
+
+### 4. Afetação e Desafetação
+
+#### 4.1 Afetação
+Ato pelo qual o bem passa a ter destinação pública específica.
+
+**Formas:**
+- Lei
+- Ato administrativo
+- Fato administrativo (uso efetivo)
+
+#### 4.2 Desafetação
+Ato pelo qual o bem perde sua destinação pública, tornando-se dominical.
+
+**Formas:**
+- Lei (mais segura)
+- Ato administrativo (quando permitido)
+- Fato da natureza (destruição)
+
+### 5. Formas de Utilização por Terceiros
+
+#### 5.1 Uso Normal (Comum)
+- Uso por qualquer pessoa do povo
+- Sem necessidade de autorização
+- Exemplos: andar na praça, trafegar na rua
+
+#### 5.2 Uso Especial (Privativo)
+Quando o particular utiliza o bem de forma exclusiva ou diferenciada.
+
+**Instrumentos:**
+
+| Instrumento | Características |
+|-------------|-----------------|
+| **Autorização** | Ato unilateral, discricionário, precário, interesse predominante do particular, sem prazo, sem licitação |
+| **Permissão** | Ato unilateral, discricionário, precário, interesse do particular e público, pode ter prazo, pode exigir licitação |
+| **Concessão** | Contrato administrativo, prazo determinado, interesse público, precedida de licitação, gera direitos ao concessionário |
+
+#### 5.3 Comparativo
+
+| Critério | Autorização | Permissão | Concessão |
+|----------|-------------|-----------|-----------|
+| Natureza | Ato | Ato | Contrato |
+| Precariedade | Máxima | Intermediária | Mínima |
+| Prazo | Sem prazo | Pode ter | Tem prazo |
+| Interesse principal | Particular | Misto | Público |
+| Licitação | Não | Pode ser exigida | Obrigatória |
+
+### 6. Aquisição de Bens Públicos
+
+#### 6.1 Formas de Aquisição
+- **Compra:** mediante licitação
+- **Doação:** pode dispensar licitação
+- **Dação em pagamento**
+- **Permuta**
+- **Usucapião:** bens PRIVADOS usucapidos pelo Poder Público
+- **Desapropriação**
+- **Acessão, avulsão, aluvião**
+
+### 7. Alienação de Bens Públicos
+
+#### 7.1 Bens Imóveis
+- Autorização legislativa
+- Avaliação prévia
+- Licitação (regra: concorrência)
+- Justificativa do interesse público
+
+#### 7.2 Bens Móveis
+- Avaliação prévia
+- Licitação (pode ser leilão)
+- Dispensa de autorização legislativa (para valores menores)
+
+**Modalidade:** Leilão para bens móveis inservíveis ou apreendidos.
+        `,
+
+        pontosChave: [
+          'Classificação: uso comum do povo, uso especial e dominicais',
+          'Uso comum e especial = INALIENÁVEIS (enquanto afetados)',
+          'Dominicais = podem ser ALIENADOS (com requisitos)',
+          'Todos os bens públicos são IMPRESCRITÍVEIS (não há usucapião)',
+          'Todos os bens públicos são IMPENHORÁVEIS',
+          'Afetação = dar destinação pública; Desafetação = retirar',
+          'Autorização é mais PRECÁRIA que permissão',
+          'Concessão de uso é CONTRATO, com prazo e direitos',
+          'Alienação exige: lei autorizativa, avaliação, licitação',
+          'Bens públicos não podem ser dados em garantia (hipoteca, penhor)',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Dominical x Dominial',
+            descricao: 'Dominical e dominial são SINÔNIMOS (patrimônio disponível)',
+            dica: 'Ambos os termos são corretos e significam a mesma coisa',
+          },
+          {
+            titulo: 'Inalienabilidade Relativa',
+            descricao: 'Bens de uso comum/especial são inalienáveis ENQUANTO AFETADOS',
+            dica: 'Se desafetados, tornam-se dominicais e podem ser alienados',
+          },
+          {
+            titulo: 'Usucapião de Bens Públicos',
+            descricao: 'TODOS os bens públicos são imprescritíveis, inclusive dominicais',
+            dica: 'Nem mesmo dominical pode ser usucapido',
+          },
+          {
+            titulo: 'Uso Comum RETRIBUÍDO',
+            descricao: 'Bens de uso comum podem ser de uso gratuito OU retribuído',
+            dica: 'Pedágio em estrada pública NÃO descaracteriza o uso comum',
+          },
+          {
+            titulo: 'Permissão x Concessão',
+            descricao: 'Permissão é ATO precário; Concessão é CONTRATO com prazo',
+            dica: 'Concessão gera direitos; permissão pode ser revogada a qualquer tempo',
+          },
+          {
+            titulo: 'Autorização x Licença',
+            descricao: 'Autorização de uso de bem público é DIFERENTE de licença (poder de polícia)',
+            dica: 'Autorização de uso = bem público. Licença = atividade privada.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'INED',
+            significado: 'Características dos bens públicos',
+            frase: 'Inalienabilidade, Não-oneração, Imprescritibilidade (sem usucapião), Impenhorabilidade',
+          },
+          {
+            termo: 'CED',
+            significado: 'Classificação por destinação',
+            frase: 'Comum (povo), Especial (serviço), Dominical (disponível)',
+          },
+          {
+            termo: 'APC',
+            significado: 'Uso privativo de bem público',
+            frase: 'Autorização (mais precária), Permissão (intermediária), Concessão (contrato)',
+          },
+          {
+            termo: 'D-A-L-I',
+            significado: 'Requisitos para alienar dominical',
+            frase: 'Desafetação + Autorização legislativa + Licitação + Interesse público',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'da-fc-14-1',
+            frente: 'Quais são as três categorias de bens públicos quanto à destinação?',
+            verso: '1) USO COMUM DO POVO (praças, ruas); 2) USO ESPECIAL (repartições, escolas); 3) DOMINICAIS (patrimônio disponível, terras devolutas).',
+            tags: ['classificação', 'bens públicos'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-14-2',
+            frente: 'Os bens públicos podem ser objeto de usucapião?',
+            verso: 'NÃO. TODOS os bens públicos são IMPRESCRITÍVEIS, ou seja, não podem ser usucapidos. Isso inclui os bens dominicais. Previsão: arts. 183, §3º e 191, p.ú., CF.',
+            tags: ['usucapião', 'imprescritibilidade'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-14-3',
+            frente: 'Qual a diferença entre autorização, permissão e concessão de uso?',
+            verso: 'AUTORIZAÇÃO: ato precário, interesse do particular. PERMISSÃO: ato precário, interesse misto. CONCESSÃO: contrato com prazo, interesse público, gera direitos.',
+            tags: ['uso', 'terceiros'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-14-4',
+            frente: 'O que é afetação de bem público?',
+            verso: 'É o ato pelo qual o bem recebe uma DESTINAÇÃO PÚBLICA específica, passando a ser de uso comum ou uso especial. Pode ocorrer por lei, ato administrativo ou fato (uso efetivo).',
+            tags: ['afetação', 'destinação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-14-5',
+            frente: 'Os bens dominicais podem ser alienados?',
+            verso: 'SIM. Bens dominicais PODEM ser alienados, desde que cumpridos os requisitos: lei autorizativa (imóveis), avaliação prévia, licitação e interesse público justificado.',
+            tags: ['dominicais', 'alienação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-14-6',
+            frente: 'O que significa a impenhorabilidade dos bens públicos?',
+            verso: 'Significa que os bens públicos NÃO podem ser objeto de penhora judicial. As dívidas da Fazenda Pública são pagas pelo sistema de PRECATÓRIOS (art. 100, CF).',
+            tags: ['impenhorabilidade', 'precatório'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-14-7',
+            frente: 'Bens de uso comum do povo podem ser de uso retribuído?',
+            verso: 'SIM. O uso comum pode ser gratuito ou RETRIBUÍDO (art. 103, CC). Exemplo: cobrança de pedágio em estrada pública não descaracteriza o bem como de uso comum.',
+            tags: ['uso comum', 'retribuição'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-14-8',
+            frente: 'O que são terras devolutas?',
+            verso: 'São terras públicas que nunca foram ou deixaram de ser utilizadas para fins públicos. São bens DOMINICAIS. As não transferidas pertencem aos Estados (regra) ou à União (faixa de fronteira).',
+            tags: ['terras devolutas', 'dominicais'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-14-9',
+            frente: 'Qual a diferença entre bens de uso especial e de uso comum?',
+            verso: 'USO COMUM: destinados ao uso GERAL do povo (praças, ruas). USO ESPECIAL: AFETADOS ao serviço público, uso da Administração (prédios de repartições, hospitais públicos).',
+            tags: ['uso comum', 'uso especial'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-14-10',
+            frente: 'A inalienabilidade dos bens públicos é absoluta?',
+            verso: 'NÃO. A inalienabilidade é RELATIVA. Bens de uso comum e especial são inalienáveis ENQUANTO AFETADOS. Se desafetados (tornam-se dominicais), podem ser alienados.',
+            tags: ['inalienabilidade', 'afetação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'da-q-14-1',
+            enunciado: 'De acordo com o Código Civil, os bens públicos de uso especial são aqueles:',
+            alternativas: [
+              { letra: 'A', texto: 'destinados ao uso geral da população, como praças e ruas.' },
+              { letra: 'B', texto: 'afetados ao serviço público, como repartições e escolas.' },
+              { letra: 'C', texto: 'que constituem o patrimônio disponível do Estado.' },
+              { letra: 'D', texto: 'que podem ser alienados sem autorização legislativa.' },
+              { letra: 'E', texto: 'que podem ser objeto de usucapião extraordinária.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Bens de USO ESPECIAL são aqueles afetados ao serviço público, utilizados pela própria Administração. Exemplos: prédios de repartições, escolas, hospitais públicos.',
+            dificuldade: 'facil',
+            competencia: 'Classificação de bens públicos',
+            banca: 'IADES',
+            tags: ['uso especial', 'classificação'],
+          },
+          {
+            id: 'da-q-14-2',
+            enunciado: 'Em relação aos bens públicos, é correto afirmar que:',
+            alternativas: [
+              { letra: 'A', texto: 'os bens dominicais podem ser objeto de usucapião.' },
+              { letra: 'B', texto: 'os bens de uso comum são alienáveis.' },
+              { letra: 'C', texto: 'todos os bens públicos são imprescritíveis.' },
+              { letra: 'D', texto: 'os bens de uso especial podem ser penhorados.' },
+              { letra: 'E', texto: 'a inalienabilidade é característica apenas dos bens de uso comum.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'TODOS os bens públicos, inclusive os dominicais, são IMPRESCRITÍVEIS (não podem ser usucapidos), conforme arts. 183, §3º e 191, p.ú., da CF.',
+            dificuldade: 'medio',
+            competencia: 'Características dos bens públicos',
+            banca: 'IADES',
+            tags: ['imprescritibilidade', 'usucapião'],
+          },
+          {
+            id: 'da-q-14-3',
+            enunciado: 'A forma de utilização de bem público por particular que se caracteriza pela máxima precariedade e atende preponderantemente ao interesse privado é a:',
+            alternativas: [
+              { letra: 'A', texto: 'concessão de uso.' },
+              { letra: 'B', texto: 'permissão de uso.' },
+              { letra: 'C', texto: 'autorização de uso.' },
+              { letra: 'D', texto: 'cessão de uso.' },
+              { letra: 'E', texto: 'locação de uso.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A AUTORIZAÇÃO de uso é a forma mais precária, ato unilateral e discricionário que atende principalmente ao interesse do PARTICULAR. Pode ser revogada a qualquer tempo.',
+            dificuldade: 'medio',
+            competencia: 'Uso por terceiros',
+            banca: 'IADES',
+            tags: ['autorização', 'precariedade'],
+          },
+          {
+            id: 'da-q-14-4',
+            enunciado: 'Para a alienação de bens imóveis públicos dominicais, é necessário:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas avaliação prévia.' },
+              { letra: 'B', texto: 'autorização legislativa, avaliação e licitação.' },
+              { letra: 'C', texto: 'apenas licitação na modalidade pregão.' },
+              { letra: 'D', texto: 'decisão exclusiva do chefe do Poder Executivo.' },
+              { letra: 'E', texto: 'prévia desapropriação por interesse público.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A alienação de bens imóveis dominicais exige: AUTORIZAÇÃO LEGISLATIVA, AVALIAÇÃO prévia, LICITAÇÃO e interesse público demonstrado.',
+            dificuldade: 'medio',
+            competencia: 'Alienação de bens públicos',
+            banca: 'IADES',
+            tags: ['alienação', 'requisitos'],
+          },
+          {
+            id: 'da-q-14-5',
+            enunciado: 'A afetação de um bem público:',
+            alternativas: [
+              { letra: 'A', texto: 'torna o bem dominical.' },
+              { letra: 'B', texto: 'permite sua alienação.' },
+              { letra: 'C', texto: 'atribui ao bem uma destinação pública.' },
+              { letra: 'D', texto: 'autoriza a penhora do bem.' },
+              { letra: 'E', texto: 'possibilita a usucapião.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'AFETAÇÃO é o ato pelo qual se ATRIBUI ao bem uma DESTINAÇÃO PÚBLICA específica, tornando-o de uso comum ou uso especial.',
+            dificuldade: 'facil',
+            competencia: 'Afetação',
+            banca: 'IADES',
+            tags: ['afetação', 'conceito'],
+          },
+          {
+            id: 'da-q-14-6',
+            enunciado: 'Os bens dominicais diferem dos bens de uso especial porque:',
+            alternativas: [
+              { letra: 'A', texto: 'podem ser usucapidos.' },
+              { letra: 'B', texto: 'não estão afetados a uma destinação pública.' },
+              { letra: 'C', texto: 'são impenhoráveis.' },
+              { letra: 'D', texto: 'pertencem apenas à União.' },
+              { letra: 'E', texto: 'não podem ser alienados.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Bens dominicais NÃO ESTÃO AFETADOS a qualquer destinação pública, constituindo o patrimônio disponível do Estado. Por isso podem ser alienados.',
+            dificuldade: 'medio',
+            competencia: 'Bens dominicais',
+            banca: 'IADES',
+            tags: ['dominicais', 'afetação'],
+          },
+          {
+            id: 'da-q-14-7',
+            enunciado: 'A permissão de uso de bem público caracteriza-se como:',
+            alternativas: [
+              { letra: 'A', texto: 'contrato administrativo bilateral.' },
+              { letra: 'B', texto: 'ato administrativo precário e revogável.' },
+              { letra: 'C', texto: 'ato vinculado e irrevogável.' },
+              { letra: 'D', texto: 'contrato de direito privado.' },
+              { letra: 'E', texto: 'ato com prazo determinado obrigatório.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A PERMISSÃO de uso é ATO ADMINISTRATIVO unilateral, discricionário e PRECÁRIO, podendo ser REVOGADA pela Administração sem gerar direito a indenização.',
+            dificuldade: 'medio',
+            competencia: 'Permissão de uso',
+            banca: 'IADES',
+            tags: ['permissão', 'ato precário'],
+          },
+          {
+            id: 'da-q-14-8',
+            enunciado: 'São exemplos de bens de uso comum do povo:',
+            alternativas: [
+              { letra: 'A', texto: 'prédios de repartições públicas e hospitais.' },
+              { letra: 'B', texto: 'terras devolutas e bens móveis inservíveis.' },
+              { letra: 'C', texto: 'praças, ruas, praias e estradas.' },
+              { letra: 'D', texto: 'escolas públicas e quartéis militares.' },
+              { letra: 'E', texto: 'veículos oficiais e móveis de escritório.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Bens de USO COMUM do povo são destinados ao uso geral, como PRAÇAS, RUAS, PRAIAS e ESTRADAS. Podem ser de uso gratuito ou retribuído.',
+            dificuldade: 'facil',
+            competencia: 'Uso comum do povo',
+            banca: 'IADES',
+            tags: ['uso comum', 'exemplos'],
+          },
+          {
+            id: 'da-q-14-9',
+            enunciado: 'Quanto à possibilidade de oneração, os bens públicos:',
+            alternativas: [
+              { letra: 'A', texto: 'podem ser hipotecados em qualquer caso.' },
+              { letra: 'B', texto: 'podem ser dados em penhor, se móveis.' },
+              { letra: 'C', texto: 'podem ser gravados com anticrese.' },
+              { letra: 'D', texto: 'não podem ser objeto de direitos reais de garantia.' },
+              { letra: 'E', texto: 'podem ser onerados apenas os dominicais.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Os bens públicos são caracterizados pela NÃO ONERAÇÃO, ou seja, NÃO podem ser objeto de direitos reais de garantia (hipoteca, penhor, anticrese).',
+            dificuldade: 'medio',
+            competencia: 'Não oneração',
+            banca: 'IADES',
+            tags: ['oneração', 'garantia'],
+          },
+          {
+            id: 'da-q-14-10',
+            enunciado: 'A concessão de uso de bem público, diferentemente da autorização, caracteriza-se por ser:',
+            alternativas: [
+              { letra: 'A', texto: 'ato unilateral e precário.' },
+              { letra: 'B', texto: 'contrato com prazo determinado.' },
+              { letra: 'C', texto: 'ato que dispensa licitação.' },
+              { letra: 'D', texto: 'instrumento de interesse exclusivamente privado.' },
+              { letra: 'E', texto: 'forma de uso sem necessidade de contraprestação.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A CONCESSÃO de uso é CONTRATO administrativo, com PRAZO DETERMINADO, precedida de licitação, que gera direitos ao concessionário. Diferente da autorização, que é ato precário.',
+            dificuldade: 'medio',
+            competencia: 'Concessão de uso',
+            banca: 'IADES',
+            tags: ['concessão', 'contrato'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'da-topico-15',
+      numero: 15,
+      titulo: 'Lei de Acesso à Informação - Lei nº 12.527/2011',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Lei de Acesso à Informação (Lei 12.527/2011)
+
+| Aspecto | Regra |
+|---------|-------|
+| **Fundamento** | Art. 5º, XXXIII e Art. 37, §3º, II da CF |
+| **Vigência** | 16/05/2012 |
+| **Abrangência** | União, Estados, DF, Municípios e todos os Poderes |
+
+### Princípios da LAI
+
+| Princípio | Significado |
+|-----------|-------------|
+| **Publicidade** | Regra geral, sigilo é EXCEÇÃO |
+| **Transparência ativa** | Divulgar informações de interesse coletivo independente de solicitação |
+| **Transparência passiva** | Atender pedidos de informação dos cidadãos |
+
+### Prazos Importantes
+
+| Situação | Prazo |
+|----------|-------|
+| Resposta a pedido de informação | **20 dias**, prorrogáveis por mais **10 dias** |
+| Recurso contra negativa | **10 dias** |
+| Decisão do recurso | **5 dias** |
+
+### Classificação de Sigilo
+
+| Grau | Prazo Máximo | Autoridade |
+|------|--------------|------------|
+| **Ultrassecreto** | 25 anos | Presidente, VP, Ministros, Comandantes, Chefes de Missão |
+| **Secreto** | 15 anos | Autoridades do ultrassecreto + titulares de autarquias/fundações |
+| **Reservado** | 5 anos | Autoridades anteriores + quem exerça função de direção |
+
+### Para IADES:
+- Publicidade é a REGRA, sigilo é EXCEÇÃO
+- 20 + 10 dias para responder
+- Ultrassecreto = 25 anos (máximo)
+- Informações PESSOAIS = 100 anos de restrição
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Fundamento Constitucional
+
+A Lei de Acesso à Informação regulamenta o direito fundamental de acesso previsto na CF/88:
+
+**Art. 5º, XXXIII:** "Todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral..."
+
+**Art. 37, §3º, II:** "O acesso dos usuários a registros administrativos e a informações sobre atos de governo..."
+
+### 2. Abrangência (Art. 1º)
+
+A LAI aplica-se a:
+- **Todos os entes federativos:** União, Estados, DF e Municípios
+- **Todos os Poderes:** Executivo, Legislativo e Judiciário
+- **Tribunais de Contas e Ministério Público**
+- **Autarquias, fundações, empresas públicas, sociedades de economia mista**
+- **Entidades privadas sem fins lucrativos** (que recebam recursos públicos)
+
+### 3. Transparência Ativa x Passiva
+
+#### 3.1 Transparência Ativa (Art. 8º)
+A Administração deve divulgar, **independente de solicitação**:
+- Estrutura organizacional, competências, endereços
+- Despesas e transferências de recursos
+- Procedimentos licitatórios e contratos
+- Programas, projetos, obras e ações
+- Respostas a perguntas mais frequentes
+
+**Obrigatoriedade de site:** Órgãos com mais de 10 mil habitantes devem manter site na internet.
+
+#### 3.2 Transparência Passiva (Art. 10-14)
+Atendimento a pedidos de informação:
+- Qualquer interessado pode apresentar pedido
+- **Não é necessário apresentar motivo**
+- Identificação do requerente não pode exigir dados desnecessários
+- Serviço gratuito (salvo custo de reprodução)
+
+### 4. Procedimento de Acesso
+
+#### 4.1 Pedido de Informação
+- Deve conter identificação do requerente
+- Especificação da informação requerida
+- Pode ser feito por qualquer meio legítimo
+
+#### 4.2 Prazos (Art. 11)
+| Etapa | Prazo |
+|-------|-------|
+| Resposta imediata | Se disponível |
+| Resposta normal | **20 dias** |
+| Prorrogação | + **10 dias** (mediante justificativa) |
+
+#### 4.3 Recursos (Art. 15-16)
+- **Prazo para recorrer:** 10 dias da ciência da decisão
+- **Decisão do recurso:** 5 dias
+- **Instâncias recursais:**
+  1. Autoridade hierarquicamente superior
+  2. Controladoria-Geral (CGU) - no âmbito federal
+  3. Comissão Mista de Reavaliação de Informações
+
+### 5. Restrições de Acesso
+
+#### 5.1 Informações Sigilosas (Art. 23-24)
+São passíveis de classificação as informações que possam:
+- Pôr em risco a defesa e soberania nacional
+- Prejudicar negociações internacionais
+- Pôr em risco a vida, segurança ou saúde da população
+- Comprometer atividades de inteligência
+
+**Graus de sigilo:**
+| Grau | Prazo | Autoridade competente |
+|------|-------|----------------------|
+| **Ultrassecreto** | 25 anos | Presidente, VP, Ministros de Estado, Comandantes FA, Chefes de Missão Diplomática |
+| **Secreto** | 15 anos | Anteriores + titulares de autarquias, fundações, EP, SEM |
+| **Reservado** | 5 anos | Anteriores + quem exerça função de direção, comando ou chefia |
+
+**Importante:** O prazo pode ser PRORROGADO UMA VEZ para ultrassecreto (total: 50 anos máximo).
+
+#### 5.2 Informações Pessoais (Art. 31)
+- Acesso restrito por **100 ANOS**
+- Independe de classificação de sigilo
+- Relacionadas à intimidade, vida privada, honra e imagem
+- Agentes públicos em razão do exercício podem ter acesso restrito
+
+### 6. Responsabilização (Art. 32-34)
+
+**Condutas ilícitas:**
+- Recusar informação sem fundamentação
+- Retardar deliberadamente o fornecimento
+- Destruir ou subtrair documentos
+- Impor sigilo para obter proveito pessoal
+- Ocultar da revisão informação sigilosa
+
+**Sanções:** Responsabilidade administrativa, civil e penal.
+
+### 7. Comissão Mista de Reavaliação de Informações
+
+- Órgão colegiado, com representantes do Executivo e Legislativo
+- Reavalia classificações de sigilo ultrassecreto e secreto
+- Prazo de 4 anos para reexaminar informações classificadas
+        `,
+
+        pontosChave: [
+          'Publicidade é REGRA, sigilo é EXCEÇÃO',
+          'Abrange todos os Poderes e entes federativos',
+          'Prazo de resposta: 20 dias + 10 dias de prorrogação',
+          'NÃO é necessário justificar o pedido de informação',
+          'Ultrassecreto: 25 anos / Secreto: 15 anos / Reservado: 5 anos',
+          'Informações pessoais: restrição de 100 ANOS',
+          'Transparência ativa: divulgar sem que alguém peça',
+          'Transparência passiva: atender pedidos',
+          'Recurso: 10 dias para interpor',
+          'Serviço gratuito (salvo custos de reprodução)',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Prazo de resposta',
+            descricao: 'O prazo é de 20 dias, NÃO 30 dias',
+            dica: 'Lembre: 20 + 10 = 30 total, mas o prazo inicial é 20',
+          },
+          {
+            titulo: 'Necessidade de justificativa',
+            descricao: 'O cidadão NÃO precisa justificar o pedido',
+            dica: 'A lei veda expressamente exigir motivo para o pedido',
+          },
+          {
+            titulo: 'Prazo do ultrassecreto',
+            descricao: '25 anos (não 30 ou 50). Pode prorrogar uma vez = máximo 50',
+            dica: 'Ultrassecreto = 25 anos (maior prazo inicial)',
+          },
+          {
+            titulo: 'Informações pessoais',
+            descricao: '100 anos de restrição, independente de classificação',
+            dica: 'Não confunda sigilo (25 anos máx) com pessoais (100 anos)',
+          },
+          {
+            titulo: 'Entidades privadas',
+            descricao: 'Aplica-se também a entidades privadas SEM fins lucrativos que recebam recursos públicos',
+            dica: 'Não são apenas órgãos públicos que se submetem à LAI',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'USR 25-15-5',
+            significado: 'Graus de sigilo',
+            frase: 'Ultrassecreto 25 / Secreto 15 / Reservado 5',
+          },
+          {
+            termo: '20+10',
+            significado: 'Prazo de resposta',
+            frase: '20 dias + 10 de prorrogação',
+          },
+          {
+            termo: 'ATIPA',
+            significado: 'Transparência ativa',
+            frase: 'Administração Transparente Informa Proativamente ao povo',
+          },
+          {
+            termo: '100 PESSOAIS',
+            significado: 'Informações pessoais',
+            frase: '100 anos de restrição para informações pessoais',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'da-fc-15-1',
+            frente: 'Qual é o prazo para resposta a pedido de informação na LAI?',
+            verso: '20 DIAS, prorrogáveis por mais 10 dias mediante justificativa expressa. Total máximo: 30 dias.',
+            tags: ['LAI', 'prazos'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-15-2',
+            frente: 'Quais são os graus de sigilo e seus prazos na LAI?',
+            verso: 'ULTRASSECRETO: 25 anos (prorrogável uma vez = 50 max) / SECRETO: 15 anos / RESERVADO: 5 anos.',
+            tags: ['sigilo', 'classificação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-15-3',
+            frente: 'Qual é o prazo de restrição para informações pessoais?',
+            verso: '100 ANOS. Independe de classificação de sigilo. Relacionadas à intimidade, vida privada, honra e imagem.',
+            tags: ['informações pessoais', 'prazo'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-15-4',
+            frente: 'O que é transparência ativa na LAI?',
+            verso: 'Divulgação de informações de interesse coletivo pela Administração, INDEPENDENTE de solicitação. Ex: publicar despesas, contratos, licitações no site oficial.',
+            tags: ['transparência ativa', 'conceito'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-15-5',
+            frente: 'É necessário justificar o pedido de informação?',
+            verso: 'NÃO. A LAI veda expressamente que se exija do requerente motivo ou justificativa para o pedido de informação.',
+            tags: ['pedido', 'justificativa'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-15-6',
+            frente: 'A quem se aplica a Lei de Acesso à Informação?',
+            verso: 'Todos os Poderes (Executivo, Legislativo, Judiciário), todos os entes (U, E, DF, M), autarquias, fundações, EP, SEM, e entidades privadas sem fins lucrativos que recebam recursos públicos.',
+            tags: ['abrangência', 'aplicação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-15-7',
+            frente: 'Quem pode classificar informação como ultrassecreta?',
+            verso: 'Presidente da República, Vice-Presidente, Ministros de Estado, Comandantes das Forças Armadas e Chefes de Missão Diplomática ou Consulares permanentes.',
+            tags: ['ultrassecreto', 'competência'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-15-8',
+            frente: 'Qual o prazo para interpor recurso contra negativa de informação?',
+            verso: '10 DIAS, contados da ciência da decisão. A autoridade tem 5 dias para decidir o recurso.',
+            tags: ['recurso', 'prazo'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-15-9',
+            frente: 'O que é a Comissão Mista de Reavaliação de Informações?',
+            verso: 'Órgão colegiado que reavalia classificações de sigilo ultrassecreto e secreto. Composta por representantes do Executivo e Legislativo.',
+            tags: ['comissão mista', 'reavaliação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-15-10',
+            frente: 'A informação ultrassecreta pode ter seu prazo prorrogado?',
+            verso: 'SIM, o prazo de 25 anos pode ser prorrogado UMA VEZ por igual período, totalizando no máximo 50 anos de sigilo.',
+            tags: ['ultrassecreto', 'prorrogação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'da-q-15-1',
+            enunciado: 'De acordo com a Lei de Acesso à Informação (Lei 12.527/2011), o prazo para resposta a pedido de informação é de:',
+            alternativas: [
+              { letra: 'A', texto: '10 dias, improrrogáveis.' },
+              { letra: 'B', texto: '15 dias, prorrogáveis por mais 15 dias.' },
+              { letra: 'C', texto: '20 dias, prorrogáveis por mais 10 dias.' },
+              { letra: 'D', texto: '30 dias, improrrogáveis.' },
+              { letra: 'E', texto: '5 dias, prorrogáveis por mais 5 dias.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O art. 11 da LAI estabelece prazo de 20 DIAS para resposta, prorrogável por mais 10 dias mediante justificativa expressa.',
+            dificuldade: 'Fácil',
+            competencia: 'Prazos da LAI',
+            banca: 'IADES',
+            tags: ['LAI', 'prazos'],
+          },
+          {
+            id: 'da-q-15-2',
+            enunciado: 'O grau de sigilo "ultrassecreto" tem prazo máximo de:',
+            alternativas: [
+              { letra: 'A', texto: '5 anos.' },
+              { letra: 'B', texto: '15 anos.' },
+              { letra: 'C', texto: '25 anos.' },
+              { letra: 'D', texto: '50 anos.' },
+              { letra: 'E', texto: '100 anos.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O grau ULTRASSECRETO tem prazo de 25 ANOS. Pode ser prorrogado uma vez (chegando a 50), mas o prazo inicial máximo é 25 anos.',
+            dificuldade: 'Fácil',
+            competencia: 'Classificação de sigilo',
+            banca: 'IADES',
+            tags: ['ultrassecreto', 'prazo'],
+          },
+          {
+            id: 'da-q-15-3',
+            enunciado: 'Quanto ao pedido de informação, a Lei 12.527/2011 estabelece que:',
+            alternativas: [
+              { letra: 'A', texto: 'é obrigatória a apresentação de justificativa do pedido.' },
+              { letra: 'B', texto: 'somente brasileiros podem requerer informações.' },
+              { letra: 'C', texto: 'é vedado exigir que o requerente informe os motivos do pedido.' },
+              { letra: 'D', texto: 'o serviço de fornecimento é sempre oneroso.' },
+              { letra: 'E', texto: 'apenas advogados podem protocolar pedidos.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A LAI veda expressamente que se exija do requerente motivo ou justificativa para o pedido de informação (art. 10, §3º).',
+            dificuldade: 'Fácil',
+            competencia: 'Pedido de informação',
+            banca: 'IADES',
+            tags: ['pedido', 'justificativa'],
+          },
+          {
+            id: 'da-q-15-4',
+            enunciado: 'As informações pessoais relativas à intimidade, vida privada, honra e imagem terão acesso restrito pelo prazo de:',
+            alternativas: [
+              { letra: 'A', texto: '25 anos.' },
+              { letra: 'B', texto: '50 anos.' },
+              { letra: 'C', texto: '75 anos.' },
+              { letra: 'D', texto: '100 anos.' },
+              { letra: 'E', texto: 'prazo indeterminado.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'As informações PESSOAIS têm acesso restrito por 100 ANOS, independentemente de classificação de sigilo (art. 31).',
+            dificuldade: 'Média',
+            competencia: 'Informações pessoais',
+            banca: 'IADES',
+            tags: ['pessoais', '100 anos'],
+          },
+          {
+            id: 'da-q-15-5',
+            enunciado: 'A transparência ativa, prevista na LAI, consiste em:',
+            alternativas: [
+              { letra: 'A', texto: 'responder pedidos de informação em até 20 dias.' },
+              { letra: 'B', texto: 'divulgar informações de interesse coletivo independente de solicitação.' },
+              { letra: 'C', texto: 'classificar documentos como sigilosos.' },
+              { letra: 'D', texto: 'restringir acesso a informações pessoais.' },
+              { letra: 'E', texto: 'cobrar pelo fornecimento de documentos.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Transparência ATIVA é a divulgação de informações de interesse coletivo pela Administração, INDEPENDENTE de solicitação (art. 8º).',
+            dificuldade: 'Fácil',
+            competencia: 'Transparência ativa',
+            banca: 'IADES',
+            tags: ['transparência', 'ativa'],
+          },
+          {
+            id: 'da-q-15-6',
+            enunciado: 'A Lei de Acesso à Informação aplica-se:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas ao Poder Executivo federal.' },
+              { letra: 'B', texto: 'aos três Poderes, em todos os entes da federação.' },
+              { letra: 'C', texto: 'somente às autarquias e fundações.' },
+              { letra: 'D', texto: 'apenas aos órgãos da administração direta.' },
+              { letra: 'E', texto: 'exclusivamente à União.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A LAI aplica-se aos TRÊS PODERES (Executivo, Legislativo, Judiciário) em TODOS os entes da federação (União, Estados, DF, Municípios).',
+            dificuldade: 'Fácil',
+            competencia: 'Abrangência',
+            banca: 'IADES',
+            tags: ['aplicação', 'abrangência'],
+          },
+          {
+            id: 'da-q-15-7',
+            enunciado: 'Os graus de sigilo previstos na Lei 12.527/2011 são:',
+            alternativas: [
+              { letra: 'A', texto: 'confidencial, secreto e reservado.' },
+              { letra: 'B', texto: 'ultrassecreto, secreto e reservado.' },
+              { letra: 'C', texto: 'sigiloso, restrito e público.' },
+              { letra: 'D', texto: 'confidencial, secreto e ultrassecreto.' },
+              { letra: 'E', texto: 'reservado, restrito e secreto.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A LAI prevê três graus de sigilo: ULTRASSECRETO (25 anos), SECRETO (15 anos) e RESERVADO (5 anos). Não existe mais "confidencial".',
+            dificuldade: 'Fácil',
+            competencia: 'Graus de sigilo',
+            banca: 'IADES',
+            tags: ['sigilo', 'graus'],
+          },
+          {
+            id: 'da-q-15-8',
+            enunciado: 'O prazo para interpor recurso contra a negativa de acesso à informação é de:',
+            alternativas: [
+              { letra: 'A', texto: '5 dias.' },
+              { letra: 'B', texto: '10 dias.' },
+              { letra: 'C', texto: '15 dias.' },
+              { letra: 'D', texto: '20 dias.' },
+              { letra: 'E', texto: '30 dias.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O prazo para interpor recurso contra negativa de informação é de 10 DIAS, contados da ciência da decisão (art. 15).',
+            dificuldade: 'Média',
+            competencia: 'Recursos',
+            banca: 'IADES',
+            tags: ['recurso', 'prazo'],
+          },
+          {
+            id: 'da-q-15-9',
+            enunciado: 'Na Lei de Acesso à Informação, a publicidade é:',
+            alternativas: [
+              { letra: 'A', texto: 'exceção, sendo a regra o sigilo.' },
+              { letra: 'B', texto: 'a regra geral, sendo o sigilo a exceção.' },
+              { letra: 'C', texto: 'facultativa para os órgãos públicos.' },
+              { letra: 'D', texto: 'aplicável apenas a documentos históricos.' },
+              { letra: 'E', texto: 'restrita a informações sobre licitações.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A PUBLICIDADE é a REGRA GERAL na LAI. O sigilo é EXCEÇÃO e deve ser devidamente fundamentado.',
+            dificuldade: 'Fácil',
+            competencia: 'Princípio da publicidade',
+            banca: 'IADES',
+            tags: ['publicidade', 'regra'],
+          },
+          {
+            id: 'da-q-15-10',
+            enunciado: 'São autoridades competentes para classificar informação como ultrassecreta, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'Presidente da República.' },
+              { letra: 'B', texto: 'Vice-Presidente da República.' },
+              { letra: 'C', texto: 'Ministros de Estado.' },
+              { letra: 'D', texto: 'Diretores de autarquias.' },
+              { letra: 'E', texto: 'Comandantes das Forças Armadas.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Diretores de autarquias podem classificar até SECRETO, não ultrassecreto. Ultrassecreto: Presidente, VP, Ministros, Comandantes FA e Chefes de Missão.',
+            dificuldade: 'Média',
+            competencia: 'Competência para classificação',
+            banca: 'IADES',
+            tags: ['ultrassecreto', 'competência'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'da-topico-16',
+      numero: 16,
+      titulo: 'Lei Geral de Proteção de Dados - Lei nº 13.709/2018 (LGPD)',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### LGPD - Lei 13.709/2018
+
+| Aspecto | Regra |
+|---------|-------|
+| **Vigência** | 18/09/2020 (sanções: agosto/2021) |
+| **Inspiração** | GDPR europeu |
+| **Objeto** | Tratamento de dados pessoais (inclusive digital) |
+
+### Agentes de Tratamento
+
+| Agente | Função |
+|--------|--------|
+| **Controlador** | Decide sobre o tratamento |
+| **Operador** | Realiza o tratamento em nome do controlador |
+| **Encarregado (DPO)** | Canal de comunicação entre controlador/titulares/ANPD |
+
+### Bases Legais para Tratamento (Art. 7º)
+
+| Base Legal | Descrição |
+|------------|-----------|
+| **Consentimento** | Autorização do titular |
+| **Obrigação legal** | Cumprimento de lei |
+| **Políticas públicas** | Execução pelo poder público |
+| **Estudos por órgão de pesquisa** | Anonimização preferencial |
+| **Contrato** | Execução de contrato |
+| **Processo judicial** | Exercício regular de direitos |
+| **Proteção da vida** | Tutela de saúde |
+| **Legítimo interesse** | Do controlador ou terceiro |
+| **Proteção ao crédito** | Cadastros positivos |
+
+### Sanções Administrativas
+
+| Sanção | Limite |
+|--------|--------|
+| Multa simples | Até 2% do faturamento (máx. R$ 50 milhões por infração) |
+| Multa diária | Até R$ 50 milhões |
+| Bloqueio de dados | Até regularização |
+| Eliminação de dados | Dados irregulares |
+
+### Para IADES:
+- ANPD = Autoridade Nacional de Proteção de Dados
+- Consentimento NÃO é a única base legal
+- Controlador DECIDE, Operador EXECUTA
+- Dado pessoal sensível = tratamento mais restritivo
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceitos Fundamentais (Art. 5º)
+
+#### 1.1 Dado Pessoal
+Informação relacionada a pessoa natural **identificada ou identificável**.
+- Ex: nome, CPF, endereço, e-mail, telefone
+
+#### 1.2 Dado Pessoal Sensível
+Dado sobre origem racial/étnica, convicção religiosa, opinião política, filiação sindical, dados de saúde, vida sexual, genético ou biométrico.
+- **Tratamento mais restritivo!**
+
+#### 1.3 Dado Anonimizado
+Dado que **não pode ser identificado**, considerando meios técnicos disponíveis.
+- Não se aplica a LGPD (não é dado pessoal)
+
+#### 1.4 Titular
+Pessoa natural a quem se referem os dados pessoais.
+
+### 2. Agentes de Tratamento
+
+#### 2.1 Controlador
+Pessoa (natural ou jurídica) a quem **competem as decisões** sobre tratamento.
+- Decide finalidade e meios
+- Responsável principal
+
+#### 2.2 Operador
+Pessoa que realiza o tratamento **em nome do controlador**.
+- Segue instruções do controlador
+- Não decide finalidade
+
+#### 2.3 Encarregado (DPO)
+- Indicado pelo controlador e operador
+- Canal de comunicação entre:
+  - Controlador ↔ Titulares
+  - Controlador ↔ ANPD
+- Identidade deve ser divulgada publicamente
+
+### 3. Princípios (Art. 6º)
+
+| Princípio | Significado |
+|-----------|-------------|
+| **Finalidade** | Propósitos legítimos e específicos |
+| **Adequação** | Compatibilidade com a finalidade |
+| **Necessidade** | Mínimo necessário para a finalidade |
+| **Livre acesso** | Consulta facilitada aos dados |
+| **Qualidade** | Dados exatos e atualizados |
+| **Transparência** | Informações claras e precisas |
+| **Segurança** | Proteção contra acessos não autorizados |
+| **Prevenção** | Medidas para evitar danos |
+| **Não discriminação** | Vedação de tratamento discriminatório |
+| **Responsabilização** | Demonstração de eficácia das medidas |
+
+### 4. Bases Legais para Tratamento
+
+#### 4.1 Dados Pessoais (Art. 7º)
+10 bases legais:
+1. **Consentimento** do titular
+2. **Cumprimento de obrigação legal** pelo controlador
+3. **Execução de políticas públicas** pela Administração
+4. **Estudos** por órgão de pesquisa
+5. **Execução de contrato** a pedido do titular
+6. **Exercício regular de direitos** em processo
+7. **Proteção da vida** do titular ou terceiro
+8. **Tutela da saúde** por profissionais/serviços de saúde
+9. **Legítimo interesse** do controlador ou terceiro
+10. **Proteção do crédito**
+
+#### 4.2 Dados Sensíveis (Art. 11)
+Apenas 8 bases legais (mais restritivo):
+- Consentimento específico e destacado
+- Obrigação legal/regulatória
+- Execução de políticas públicas
+- Estudos por órgão de pesquisa
+- Exercício regular de direitos
+- Proteção da vida
+- Tutela da saúde
+- Prevenção à fraude
+
+**NÃO há legítimo interesse nem proteção ao crédito!**
+
+### 5. Direitos do Titular (Art. 18)
+
+- Confirmação de existência de tratamento
+- Acesso aos dados
+- Correção de dados incompletos/inexatos
+- Anonimização, bloqueio ou eliminação
+- Portabilidade
+- Eliminação (com consentimento)
+- Informação sobre compartilhamento
+- Informação sobre não consentir
+- Revogação do consentimento
+
+### 6. ANPD - Autoridade Nacional de Proteção de Dados
+
+- Órgão da administração pública federal
+- Natureza jurídica transitória: órgão → autarquia especial (2 anos)
+- Competências:
+  - Zelar pela proteção de dados pessoais
+  - Elaborar diretrizes
+  - Fiscalizar e aplicar sanções
+  - Promover conhecimento das normas
+
+### 7. Sanções Administrativas (Art. 52)
+
+| Sanção | Descrição |
+|--------|-----------|
+| Advertência | Com prazo para correção |
+| Multa simples | Até 2% do faturamento (máx. R$ 50 milhões) |
+| Multa diária | Observado limite de R$ 50 milhões |
+| Publicização | Após apuração confirmada |
+| Bloqueio | Até regularização |
+| Eliminação | Dados irregulares |
+| Suspensão parcial | Até 6 meses (prorrogável) |
+| Proibição parcial/total | Atividades de tratamento |
+
+### 8. Tratamento pelo Poder Público (Art. 23-30)
+
+- Finalidade pública e interesse público
+- Uso compartilhado entre entes: permitido
+- Transferência a entidades privadas: vedada (com exceções)
+- Deve publicar informações sobre tratamento
+        `,
+
+        pontosChave: [
+          'Dado pessoal = pessoa identificada ou IDENTIFICÁVEL',
+          'Dado sensível = origem, religião, política, saúde, biometria (tratamento restritivo)',
+          'Controlador DECIDE / Operador EXECUTA',
+          'Encarregado (DPO) = canal de comunicação',
+          '10 bases legais para dados pessoais / 8 para dados sensíveis',
+          'Consentimento NÃO é a única base legal',
+          'ANPD = Autoridade Nacional de Proteção de Dados',
+          'Multa: até 2% do faturamento (máximo R$ 50 milhões)',
+          'Dado anonimizado NÃO é dado pessoal (não se aplica LGPD)',
+          'Titular tem direito de acesso, correção, eliminação e portabilidade',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Consentimento como única base',
+            descricao: 'Existem 10 bases legais para tratamento, não apenas consentimento',
+            dica: 'LGPD permite tratamento por obrigação legal, legítimo interesse, etc.',
+          },
+          {
+            titulo: 'Controlador x Operador',
+            descricao: 'Controlador DECIDE, Operador EXECUTA. Não confunda!',
+            dica: 'Quem decide = Controlador / Quem faz em nome de = Operador',
+          },
+          {
+            titulo: 'Dado anonimizado',
+            descricao: 'Se não pode ser identificado, NÃO é dado pessoal',
+            dica: 'LGPD não se aplica a dados verdadeiramente anonimizados',
+          },
+          {
+            titulo: 'Bases legais para sensíveis',
+            descricao: 'Dados sensíveis têm MENOS bases legais (8, não 10)',
+            dica: 'Não há legítimo interesse nem proteção ao crédito para sensíveis',
+          },
+          {
+            titulo: 'Multa máxima',
+            descricao: 'É 2% do faturamento OU R$ 50 milhões (o que for menor)',
+            dica: 'Não é 2% sem limite - há teto de 50 milhões',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'COE',
+            significado: 'Agentes de tratamento',
+            frase: 'Controlador (decide), Operador (executa), Encarregado (comunica)',
+          },
+          {
+            termo: '2%-50MI',
+            significado: 'Multa máxima',
+            frase: '2% do faturamento OU R$ 50 milhões (o menor)',
+          },
+          {
+            termo: 'CROP-SBG',
+            significado: 'Dados sensíveis',
+            frase: 'Convicção religiosa, Raça, Opinião política, Partido/sindicato, Saúde, Biometria, Genético',
+          },
+          {
+            termo: '10-8',
+            significado: 'Bases legais',
+            frase: '10 bases para dados pessoais / 8 bases para dados sensíveis',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'da-fc-16-1',
+            frente: 'O que é dado pessoal na LGPD?',
+            verso: 'Informação relacionada a pessoa natural IDENTIFICADA ou IDENTIFICÁVEL. Ex: nome, CPF, e-mail, endereço, telefone.',
+            tags: ['LGPD', 'dado pessoal'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-16-2',
+            frente: 'O que são dados pessoais sensíveis?',
+            verso: 'Dados sobre: origem racial/étnica, convicção religiosa, opinião política, filiação sindical, dados de saúde, vida sexual, dado genético ou biométrico. Tratamento mais restritivo!',
+            tags: ['dado sensível', 'conceito'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-16-3',
+            frente: 'Qual a diferença entre Controlador e Operador?',
+            verso: 'CONTROLADOR: pessoa que DECIDE sobre o tratamento (finalidade e meios). OPERADOR: pessoa que REALIZA o tratamento em nome do controlador.',
+            tags: ['controlador', 'operador'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-16-4',
+            frente: 'Qual o papel do Encarregado (DPO) na LGPD?',
+            verso: 'Canal de comunicação entre o controlador/operador, os titulares dos dados e a ANPD. Sua identidade deve ser divulgada publicamente.',
+            tags: ['encarregado', 'DPO'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-16-5',
+            frente: 'Quantas bases legais existem para tratamento de dados pessoais e sensíveis?',
+            verso: 'Dados PESSOAIS: 10 bases legais. Dados SENSÍVEIS: 8 bases legais (não tem legítimo interesse nem proteção ao crédito).',
+            tags: ['bases legais', 'quantidade'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-16-6',
+            frente: 'Qual a multa máxima prevista na LGPD?',
+            verso: 'Multa simples de até 2% do faturamento bruto, limitada a R$ 50 MILHÕES por infração. Multa diária também limitada a R$ 50 milhões.',
+            tags: ['sanções', 'multa'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-16-7',
+            frente: 'O que é a ANPD?',
+            verso: 'Autoridade Nacional de Proteção de Dados. Órgão da administração pública federal responsável por zelar, implementar, fiscalizar e aplicar sanções relativas à LGPD.',
+            tags: ['ANPD', 'órgão'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-16-8',
+            frente: 'O dado anonimizado está sujeito à LGPD?',
+            verso: 'NÃO. Dado anonimizado é aquele que não pode ser identificado. Se verdadeiramente anônimo, não é considerado dado pessoal e não se aplica a LGPD.',
+            tags: ['anonimizado', 'aplicação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-16-9',
+            frente: 'Quais são os principais direitos do titular dos dados?',
+            verso: 'Confirmação de tratamento, ACESSO aos dados, CORREÇÃO, ANONIMIZAÇÃO/bloqueio/eliminação, PORTABILIDADE, informação sobre compartilhamento, REVOGAÇÃO do consentimento.',
+            tags: ['direitos', 'titular'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-16-10',
+            frente: 'O consentimento é a única base legal para tratamento de dados?',
+            verso: 'NÃO! Existem outras bases: obrigação legal, execução de políticas públicas, execução de contrato, exercício regular de direitos, proteção da vida, tutela da saúde, legítimo interesse, proteção ao crédito.',
+            tags: ['consentimento', 'bases legais'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'da-q-16-1',
+            enunciado: 'De acordo com a LGPD, dado pessoal é:',
+            alternativas: [
+              { letra: 'A', texto: 'informação relacionada apenas a pessoa jurídica.' },
+              { letra: 'B', texto: 'informação relacionada a pessoa natural identificada ou identificável.' },
+              { letra: 'C', texto: 'qualquer informação em banco de dados.' },
+              { letra: 'D', texto: 'dado sigiloso de empresa privada.' },
+              { letra: 'E', texto: 'informação exclusivamente em meio digital.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Dado pessoal é informação relacionada a pessoa natural IDENTIFICADA ou IDENTIFICÁVEL (art. 5º, I, LGPD). Não inclui pessoa jurídica.',
+            dificuldade: 'Fácil',
+            competencia: 'Conceito de dado pessoal',
+            banca: 'IADES',
+            tags: ['dado pessoal', 'conceito'],
+          },
+          {
+            id: 'da-q-16-2',
+            enunciado: 'São considerados dados pessoais sensíveis, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'origem racial ou étnica.' },
+              { letra: 'B', texto: 'convicção religiosa.' },
+              { letra: 'C', texto: 'dado sobre a saúde.' },
+              { letra: 'D', texto: 'número de telefone.' },
+              { letra: 'E', texto: 'dado genético ou biométrico.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Número de telefone é dado pessoal comum, não sensível. Dados sensíveis: origem, religião, opinião política, sindicato, saúde, vida sexual, biometria, genética.',
+            dificuldade: 'Fácil',
+            competencia: 'Dados sensíveis',
+            banca: 'IADES',
+            tags: ['sensíveis', 'exceção'],
+          },
+          {
+            id: 'da-q-16-3',
+            enunciado: 'Na LGPD, o agente de tratamento que compete tomar as decisões referentes ao tratamento de dados pessoais é o:',
+            alternativas: [
+              { letra: 'A', texto: 'operador.' },
+              { letra: 'B', texto: 'controlador.' },
+              { letra: 'C', texto: 'encarregado.' },
+              { letra: 'D', texto: 'titular.' },
+              { letra: 'E', texto: 'processador.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O CONTROLADOR é a pessoa (natural ou jurídica) a quem COMPETEM AS DECISÕES referentes ao tratamento de dados pessoais (art. 5º, VI).',
+            dificuldade: 'Fácil',
+            competencia: 'Agentes de tratamento',
+            banca: 'IADES',
+            tags: ['controlador', 'decisões'],
+          },
+          {
+            id: 'da-q-16-4',
+            enunciado: 'A multa simples prevista na LGPD pode chegar a:',
+            alternativas: [
+              { letra: 'A', texto: '1% do faturamento, limitada a R$ 10 milhões.' },
+              { letra: 'B', texto: '2% do faturamento, limitada a R$ 50 milhões por infração.' },
+              { letra: 'C', texto: '5% do faturamento, sem limite máximo.' },
+              { letra: 'D', texto: '10% do faturamento, limitada a R$ 100 milhões.' },
+              { letra: 'E', texto: '3% do faturamento, limitada a R$ 30 milhões.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A multa simples pode ser de até 2% do faturamento bruto, limitada a R$ 50 MILHÕES por infração (art. 52, II).',
+            dificuldade: 'Fácil',
+            competencia: 'Sanções',
+            banca: 'IADES',
+            tags: ['multa', 'sanções'],
+          },
+          {
+            id: 'da-q-16-5',
+            enunciado: 'O tratamento de dados pessoais na LGPD pode ser realizado:',
+            alternativas: [
+              { letra: 'A', texto: 'somente com o consentimento do titular.' },
+              { letra: 'B', texto: 'apenas para cumprimento de obrigação legal.' },
+              { letra: 'C', texto: 'com base em diversas hipóteses legais, não apenas consentimento.' },
+              { letra: 'D', texto: 'exclusivamente pelo poder público.' },
+              { letra: 'E', texto: 'somente mediante autorização judicial.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O tratamento pode ocorrer com base em DIVERSAS hipóteses legais (art. 7º): consentimento, obrigação legal, políticas públicas, contrato, legítimo interesse, etc.',
+            dificuldade: 'Fácil',
+            competencia: 'Bases legais',
+            banca: 'IADES',
+            tags: ['tratamento', 'bases legais'],
+          },
+          {
+            id: 'da-q-16-6',
+            enunciado: 'O encarregado (DPO) na LGPD tem como função principal:',
+            alternativas: [
+              { letra: 'A', texto: 'decidir sobre o tratamento dos dados.' },
+              { letra: 'B', texto: 'executar o tratamento em nome do controlador.' },
+              { letra: 'C', texto: 'atuar como canal de comunicação entre controlador, titulares e ANPD.' },
+              { letra: 'D', texto: 'aplicar sanções administrativas.' },
+              { letra: 'E', texto: 'autorizar a transferência internacional de dados.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O Encarregado (DPO) atua como CANAL DE COMUNICAÇÃO entre o controlador, os titulares dos dados e a ANPD (art. 5º, VIII).',
+            dificuldade: 'Média',
+            competencia: 'Encarregado',
+            banca: 'IADES',
+            tags: ['encarregado', 'DPO'],
+          },
+          {
+            id: 'da-q-16-7',
+            enunciado: 'O dado anonimizado, segundo a LGPD:',
+            alternativas: [
+              { letra: 'A', texto: 'é considerado dado pessoal sensível.' },
+              { letra: 'B', texto: 'não é considerado dado pessoal, desde que não possa ser revertido.' },
+              { letra: 'C', texto: 'está sujeito às mesmas regras dos dados pessoais.' },
+              { letra: 'D', texto: 'só pode ser tratado com consentimento.' },
+              { letra: 'E', texto: 'é sempre ilegal seu uso.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Dado anonimizado NÃO é considerado dado pessoal, desde que o processo de anonimização não possa ser revertido com meios técnicos razoáveis.',
+            dificuldade: 'Média',
+            competencia: 'Dado anonimizado',
+            banca: 'IADES',
+            tags: ['anonimizado', 'conceito'],
+          },
+          {
+            id: 'da-q-16-8',
+            enunciado: 'A ANPD (Autoridade Nacional de Proteção de Dados) é:',
+            alternativas: [
+              { letra: 'A', texto: 'órgão do Poder Judiciário.' },
+              { letra: 'B', texto: 'empresa pública vinculada ao Ministério da Economia.' },
+              { letra: 'C', texto: 'órgão da administração pública federal.' },
+              { letra: 'D', texto: 'organização não-governamental.' },
+              { letra: 'E', texto: 'agência reguladora vinculada ao Senado.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A ANPD é ÓRGÃO DA ADMINISTRAÇÃO PÚBLICA FEDERAL, integrante da Presidência da República (art. 55-A).',
+            dificuldade: 'Fácil',
+            competencia: 'ANPD',
+            banca: 'IADES',
+            tags: ['ANPD', 'natureza'],
+          },
+          {
+            id: 'da-q-16-9',
+            enunciado: 'São direitos do titular dos dados, segundo a LGPD, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'confirmação da existência de tratamento.' },
+              { letra: 'B', texto: 'acesso aos dados.' },
+              { letra: 'C', texto: 'correção de dados incompletos.' },
+              { letra: 'D', texto: 'alteração unilateral dos dados do controlador.' },
+              { letra: 'E', texto: 'portabilidade dos dados.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'O titular pode corrigir SEUS dados, não alterar dados do controlador. Direitos: confirmação, acesso, correção, anonimização, portabilidade, eliminação, etc.',
+            dificuldade: 'Média',
+            competencia: 'Direitos do titular',
+            banca: 'IADES',
+            tags: ['direitos', 'titular'],
+          },
+          {
+            id: 'da-q-16-10',
+            enunciado: 'Para o tratamento de dados pessoais SENSÍVEIS, a LGPD prevê:',
+            alternativas: [
+              { letra: 'A', texto: 'as mesmas bases legais dos dados pessoais comuns.' },
+              { letra: 'B', texto: 'bases legais mais restritivas, sem legítimo interesse.' },
+              { letra: 'C', texto: 'apenas o consentimento como base legal.' },
+              { letra: 'D', texto: 'vedação absoluta de tratamento.' },
+              { letra: 'E', texto: 'autorização exclusiva da ANPD.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Dados sensíveis têm bases legais mais RESTRITIVAS (8 bases). NÃO há legítimo interesse nem proteção ao crédito como bases para sensíveis.',
+            dificuldade: 'Média',
+            competencia: 'Dados sensíveis',
+            banca: 'IADES',
+            tags: ['sensíveis', 'bases legais'],
+          },
+        ],
+      },
+    },
   ],
 };

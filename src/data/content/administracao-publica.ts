@@ -7663,5 +7663,2237 @@ Na **Administração Pública Gerencial**, indicadores são fundamentais para:
         ],
       },
     },
+    {
+      id: 'ap-topico-13',
+      numero: 13,
+      titulo: 'Políticas Públicas',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Conceito de Política Pública
+
+> "Conjunto de decisões e ações do governo para resolver problemas públicos e atender demandas da sociedade."
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Quem faz** | Estado (governo) |
+| **Para quê** | Resolver problemas públicos |
+| **Como** | Decisões, programas, ações |
+| **Para quem** | Sociedade (público-alvo) |
+
+### Tipologia de Políticas Públicas (Lowi)
+
+| Tipo | Característica | Exemplo |
+|------|----------------|---------|
+| **Distributivas** | Benefícios concentrados, custos difusos | Subsídios, isenções fiscais |
+| **Redistributivas** | Transferem recursos entre grupos | Bolsa Família, reforma agrária |
+| **Regulatórias** | Estabelecem regras de comportamento | Código de trânsito, normas sanitárias |
+| **Constitutivas** | Definem regras do jogo político | Reforma eleitoral, divisão de poderes |
+
+### Ciclo de Políticas Públicas
+
+| Fase | Pergunta-chave | Atividades |
+|------|----------------|------------|
+| **1. Formação da Agenda** | O que é problema? | Identificar problemas, definir prioridades |
+| **2. Formulação** | Qual a solução? | Elaborar alternativas, decidir curso de ação |
+| **3. Implementação** | Como executar? | Colocar em prática, alocar recursos |
+| **4. Monitoramento** | Está funcionando? | Acompanhar execução, corrigir desvios |
+| **5. Avaliação** | Funcionou? | Medir resultados, impactos, efetividade |
+
+### Tipos de Avaliação
+
+| Tipo | Momento | Foco |
+|------|---------|------|
+| **Ex-ante** | ANTES da implementação | Viabilidade, previsão de impactos |
+| **Formativa** | DURANTE a implementação | Ajustes, melhorias |
+| **Ex-post (somativa)** | APÓS a implementação | Resultados, impactos alcançados |
+
+### Para IADES:
+- Ciclo é ITERATIVO (não linear) - fases se sobrepõem
+- Agenda = o que entra ou não na pauta de decisões
+- Implementação ≠ Formulação (problemas na execução)
+- Avaliação pode retroalimentar todo o ciclo
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito de Políticas Públicas
+
+#### 1.1 Definições Clássicas
+
+**Thomas Dye (1972):**
+> "Política pública é tudo o que os governos decidem fazer ou não fazer."
+
+**David Easton:**
+> "Alocação autoritativa de valores para a sociedade."
+
+**Celina Souza:**
+> "Campo do conhecimento que busca colocar o governo em ação e analisar essa ação."
+
+#### 1.2 Elementos Constitutivos
+- **Intencionalidade pública:** decisão de agir sobre problema
+- **Resposta a problema:** identificação de demanda social
+- **Conjunto de ações:** não apenas decisão, mas implementação
+- **Direcionamento a público específico:** beneficiários definidos
+
+### 2. Tipologia de Políticas Públicas
+
+#### 2.1 Classificação de Theodore Lowi (1964)
+
+**Políticas DISTRIBUTIVAS:**
+- Benefícios concentrados em grupos específicos
+- Custos difusos pela sociedade
+- Baixo conflito político
+- Exemplos: subsídios agrícolas, isenções fiscais, obras localizadas
+- Característica: "todos ganham" (aparentemente)
+
+**Políticas REDISTRIBUTIVAS:**
+- Transferência de recursos entre grupos sociais
+- Alto conflito político (ganhadores vs. perdedores)
+- Exemplos: Bolsa Família, progressividade tributária, reforma agrária
+- Característica: "uns ganham, outros perdem"
+
+**Políticas REGULATÓRIAS:**
+- Estabelecem regras de comportamento
+- Afetam setores específicos
+- Conflito moderado
+- Exemplos: código de trânsito, normas sanitárias, regulação de preços
+- Característica: definem o que pode ou não ser feito
+
+**Políticas CONSTITUTIVAS (ou Estruturadoras):**
+- Definem regras do jogo político
+- Moldam a estrutura do Estado
+- Exemplos: reforma eleitoral, federalismo, separação de poderes
+- Característica: "regras sobre regras"
+
+#### 2.2 Outras Classificações
+
+**Por área de atuação:**
+- Sociais (saúde, educação, assistência)
+- Econômicas (fiscal, monetária, industrial)
+- Infraestrutura (transporte, energia, saneamento)
+- Ambientais (preservação, sustentabilidade)
+
+**Por abrangência:**
+- Universais (toda a população)
+- Focalizadas (grupos específicos)
+
+### 3. Ciclo de Políticas Públicas
+
+O ciclo é um modelo HEURÍSTICO (analítico), não uma descrição rígida da realidade.
+
+#### 3.1 Formação da Agenda (Agenda-Setting)
+
+**O que é agenda?**
+Lista de problemas que merecem atenção do governo.
+
+**Tipos de agenda:**
+| Tipo | Descrição |
+|------|-----------|
+| **Sistêmica** | Problemas percebidos pela sociedade |
+| **Governamental** | Problemas que o governo considera |
+| **Decisória** | Problemas sobre os quais o governo age |
+
+**Modelo de Kingdon (Múltiplos Fluxos):**
+| Fluxo | Conteúdo |
+|-------|----------|
+| **Problemas** | Indicadores, crises, feedback |
+| **Soluções** | Alternativas técnicas disponíveis |
+| **Político** | Clima político, mudanças de governo |
+| **Janela de oportunidade** | Quando os três fluxos convergem |
+
+#### 3.2 Formulação de Alternativas
+
+- Identificação de opções de ação
+- Análise de custos e benefícios
+- Consideração de viabilidade técnica e política
+- Tomada de decisão
+
+**Modelos de decisão:**
+| Modelo | Característica |
+|--------|----------------|
+| **Racional** | Otimização, análise completa (ideal) |
+| **Incremental** | Mudanças graduais, ajustes marginais |
+| **Garbage Can** | Soluções buscando problemas, casualidade |
+
+#### 3.3 Implementação
+
+Fase em que a política "sai do papel" e é executada.
+
+**Abordagens:**
+| Abordagem | Perspectiva |
+|-----------|-------------|
+| **Top-down** | Decisão no topo, execução na base (comando e controle) |
+| **Bottom-up** | Importância dos implementadores de linha de frente |
+
+**Problemas comuns:**
+- Falta de recursos
+- Resistência dos implementadores
+- Ambiguidade de objetivos
+- Coordenação intergovernamental
+- Captura por interesses
+
+#### 3.4 Monitoramento
+
+- Acompanhamento contínuo da execução
+- Verificação de indicadores de processo
+- Identificação de desvios e correção
+- Geração de informações para gestão
+
+**Diferença de Avaliação:**
+Monitoramento é CONTÍNUO; Avaliação é em momentos específicos.
+
+#### 3.5 Avaliação
+
+**Tipos por momento:**
+| Tipo | Quando | Para quê |
+|------|--------|----------|
+| **Ex-ante** | Antes de implementar | Prever viabilidade, estimar impactos |
+| **Formativa** | Durante execução | Ajustar, corrigir rumos |
+| **Ex-post (somativa)** | Após conclusão | Medir resultados, accountability |
+
+**Critérios de avaliação:**
+| Critério | Pergunta |
+|----------|----------|
+| **Eficiência** | Os recursos foram bem utilizados? |
+| **Eficácia** | Os objetivos foram alcançados? |
+| **Efetividade** | Houve mudança na situação-problema? |
+| **Equidade** | Os benefícios foram distribuídos justamente? |
+| **Sustentabilidade** | Os resultados se mantêm no tempo? |
+
+### 4. Atores e Arenas
+
+#### 4.1 Atores
+- Governamentais: Executivo, Legislativo, Judiciário, burocracia
+- Não governamentais: sociedade civil, mídia, grupos de interesse
+- Internacionais: organizações, outros países
+
+#### 4.2 Arenas
+- Formais: parlamento, órgãos de governo
+- Informais: negociações, lobbies
+- Híbridas: conselhos de políticas públicas
+        `,
+
+        pontosChave: [
+          'Política pública = decisões e ações do Estado para resolver problemas públicos',
+          'Tipologia de Lowi: Distributivas, Redistributivas, Regulatórias, Constitutivas',
+          'Ciclo: Agenda → Formulação → Implementação → Monitoramento → Avaliação',
+          'O ciclo é ITERATIVO, não linear (fases se sobrepõem)',
+          'Agenda-setting: definir QUAIS problemas entram na pauta governamental',
+          'Modelo de Kingdon: convergência de fluxos (problemas, soluções, político)',
+          'Implementação: abordagens top-down (comando) vs bottom-up (implementadores)',
+          'Avaliação: ex-ante (antes), formativa (durante), ex-post/somativa (depois)',
+          'Eficácia = atingir objetivos; Efetividade = mudar a realidade',
+          'Monitoramento é contínuo; Avaliação é pontual',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Ciclo Linear',
+            descricao: 'O ciclo de políticas públicas NÃO é linear nem sequencial rígido',
+            dica: 'As fases se sobrepõem e retroalimentam - é iterativo',
+          },
+          {
+            titulo: 'Eficácia x Efetividade',
+            descricao: 'Eficácia = atingir metas. Efetividade = impacto real na sociedade',
+            dica: 'Pode ter eficácia (meta batida) sem efetividade (problema não resolvido)',
+          },
+          {
+            titulo: 'Monitoramento x Avaliação',
+            descricao: 'Monitoramento é CONTÍNUO durante execução; Avaliação é em momentos específicos',
+            dica: 'Monitoramento acompanha; Avaliação julga resultados',
+          },
+          {
+            titulo: 'Formulação x Implementação',
+            descricao: 'Uma boa formulação NÃO garante boa implementação',
+            dica: 'Há "brechas de implementação" por falta de recursos, resistência, etc.',
+          },
+          {
+            titulo: 'Top-down x Bottom-up',
+            descricao: 'Top-down vê implementação como execução; Bottom-up valoriza adaptação local',
+            dica: 'Na prática, há combinação das duas abordagens',
+          },
+          {
+            titulo: 'Avaliação Ex-ante',
+            descricao: 'Ex-ante é ANTES da implementação, não durante',
+            dica: 'Ex-ante prevê; Formativa ajusta; Ex-post mede resultados',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'DRRC',
+            significado: 'Tipologia de Lowi',
+            frase: 'Distributiva, Redistributiva, Regulatória, Constitutiva',
+          },
+          {
+            termo: 'AFIMA',
+            significado: 'Ciclo de Políticas Públicas',
+            frase: 'Agenda, Formulação, Implementação, Monitoramento, Avaliação',
+          },
+          {
+            termo: '3Es + Equidade',
+            significado: 'Critérios de avaliação',
+            frase: 'Eficiência (recursos), Eficácia (metas), Efetividade (impacto) + Equidade (justiça)',
+          },
+          {
+            termo: 'EFE',
+            significado: 'Momentos da avaliação',
+            frase: 'Ex-ante (antes), Formativa (durante), Ex-post (depois)',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ap-fc-13-1',
+            frente: 'O que é política pública?',
+            verso: 'Conjunto de decisões e ações do Estado (governo) para resolver PROBLEMAS PÚBLICOS e atender demandas da sociedade. Envolve definição de prioridades, alocação de recursos e implementação de programas.',
+            tags: ['conceito', 'política pública'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-13-2',
+            frente: 'Quais são os tipos de políticas públicas segundo Lowi?',
+            verso: 'DISTRIBUTIVAS (benefícios concentrados), REDISTRIBUTIVAS (transferência entre grupos), REGULATÓRIAS (regras de comportamento), CONSTITUTIVAS (regras do jogo político).',
+            tags: ['Lowi', 'tipologia'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-13-3',
+            frente: 'Quais são as fases do ciclo de políticas públicas?',
+            verso: '1) Formação da AGENDA 2) FORMULAÇÃO de alternativas 3) IMPLEMENTAÇÃO 4) MONITORAMENTO 5) AVALIAÇÃO. O ciclo é ITERATIVO (não linear).',
+            tags: ['ciclo', 'fases'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-13-4',
+            frente: 'O que é a fase de agenda-setting?',
+            verso: 'É a fase em que se define QUAIS PROBLEMAS entram na pauta de decisões do governo. Nem todo problema social vira problema político. O modelo de Kingdon explica pela convergência de três fluxos.',
+            tags: ['agenda', 'Kingdon'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-13-5',
+            frente: 'Qual a diferença entre avaliação ex-ante, formativa e ex-post?',
+            verso: 'EX-ANTE: ANTES de implementar (viabilidade). FORMATIVA: DURANTE a execução (ajustes). EX-POST (somativa): APÓS conclusão (resultados e impactos).',
+            tags: ['avaliação', 'tipos'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-13-6',
+            frente: 'Qual a diferença entre eficácia e efetividade?',
+            verso: 'EFICÁCIA: atingir os OBJETIVOS propostos (fazer a coisa certa). EFETIVIDADE: produzir IMPACTO REAL na situação-problema (mudança na sociedade). Pode haver eficácia sem efetividade.',
+            tags: ['eficácia', 'efetividade'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-13-7',
+            frente: 'O que é uma política redistributiva?',
+            verso: 'Política que TRANSFERE recursos de um grupo social para outro. Gera alto conflito político (ganhadores vs perdedores). Exemplos: Bolsa Família, progressividade tributária, reforma agrária.',
+            tags: ['redistributiva', 'Lowi'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-13-8',
+            frente: 'O que é a abordagem top-down na implementação?',
+            verso: 'Visão que enfatiza o COMANDO do topo para a base. A decisão vem dos formuladores e deve ser executada fielmente pelos implementadores. Foco no controle e na hierarquia.',
+            tags: ['implementação', 'top-down'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-13-9',
+            frente: 'Qual a diferença entre monitoramento e avaliação?',
+            verso: 'MONITORAMENTO: acompanhamento CONTÍNUO durante a execução (indicadores de processo). AVALIAÇÃO: análise em MOMENTOS ESPECÍFICOS (antes, durante, depois) para julgar resultados.',
+            tags: ['monitoramento', 'avaliação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-13-10',
+            frente: 'O que é a "janela de oportunidade" no modelo de Kingdon?',
+            verso: 'É o momento em que os TRÊS FLUXOS convergem: problemas (indicadores, crises), soluções (alternativas técnicas) e político (clima, mudança de governo). Quando a janela abre, a política pode entrar na agenda.',
+            tags: ['Kingdon', 'janela'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ap-q-13-1',
+            enunciado: 'De acordo com a tipologia de Theodore Lowi, a política que estabelece regras de comportamento para setores específicos é classificada como:',
+            alternativas: [
+              { letra: 'A', texto: 'distributiva.' },
+              { letra: 'B', texto: 'redistributiva.' },
+              { letra: 'C', texto: 'regulatória.' },
+              { letra: 'D', texto: 'constitutiva.' },
+              { letra: 'E', texto: 'compensatória.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Políticas REGULATÓRIAS estabelecem REGRAS de comportamento para setores específicos. Exemplos: código de trânsito, normas sanitárias, regulação de preços.',
+            dificuldade: 'facil',
+            competencia: 'Tipologia de Lowi',
+            banca: 'IADES',
+            tags: ['Lowi', 'regulatória'],
+          },
+          {
+            id: 'ap-q-13-2',
+            enunciado: 'A fase do ciclo de políticas públicas em que se define quais problemas entrarão na pauta de decisões governamentais é denominada:',
+            alternativas: [
+              { letra: 'A', texto: 'formulação.' },
+              { letra: 'B', texto: 'implementação.' },
+              { letra: 'C', texto: 'avaliação.' },
+              { letra: 'D', texto: 'formação da agenda.' },
+              { letra: 'E', texto: 'monitoramento.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'A FORMAÇÃO DA AGENDA (agenda-setting) é a fase em que se define QUAIS PROBLEMAS entrarão ou não na pauta de decisões do governo.',
+            dificuldade: 'facil',
+            competencia: 'Ciclo de políticas públicas',
+            banca: 'IADES',
+            tags: ['agenda', 'ciclo'],
+          },
+          {
+            id: 'ap-q-13-3',
+            enunciado: 'A avaliação realizada ANTES da implementação de uma política pública, com foco na viabilidade e previsão de impactos, é denominada avaliação:',
+            alternativas: [
+              { letra: 'A', texto: 'formativa.' },
+              { letra: 'B', texto: 'somativa.' },
+              { letra: 'C', texto: 'ex-ante.' },
+              { letra: 'D', texto: 'ex-post.' },
+              { letra: 'E', texto: 'processual.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Avaliação EX-ANTE é realizada ANTES da implementação, focando na VIABILIDADE e na PREVISÃO de impactos da política.',
+            dificuldade: 'facil',
+            competencia: 'Tipos de avaliação',
+            banca: 'IADES',
+            tags: ['avaliação', 'ex-ante'],
+          },
+          {
+            id: 'ap-q-13-4',
+            enunciado: 'O critério de avaliação que verifica se a política produziu mudanças reais na situação-problema é denominado:',
+            alternativas: [
+              { letra: 'A', texto: 'eficiência.' },
+              { letra: 'B', texto: 'eficácia.' },
+              { letra: 'C', texto: 'efetividade.' },
+              { letra: 'D', texto: 'economicidade.' },
+              { letra: 'E', texto: 'equidade.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'EFETIVIDADE mede se a política produziu MUDANÇAS REAIS na situação-problema, ou seja, o IMPACTO na sociedade. Diferente de eficácia (atingir metas).',
+            dificuldade: 'medio',
+            competencia: 'Critérios de avaliação',
+            banca: 'IADES',
+            tags: ['efetividade', 'impacto'],
+          },
+          {
+            id: 'ap-q-13-5',
+            enunciado: 'Segundo Lowi, políticas que transferem recursos de um grupo social para outro, gerando alto conflito político, são classificadas como:',
+            alternativas: [
+              { letra: 'A', texto: 'distributivas.' },
+              { letra: 'B', texto: 'redistributivas.' },
+              { letra: 'C', texto: 'regulatórias.' },
+              { letra: 'D', texto: 'constitutivas.' },
+              { letra: 'E', texto: 'alocativas.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Políticas REDISTRIBUTIVAS transferem recursos entre grupos sociais, gerando ALTO CONFLITO (ganhadores vs perdedores). Ex: Bolsa Família, reforma agrária.',
+            dificuldade: 'medio',
+            competencia: 'Tipologia de Lowi',
+            banca: 'IADES',
+            tags: ['redistributiva', 'conflito'],
+          },
+          {
+            id: 'ap-q-13-6',
+            enunciado: 'No modelo de Kingdon, a convergência dos fluxos de problemas, soluções e político cria uma:',
+            alternativas: [
+              { letra: 'A', texto: 'crise institucional.' },
+              { letra: 'B', texto: 'janela de oportunidade.' },
+              { letra: 'C', texto: 'avaliação formativa.' },
+              { letra: 'D', texto: 'decisão incremental.' },
+              { letra: 'E', texto: 'política distributiva.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'No modelo de Kingdon, quando os três FLUXOS (problemas, soluções, político) CONVERGEM, abre-se uma JANELA DE OPORTUNIDADE para que uma política entre na agenda.',
+            dificuldade: 'medio',
+            competencia: 'Modelo de Kingdon',
+            banca: 'IADES',
+            tags: ['Kingdon', 'janela'],
+          },
+          {
+            id: 'ap-q-13-7',
+            enunciado: 'A abordagem de implementação que enfatiza a importância dos implementadores de linha de frente e a adaptação local é denominada:',
+            alternativas: [
+              { letra: 'A', texto: 'top-down.' },
+              { letra: 'B', texto: 'bottom-up.' },
+              { letra: 'C', texto: 'incremental.' },
+              { letra: 'D', texto: 'racional.' },
+              { letra: 'E', texto: 'garbage can.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A abordagem BOTTOM-UP valoriza o papel dos IMPLEMENTADORES de linha de frente (burocratas de rua) e a ADAPTAÇÃO LOCAL das políticas.',
+            dificuldade: 'medio',
+            competencia: 'Implementação',
+            banca: 'IADES',
+            tags: ['bottom-up', 'implementação'],
+          },
+          {
+            id: 'ap-q-13-8',
+            enunciado: 'Sobre o ciclo de políticas públicas, é correto afirmar que:',
+            alternativas: [
+              { letra: 'A', texto: 'é um processo linear e sequencial obrigatório.' },
+              { letra: 'B', texto: 'as fases são estanques e não se relacionam.' },
+              { letra: 'C', texto: 'a avaliação ocorre apenas ao final do processo.' },
+              { letra: 'D', texto: 'é um modelo iterativo em que as fases se sobrepõem.' },
+              { letra: 'E', texto: 'não inclui a fase de monitoramento.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'O ciclo de políticas públicas é ITERATIVO (não linear), as fases SE SOBREPÕEM e se retroalimentam. É um modelo analítico, não uma sequência rígida.',
+            dificuldade: 'medio',
+            competencia: 'Ciclo de políticas',
+            banca: 'IADES',
+            tags: ['ciclo', 'iterativo'],
+          },
+          {
+            id: 'ap-q-13-9',
+            enunciado: 'O acompanhamento contínuo da execução de uma política pública, com verificação de indicadores de processo, caracteriza:',
+            alternativas: [
+              { letra: 'A', texto: 'a formulação.' },
+              { letra: 'B', texto: 'a avaliação ex-ante.' },
+              { letra: 'C', texto: 'o monitoramento.' },
+              { letra: 'D', texto: 'a avaliação ex-post.' },
+              { letra: 'E', texto: 'a formação da agenda.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O MONITORAMENTO é o acompanhamento CONTÍNUO da execução, verificando indicadores de processo e identificando desvios para correção.',
+            dificuldade: 'facil',
+            competencia: 'Monitoramento',
+            banca: 'IADES',
+            tags: ['monitoramento', 'contínuo'],
+          },
+          {
+            id: 'ap-q-13-10',
+            enunciado: 'São exemplos de políticas distributivas, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'subsídios agrícolas.' },
+              { letra: 'B', texto: 'isenções fiscais para empresas.' },
+              { letra: 'C', texto: 'obras de infraestrutura localizadas.' },
+              { letra: 'D', texto: 'bolsa família e reforma agrária.' },
+              { letra: 'E', texto: 'financiamentos subsidiados.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Bolsa Família e reforma agrária são políticas REDISTRIBUTIVAS (transferem recursos entre grupos). Distributivas têm benefícios concentrados e custos difusos.',
+            dificuldade: 'medio',
+            competencia: 'Tipologia de políticas',
+            banca: 'IADES',
+            tags: ['distributiva', 'redistributiva'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ap-topico-14',
+      numero: 14,
+      titulo: 'Planejamento e Orçamento Público',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Instrumentos de Planejamento Orçamentário (Art. 165, CF)
+
+| Instrumento | Vigência | Iniciativa | Conteúdo |
+|-------------|----------|------------|----------|
+| **PPA** | 4 anos | Executivo | Diretrizes, objetivos, metas (DOM) |
+| **LDO** | 1 ano | Executivo | Metas e prioridades, orienta LOA |
+| **LOA** | 1 ano | Executivo | Previsão de receitas e fixação de despesas |
+
+### Plano Plurianual (PPA)
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Vigência** | 4 anos (inicia no 2º ano do mandato, vai até 1º ano do seguinte) |
+| **Conteúdo** | Diretrizes, Objetivos e Metas (DOM) |
+| **Abrangência** | Despesas de capital e programas de duração continuada |
+| **Envio ao Legislativo** | Até 4 meses antes do encerramento do 1º exercício (31/ago) |
+| **Devolução** | Até encerramento da sessão legislativa |
+
+### Lei de Diretrizes Orçamentárias (LDO)
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Vigência** | 1 ano (orienta a elaboração da LOA) |
+| **Conteúdo** | Metas e prioridades, alterações tributárias, política de pessoal |
+| **Anexos obrigatórios** | Anexo de Metas Fiscais e Anexo de Riscos Fiscais (LRF) |
+| **Envio ao Legislativo** | Até 8,5 meses antes do encerramento (15/abr) |
+| **Devolução** | Até encerramento do 1º período da sessão (17/jul) |
+
+### Lei Orçamentária Anual (LOA)
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Vigência** | 1 ano (exercício financeiro) |
+| **Conteúdo** | Previsão de receitas e fixação de despesas |
+| **Orçamentos** | Fiscal, Investimentos das estatais, Seguridade social |
+| **Envio ao Legislativo** | Até 4 meses antes do encerramento (31/ago) |
+| **Devolução** | Até encerramento da sessão legislativa (22/dez) |
+
+### Princípios Orçamentários
+
+| Princípio | Significado |
+|-----------|-------------|
+| **Unidade** | Orçamento único por ente |
+| **Universalidade** | Todas as receitas e despesas |
+| **Anualidade** | Vigência de um exercício |
+| **Exclusividade** | Só matéria orçamentária (exceções: créditos e operações) |
+| **Não vinculação** | Receita de impostos não vinculada (exceções: saúde, educação) |
+| **Equilíbrio** | Despesas ≤ Receitas |
+
+### Para IADES:
+- PPA é o plano de MÉDIO PRAZO (4 anos)
+- LDO é o ELO entre PPA e LOA
+- LOA não pode conter dispositivo estranho à previsão de receita/fixação de despesa
+- Créditos adicionais: suplementares, especiais, extraordinários
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Sistema de Planejamento Orçamentário
+
+O sistema integra três instrumentos legais, todos de iniciativa PRIVATIVA do Poder Executivo:
+
+**Hierarquia:**
+PPA → LDO → LOA
+
+O PPA define o planejamento de médio prazo; a LDO estabelece as prioridades anuais; a LOA operacionaliza os recursos.
+
+### 2. Plano Plurianual (PPA)
+
+#### 2.1 Conceito e Conteúdo
+O PPA estabelece, de forma regionalizada:
+- **Diretrizes**: orientações gerais
+- **Objetivos**: resultados a alcançar
+- **Metas**: quantificação dos objetivos
+
+**Macete DOM:** Diretrizes, Objetivos, Metas
+
+#### 2.2 Vigência
+- **4 anos**
+- Inicia no 2º ano do mandato do chefe do Executivo
+- Termina no 1º ano do mandato seguinte
+- Garante continuidade: novo governante executa 1 ano do plano anterior
+
+#### 2.3 Abrangência
+- Despesas de CAPITAL (investimentos, inversões, amortização da dívida)
+- Despesas decorrentes de programas de DURAÇÃO CONTINUADA
+
+**Regra importante:** Nenhum investimento com duração superior a um exercício pode ser iniciado sem prévia inclusão no PPA (art. 167, §1º, CF).
+
+#### 2.4 Prazos (União)
+- Envio ao Congresso: até 31/agosto do 1º ano do mandato
+- Devolução: até 22/dezembro (encerramento da sessão)
+
+### 3. Lei de Diretrizes Orçamentárias (LDO)
+
+#### 3.1 Conceito e Função
+A LDO é o ELO entre o PPA e a LOA. Orienta a elaboração do orçamento anual.
+
+#### 3.2 Conteúdo (Art. 165, §2º, CF)
+- Metas e prioridades da administração pública
+- Diretrizes para elaboração da LOA
+- Disposições sobre alterações na legislação tributária
+- Política de aplicação das agências financeiras de fomento
+
+#### 3.3 Conteúdo Adicional (LRF - Art. 4º)
+- **Anexo de Metas Fiscais:** metas de receita, despesa, resultado primário e nominal
+- **Anexo de Riscos Fiscais:** passivos contingentes, riscos fiscais
+
+#### 3.4 Prazos (União)
+- Envio ao Congresso: até 15/abril
+- Devolução: até 17/julho (encerramento do 1º período)
+- **Não pode haver recesso sem aprovação da LDO** (art. 57, §2º, CF)
+
+### 4. Lei Orçamentária Anual (LOA)
+
+#### 4.1 Conceito
+Lei que prevê RECEITAS e fixa DESPESAS para o exercício financeiro (1º jan a 31/dez).
+
+#### 4.2 Composição (Art. 165, §5º, CF)
+A LOA compreende três orçamentos:
+
+| Orçamento | Abrangência |
+|-----------|-------------|
+| **Fiscal** | Poderes, órgãos, fundos, fundações, empresas dependentes |
+| **Investimentos das estatais** | Empresas não dependentes do Tesouro |
+| **Seguridade social** | Saúde, previdência, assistência social |
+
+#### 4.3 Princípio da Exclusividade
+A LOA não conterá dispositivo estranho à previsão de receita e fixação de despesa.
+
+**Exceções permitidas:**
+- Autorização para abertura de créditos suplementares
+- Contratação de operações de crédito (inclusive ARO)
+
+#### 4.4 Prazos (União)
+- Envio ao Congresso: até 31/agosto
+- Devolução: até 22/dezembro
+
+### 5. Créditos Orçamentários e Adicionais
+
+#### 5.1 Créditos Orçamentários
+São as dotações previstas na LOA para cada despesa.
+
+#### 5.2 Créditos Adicionais
+Autorizações para despesas não computadas ou insuficientes na LOA.
+
+| Tipo | Finalidade | Autorização | Vigência |
+|------|------------|-------------|----------|
+| **Suplementar** | Reforço de dotação | LOA ou lei específica | Exercício |
+| **Especial** | Despesa sem dotação | Lei específica | Exercício (regra) |
+| **Extraordinário** | Urgente e imprevista | MP (União) ou decreto | Exercício |
+
+**Crédito extraordinário:** Guerras, calamidade, comoção interna.
+
+#### 5.3 Fontes de Recursos
+- Superávit financeiro apurado em balanço
+- Excesso de arrecadação
+- Anulação total ou parcial de dotações
+- Operações de crédito
+
+### 6. Princípios Orçamentários
+
+#### 6.1 Princípio da Unidade (Totalidade)
+Cada ente deve ter um ÚNICO orçamento para cada exercício.
+
+#### 6.2 Princípio da Universalidade
+TODAS as receitas e despesas devem constar do orçamento.
+
+#### 6.3 Princípio da Anualidade (Periodicidade)
+O orçamento é válido para UM EXERCÍCIO financeiro (1 ano).
+
+#### 6.4 Princípio do Orçamento Bruto
+Receitas e despesas devem constar pelos valores TOTAIS (sem deduções).
+
+#### 6.5 Princípio da Exclusividade
+LOA só trata de matéria orçamentária (exceções: créditos suplementares e operações de crédito).
+
+#### 6.6 Princípio da Não Vinculação (Não Afetação)
+Receita de IMPOSTOS não pode ser vinculada a órgão, fundo ou despesa.
+
+**Exceções constitucionais:**
+- Saúde e educação (mínimos constitucionais)
+- Repartição de receitas tributárias
+- Garantias às operações de crédito por ARO
+- Atividades da administração tributária
+
+#### 6.7 Princípio do Equilíbrio
+Despesas devem ser iguais ou menores que as receitas.
+
+### 7. Ciclo Orçamentário
+
+| Fase | Responsável | Atividade |
+|------|-------------|-----------|
+| Elaboração | Executivo | Prepara proposta |
+| Apreciação/Votação | Legislativo | Analisa e aprova |
+| Execução | Executivo | Realiza receitas e despesas |
+| Controle | Legislativo + TCU/TCE | Fiscaliza execução |
+        `,
+
+        pontosChave: [
+          'PPA: 4 anos, Diretrizes-Objetivos-Metas (DOM), despesas de capital',
+          'LDO: 1 ano, ELO entre PPA e LOA, metas fiscais, prioridades',
+          'LOA: 1 ano, previsão de receitas e fixação de despesas',
+          'LOA compõe-se de 3 orçamentos: Fiscal, Investimentos estatais, Seguridade',
+          'Iniciativa das leis orçamentárias: PRIVATIVA do Executivo',
+          'LDO não pode ser rejeitada sem aprovação (sessão não encerra)',
+          'Créditos adicionais: Suplementares, Especiais, Extraordinários',
+          'Crédito extraordinário: guerra, calamidade, comoção interna (MP)',
+          'Princípio da não vinculação: exceções para saúde, educação, repartição',
+          'Princípio da exclusividade: exceção para créditos suplementares e operações de crédito',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Vigência do PPA',
+            descricao: 'PPA é de 4 ANOS, não coincide com o mandato (inicia no 2º ano)',
+            dica: 'Novo governante executa 1 ano do PPA anterior e elabora o seu próprio',
+          },
+          {
+            titulo: 'LDO x LOA',
+            descricao: 'LDO ORIENTA a LOA, não é a mesma coisa',
+            dica: 'LDO = prioridades. LOA = números (receitas e despesas)',
+          },
+          {
+            titulo: 'Três Orçamentos na LOA',
+            descricao: 'LOA contém TRÊS orçamentos (fiscal, investimentos, seguridade)',
+            dica: 'Mas é uma única lei (princípio da unidade)',
+          },
+          {
+            titulo: 'Crédito Extraordinário',
+            descricao: 'Crédito extraordinário é para URGÊNCIA (guerra, calamidade)',
+            dica: 'Não confundir com suplementar (reforço) ou especial (nova despesa)',
+          },
+          {
+            titulo: 'Não Vinculação de Impostos',
+            descricao: 'A não vinculação é para IMPOSTOS, não para todas as receitas',
+            dica: 'Taxas e contribuições podem ser vinculadas',
+          },
+          {
+            titulo: 'Iniciativa Privativa',
+            descricao: 'As leis orçamentárias são de iniciativa PRIVATIVA do Executivo',
+            dica: 'Legislativo aprova, mas NÃO pode propor PPA, LDO ou LOA',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'DOM',
+            significado: 'Conteúdo do PPA',
+            frase: 'Diretrizes, Objetivos, Metas',
+          },
+          {
+            termo: '4-1-1',
+            significado: 'Vigência das leis orçamentárias',
+            frase: 'PPA = 4 anos / LDO = 1 ano / LOA = 1 ano',
+          },
+          {
+            termo: 'FIS',
+            significado: 'Orçamentos da LOA',
+            frase: 'Fiscal, Investimentos das estatais, Seguridade social',
+          },
+          {
+            termo: 'SE-E-EX',
+            significado: 'Créditos adicionais',
+            frase: 'Suplementar (reforço), Especial (novo), Extraordinário (urgente)',
+          },
+          {
+            termo: 'GCC',
+            significado: 'Crédito extraordinário',
+            frase: 'Guerra, Calamidade, Comoção interna',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ap-fc-14-1',
+            frente: 'Quais são os três instrumentos de planejamento orçamentário previstos na CF?',
+            verso: 'PPA (Plano Plurianual), LDO (Lei de Diretrizes Orçamentárias) e LOA (Lei Orçamentária Anual). Todos de iniciativa privativa do Poder Executivo.',
+            tags: ['planejamento', 'instrumentos'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-14-2',
+            frente: 'Qual a vigência do PPA e o que ele contém?',
+            verso: 'Vigência de 4 ANOS (do 2º ano do mandato ao 1º do seguinte). Contém: Diretrizes, Objetivos e Metas (DOM) para despesas de capital e programas de duração continuada.',
+            tags: ['PPA', 'vigência'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-14-3',
+            frente: 'Qual a função da LDO no sistema orçamentário?',
+            verso: 'A LDO é o ELO entre o PPA e a LOA. Estabelece metas e prioridades, orienta a elaboração da LOA, dispõe sobre alterações tributárias e política de pessoal.',
+            tags: ['LDO', 'função'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-14-4',
+            frente: 'Quais orçamentos compõem a LOA?',
+            verso: 'A LOA compreende TRÊS orçamentos: 1) Fiscal (Poderes e órgãos), 2) Investimentos das estatais (empresas não dependentes), 3) Seguridade social (saúde, previdência, assistência).',
+            tags: ['LOA', 'composição'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-14-5',
+            frente: 'Quais são os tipos de créditos adicionais?',
+            verso: 'SUPLEMENTARES (reforço de dotação existente), ESPECIAIS (despesa sem dotação prévia), EXTRAORDINÁRIOS (urgentes - guerra, calamidade, comoção interna).',
+            tags: ['créditos adicionais', 'tipos'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-14-6',
+            frente: 'O que é o princípio da não vinculação (não afetação)?',
+            verso: 'Proíbe vincular receita de IMPOSTOS a órgão, fundo ou despesa. Exceções: saúde, educação, repartição de receitas, garantias de ARO, administração tributária.',
+            tags: ['não vinculação', 'princípio'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-14-7',
+            frente: 'O que é o princípio da exclusividade orçamentária?',
+            verso: 'A LOA não pode conter dispositivo estranho à previsão de receita e fixação de despesa. Exceções: autorização para créditos suplementares e operações de crédito.',
+            tags: ['exclusividade', 'princípio'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-14-8',
+            frente: 'O que acontece se a LDO não for aprovada antes do recesso?',
+            verso: 'A sessão legislativa NÃO PODE ser encerrada sem a aprovação da LDO (art. 57, §2º, CF). Os parlamentares ficam até aprovar.',
+            tags: ['LDO', 'aprovação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-14-9',
+            frente: 'Quais são os anexos obrigatórios da LDO segundo a LRF?',
+            verso: 'Anexo de METAS FISCAIS (metas de receita, despesa, resultado primário e nominal) e Anexo de RISCOS FISCAIS (passivos contingentes, riscos orçamentários).',
+            tags: ['LDO', 'anexos', 'LRF'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-14-10',
+            frente: 'Qual o prazo de envio da LOA ao Legislativo?',
+            verso: 'Até 4 meses antes do encerramento do exercício financeiro (31 de agosto na União). Devolução até 22 de dezembro.',
+            tags: ['LOA', 'prazos'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ap-q-14-1',
+            enunciado: 'O instrumento de planejamento que estabelece, de forma regionalizada, as diretrizes, objetivos e metas da administração pública para as despesas de capital é o:',
+            alternativas: [
+              { letra: 'A', texto: 'Plano Plurianual (PPA).' },
+              { letra: 'B', texto: 'Lei de Diretrizes Orçamentárias (LDO).' },
+              { letra: 'C', texto: 'Lei Orçamentária Anual (LOA).' },
+              { letra: 'D', texto: 'Plano Diretor.' },
+              { letra: 'E', texto: 'Programa de Metas.' },
+            ],
+            gabarito: 'A',
+            justificativa: 'O PPA estabelece, de forma regionalizada, as DIRETRIZES, OBJETIVOS e METAS (DOM) para as despesas de capital e programas de duração continuada.',
+            dificuldade: 'facil',
+            competencia: 'PPA',
+            banca: 'IADES',
+            tags: ['PPA', 'DOM'],
+          },
+          {
+            id: 'ap-q-14-2',
+            enunciado: 'A vigência do Plano Plurianual (PPA) é de:',
+            alternativas: [
+              { letra: 'A', texto: '1 ano.' },
+              { letra: 'B', texto: '2 anos.' },
+              { letra: 'C', texto: '3 anos.' },
+              { letra: 'D', texto: '4 anos.' },
+              { letra: 'E', texto: '5 anos.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'O PPA tem vigência de 4 ANOS, iniciando no 2º ano do mandato do chefe do Executivo e encerrando no 1º ano do mandato seguinte.',
+            dificuldade: 'facil',
+            competencia: 'Vigência do PPA',
+            banca: 'IADES',
+            tags: ['PPA', 'vigência'],
+          },
+          {
+            id: 'ap-q-14-3',
+            enunciado: 'A Lei de Diretrizes Orçamentárias (LDO), segundo a Lei de Responsabilidade Fiscal, deve conter:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas as metas de arrecadação.' },
+              { letra: 'B', texto: 'Anexo de Metas Fiscais e Anexo de Riscos Fiscais.' },
+              { letra: 'C', texto: 'somente a previsão de receitas correntes.' },
+              { letra: 'D', texto: 'exclusivamente as despesas de capital.' },
+              { letra: 'E', texto: 'apenas o cronograma de desembolso.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A LRF exige que a LDO contenha ANEXO DE METAS FISCAIS (metas anuais de receita, despesa, resultado) e ANEXO DE RISCOS FISCAIS (passivos contingentes).',
+            dificuldade: 'medio',
+            competencia: 'LDO e LRF',
+            banca: 'IADES',
+            tags: ['LDO', 'anexos'],
+          },
+          {
+            id: 'ap-q-14-4',
+            enunciado: 'A Lei Orçamentária Anual (LOA) compreende:',
+            alternativas: [
+              { letra: 'A', texto: 'apenas o orçamento fiscal.' },
+              { letra: 'B', texto: 'o orçamento fiscal e o de investimentos das estatais.' },
+              { letra: 'C', texto: 'o orçamento fiscal, de investimentos das estatais e da seguridade social.' },
+              { letra: 'D', texto: 'apenas o orçamento da seguridade social.' },
+              { letra: 'E', texto: 'somente as despesas de capital.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A LOA compreende TRÊS orçamentos: fiscal, de investimentos das empresas estatais e da seguridade social (art. 165, §5º, CF).',
+            dificuldade: 'medio',
+            competencia: 'Composição da LOA',
+            banca: 'IADES',
+            tags: ['LOA', 'orçamentos'],
+          },
+          {
+            id: 'ap-q-14-5',
+            enunciado: 'Os créditos adicionais destinados a despesas urgentes e imprevistas, como em caso de guerra ou calamidade pública, são denominados:',
+            alternativas: [
+              { letra: 'A', texto: 'suplementares.' },
+              { letra: 'B', texto: 'especiais.' },
+              { letra: 'C', texto: 'extraordinários.' },
+              { letra: 'D', texto: 'complementares.' },
+              { letra: 'E', texto: 'emergenciais.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Créditos EXTRAORDINÁRIOS são destinados a despesas urgentes e IMPREVISTAS, decorrentes de guerra, comoção interna ou calamidade pública.',
+            dificuldade: 'facil',
+            competencia: 'Créditos adicionais',
+            banca: 'IADES',
+            tags: ['extraordinário', 'calamidade'],
+          },
+          {
+            id: 'ap-q-14-6',
+            enunciado: 'O princípio orçamentário que proíbe vincular receita de impostos a órgão, fundo ou despesa é o princípio da:',
+            alternativas: [
+              { letra: 'A', texto: 'universalidade.' },
+              { letra: 'B', texto: 'unidade.' },
+              { letra: 'C', texto: 'não vinculação (não afetação).' },
+              { letra: 'D', texto: 'exclusividade.' },
+              { letra: 'E', texto: 'anualidade.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O princípio da NÃO VINCULAÇÃO (não afetação) proíbe vincular receita de IMPOSTOS a órgão, fundo ou despesa, com exceções previstas na CF.',
+            dificuldade: 'medio',
+            competencia: 'Princípios orçamentários',
+            banca: 'IADES',
+            tags: ['não vinculação', 'princípio'],
+          },
+          {
+            id: 'ap-q-14-7',
+            enunciado: 'A iniciativa das leis orçamentárias (PPA, LDO e LOA) é:',
+            alternativas: [
+              { letra: 'A', texto: 'concorrente entre Executivo e Legislativo.' },
+              { letra: 'B', texto: 'privativa do Poder Legislativo.' },
+              { letra: 'C', texto: 'privativa do Poder Executivo.' },
+              { letra: 'D', texto: 'do Tribunal de Contas.' },
+              { letra: 'E', texto: 'popular, mediante projeto de lei.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A iniciativa das leis orçamentárias (PPA, LDO e LOA) é PRIVATIVA do Poder EXECUTIVO (art. 165, CF).',
+            dificuldade: 'facil',
+            competencia: 'Iniciativa de leis',
+            banca: 'IADES',
+            tags: ['iniciativa', 'Executivo'],
+          },
+          {
+            id: 'ap-q-14-8',
+            enunciado: 'Segundo a Constituição Federal, a sessão legislativa NÃO será interrompida sem a aprovação do projeto de:',
+            alternativas: [
+              { letra: 'A', texto: 'Lei Orçamentária Anual.' },
+              { letra: 'B', texto: 'Lei de Diretrizes Orçamentárias.' },
+              { letra: 'C', texto: 'Plano Plurianual.' },
+              { letra: 'D', texto: 'Lei Complementar de Finanças.' },
+              { letra: 'E', texto: 'qualquer lei de iniciativa do Executivo.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A sessão legislativa NÃO será interrompida sem a aprovação da LDO (art. 57, §2º, CF). Os parlamentares devem aprovar antes do recesso.',
+            dificuldade: 'medio',
+            competencia: 'Aprovação da LDO',
+            banca: 'IADES',
+            tags: ['LDO', 'recesso'],
+          },
+          {
+            id: 'ap-q-14-9',
+            enunciado: 'O princípio da exclusividade orçamentária determina que a LOA não conterá dispositivo estranho à previsão de receita e fixação de despesa, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'disposições sobre pessoal e encargos.' },
+              { letra: 'B', texto: 'normas de direito tributário.' },
+              { letra: 'C', texto: 'autorização para abertura de créditos suplementares.' },
+              { letra: 'D', texto: 'criação de cargos públicos.' },
+              { letra: 'E', texto: 'disposições sobre regime previdenciário.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'As exceções ao princípio da exclusividade são: autorização para CRÉDITOS SUPLEMENTARES e contratação de OPERAÇÕES DE CRÉDITO.',
+            dificuldade: 'medio',
+            competencia: 'Princípio da exclusividade',
+            banca: 'IADES',
+            tags: ['exclusividade', 'exceções'],
+          },
+          {
+            id: 'ap-q-14-10',
+            enunciado: 'São fontes de recursos para abertura de créditos adicionais, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'superávit financeiro apurado em balanço.' },
+              { letra: 'B', texto: 'excesso de arrecadação.' },
+              { letra: 'C', texto: 'anulação total ou parcial de dotações.' },
+              { letra: 'D', texto: 'operações de crédito.' },
+              { letra: 'E', texto: 'doações de pessoas físicas.' },
+            ],
+            gabarito: 'E',
+            justificativa: 'As fontes para créditos adicionais são: superávit financeiro, excesso de arrecadação, anulação de dotações, operações de crédito. Doações de PF não são fonte prevista.',
+            dificuldade: 'medio',
+            competencia: 'Fontes de recursos',
+            banca: 'IADES',
+            tags: ['créditos adicionais', 'fontes'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ap-topico-15',
+      numero: 15,
+      titulo: 'Princípios Orçamentários',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Princípios Orçamentários
+
+| Princípio | Significado |
+|-----------|-------------|
+| **Unidade/Totalidade** | Um único orçamento para cada ente |
+| **Universalidade** | Todas as receitas e despesas devem estar previstas |
+| **Anualidade/Periodicidade** | Vigência de 1 ano (exercício financeiro) |
+| **Exclusividade** | LOA só trata de receita e despesa (exceções: créditos suplementares e operações de crédito) |
+| **Orçamento Bruto** | Receitas e despesas pelo valor TOTAL, sem deduções |
+| **Não Vinculação/Não Afetação** | Vedado vincular receita de IMPOSTOS |
+| **Especificação/Discriminação** | Detalhamento das receitas e despesas |
+| **Publicidade** | Divulgação obrigatória |
+| **Equilíbrio** | Receitas = Despesas (planejado) |
+| **Legalidade** | Orçamento deve ser aprovado por lei |
+
+### Exceções à Não Vinculação (Art. 167, IV, CF)
+
+| Exceção | Descrição |
+|---------|-----------|
+| Repartição de receitas | FPE, FPM, etc. |
+| Saúde | Mínimo constitucional |
+| Educação | Mínimo constitucional |
+| Administração tributária | Atividades de arrecadação |
+| Garantias às ARO | Antecipação de receita orçamentária |
+| Contragarantia à União | Dívidas com a União |
+
+### Para IADES:
+- Exclusividade tem EXCEÇÕES (créditos suplementares e operações de crédito)
+- Não vinculação = apenas para IMPOSTOS
+- Universalidade ≠ Unidade (universalidade = tudo previsto / unidade = um único documento)
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Princípio da Unidade (Totalidade)
+
+**Conceito:** Cada ente federativo deve ter um único orçamento.
+
+- Existe UM ÚNICO orçamento para cada esfera de governo
+- LOA consolida os três orçamentos (fiscal, investimentos, seguridade)
+- Evita orçamentos paralelos
+
+**Atenção:** A LOA contém três orçamentos (fiscal, investimentos, seguridade), mas eles compõem um ÚNICO documento.
+
+### 2. Princípio da Universalidade
+
+**Conceito:** O orçamento deve conter TODAS as receitas e TODAS as despesas.
+
+- Lei 4.320/64, art. 2º: "A Lei do Orçamento conterá a discriminação da receita e despesa..."
+- Permite conhecimento global das finanças públicas
+- Facilita o controle parlamentar
+
+**Não confunda:**
+- Universalidade = todas as receitas e despesas previstas
+- Unidade = um único documento
+
+### 3. Princípio da Anualidade (Periodicidade)
+
+**Conceito:** O orçamento deve ser elaborado para período determinado (1 ANO).
+
+- Exercício financeiro = ano civil (1º jan a 31 dez)
+- LOA tem vigência de 1 ano
+- Permite revisão periódica das políticas
+
+### 4. Princípio da Exclusividade
+
+**Conceito:** A LOA não conterá dispositivo estranho à previsão de receita e fixação de despesa.
+
+**Exceções (CF, art. 165, §8º):**
+- Autorização para abertura de créditos SUPLEMENTARES
+- Contratação de OPERAÇÕES DE CRÉDITO
+
+**Objetivo:** Evitar as "caudas orçamentárias" (normas estranhas ao orçamento).
+
+### 5. Princípio do Orçamento Bruto
+
+**Conceito:** Receitas e despesas devem constar pelos valores TOTAIS, vedadas quaisquer deduções.
+
+- Lei 4.320/64, art. 6º
+- Não se permite compensação entre receitas e despesas
+- Valores SEM deduções
+
+**Exemplo:** Se arrecada R$ 100 e gasta R$ 30, deve constar:
+- Receita: R$ 100 (não R$ 70)
+- Despesa: R$ 30
+
+### 6. Princípio da Não Vinculação (Não Afetação)
+
+**Conceito:** É vedada a vinculação de receita de IMPOSTOS a órgão, fundo ou despesa.
+
+**Fundamento:** CF, art. 167, IV
+
+**Exceções:**
+- Repartição constitucional (FPE, FPM)
+- Destinação para SAÚDE
+- Destinação para EDUCAÇÃO
+- Destinação para ADMINISTRAÇÃO TRIBUTÁRIA
+- Garantia às operações de crédito por ANTECIPAÇÃO DE RECEITA (ARO)
+- Contragarantia à União e Estados
+- Fundo de combate à pobreza
+- Pagamento de débitos com a União (Lei 9.496/97)
+
+**Importante:** Só se aplica a IMPOSTOS, não a taxas e contribuições.
+
+### 7. Princípio da Especificação (Especialização/Discriminação)
+
+**Conceito:** As receitas e despesas devem ser discriminadas, demonstrando a origem e aplicação.
+
+- Lei 4.320/64, art. 5º
+- Veda autorizações globais/genéricas
+- Detalha para permitir fiscalização
+
+**Exceções:**
+- Reserva de contingência
+- Programas especiais de trabalho
+
+### 8. Princípio da Publicidade
+
+**Conceito:** O orçamento deve ser divulgado amplamente.
+
+- CF, art. 37
+- Publicação no Diário Oficial
+- Transparência e controle social
+
+### 9. Princípio do Equilíbrio
+
+**Conceito:** As receitas previstas devem ser iguais às despesas fixadas.
+
+- Equilíbrio formal (planejado)
+- LRF reforça o equilíbrio das contas públicas
+- Vedada realização de despesas superiores aos créditos
+
+### 10. Princípio da Legalidade
+
+**Conceito:** O orçamento deve ser aprovado por LEI.
+
+- PPA, LDO e LOA são leis ordinárias
+- Iniciativa privativa do Poder Executivo
+- Aprovação pelo Poder Legislativo
+
+### 11. Princípio da Clareza
+
+**Conceito:** O orçamento deve ser claro e compreensível.
+
+- Linguagem acessível
+- Facilita o entendimento pelo cidadão
+- Promove o controle social
+
+### 12. Princípio da Programação
+
+**Conceito:** O orçamento deve expressar programas de governo.
+
+- Vinculação entre plano e orçamento
+- Orçamento-programa
+- Metas e objetivos definidos
+        `,
+
+        pontosChave: [
+          'Unidade: um único orçamento por ente (LOA consolida fiscal + investimentos + seguridade)',
+          'Universalidade: TODAS as receitas e despesas devem estar previstas',
+          'Anualidade: vigência de 1 ANO (exercício financeiro = ano civil)',
+          'Exclusividade: LOA só trata de receita e despesa (exceções: créditos suplementares e operações de crédito)',
+          'Orçamento Bruto: valores TOTAIS, sem deduções',
+          'Não Vinculação: vedado vincular IMPOSTOS (exceções: saúde, educação, repartição, administração tributária)',
+          'Especificação: discriminar origem e aplicação (veda dotações globais)',
+          'Publicidade: divulgação ampla e obrigatória',
+          'Equilíbrio: receitas previstas = despesas fixadas',
+          'Legalidade: orçamento aprovado por LEI',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Universalidade x Unidade',
+            descricao: 'Universalidade = tudo previsto / Unidade = um único documento',
+            dica: 'UNIversalidade = tUdo INcluído / UNIdade = UM documento',
+          },
+          {
+            titulo: 'Exceções à Exclusividade',
+            descricao: 'Créditos SUPLEMENTARES e operações de crédito podem constar na LOA',
+            dica: 'Não é vedação absoluta - há duas exceções importantes',
+          },
+          {
+            titulo: 'Não Vinculação só para IMPOSTOS',
+            descricao: 'A vedação de vincular receitas é apenas para IMPOSTOS',
+            dica: 'Taxas e contribuições PODEM ser vinculadas',
+          },
+          {
+            titulo: 'Exceções à Não Vinculação',
+            descricao: 'Saúde, educação, repartição de receitas, administração tributária, ARO',
+            dica: 'São muitas exceções - memorize as principais',
+          },
+          {
+            titulo: 'Orçamento Bruto',
+            descricao: 'Valores TOTAIS, sem compensação ou dedução',
+            dica: 'Se arrecada 100 e gasta 30, consta 100 + 30, não 70',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'UUA-EO-NEP-ELP',
+            significado: 'Princípios orçamentários',
+            frase: 'Unidade, Universalidade, Anualidade, Exclusividade, Orçamento bruto, Não vinculação, Especificação, Publicidade, Equilíbrio, Legalidade, Programação',
+          },
+          {
+            termo: 'SO-CO',
+            significado: 'Exceções à exclusividade',
+            frase: 'Créditos Suplementares e Operações de Crédito',
+          },
+          {
+            termo: 'SEAR-CG',
+            significado: 'Exceções à não vinculação',
+            frase: 'Saúde, Educação, Administração tributária, Repartição, Contragarantia, Garantia ARO',
+          },
+          {
+            termo: 'TUDO-UM',
+            significado: 'Universalidade x Unidade',
+            frase: 'Universalidade = TUDO previsto / Unidade = UM documento',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ap-fc-15-1',
+            frente: 'O que estabelece o princípio da universalidade orçamentária?',
+            verso: 'Que o orçamento deve conter TODAS as receitas e TODAS as despesas do ente. Permite conhecimento global das finanças e facilita controle parlamentar.',
+            tags: ['universalidade', 'princípio'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-15-2',
+            frente: 'Quais são as exceções ao princípio da exclusividade?',
+            verso: 'Autorização para abertura de créditos SUPLEMENTARES e contratação de OPERAÇÕES DE CRÉDITO. São os únicos dispositivos "estranhos" permitidos na LOA.',
+            tags: ['exclusividade', 'exceções'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-15-3',
+            frente: 'O princípio da não vinculação (não afetação) aplica-se a quais receitas?',
+            verso: 'Aplica-se apenas a receitas de IMPOSTOS. Taxas e contribuições PODEM ser vinculadas a órgãos, fundos ou despesas específicas.',
+            tags: ['não vinculação', 'impostos'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-15-4',
+            frente: 'Quais são as principais exceções ao princípio da não vinculação?',
+            verso: 'Saúde, Educação, Administração tributária, Repartição de receitas (FPE, FPM), Garantia às ARO, Contragarantia à União, Fundo de combate à pobreza.',
+            tags: ['não vinculação', 'exceções'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-15-5',
+            frente: 'O que estabelece o princípio do orçamento bruto?',
+            verso: 'Receitas e despesas devem constar pelos valores TOTAIS, vedadas quaisquer deduções. Não se permite compensação. Se arrecada 100 e gasta 30, consta 100 + 30.',
+            tags: ['orçamento bruto', 'valores'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-15-6',
+            frente: 'Qual a diferença entre princípio da unidade e da universalidade?',
+            verso: 'UNIDADE: cada ente tem UM único orçamento (documento único). UNIVERSALIDADE: TODAS as receitas e despesas devem estar previstas no orçamento.',
+            tags: ['unidade', 'universalidade'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-15-7',
+            frente: 'O que é o princípio da anualidade orçamentária?',
+            verso: 'O orçamento deve ser elaborado para período de 1 ANO. O exercício financeiro coincide com o ano civil (1º de janeiro a 31 de dezembro).',
+            tags: ['anualidade', 'exercício'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-15-8',
+            frente: 'O princípio da especificação veda o quê?',
+            verso: 'Veda autorizações GLOBAIS ou genéricas. As receitas e despesas devem ser DISCRIMINADAS, detalhando origem e aplicação para permitir fiscalização.',
+            tags: ['especificação', 'discriminação'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-15-9',
+            frente: 'O que são "caudas orçamentárias" e qual princípio as proíbe?',
+            verso: 'Caudas orçamentárias são normas estranhas ao orçamento inseridas na LOA. O princípio da EXCLUSIVIDADE proíbe, permitindo apenas receita/despesa + exceções.',
+            tags: ['exclusividade', 'caudas'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-15-10',
+            frente: 'O princípio do equilíbrio orçamentário significa o quê?',
+            verso: 'Que as receitas PREVISTAS devem ser iguais às despesas FIXADAS. É um equilíbrio FORMAL/planejado. A LRF reforça o equilíbrio das contas públicas.',
+            tags: ['equilíbrio', 'receitas'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ap-q-15-1',
+            enunciado: 'O princípio orçamentário que estabelece que todas as receitas e despesas devem estar previstas no orçamento é o princípio da:',
+            alternativas: [
+              { letra: 'A', texto: 'unidade.' },
+              { letra: 'B', texto: 'universalidade.' },
+              { letra: 'C', texto: 'exclusividade.' },
+              { letra: 'D', texto: 'anualidade.' },
+              { letra: 'E', texto: 'não vinculação.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O princípio da UNIVERSALIDADE estabelece que o orçamento deve conter TODAS as receitas e TODAS as despesas do ente.',
+            dificuldade: 'Fácil',
+            competencia: 'Princípio da universalidade',
+            banca: 'IADES',
+            tags: ['universalidade', 'princípio'],
+          },
+          {
+            id: 'ap-q-15-2',
+            enunciado: 'São exceções ao princípio da exclusividade orçamentária:',
+            alternativas: [
+              { letra: 'A', texto: 'criação de cargos e alteração de alíquotas.' },
+              { letra: 'B', texto: 'autorização para créditos suplementares e operações de crédito.' },
+              { letra: 'C', texto: 'vinculação de receitas e criação de tributos.' },
+              { letra: 'D', texto: 'transferências voluntárias e convênios.' },
+              { letra: 'E', texto: 'emendas parlamentares e reserva de contingência.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'As exceções ao princípio da exclusividade são: autorização para CRÉDITOS SUPLEMENTARES e contratação de OPERAÇÕES DE CRÉDITO.',
+            dificuldade: 'Média',
+            competencia: 'Princípio da exclusividade',
+            banca: 'IADES',
+            tags: ['exclusividade', 'exceções'],
+          },
+          {
+            id: 'ap-q-15-3',
+            enunciado: 'O princípio da não vinculação (não afetação) proíbe vincular receitas de:',
+            alternativas: [
+              { letra: 'A', texto: 'taxas.' },
+              { letra: 'B', texto: 'contribuições de melhoria.' },
+              { letra: 'C', texto: 'impostos.' },
+              { letra: 'D', texto: 'contribuições sociais.' },
+              { letra: 'E', texto: 'empréstimos compulsórios.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O princípio da não vinculação (art. 167, IV, CF) proíbe vincular receitas de IMPOSTOS a órgão, fundo ou despesa. Não se aplica a taxas e contribuições.',
+            dificuldade: 'Fácil',
+            competencia: 'Não vinculação',
+            banca: 'IADES',
+            tags: ['não vinculação', 'impostos'],
+          },
+          {
+            id: 'ap-q-15-4',
+            enunciado: 'São exceções constitucionais ao princípio da não vinculação de receitas de impostos, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'destinação para a saúde.' },
+              { letra: 'B', texto: 'destinação para a educação.' },
+              { letra: 'C', texto: 'repartição constitucional de receitas.' },
+              { letra: 'D', texto: 'destinação para obras públicas.' },
+              { letra: 'E', texto: 'administração tributária.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Obras públicas NÃO são exceção à não vinculação. Exceções: saúde, educação, repartição de receitas, administração tributária, garantia ARO, contragarantia.',
+            dificuldade: 'Média',
+            competencia: 'Exceções à não vinculação',
+            banca: 'IADES',
+            tags: ['não vinculação', 'exceções'],
+          },
+          {
+            id: 'ap-q-15-5',
+            enunciado: 'O princípio do orçamento bruto determina que:',
+            alternativas: [
+              { letra: 'A', texto: 'as despesas devem superar as receitas.' },
+              { letra: 'B', texto: 'receitas e despesas devem constar pelos valores totais, sem deduções.' },
+              { letra: 'C', texto: 'o orçamento deve ser aprovado antes do início do exercício.' },
+              { letra: 'D', texto: 'é permitida a compensação entre receitas e despesas.' },
+              { letra: 'E', texto: 'as receitas devem ser discriminadas por fonte.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O princípio do orçamento BRUTO determina que receitas e despesas constem pelos valores TOTAIS, vedadas quaisquer deduções ou compensações.',
+            dificuldade: 'Fácil',
+            competencia: 'Orçamento bruto',
+            banca: 'IADES',
+            tags: ['orçamento bruto', 'valores'],
+          },
+          {
+            id: 'ap-q-15-6',
+            enunciado: 'O princípio que estabelece que cada ente federativo deve ter um único orçamento é o princípio da:',
+            alternativas: [
+              { letra: 'A', texto: 'universalidade.' },
+              { letra: 'B', texto: 'unidade.' },
+              { letra: 'C', texto: 'exclusividade.' },
+              { letra: 'D', texto: 'programação.' },
+              { letra: 'E', texto: 'clareza.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O princípio da UNIDADE (ou totalidade) estabelece que cada ente federativo deve ter UM único orçamento, evitando orçamentos paralelos.',
+            dificuldade: 'Fácil',
+            competencia: 'Princípio da unidade',
+            banca: 'IADES',
+            tags: ['unidade', 'princípio'],
+          },
+          {
+            id: 'ap-q-15-7',
+            enunciado: 'O princípio da anualidade orçamentária estabelece que:',
+            alternativas: [
+              { letra: 'A', texto: 'o orçamento deve ser publicado anualmente no Diário Oficial.' },
+              { letra: 'B', texto: 'o orçamento deve ser elaborado e executado para o período de um ano.' },
+              { letra: 'C', texto: 'as receitas devem ser arrecadadas anualmente.' },
+              { letra: 'D', texto: 'os créditos devem ser renovados todo ano.' },
+              { letra: 'E', texto: 'as despesas devem ser pagas dentro do ano.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O princípio da ANUALIDADE (periodicidade) estabelece que o orçamento é elaborado para período de UM ANO, coincidente com o exercício financeiro (ano civil).',
+            dificuldade: 'Fácil',
+            competencia: 'Princípio da anualidade',
+            banca: 'IADES',
+            tags: ['anualidade', 'período'],
+          },
+          {
+            id: 'ap-q-15-8',
+            enunciado: 'O princípio da especificação (discriminação) orçamentária veda:',
+            alternativas: [
+              { letra: 'A', texto: 'a publicação do orçamento.' },
+              { letra: 'B', texto: 'a inclusão de todas as receitas.' },
+              { letra: 'C', texto: 'autorizações globais ou genéricas de despesas.' },
+              { letra: 'D', texto: 'a previsão de receitas tributárias.' },
+              { letra: 'E', texto: 'a fixação de despesas de pessoal.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O princípio da especificação veda autorizações GLOBAIS ou genéricas. As receitas e despesas devem ser discriminadas/detalhadas.',
+            dificuldade: 'Média',
+            competencia: 'Princípio da especificação',
+            banca: 'IADES',
+            tags: ['especificação', 'discriminação'],
+          },
+          {
+            id: 'ap-q-15-9',
+            enunciado: 'O princípio da exclusividade orçamentária visa evitar:',
+            alternativas: [
+              { letra: 'A', texto: 'a duplicidade de orçamentos.' },
+              { letra: 'B', texto: 'as chamadas "caudas orçamentárias".' },
+              { letra: 'C', texto: 'a universalidade das receitas.' },
+              { letra: 'D', texto: 'o equilíbrio entre receitas e despesas.' },
+              { letra: 'E', texto: 'a publicidade do orçamento.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O princípio da EXCLUSIVIDADE visa evitar as "caudas orçamentárias", ou seja, normas estranhas ao orçamento inseridas na LOA.',
+            dificuldade: 'Média',
+            competencia: 'Princípio da exclusividade',
+            banca: 'IADES',
+            tags: ['exclusividade', 'caudas'],
+          },
+          {
+            id: 'ap-q-15-10',
+            enunciado: 'O princípio do equilíbrio orçamentário preconiza que:',
+            alternativas: [
+              { letra: 'A', texto: 'as despesas devem ser sempre maiores que as receitas.' },
+              { letra: 'B', texto: 'as receitas previstas devem ser iguais às despesas fixadas.' },
+              { letra: 'C', texto: 'o superávit deve ser a meta principal.' },
+              { letra: 'D', texto: 'o déficit é permitido em qualquer situação.' },
+              { letra: 'E', texto: 'apenas as despesas correntes devem ser equilibradas.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O princípio do EQUILÍBRIO estabelece que as receitas PREVISTAS devem ser iguais às despesas FIXADAS. É um equilíbrio formal/planejado.',
+            dificuldade: 'Fácil',
+            competencia: 'Princípio do equilíbrio',
+            banca: 'IADES',
+            tags: ['equilíbrio', 'receitas'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'ap-topico-16',
+      numero: 16,
+      titulo: 'Receita Pública: Conceitos, Classificação e Estágios',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Conceito de Receita Pública
+
+| Sentido | Definição |
+|---------|-----------|
+| **Amplo** | Todo ingresso de recursos nos cofres públicos |
+| **Estrito** | Apenas ingressos que se incorporam definitivamente ao patrimônio |
+
+### Classificação Quanto à Natureza
+
+| Tipo | Característica | Exemplos |
+|------|----------------|----------|
+| **Orçamentária** | Prevista no orçamento | Tributos, transferências |
+| **Extraorçamentária** | NÃO prevista, devolução futura | Caução, depósito, ARO |
+
+### Classificação por Categoria Econômica
+
+| Categoria | Código | Características |
+|-----------|--------|-----------------|
+| **Correntes** | 1 | Aumentam patrimônio líquido |
+| **Capital** | 2 | Não aumentam patrimônio líquido, resultam de operações de crédito, alienações, etc. |
+
+### Receitas Correntes (TRIBUTA CON PAIS)
+
+| Origem | Exemplos |
+|--------|----------|
+| **Tri**butária | Impostos, taxas, contribuições de melhoria |
+| **Contribui**ções | COFINS, CSLL, PIS |
+| **Pa**trimonial | Aluguéis, dividendos, royalties |
+| **Agr**opecuária | Produção vegetal, animal |
+| **I**ndustrial | Produção industrial |
+| **S**erviços | Transporte, comunicação |
+| Transferências correntes | FPM, FPE, FUNDEB |
+| Outras receitas correntes | Multas, indenizações |
+
+### Receitas de Capital (OPERA ALI AMOR TRANS)
+
+| Origem | Exemplos |
+|--------|----------|
+| **Opera**ções de crédito | Empréstimos internos e externos |
+| **Ali**enação de bens | Venda de imóveis, veículos |
+| **Amor**tização de empréstimos | Recebimento de empréstimos concedidos |
+| **Trans**ferências de capital | Para obras, investimentos |
+| Outras receitas de capital | Superávit do Banco Central |
+
+### Estágios da Receita
+
+| Estágio | Descrição |
+|---------|-----------|
+| **Previsão** | Estimativa de arrecadação na LOA |
+| **Lançamento** | Identificação do devedor e valor |
+| **Arrecadação** | Pagamento pelo contribuinte ao agente |
+| **Recolhimento** | Transferência ao Tesouro (caixa único) |
+
+### Para IADES:
+- Corrente = patrimônio AUMENTA
+- Capital = patrimônio NÃO aumenta
+- PLAR = Previsão, Lançamento, Arrecadação, Recolhimento
+- Tributo é receita CORRENTE (não capital)
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito de Receita Pública
+
+#### 1.1 Sentido Amplo (Ingresso)
+Todo e qualquer ingresso de recursos nos cofres públicos, incluindo:
+- Receitas tributárias
+- Empréstimos
+- Depósitos
+- Cauções
+
+#### 1.2 Sentido Estrito (Receita)
+Apenas os ingressos que se incorporam DEFINITIVAMENTE ao patrimônio público, não gerando obrigação de devolução.
+
+### 2. Classificação Quanto à Natureza
+
+#### 2.1 Receitas Orçamentárias
+- Previstas na LOA
+- Disponíveis para cobertura de despesas públicas
+- Ex: tributos, transferências constitucionais, receitas de serviços
+
+#### 2.2 Receitas Extraorçamentárias
+- NÃO previstas no orçamento
+- Geram obrigação de DEVOLUÇÃO
+- São apenas ingressos temporários
+- Ex: cauções, depósitos de terceiros, ARO (Antecipação de Receita Orçamentária)
+
+### 3. Classificação por Categoria Econômica
+
+#### 3.1 Receitas Correntes (Código 1)
+Receitas que AUMENTAM o patrimônio líquido do Estado.
+
+**Origens (Lei 4.320/64):**
+| Código | Origem | Descrição |
+|--------|--------|-----------|
+| 1.1 | Tributária | Impostos, taxas, contribuições de melhoria |
+| 1.2 | Contribuições | Sociais, econômicas, iluminação pública |
+| 1.3 | Patrimonial | Receitas do patrimônio: aluguéis, dividendos |
+| 1.4 | Agropecuária | Produção vegetal, animal, derivados |
+| 1.5 | Industrial | Extração mineral, transformação, construção |
+| 1.6 | Serviços | Comércio, transporte, comunicação, saúde |
+| 1.7 | Transferências Correntes | De outras esferas (FPM, FPE, FUNDEB) |
+| 1.9 | Outras Rec. Correntes | Multas, juros, indenizações |
+
+#### 3.2 Receitas de Capital (Código 2)
+Receitas que NÃO aumentam o patrimônio líquido (geram contrapartida no passivo ou reduzem ativo).
+
+**Origens:**
+| Código | Origem | Descrição |
+|--------|--------|-----------|
+| 2.1 | Operações de Crédito | Empréstimos, financiamentos |
+| 2.2 | Alienação de Bens | Venda de móveis e imóveis |
+| 2.3 | Amortização de Empréstimos | Retorno de empréstimos concedidos |
+| 2.4 | Transferências de Capital | Para investimentos, inversões |
+| 2.5 | Outras Rec. de Capital | Superávit do BC, remuneração |
+
+### 4. Receita Tributária
+
+#### 4.1 Impostos
+- Tributo não vinculado a atividade específica
+- Competência privativa de cada ente
+
+#### 4.2 Taxas
+- Vinculadas a serviço público específico ou poder de polícia
+- Ex: taxa de coleta de lixo, taxa de fiscalização
+
+#### 4.3 Contribuição de Melhoria
+- Decorrente de obra pública que valoriza o imóvel
+- Limite individual: valorização do imóvel
+- Limite total: custo da obra
+
+### 5. Estágios da Receita Pública
+
+#### 5.1 Previsão (Estimativa)
+- Estimativa de arrecadação na LOA
+- Metodologia de projeção de receitas
+- Considera variações econômicas, legislação
+
+#### 5.2 Lançamento
+- Procedimento administrativo que verifica:
+  - Ocorrência do fato gerador
+  - Identificação do contribuinte
+  - Cálculo do montante devido
+  - Matrícula do crédito tributário
+
+**Modalidades de lançamento:**
+| Modalidade | Descrição | Exemplo |
+|------------|-----------|---------|
+| De ofício | Autoridade faz tudo | IPTU, IPVA |
+| Por declaração | Contribuinte informa, autoridade lança | ITBI |
+| Por homologação | Contribuinte calcula e paga, autoridade homologa | IR, ICMS |
+
+#### 5.3 Arrecadação
+- Contribuinte paga ao agente arrecadador
+- Agentes: bancos autorizados, lotéricas, etc.
+- Momento em que o recurso "entra" no sistema financeiro
+
+#### 5.4 Recolhimento
+- Transferência dos recursos ao Tesouro
+- Conta única do Tesouro
+- Agente arrecadador repassa ao ente público
+
+### 6. Receita sob Enfoque Patrimonial x Orçamentário
+
+| Enfoque | Reconhecimento |
+|---------|----------------|
+| **Patrimonial** | Fato gerador (competência) |
+| **Orçamentário** | Arrecadação (caixa) |
+
+### 7. Dívida Ativa
+
+- Créditos não pagos no vencimento
+- Inscrição após esgotada via administrativa
+- Gera certidão de dívida ativa (CDA)
+- Permite execução fiscal
+        `,
+
+        pontosChave: [
+          'Receita orçamentária: prevista na LOA / Extraorçamentária: não prevista, devolução futura',
+          'Receitas Correntes (código 1): AUMENTAM patrimônio líquido',
+          'Receitas de Capital (código 2): NÃO aumentam patrimônio líquido',
+          'Estágios: PLAR - Previsão, Lançamento, Arrecadação, Recolhimento',
+          'Tributos são receitas CORRENTES (tributária)',
+          'Operações de crédito são receitas de CAPITAL',
+          'Alienação de bens = receita de CAPITAL',
+          'Lançamento: de ofício, por declaração ou por homologação',
+          'Arrecadação: pagamento ao agente / Recolhimento: transferência ao Tesouro',
+          'Dívida ativa: créditos não pagos, inscrita após via administrativa',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Corrente x Capital',
+            descricao: 'Corrente AUMENTA patrimônio / Capital NÃO aumenta',
+            dica: 'Tributo = corrente / Empréstimo = capital',
+          },
+          {
+            titulo: 'Arrecadação x Recolhimento',
+            descricao: 'Arrecadação = pagamento ao agente / Recolhimento = transferência ao Tesouro',
+            dica: 'Arrecadação vem ANTES do recolhimento',
+          },
+          {
+            titulo: 'Operação de crédito',
+            descricao: 'É receita de CAPITAL, não corrente',
+            dica: 'Empréstimo gera passivo, não aumenta patrimônio líquido',
+          },
+          {
+            titulo: 'Receita extraorçamentária',
+            descricao: 'NÃO está prevista no orçamento, será devolvida',
+            dica: 'Caução e depósito são extraorçamentárias',
+          },
+          {
+            titulo: 'Estágios da receita',
+            descricao: 'PLAR: Previsão, Lançamento, Arrecadação, Recolhimento',
+            dica: 'Cuidado: não confunda ordem dos estágios',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'PLAR',
+            significado: 'Estágios da receita',
+            frase: 'Previsão, Lançamento, Arrecadação, Recolhimento',
+          },
+          {
+            termo: 'TRIBUTA CON PAIS',
+            significado: 'Receitas correntes',
+            frase: 'Tributária, Contribuições, Patrimonial, Agropecuária, Industrial, Serviços',
+          },
+          {
+            termo: 'OPERA ALI AMOR',
+            significado: 'Receitas de capital',
+            frase: 'Operações de crédito, Alienação, Amortização',
+          },
+          {
+            termo: 'ODH',
+            significado: 'Modalidades de lançamento',
+            frase: 'De Ofício, por Declaração, por Homologação',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'ap-fc-16-1',
+            frente: 'Quais são os estágios da receita pública?',
+            verso: 'PLAR: 1) PREVISÃO (estimativa na LOA), 2) LANÇAMENTO (identificação do devedor), 3) ARRECADAÇÃO (pagamento ao agente), 4) RECOLHIMENTO (transferência ao Tesouro).',
+            tags: ['estágios', 'receita'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-16-2',
+            frente: 'Qual a diferença entre receita corrente e receita de capital?',
+            verso: 'CORRENTE: AUMENTA patrimônio líquido (tributos, serviços). CAPITAL: NÃO aumenta patrimônio (operações de crédito, alienações). Código 1 = corrente / Código 2 = capital.',
+            tags: ['corrente', 'capital'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-16-3',
+            frente: 'Quais são as origens das receitas correntes?',
+            verso: 'TRIBUTA CON PAIS: Tributária, Contribuições, Patrimonial, Agropecuária, Industrial, Serviços, Transferências correntes, Outras receitas correntes.',
+            tags: ['correntes', 'origens'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-16-4',
+            frente: 'O que é receita extraorçamentária?',
+            verso: 'É ingresso de recursos NÃO previsto no orçamento, que gera obrigação de DEVOLUÇÃO. São entradas temporárias. Ex: caução, depósito de terceiros, ARO.',
+            tags: ['extraorçamentária', 'conceito'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-16-5',
+            frente: 'Qual a diferença entre arrecadação e recolhimento?',
+            verso: 'ARRECADAÇÃO: contribuinte paga ao agente arrecadador (banco). RECOLHIMENTO: agente transfere os recursos ao Tesouro (conta única). Arrecadação vem ANTES.',
+            tags: ['arrecadação', 'recolhimento'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-16-6',
+            frente: 'Quais são as modalidades de lançamento tributário?',
+            verso: 'DE OFÍCIO: autoridade faz tudo (IPTU, IPVA). POR DECLARAÇÃO: contribuinte informa, autoridade lança (ITBI). POR HOMOLOGAÇÃO: contribuinte calcula e paga (IR, ICMS).',
+            tags: ['lançamento', 'modalidades'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-16-7',
+            frente: 'Operação de crédito é receita corrente ou de capital?',
+            verso: 'Receita de CAPITAL. Operações de crédito (empréstimos) geram aumento do passivo, portanto NÃO aumentam o patrimônio líquido.',
+            tags: ['operação de crédito', 'capital'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-16-8',
+            frente: 'O que é a dívida ativa?',
+            verso: 'Créditos públicos NÃO PAGOS no vencimento, após esgotada a via administrativa. É inscrita e gera Certidão de Dívida Ativa (CDA), que permite execução fiscal.',
+            tags: ['dívida ativa', 'conceito'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-16-9',
+            frente: 'Quais são as origens das receitas de capital?',
+            verso: 'OPERA ALI AMOR: Operações de crédito, Alienação de bens, Amortização de empréstimos concedidos, Transferências de capital, Outras receitas de capital.',
+            tags: ['capital', 'origens'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'ap-fc-16-10',
+            frente: 'A receita tributária é classificada como corrente ou de capital?',
+            verso: 'CORRENTE. Receitas tributárias (impostos, taxas, contribuições de melhoria) são receitas correntes pois AUMENTAM o patrimônio líquido do ente.',
+            tags: ['tributária', 'corrente'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'ap-q-16-1',
+            enunciado: 'Os estágios da receita pública, na ordem correta, são:',
+            alternativas: [
+              { letra: 'A', texto: 'lançamento, previsão, arrecadação e recolhimento.' },
+              { letra: 'B', texto: 'previsão, lançamento, arrecadação e recolhimento.' },
+              { letra: 'C', texto: 'arrecadação, lançamento, previsão e recolhimento.' },
+              { letra: 'D', texto: 'recolhimento, arrecadação, lançamento e previsão.' },
+              { letra: 'E', texto: 'previsão, arrecadação, lançamento e recolhimento.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Os estágios da receita são PLAR: PREVISÃO, LANÇAMENTO, ARRECADAÇÃO e RECOLHIMENTO, nesta ordem.',
+            dificuldade: 'Fácil',
+            competencia: 'Estágios da receita',
+            banca: 'IADES',
+            tags: ['estágios', 'ordem'],
+          },
+          {
+            id: 'ap-q-16-2',
+            enunciado: 'São classificadas como receitas correntes:',
+            alternativas: [
+              { letra: 'A', texto: 'operações de crédito e alienação de bens.' },
+              { letra: 'B', texto: 'tributárias, patrimoniais e de serviços.' },
+              { letra: 'C', texto: 'amortização de empréstimos e transferências de capital.' },
+              { letra: 'D', texto: 'alienação de bens e receitas industriais.' },
+              { letra: 'E', texto: 'operações de crédito e contribuições.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Receitas CORRENTES: tributárias, contribuições, patrimoniais, agropecuárias, industriais, serviços, transferências correntes. Operações de crédito e alienações são de CAPITAL.',
+            dificuldade: 'Fácil',
+            competencia: 'Receitas correntes',
+            banca: 'IADES',
+            tags: ['correntes', 'classificação'],
+          },
+          {
+            id: 'ap-q-16-3',
+            enunciado: 'A receita extraorçamentária caracteriza-se por:',
+            alternativas: [
+              { letra: 'A', texto: 'estar prevista na LOA.' },
+              { letra: 'B', texto: 'aumentar o patrimônio líquido do ente.' },
+              { letra: 'C', texto: 'não estar prevista no orçamento e gerar obrigação de devolução.' },
+              { letra: 'D', texto: 'ser de natureza tributária.' },
+              { letra: 'E', texto: 'decorrer de transferências constitucionais.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Receita extraorçamentária NÃO está prevista no orçamento e gera obrigação de DEVOLUÇÃO. Ex: caução, depósitos, ARO.',
+            dificuldade: 'Média',
+            competencia: 'Receita extraorçamentária',
+            banca: 'IADES',
+            tags: ['extraorçamentária', 'conceito'],
+          },
+          {
+            id: 'ap-q-16-4',
+            enunciado: 'O estágio da receita em que o contribuinte efetua o pagamento ao agente arrecadador é a:',
+            alternativas: [
+              { letra: 'A', texto: 'previsão.' },
+              { letra: 'B', texto: 'lançamento.' },
+              { letra: 'C', texto: 'arrecadação.' },
+              { letra: 'D', texto: 'recolhimento.' },
+              { letra: 'E', texto: 'liquidação.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'A ARRECADAÇÃO é o estágio em que o contribuinte efetua o pagamento ao agente arrecadador (banco, lotérica). O RECOLHIMENTO é a transferência ao Tesouro.',
+            dificuldade: 'Fácil',
+            competencia: 'Estágio da arrecadação',
+            banca: 'IADES',
+            tags: ['arrecadação', 'estágio'],
+          },
+          {
+            id: 'ap-q-16-5',
+            enunciado: 'As receitas de capital caracterizam-se por:',
+            alternativas: [
+              { letra: 'A', texto: 'aumentarem o patrimônio líquido do ente.' },
+              { letra: 'B', texto: 'não aumentarem o patrimônio líquido do ente.' },
+              { letra: 'C', texto: 'serem exclusivamente tributárias.' },
+              { letra: 'D', texto: 'decorrerem apenas de serviços públicos.' },
+              { letra: 'E', texto: 'serem sempre extraorçamentárias.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Receitas de CAPITAL NÃO aumentam o patrimônio líquido. Ex: operações de crédito (geram passivo), alienação (reduzem ativo).',
+            dificuldade: 'Fácil',
+            competencia: 'Receitas de capital',
+            banca: 'IADES',
+            tags: ['capital', 'patrimônio'],
+          },
+          {
+            id: 'ap-q-16-6',
+            enunciado: 'São exemplos de receitas de capital:',
+            alternativas: [
+              { letra: 'A', texto: 'impostos e taxas.' },
+              { letra: 'B', texto: 'contribuições sociais e patrimoniais.' },
+              { letra: 'C', texto: 'operações de crédito e alienação de bens.' },
+              { letra: 'D', texto: 'receitas de serviços e industriais.' },
+              { letra: 'E', texto: 'transferências correntes e tributárias.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Receitas de CAPITAL: operações de crédito, alienação de bens, amortização de empréstimos, transferências de capital.',
+            dificuldade: 'Fácil',
+            competencia: 'Receitas de capital',
+            banca: 'IADES',
+            tags: ['capital', 'exemplos'],
+          },
+          {
+            id: 'ap-q-16-7',
+            enunciado: 'O lançamento de ofício é caracterizado por:',
+            alternativas: [
+              { letra: 'A', texto: 'a autoridade fazer tudo, sem participação do contribuinte.' },
+              { letra: 'B', texto: 'o contribuinte calcular e pagar, aguardando homologação.' },
+              { letra: 'C', texto: 'o contribuinte prestar declaração, e a autoridade lançar.' },
+              { letra: 'D', texto: 'não haver ato formal de lançamento.' },
+              { letra: 'E', texto: 'ser exclusivo para receitas de capital.' },
+            ],
+            gabarito: 'A',
+            justificativa: 'No lançamento DE OFÍCIO, a autoridade faz tudo: identifica fato gerador, contribuinte e valor. Ex: IPTU, IPVA.',
+            dificuldade: 'Média',
+            competencia: 'Lançamento de ofício',
+            banca: 'IADES',
+            tags: ['lançamento', 'ofício'],
+          },
+          {
+            id: 'ap-q-16-8',
+            enunciado: 'A transferência dos valores arrecadados para a conta única do Tesouro corresponde ao estágio da:',
+            alternativas: [
+              { letra: 'A', texto: 'previsão.' },
+              { letra: 'B', texto: 'lançamento.' },
+              { letra: 'C', texto: 'arrecadação.' },
+              { letra: 'D', texto: 'recolhimento.' },
+              { letra: 'E', texto: 'liquidação.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'O RECOLHIMENTO é a transferência dos valores arrecadados para a conta única do Tesouro. É o último estágio da receita.',
+            dificuldade: 'Fácil',
+            competencia: 'Estágio do recolhimento',
+            banca: 'IADES',
+            tags: ['recolhimento', 'Tesouro'],
+          },
+          {
+            id: 'ap-q-16-9',
+            enunciado: 'A dívida ativa é:',
+            alternativas: [
+              { letra: 'A', texto: 'o valor dos empréstimos tomados pelo governo.' },
+              { letra: 'B', texto: 'o crédito público não pago no vencimento, inscrito após via administrativa.' },
+              { letra: 'C', texto: 'a soma das receitas tributárias do exercício.' },
+              { letra: 'D', texto: 'a previsão de receitas para o próximo exercício.' },
+              { letra: 'E', texto: 'o total de transferências recebidas.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Dívida ativa é o crédito público NÃO PAGO no vencimento, inscrito após esgotada a via administrativa. Permite execução fiscal.',
+            dificuldade: 'Média',
+            competencia: 'Dívida ativa',
+            banca: 'IADES',
+            tags: ['dívida ativa', 'conceito'],
+          },
+          {
+            id: 'ap-q-16-10',
+            enunciado: 'A receita tributária é classificada como:',
+            alternativas: [
+              { letra: 'A', texto: 'receita de capital.' },
+              { letra: 'B', texto: 'receita corrente.' },
+              { letra: 'C', texto: 'receita extraorçamentária.' },
+              { letra: 'D', texto: 'ingresso de terceiros.' },
+              { letra: 'E', texto: 'operação de crédito.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Receita tributária (impostos, taxas, contribuições de melhoria) é receita CORRENTE, pois aumenta o patrimônio líquido do ente.',
+            dificuldade: 'Fácil',
+            competencia: 'Classificação tributária',
+            banca: 'IADES',
+            tags: ['tributária', 'corrente'],
+          },
+        ],
+      },
+    },
   ],
 };
