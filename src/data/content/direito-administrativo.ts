@@ -10871,5 +10871,1253 @@ Apenas 8 bases legais (mais restritivo):
         ],
       },
     },
+    // ========================================
+    // DIREITO CONSTITUCIONAL
+    // ========================================
+    {
+      id: 'da-topico-17',
+      numero: 17,
+      titulo: 'Constituição da República Federativa do Brasil de 1988',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Classificação da CF/88
+
+| Critério | Classificação |
+|----------|---------------|
+| **Origem** | Promulgada (democrática) |
+| **Forma** | Escrita/Codificada |
+| **Extensão** | Analítica (prolixa) |
+| **Modo de elaboração** | Dogmática |
+| **Alterabilidade** | Rígida (com cláusulas pétreas) |
+| **Conteúdo** | Formal |
+| **Ideologia** | Eclética (plural) |
+| **Finalidade** | Dirigente e social |
+
+### Fundamentos da República (Art. 1º) - SO-CI-DI-VA-PLU
+
+| Sigla | Fundamento |
+|-------|------------|
+| **SO** | Soberania |
+| **CI** | Cidadania |
+| **DI** | Dignidade da pessoa humana |
+| **VA** | Valores sociais do trabalho e livre iniciativa |
+| **PLU** | Pluralismo político |
+
+### Objetivos Fundamentais (Art. 3º) - CON-GA-ER-PRO
+
+| Sigla | Objetivo |
+|-------|----------|
+| **CON** | Construir sociedade livre, justa e solidária |
+| **GA** | Garantir o desenvolvimento nacional |
+| **ER** | Erradicar a pobreza e reduzir desigualdades |
+| **PRO** | Promover o bem de todos, sem preconceitos |
+
+### Princípios Internacionais (Art. 4º) - Principais
+
+- Independência nacional
+- Prevalência dos direitos humanos
+- Autodeterminação dos povos
+- Não intervenção
+- Defesa da paz
+- Cooperação entre os povos
+- Concessão de asilo político
+
+### Para IADES:
+- SO-CI-DI-VA-PLU = FUNDAMENTOS (art. 1º)
+- CON-GA-ER-PRO = OBJETIVOS (art. 3º)
+- CF/88 é RÍGIDA com cláusulas pétreas
+- Título I = Princípios Fundamentais (arts. 1º a 4º)
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito de Constituição
+
+A **Constituição** é a lei fundamental e suprema de um Estado, que organiza seus elementos essenciais: um sistema de normas jurídicas que estabelece a forma de Estado, a forma de governo, os órgãos do poder público, os direitos fundamentais e as limitações ao poder estatal.
+
+#### Sentidos de Constituição
+
+| Sentido | Autor | Conceito |
+|---------|-------|----------|
+| **Sociológico** | Ferdinand Lassalle | Constituição é a soma dos fatores reais de poder |
+| **Político** | Carl Schmitt | Constituição é a decisão política fundamental |
+| **Jurídico** | Hans Kelsen | Constituição é a norma pura, fundamento de validade |
+
+#### Concepções Modernas
+
+- **Força Normativa da Constituição** (Konrad Hesse): a Constituição tem força para conformar a realidade
+- **Constituição Aberta** (Peter Häberle): todos são intérpretes da Constituição
+
+### 2. Classificação das Constituições
+
+#### 2.1 Quanto à ORIGEM
+
+| Tipo | Características | Exemplo |
+|------|-----------------|---------|
+| **Promulgada** | Elaborada por representantes eleitos | CF/88, CF/1946 |
+| **Outorgada** | Imposta pelo governante | CF/1824, CF/1937 |
+| **Cesarista/Bonapartista** | Imposta + referendo popular | CF chilena 1980 |
+| **Pactuada** | Acordo entre forças políticas | Magna Carta 1215 |
+
+#### 2.2 Quanto à FORMA
+
+| Tipo | Características |
+|------|-----------------|
+| **Escrita/Codificada** | Documento único e solene |
+| **Não escrita/Costumeira** | Usos, costumes, jurisprudência |
+
+#### 2.3 Quanto à EXTENSÃO
+
+| Tipo | Características | Exemplo |
+|------|-----------------|---------|
+| **Sintética/Concisa** | Poucos artigos, princípios básicos | EUA (7 artigos) |
+| **Analítica/Prolixa** | Extensa, detalhada | Brasil CF/88 |
+
+#### 2.4 Quanto ao MODO DE ELABORAÇÃO
+
+| Tipo | Características |
+|------|-----------------|
+| **Dogmática** | Elaborada de uma só vez, reflete ideologia |
+| **Histórica** | Formação lenta, acumulação histórica |
+
+#### 2.5 Quanto à ALTERABILIDADE (Estabilidade)
+
+| Tipo | Características |
+|------|-----------------|
+| **Rígida** | Processo de alteração mais difícil que lei ordinária |
+| **Flexível** | Mesmo processo da lei ordinária |
+| **Semirrígida** | Parte rígida, parte flexível |
+| **Super-rígida** | Rígida + cláusulas pétreas (CF/88 para alguns autores) |
+| **Imutável** | Não admite alteração |
+
+#### 2.6 Quanto ao CONTEÚDO
+
+| Tipo | Características |
+|------|-----------------|
+| **Material** | Matéria essencialmente constitucional |
+| **Formal** | Todas as normas do documento, independente do conteúdo |
+
+### 3. Estrutura da CF/88
+
+#### Preâmbulo
+> "Nós, representantes do povo brasileiro, reunidos em Assembleia Nacional Constituinte..."
+
+- **NÃO tem força normativa** (STF, ADI 2.076)
+- Serve de vetor interpretativo
+- Não pode ser invocado para declarar inconstitucionalidade
+
+#### Corpo Permanente (250 artigos originais)
+
+| Título | Conteúdo | Artigos |
+|--------|----------|---------|
+| I | **Princípios Fundamentais** | 1º a 4º |
+| II | Direitos e Garantias Fundamentais | 5º a 17 |
+| III | Organização do Estado | 18 a 43 |
+| IV | Organização dos Poderes | 44 a 135 |
+| V | Defesa do Estado e Instituições Democráticas | 136 a 144 |
+| VI | Tributação e Orçamento | 145 a 169 |
+| VII | Ordem Econômica e Financeira | 170 a 192 |
+| VIII | Ordem Social | 193 a 232 |
+| IX | Disposições Constitucionais Gerais | 233 a 250 |
+
+#### ADCT - Ato das Disposições Constitucionais Transitórias
+- Normas de transição entre a ordem anterior e a nova
+- Eficácia temporária
+- Também tem força normativa
+
+### 4. Princípios Fundamentais (Título I)
+
+#### 4.1 Art. 1º - Fundamentos da República
+
+A República Federativa do Brasil tem como **FUNDAMENTOS**:
+
+| Inciso | Fundamento | Explicação |
+|--------|------------|------------|
+| I | **Soberania** | Poder supremo interno e independência externa |
+| II | **Cidadania** | Participação do povo na vida política |
+| III | **Dignidade da pessoa humana** | Núcleo axiológico, valor supremo |
+| IV | **Valores sociais do trabalho e livre iniciativa** | Equilíbrio entre capital e trabalho |
+| V | **Pluralismo político** | Diversidade de ideias e partidos |
+
+**Mnemônico: SO-CI-DI-VA-PLU**
+
+⚠️ **Parágrafo único, art. 1º**: "Todo poder emana do POVO" (soberania popular)
+
+#### 4.2 Art. 2º - Separação de Poderes
+
+> "São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário."
+
+- Princípio da separação de poderes (Montesquieu)
+- Sistema de freios e contrapesos
+- **Cláusula pétrea** (art. 60, §4º, III)
+
+#### 4.3 Art. 3º - Objetivos Fundamentais
+
+A República tem como **OBJETIVOS**:
+
+| Inciso | Objetivo |
+|--------|----------|
+| I | **Construir** sociedade livre, justa e solidária |
+| II | **Garantir** o desenvolvimento nacional |
+| III | **Erradicar** pobreza, marginalização e **reduzir** desigualdades |
+| IV | **Promover** o bem de todos, sem preconceitos |
+
+**Mnemônico: CON-GA-ER-PRO** (ou: os objetivos são VERBOS!)
+
+#### 4.4 Art. 4º - Princípios nas Relações Internacionais
+
+| Princípio | Descrição |
+|-----------|-----------|
+| Independência nacional | Autonomia nas decisões |
+| Prevalência dos direitos humanos | Compromisso com dignidade |
+| Autodeterminação dos povos | Cada povo decide seu destino |
+| Não intervenção | Respeito à soberania alheia |
+| Igualdade entre os Estados | Paridade jurídica |
+| Defesa da paz | Solução pacífica de conflitos |
+| Solução pacífica dos conflitos | Diplomacia sobre força |
+| Repúdio ao terrorismo e racismo | Valores universais |
+| Cooperação entre os povos | Progresso da humanidade |
+| Concessão de asilo político | Proteção a perseguidos |
+
+**Parágrafo único**: Integração latino-americana (MERCOSUL)
+
+### 5. Poder Constituinte
+
+#### 5.1 Poder Constituinte Originário (PCO)
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Inicial** | Inaugura nova ordem jurídica |
+| **Ilimitado** | Não se submete à ordem anterior |
+| **Incondicionado** | Não há forma predeterminada |
+| **Autônomo** | Não deriva de outro poder |
+
+#### 5.2 Poder Constituinte Derivado
+
+| Tipo | Função | Limitações |
+|------|--------|------------|
+| **Reformador** | Altera a CF (EC) | Cláusulas pétreas, limites formais |
+| **Decorrente** | Constituições Estaduais | Observar CF |
+| **Revisor** | Revisão do art. 3º ADCT | Já foi exercido (EC 1-6/94) |
+
+### 6. Supremacia Constitucional
+
+A Constituição ocupa o **topo do ordenamento jurídico**:
+
+- Todas as normas devem ser compatíveis com a CF
+- Norma inconstitucional é **nula** (teoria da nulidade)
+- Controle de constitucionalidade preserva a supremacia
+
+### 7. Elementos da Constituição (José Afonso da Silva)
+
+| Elemento | Artigos | Conteúdo |
+|----------|---------|----------|
+| **Orgânicos** | Títulos III e IV | Estrutura do Estado e Poderes |
+| **Limitativos** | Título II | Direitos Fundamentais |
+| **Socioideológicos** | Títulos VII e VIII | Ordem econômica e social |
+| **Estabilização** | Título V | Defesa do Estado |
+| **Formais de aplicabilidade** | Preâmbulo, ADCT | Aplicação das normas |
+
+### 8. CF/88 - Apelidos e Características
+
+- **"Constituição Cidadã"** (Ulysses Guimarães)
+- Ampla proteção aos direitos fundamentais
+- Redemocratização do Brasil
+- Marco do Estado Democrático de Direito
+        `,
+
+        pontosChave: [
+          'CF/88: Promulgada, Escrita, Analítica, Dogmática, Rígida, Formal, Eclética',
+          'FUNDAMENTOS (art. 1º): SO-CI-DI-VA-PLU (Soberania, Cidadania, Dignidade, Valores sociais, Pluralismo)',
+          'OBJETIVOS (art. 3º): CON-GA-ER-PRO (Construir, Garantir, Erradicar, Promover) - são VERBOS!',
+          'Art. 4º: princípios nas relações internacionais + integração latino-americana',
+          'Preâmbulo NÃO tem força normativa (STF, ADI 2.076)',
+          'Poder Constituinte Originário: inicial, ilimitado, incondicionado, autônomo',
+          'Separação de Poderes (art. 2º) é CLÁUSULA PÉTREA',
+          'Todo poder emana do POVO (parágrafo único, art. 1º)',
+          'CF/88 = "Constituição Cidadã" (Ulysses Guimarães)',
+          'ADCT tem força normativa (eficácia temporária)',
+          'Título I (arts. 1º a 4º) = Princípios Fundamentais',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Fundamentos x Objetivos',
+            descricao: 'FUNDAMENTOS (art. 1º) são a BASE do Estado. OBJETIVOS (art. 3º) são as METAS a alcançar.',
+            dica: 'Fundamentos = substantivos (soberania...). Objetivos = verbos (construir, garantir...).',
+          },
+          {
+            titulo: 'Preâmbulo com força normativa',
+            descricao: 'O Preâmbulo NÃO tem força normativa, segundo o STF.',
+            dica: 'Preâmbulo é vetor interpretativo, não norma vinculante.',
+          },
+          {
+            titulo: 'Constituição flexível',
+            descricao: 'A CF/88 é RÍGIDA (alguns dizem super-rígida), não flexível.',
+            dica: 'Emenda constitucional exige 3/5 em 2 turnos nas duas Casas.',
+          },
+          {
+            titulo: 'Pluralismo político x partidário',
+            descricao: 'PLURALISMO POLÍTICO é fundamento (art. 1º, V). Pluralismo PARTIDÁRIO está no art. 17.',
+            dica: 'Cuidado com a troca de termos.',
+          },
+          {
+            titulo: 'Desenvolvimento nacional',
+            descricao: 'GARANTIR o desenvolvimento nacional é OBJETIVO (art. 3º, II), não fundamento.',
+            dica: 'Só aparece na lista de objetivos, não de fundamentos.',
+          },
+          {
+            titulo: 'Erradicar x Eliminar',
+            descricao: 'O objetivo é ERRADICAR a pobreza e REDUZIR as desigualdades (não eliminar).',
+            dica: 'Use os termos exatos da Constituição.',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'SO-CI-DI-VA-PLU',
+            significado: 'Fundamentos da República (art. 1º)',
+            frase: 'SOberania, CIdadania, DIgnidade da pessoa humana, VAlores sociais do trabalho e livre iniciativa, PLUralismo político',
+          },
+          {
+            termo: 'CON-GA-ER-PRO',
+            significado: 'Objetivos Fundamentais (art. 3º)',
+            frase: 'CONstruir, GArantir, ERradicar, PROmover',
+          },
+          {
+            termo: 'VERBOS = OBJETIVOS',
+            significado: 'Objetivos são verbos no infinitivo',
+            frase: 'Se tem verbo (construir, garantir...) = OBJETIVO. Se é substantivo = FUNDAMENTO',
+          },
+          {
+            termo: 'PRE-A-DO-RI-F-E',
+            significado: 'Classificação da CF/88',
+            frase: 'Promulgada, Escrita, Analítica, DOgmática, RÍgida, Formal, Eclética',
+          },
+          {
+            termo: 'I-I-I-A',
+            significado: 'Características do Poder Constituinte Originário',
+            frase: 'Inicial, Ilimitado, Incondicionado, Autônomo',
+          },
+          {
+            termo: 'DE-CO-RE',
+            significado: 'Tipos de Poder Constituinte Derivado',
+            frase: 'DErivado, Reformador (EC), DEcorrente (Estados)',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'da-fc-17-1',
+            frente: 'Quais são os FUNDAMENTOS da República (art. 1º)?',
+            verso: '**SO-CI-DI-VA-PLU**\\n\\nI - **SO**berania\\nII - **CI**dadania\\nIII - **DI**gnidade da pessoa humana\\nIV - **VA**lores sociais do trabalho e livre iniciativa\\nV - **PLU**ralismo político',
+            tags: ['fundamentos', 'art. 1º', 'CF/88'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-17-2',
+            frente: 'Quais são os OBJETIVOS fundamentais da República (art. 3º)?',
+            verso: '**CON-GA-ER-PRO** (são VERBOS!)\\n\\nI - **CON**struir sociedade livre, justa e solidária\\nII - **GA**rantir o desenvolvimento nacional\\nIII - **ER**radicar pobreza e reduzir desigualdades\\nIV - **PRO**mover o bem de todos',
+            tags: ['objetivos', 'art. 3º', 'CF/88'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-17-3',
+            frente: 'Como se classifica a CF/88?',
+            verso: '**PRE-A-DO-RI-F-E**\\n\\n- **P**romulgada (origem)\\n- **E**scrita (forma)\\n- **A**nalítica (extensão)\\n- **DO**gmática (elaboração)\\n- **RÍ**gida (alterabilidade)\\n- **F**ormal (conteúdo)\\n- **E**clética (ideologia)',
+            tags: ['classificação', 'CF/88'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-17-4',
+            frente: 'O Preâmbulo da CF/88 tem força normativa?',
+            verso: '**NÃO**, segundo o STF (ADI 2.076).\\n\\nO preâmbulo:\\n- Não é norma constitucional\\n- Não pode fundamentar inconstitucionalidade\\n- Serve apenas como vetor interpretativo\\n- Não é de reprodução obrigatória nas CEs',
+            tags: ['preâmbulo', 'STF', 'força normativa'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-17-5',
+            frente: 'Quais são as características do Poder Constituinte Originário?',
+            verso: '**I-I-I-A**\\n\\n- **I**nicial: inaugura nova ordem\\n- **I**limitado: não se submete à ordem anterior\\n- **I**ncondicionado: sem forma predeterminada\\n- **A**utônomo: não deriva de outro poder',
+            tags: ['poder constituinte', 'originário', 'características'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-17-6',
+            frente: 'Qual a diferença entre fundamentos e objetivos na CF/88?',
+            verso: '**FUNDAMENTOS** (art. 1º):\\n- São a BASE do Estado\\n- Expressos em substantivos\\n- Ex: soberania, cidadania, dignidade\\n\\n**OBJETIVOS** (art. 3º):\\n- São METAS a alcançar\\n- Expressos em VERBOS\\n- Ex: construir, garantir, erradicar',
+            tags: ['fundamentos', 'objetivos', 'diferença'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-17-7',
+            frente: 'Quais são os sentidos de Constituição?',
+            verso: '**SOCIOLÓGICO** (Lassalle):\\nSoma dos fatores reais de poder\\n\\n**POLÍTICO** (Schmitt):\\nDecisão política fundamental\\n\\n**JURÍDICO** (Kelsen):\\nNorma pura, fundamento de validade',
+            tags: ['sentidos', 'Lassalle', 'Schmitt', 'Kelsen'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-17-8',
+            frente: 'De quem emana todo o poder na República Federativa do Brasil?',
+            verso: 'Todo poder emana do **POVO**, que o exerce por meio de representantes eleitos ou diretamente.\\n\\n(Art. 1º, parágrafo único, CF/88)\\n\\nÉ o fundamento da **soberania popular** e do **Estado Democrático de Direito**.',
+            tags: ['poder', 'povo', 'soberania popular'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-17-9',
+            frente: 'Por que a CF/88 é chamada de "Constituição Cidadã"?',
+            verso: 'Apelido dado por **Ulysses Guimarães**, presidente da Assembleia Constituinte.\\n\\nMotivos:\\n- Ampla proteção aos direitos fundamentais\\n- Redemocratização após ditadura militar\\n- Participação popular na elaboração\\n- Extenso rol de garantias sociais',
+            tags: ['constituição cidadã', 'Ulysses Guimarães'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-17-10',
+            frente: 'Qual o parágrafo único do art. 4º da CF/88?',
+            verso: 'Busca da **integração econômica, política, social e cultural dos povos da América Latina**, visando à formação de uma comunidade latino-americana de nações.\\n\\nBase constitucional do **MERCOSUL** e acordos regionais.',
+            tags: ['integração', 'América Latina', 'MERCOSUL'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'da-q-17-1',
+            enunciado: 'São FUNDAMENTOS da República Federativa do Brasil, previstos no art. 1º da CF/88:',
+            alternativas: [
+              { letra: 'A', texto: 'soberania, cidadania e construção de sociedade livre.' },
+              { letra: 'B', texto: 'dignidade da pessoa humana, pluralismo político e garantia do desenvolvimento nacional.' },
+              { letra: 'C', texto: 'soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e livre iniciativa, pluralismo político.' },
+              { letra: 'D', texto: 'independência nacional, prevalência dos direitos humanos e defesa da paz.' },
+              { letra: 'E', texto: 'erradicação da pobreza, promoção do bem comum e pluralismo partidário.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Os FUNDAMENTOS do art. 1º são: soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e livre iniciativa, e pluralismo político (SO-CI-DI-VA-PLU). A alternativa A mistura com objetivos, B também, D são princípios internacionais, E mistura objetivos com fundamentos.',
+            dificuldade: 'Fácil',
+            competencia: 'Fundamentos da República',
+            banca: 'IADES',
+            tags: ['fundamentos', 'art. 1º'],
+          },
+          {
+            id: 'da-q-17-2',
+            enunciado: 'Constituem OBJETIVOS fundamentais da República Federativa do Brasil, EXCETO:',
+            alternativas: [
+              { letra: 'A', texto: 'construir uma sociedade livre, justa e solidária.' },
+              { letra: 'B', texto: 'garantir o desenvolvimento nacional.' },
+              { letra: 'C', texto: 'erradicar a pobreza e a marginalização.' },
+              { letra: 'D', texto: 'assegurar a dignidade da pessoa humana.' },
+              { letra: 'E', texto: 'promover o bem de todos, sem preconceitos.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'A dignidade da pessoa humana é FUNDAMENTO (art. 1º, III), não objetivo. Os objetivos (art. 3º) são: construir, garantir, erradicar/reduzir, promover (verbos no infinitivo).',
+            dificuldade: 'Média',
+            competencia: 'Distinção fundamentos/objetivos',
+            banca: 'IADES',
+            tags: ['objetivos', 'fundamentos', 'exceção'],
+          },
+          {
+            id: 'da-q-17-3',
+            enunciado: 'A Constituição Federal de 1988 pode ser classificada como:',
+            alternativas: [
+              { letra: 'A', texto: 'outorgada, histórica e flexível.' },
+              { letra: 'B', texto: 'promulgada, dogmática e rígida.' },
+              { letra: 'C', texto: 'cesarista, costumeira e semirrígida.' },
+              { letra: 'D', texto: 'pactuada, sintética e imutável.' },
+              { letra: 'E', texto: 'outorgada, analítica e rígida.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A CF/88 é: PROMULGADA (democrática), DOGMÁTICA (elaborada de uma vez, com ideologia), RÍGIDA (alteração mais difícil que lei ordinária). Também é escrita, analítica, formal e eclética.',
+            dificuldade: 'Média',
+            competencia: 'Classificação da CF',
+            banca: 'IADES',
+            tags: ['classificação', 'CF/88'],
+          },
+          {
+            id: 'da-q-17-4',
+            enunciado: 'Sobre o preâmbulo da Constituição Federal de 1988, é CORRETO afirmar que:',
+            alternativas: [
+              { letra: 'A', texto: 'possui força normativa e pode fundamentar controle de constitucionalidade.' },
+              { letra: 'B', texto: 'é de reprodução obrigatória nas Constituições Estaduais.' },
+              { letra: 'C', texto: 'não é norma constitucional, servindo apenas como vetor interpretativo.' },
+              { letra: 'D', texto: 'vincula o legislador infraconstitucional em suas deliberações.' },
+              { letra: 'E', texto: 'constitui cláusula pétrea implícita.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O STF (ADI 2.076) decidiu que o preâmbulo NÃO é norma constitucional, não tem força normativa, não é de reprodução obrigatória e não pode fundamentar inconstitucionalidade. Serve apenas como vetor interpretativo.',
+            dificuldade: 'Média',
+            competencia: 'Preâmbulo',
+            banca: 'IADES',
+            tags: ['preâmbulo', 'STF'],
+          },
+          {
+            id: 'da-q-17-5',
+            enunciado: 'O Poder Constituinte Originário caracteriza-se por ser:',
+            alternativas: [
+              { letra: 'A', texto: 'derivado, limitado e condicionado.' },
+              { letra: 'B', texto: 'inicial, ilimitado e incondicionado.' },
+              { letra: 'C', texto: 'secundário, autônomo e permanente.' },
+              { letra: 'D', texto: 'reformador, decorrente e revisor.' },
+              { letra: 'E', texto: 'limitado pelas cláusulas pétreas.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O Poder Constituinte ORIGINÁRIO é: INICIAL (inaugura nova ordem), ILIMITADO (não se submete à ordem anterior), INCONDICIONADO (não há forma predeterminada) e AUTÔNOMO. As demais características são do Poder Derivado.',
+            dificuldade: 'Fácil',
+            competencia: 'Poder Constituinte',
+            banca: 'IADES',
+            tags: ['poder constituinte', 'originário'],
+          },
+          {
+            id: 'da-q-17-6',
+            enunciado: 'São princípios que regem as relações internacionais do Brasil, segundo o art. 4º da CF/88:',
+            alternativas: [
+              { letra: 'A', texto: 'soberania, cidadania e dignidade da pessoa humana.' },
+              { letra: 'B', texto: 'construir sociedade livre e garantir desenvolvimento nacional.' },
+              { letra: 'C', texto: 'independência nacional, prevalência dos direitos humanos e defesa da paz.' },
+              { letra: 'D', texto: 'legalidade, impessoalidade e moralidade.' },
+              { letra: 'E', texto: 'federação, república e presidencialismo.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O art. 4º prevê os princípios das relações internacionais: independência nacional, prevalência dos direitos humanos, autodeterminação dos povos, não intervenção, defesa da paz, solução pacífica de conflitos, entre outros. A = fundamentos, B = objetivos, D = administração pública.',
+            dificuldade: 'Média',
+            competencia: 'Princípios internacionais',
+            banca: 'IADES',
+            tags: ['art. 4º', 'relações internacionais'],
+          },
+          {
+            id: 'da-q-17-7',
+            enunciado: 'Segundo a CF/88, "todo poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente". Esse dispositivo consagra o princípio da:',
+            alternativas: [
+              { letra: 'A', texto: 'separação de poderes.' },
+              { letra: 'B', texto: 'soberania popular.' },
+              { letra: 'C', texto: 'supremacia constitucional.' },
+              { letra: 'D', texto: 'legalidade.' },
+              { letra: 'E', texto: 'federação.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'O parágrafo único do art. 1º ("todo poder emana do povo") consagra a SOBERANIA POPULAR, fundamento do Estado Democrático de Direito. O povo é o titular do poder, exercendo-o diretamente (plebiscito, referendo, iniciativa popular) ou por representantes.',
+            dificuldade: 'Fácil',
+            competencia: 'Soberania popular',
+            banca: 'IADES',
+            tags: ['soberania popular', 'art. 1º'],
+          },
+          {
+            id: 'da-q-17-8',
+            enunciado: 'A respeito do sentido de Constituição, é CORRETO afirmar que o sentido SOCIOLÓGICO, formulado por Ferdinand Lassalle, compreende a Constituição como:',
+            alternativas: [
+              { letra: 'A', texto: 'norma pura, fundamento de validade de todo o ordenamento jurídico.' },
+              { letra: 'B', texto: 'decisão política fundamental do titular do poder constituinte.' },
+              { letra: 'C', texto: 'soma dos fatores reais de poder que regem uma sociedade.' },
+              { letra: 'D', texto: 'documento escrito que organiza politicamente o Estado.' },
+              { letra: 'E', texto: 'conjunto de normas que limita o poder estatal.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'Para Lassalle (sentido SOCIOLÓGICO), a Constituição é a soma dos fatores reais de poder. Se a Constituição escrita não corresponder à realidade, será mera "folha de papel". Kelsen = jurídico (norma pura). Schmitt = político (decisão fundamental).',
+            dificuldade: 'Média',
+            competencia: 'Sentidos de Constituição',
+            banca: 'IADES',
+            tags: ['Lassalle', 'sociológico'],
+          },
+          {
+            id: 'da-q-17-9',
+            enunciado: 'Quanto à alterabilidade, uma Constituição que exige processo de modificação mais rigoroso que o das leis ordinárias denomina-se:',
+            alternativas: [
+              { letra: 'A', texto: 'flexível.' },
+              { letra: 'B', texto: 'imutável.' },
+              { letra: 'C', texto: 'semirrígida.' },
+              { letra: 'D', texto: 'rígida.' },
+              { letra: 'E', texto: 'costumeira.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'Constituição RÍGIDA é aquela que exige processo de alteração mais dificultoso que o das leis ordinárias. A CF/88 é rígida: emenda exige 3/5, dois turnos, nas duas Casas. Flexível = mesmo processo. Imutável = não admite alteração.',
+            dificuldade: 'Fácil',
+            competencia: 'Classificação quanto à alterabilidade',
+            banca: 'IADES',
+            tags: ['rígida', 'classificação'],
+          },
+          {
+            id: 'da-q-17-10',
+            enunciado: 'O Título I da Constituição Federal de 1988 trata:',
+            alternativas: [
+              { letra: 'A', texto: 'dos Direitos e Garantias Fundamentais.' },
+              { letra: 'B', texto: 'da Organização do Estado.' },
+              { letra: 'C', texto: 'dos Princípios Fundamentais.' },
+              { letra: 'D', texto: 'da Organização dos Poderes.' },
+              { letra: 'E', texto: 'da Ordem Econômica e Financeira.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O Título I (arts. 1º a 4º) trata dos PRINCÍPIOS FUNDAMENTAIS: fundamentos (art. 1º), separação de poderes (art. 2º), objetivos (art. 3º) e princípios internacionais (art. 4º). Direitos = Título II. Organização do Estado = Título III.',
+            dificuldade: 'Fácil',
+            competencia: 'Estrutura da CF',
+            banca: 'IADES',
+            tags: ['Título I', 'estrutura'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'da-topico-18',
+      numero: 18,
+      titulo: 'Aplicabilidade das Normas Constitucionais',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Classificação de José Afonso da Silva (mais cobrada!)
+
+| Eficácia | Aplicabilidade | Características | Pode ser restringida? |
+|----------|----------------|-----------------|----------------------|
+| **PLENA** | Imediata, direta, integral | Autoaplicável, não depende de lei | NÃO |
+| **CONTIDA** | Imediata, direta, não integral | Autoaplicável, MAS pode ser restringida | SIM (por lei) |
+| **LIMITADA** | Mediata, indireta, reduzida | Depende de lei para produzir efeitos plenos | NÃO (já é limitada) |
+
+### Normas de Eficácia Limitada - Subespécies
+
+| Tipo | Função | Exemplo |
+|------|--------|---------|
+| **Institutivas/Organizatórias** | Criar órgãos/entidades | "A lei criará..." |
+| **Programáticas** | Estabelecer programas/metas | Direitos sociais, ordem econômica |
+
+### Macete Visual
+
+\`\`\`
+PLENA ───────────────────────────────────► 100% de eficácia
+CONTIDA ─────────────────────► pode diminuir (lei restringe)
+LIMITADA ────► pode aumentar (lei regulamenta)
+\`\`\`
+
+### Para IADES - Memorize:
+- **PLENA** = aplica JÁ, não precisa de nada
+- **CONTIDA** = aplica JÁ, mas lei PODE restringir
+- **LIMITADA** = NÃO aplica ainda, precisa de lei
+- Toda norma constitucional tem ALGUMA eficácia (mínima)
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito de Aplicabilidade
+
+**Aplicabilidade** é a qualidade da norma constitucional de ser aplicada, de produzir efeitos jurídicos concretos. Toda norma constitucional possui algum grau de eficácia, mas nem todas têm a mesma aplicabilidade.
+
+#### Diferença entre Vigência, Validade e Eficácia
+
+| Conceito | Significado |
+|----------|-------------|
+| **Vigência** | A norma existe no ordenamento (foi promulgada) |
+| **Validade** | A norma está de acordo com a Constituição |
+| **Eficácia** | A norma produz efeitos jurídicos |
+
+### 2. Classificação de José Afonso da Silva
+
+A classificação mais cobrada em concursos é a do constitucionalista **José Afonso da Silva**, que divide as normas constitucionais em três categorias quanto à eficácia:
+
+#### 2.1 Normas de Eficácia PLENA
+
+**Conceito:** Normas que, desde a entrada em vigor da Constituição, produzem todos os seus efeitos essenciais, tendo aplicabilidade **direta, imediata e integral**.
+
+**Características:**
+- Autoaplicáveis (não dependem de lei)
+- Aplicabilidade imediata
+- Não podem ser restringidas pelo legislador
+- Produzem efeitos desde logo
+
+**Exemplos na CF/88:**
+| Artigo | Dispositivo |
+|--------|-------------|
+| Art. 2º | Separação de Poderes |
+| Art. 5º, III | Vedação à tortura |
+| Art. 13 | Língua portuguesa como idioma oficial |
+| Art. 14, §2º | Alistamento eleitoral aos 18 anos é obrigatório |
+| Art. 17 | Livre criação de partidos políticos |
+| Art. 19 | Vedações aos entes federativos |
+| Art. 21 | Competências da União |
+| Art. 22 | Competência legislativa privativa da União |
+| Art. 37, III | Prazo de validade de concurso público |
+| Art. 53 | Imunidades parlamentares |
+| Art. 60, §4º | Cláusulas pétreas |
+| Art. 230, §2º | Gratuidade dos transportes coletivos para idosos |
+
+#### 2.2 Normas de Eficácia CONTIDA (ou Restringível)
+
+**Conceito:** Normas que têm aplicabilidade **direta e imediata**, mas podem ter seu alcance **restringido** por lei infraconstitucional ou por outras normas constitucionais.
+
+**Características:**
+- Autoaplicáveis (produzem efeitos imediatamente)
+- Enquanto não houver restrição, têm eficácia plena
+- O legislador pode REDUZIR sua abrangência
+- Também chamadas de "restringíveis" ou "redutíveis"
+
+**Expressões típicas:**
+- "nos termos da lei"
+- "na forma da lei"
+- "salvo os casos previstos em lei"
+- "que a lei estabelecer"
+- "ressalvados os casos..."
+
+**Exemplos na CF/88:**
+| Artigo | Dispositivo | Restrição |
+|--------|-------------|-----------|
+| Art. 5º, XIII | Livre exercício de trabalho, ofício ou profissão | "atendidas as qualificações profissionais que a lei estabelecer" |
+| Art. 5º, XV | Livre locomoção no território nacional | Pode ser restringida em estado de sítio |
+| Art. 5º, XVI | Direito de reunião | "desde que não frustrem outra reunião anteriormente convocada" |
+| Art. 5º, XXIV | Desapropriação | Mediante indenização |
+| Art. 5º, LVIII | Identificação criminal | "salvo nas hipóteses previstas em lei" |
+| Art. 5º, LX | Publicidade dos atos processuais | Pode ser restrita para defesa da intimidade |
+| Art. 5º, LXI | Prisão | "salvo em flagrante delito ou por ordem escrita e fundamentada" |
+| Art. 93, IX | Publicidade dos julgamentos | Pode ser restrita (interesse público, intimidade) |
+
+**Importante:** Enquanto NÃO houver lei restringindo, a norma de eficácia contida tem aplicabilidade PLENA!
+
+#### 2.3 Normas de Eficácia LIMITADA
+
+**Conceito:** Normas que têm aplicabilidade **indireta, mediata e reduzida**, necessitando de regulamentação infraconstitucional para produzir seus efeitos principais.
+
+**Características:**
+- NÃO são autoaplicáveis
+- Dependem de lei para efeitos plenos
+- Possuem eficácia mínima (revogam normas anteriores incompatíveis)
+- O legislador deve COMPLEMENTAR a norma
+
+**Expressões típicas:**
+- "a lei regulará"
+- "a lei disporá"
+- "nos termos de lei complementar"
+- "na forma que a lei estabelecer"
+- "a lei definirá"
+
+##### 2.3.1 Normas de Eficácia Limitada INSTITUTIVAS (ou Organizatórias)
+
+São aquelas que dependem de lei para dar estrutura a órgãos, entidades ou instituições previstas na Constituição.
+
+**Exemplos:**
+| Artigo | Dispositivo |
+|--------|-------------|
+| Art. 18, §2º | Criação de Territórios ("Lei complementar regulará...") |
+| Art. 33 | Organização dos Territórios |
+| Art. 88 | Organização dos Ministérios |
+| Art. 90, §2º | Organização e funcionamento do Conselho da República |
+| Art. 91, §2º | Organização e funcionamento do Conselho de Defesa Nacional |
+| Art. 113 | Criação de TRFs e juízes federais |
+| Art. 121 | Organização da Justiça Eleitoral |
+
+##### 2.3.2 Normas de Eficácia Limitada PROGRAMÁTICAS
+
+São aquelas que estabelecem **programas, diretrizes, metas e objetivos** a serem implementados pelo Estado. Vinculam a atuação futura do Poder Público.
+
+**Características:**
+- Fixam fins a serem alcançados
+- Veiculam políticas públicas
+- Impõem dever de legislar
+- Vinculam ação do Estado
+
+**Exemplos:**
+| Artigo | Dispositivo |
+|--------|-------------|
+| Art. 3º | Objetivos fundamentais da República |
+| Art. 6º | Direitos sociais (educação, saúde, alimentação...) |
+| Art. 7º, XX | Proteção do mercado de trabalho da mulher |
+| Art. 7º, XXVII | Proteção contra automação |
+| Art. 170 | Princípios da ordem econômica |
+| Art. 196 | Direito à saúde |
+| Art. 205 | Direito à educação |
+| Art. 215 | Garantia do pleno exercício dos direitos culturais |
+| Art. 217 | Fomento ao desporto |
+| Art. 218 | Promoção da ciência e tecnologia |
+| Art. 227 | Proteção à criança e ao adolescente |
+
+### 3. Eficácia Mínima das Normas Constitucionais
+
+**TODAS** as normas constitucionais possuem eficácia mínima:
+
+| Efeito Mínimo | Descrição |
+|---------------|-----------|
+| **Revogador** | Revogam normas anteriores incompatíveis |
+| **Impedidor** | Impedem leis contrárias (inconstitucionalidade) |
+| **Interpretativo** | Servem de parâmetro de interpretação |
+
+⚠️ **Atenção IADES:** Não existe norma constitucional sem eficácia! Mesmo as limitadas têm eficácia mínima.
+
+### 4. Outras Classificações Doutrinárias
+
+#### 4.1 Maria Helena Diniz (4 categorias)
+
+| Categoria | Correspondência |
+|-----------|-----------------|
+| Eficácia absoluta | Cláusulas pétreas |
+| Eficácia plena | = José Afonso da Silva |
+| Eficácia relativa restringível | = Contida |
+| Eficácia relativa complementável | = Limitada |
+
+#### 4.2 Celso Ribeiro Bastos e Carlos Ayres Britto
+
+| Categoria | Características |
+|-----------|-----------------|
+| Irregulamentáveis | Não admitem regulamentação (plenas) |
+| Regulamentáveis | Admitem ou exigem regulamentação |
+
+#### 4.3 Luís Roberto Barroso (moderna)
+
+| Categoria | Descrição |
+|-----------|-----------|
+| Normas de organização | Estrutura do Estado |
+| Normas definidoras de direitos | Direitos fundamentais |
+| Normas programáticas | Fins e tarefas do Estado |
+
+### 5. Quadro Comparativo Final
+
+| Aspecto | PLENA | CONTIDA | LIMITADA |
+|---------|-------|---------|----------|
+| **Aplicabilidade** | Direta, imediata, integral | Direta, imediata, não integral | Indireta, mediata, reduzida |
+| **Autoaplicável?** | SIM | SIM | NÃO |
+| **Precisa de lei?** | NÃO | NÃO (mas pode restringir) | SIM |
+| **Efeito da lei** | - | RESTRINGE | COMPLEMENTA |
+| **Direção** | Não muda | Diminui ↓ | Aumenta ↑ |
+
+### 6. Aplicabilidade e Vigilância Sanitária
+
+Na área de Vigilância Sanitária, diversas normas constitucionais têm aplicabilidade:
+
+| Norma | Tipo | Observação |
+|-------|------|------------|
+| Art. 196 (direito à saúde) | Programática | Vincula políticas de VISA |
+| Art. 200 (competência do SUS) | Plena (em parte) | VISA está no inciso I e II |
+| Art. 5º, II (legalidade) | Plena | Fundamenta atuação fiscalizatória |
+| Art. 37, LIMPE | Plena | Vincula atuação dos fiscais |
+        `,
+
+        pontosChave: [
+          'José Afonso da Silva: PLENA, CONTIDA e LIMITADA (classificação mais cobrada)',
+          'PLENA: direta, imediata, integral - não depende de lei, não pode ser restringida',
+          'CONTIDA: direta, imediata - autoaplicável, MAS pode ser restringida por lei',
+          'LIMITADA: indireta, mediata - depende de lei para efeitos plenos',
+          'Limitada se divide em: INSTITUTIVAS (criar órgãos) e PROGRAMÁTICAS (metas/programas)',
+          'Normas programáticas: estabelecem fins, diretrizes, políticas públicas',
+          'TODA norma constitucional tem eficácia mínima (não existe norma sem eficácia)',
+          'Eficácia mínima: revogar leis anteriores, impedir leis contrárias, servir de interpretação',
+          'CONTIDA enquanto não restringida = eficácia PLENA',
+          'Expressão "a lei regulará" = eficácia LIMITADA',
+          'Expressão "salvo os casos previstos em lei" = eficácia CONTIDA',
+        ],
+
+        armadilhas: [
+          {
+            titulo: 'Confundir CONTIDA com LIMITADA',
+            descricao: 'CONTIDA já produz efeitos (lei restringe). LIMITADA não produz efeitos plenos sem lei (lei amplia).',
+            dica: 'Contida = começa cheia, pode esvaziar. Limitada = começa vazia, precisa encher.',
+          },
+          {
+            titulo: 'Achar que norma limitada não tem eficácia',
+            descricao: 'TODA norma constitucional tem eficácia mínima (revoga, impede, interpreta).',
+            dica: 'Não existe norma constitucional totalmente sem eficácia!',
+          },
+          {
+            titulo: 'Confundir "nos termos da lei" em diferentes contextos',
+            descricao: 'A expressão pode indicar contida (restrição) OU limitada (complementação), depende do contexto.',
+            dica: 'Analise se a norma já produz efeitos ou se precisa de lei para produzir.',
+          },
+          {
+            titulo: 'Pensar que normas programáticas não vinculam',
+            descricao: 'Normas programáticas VINCULAM a atuação do Estado, mesmo sendo de eficácia limitada.',
+            dica: 'Programáticas impedem leis contrárias e servem de parâmetro de controle.',
+          },
+          {
+            titulo: 'Classificar direitos sociais como plenos',
+            descricao: 'A maioria dos direitos sociais do art. 6º são de eficácia LIMITADA (programáticas).',
+            dica: 'Direitos sociais geralmente dependem de políticas públicas para implementação.',
+          },
+          {
+            titulo: 'Confundir "autoaplicável" com "plena"',
+            descricao: 'Normas CONTIDAS também são autoaplicáveis! A diferença é que podem ser restringidas.',
+            dica: 'Autoaplicável = produz efeitos imediatos (plena E contida).',
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: 'PCL',
+            significado: 'Plena, Contida, Limitada',
+            frase: 'As 3 eficácias de José Afonso da Silva: PCL (Pode Começar a Lembrar)',
+          },
+          {
+            termo: 'PLena = Pronta',
+            significado: 'Eficácia plena',
+            frase: 'PLena = Pronta para aplicar (não precisa de nada)',
+          },
+          {
+            termo: 'ConTida = ConTer',
+            significado: 'Eficácia contida',
+            frase: 'ConTida = pode ser ConTida/restringida pela lei',
+          },
+          {
+            termo: 'LiMitada = Lei é a Mãe',
+            significado: 'Eficácia limitada',
+            frase: 'LiMitada = precisa de Lei como Mãe para nascer completa',
+          },
+          {
+            termo: 'IP = Institutiva e Programática',
+            significado: 'Subespécies de eficácia limitada',
+            frase: 'Limitada se divide em: Institutiva (cria órgãos) e Programática (metas)',
+          },
+          {
+            termo: 'RII',
+            significado: 'Efeitos mínimos das normas',
+            frase: 'Toda norma tem RII: Revoga, Impede, Interpreta',
+          },
+          {
+            termo: 'Seta para cima/baixo',
+            significado: 'Direção do efeito da lei',
+            frase: 'Contida ↓ (lei diminui). Limitada ↑ (lei aumenta).',
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'da-fc-18-1',
+            frente: 'Quais são os três tipos de eficácia das normas constitucionais segundo José Afonso da Silva?',
+            verso: '**P-C-L:**\\n\\n1. **PLENA**: aplicabilidade direta, imediata e integral\\n2. **CONTIDA**: aplicabilidade direta, imediata, mas não integral (pode ser restringida)\\n3. **LIMITADA**: aplicabilidade indireta, mediata e reduzida',
+            tags: ['eficácia', 'José Afonso da Silva', 'classificação'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-18-2',
+            frente: 'O que caracteriza uma norma de eficácia PLENA?',
+            verso: 'Norma que produz TODOS os efeitos desde logo, tendo aplicabilidade:\\n\\n- **Direta**: não precisa de outra norma\\n- **Imediata**: desde a promulgação\\n- **Integral**: não pode ser restringida\\n\\nEx: Art. 2º (separação de poderes), Art. 5º, III (vedação à tortura)',
+            tags: ['eficácia plena', 'características'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-18-3',
+            frente: 'O que caracteriza uma norma de eficácia CONTIDA?',
+            verso: 'Norma AUTOAPLICÁVEL que pode ter seu alcance RESTRINGIDO por lei.\\n\\n- Produz efeitos imediatos\\n- Enquanto não houver restrição = eficácia plena\\n- Lei pode DIMINUIR sua abrangência\\n\\nEx: Art. 5º, XIII (livre exercício profissional, "atendidas as qualificações que a lei estabelecer")',
+            tags: ['eficácia contida', 'características'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-18-4',
+            frente: 'O que caracteriza uma norma de eficácia LIMITADA?',
+            verso: 'Norma que DEPENDE de regulamentação para produzir seus efeitos principais.\\n\\n- NÃO é autoaplicável\\n- Aplicabilidade indireta e mediata\\n- Lei COMPLEMENTA a norma\\n\\nDivide-se em:\\n- **Institutivas**: criar órgãos\\n- **Programáticas**: estabelecer metas',
+            tags: ['eficácia limitada', 'características'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-18-5',
+            frente: 'O que são normas PROGRAMÁTICAS?',
+            verso: 'São normas de eficácia LIMITADA que estabelecem **programas, diretrizes e metas** a serem implementados pelo Estado.\\n\\nCaracterísticas:\\n- Fixam fins a alcançar\\n- Veiculam políticas públicas\\n- Vinculam a ação estatal\\n\\nEx: Art. 196 (direito à saúde), Art. 205 (direito à educação)',
+            tags: ['programáticas', 'conceito'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-18-6',
+            frente: 'Qual a diferença entre norma CONTIDA e LIMITADA?',
+            verso: '**CONTIDA:**\\n- JÁ produz efeitos\\n- Lei pode RESTRINGIR (diminuir)\\n- Direção: ↓\\n\\n**LIMITADA:**\\n- NÃO produz efeitos plenos\\n- Lei deve COMPLEMENTAR (aumentar)\\n- Direção: ↑\\n\\nMacete: Contida = cheia, pode esvaziar. Limitada = vazia, precisa encher.',
+            tags: ['contida', 'limitada', 'diferença'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-18-7',
+            frente: 'Existe norma constitucional sem nenhuma eficácia?',
+            verso: '**NÃO!** Toda norma constitucional possui eficácia mínima.\\n\\nEfeitos mínimos (**RII**):\\n- **R**evoga normas anteriores incompatíveis\\n- **I**mpede leis contrárias (inconstitucionalidade)\\n- **I**nterpreta (serve de parâmetro)',
+            tags: ['eficácia mínima', 'RII'],
+            dificuldade: 'facil',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-18-8',
+            frente: 'O art. 5º, XIII ("é livre o exercício de qualquer trabalho... atendidas as qualificações profissionais que a lei estabelecer") é norma de qual eficácia?',
+            verso: 'Norma de eficácia **CONTIDA**.\\n\\n- O direito ao livre exercício profissional JÁ existe\\n- Mas a lei PODE restringir, exigindo qualificações\\n- Ex: OAB para advogados, CRM para médicos\\n\\nEnquanto não houver lei, qualquer pessoa pode exercer.',
+            tags: ['art. 5º, XIII', 'contida', 'exemplo'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-18-9',
+            frente: 'Quais são as subespécies das normas de eficácia limitada?',
+            verso: '**1. INSTITUTIVAS (Organizatórias):**\\n- Criam órgãos, entidades, instituições\\n- Ex: "A lei criará...", "Lei complementar regulará..."\\n\\n**2. PROGRAMÁTICAS:**\\n- Estabelecem programas e metas\\n- Ex: Art. 3º (objetivos), Art. 196 (saúde)',
+            tags: ['limitada', 'institutiva', 'programática'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-18-10',
+            frente: 'Cite 3 exemplos de normas de eficácia PLENA na CF/88.',
+            verso: '1. **Art. 2º** - Separação de Poderes\\n2. **Art. 5º, III** - Ninguém será submetido a tortura\\n3. **Art. 14, §2º** - Alistamento eleitoral obrigatório aos 18 anos\\n4. **Art. 60, §4º** - Cláusulas pétreas\\n5. **Art. 230, §2º** - Gratuidade de transporte para idosos',
+            tags: ['eficácia plena', 'exemplos'],
+            dificuldade: 'medio',
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'da-q-18-1',
+            enunciado: 'Segundo a classificação de José Afonso da Silva, as normas constitucionais, quanto à eficácia, dividem-se em:',
+            alternativas: [
+              { letra: 'A', texto: 'autoaplicáveis e não autoaplicáveis.' },
+              { letra: 'B', texto: 'plenas, contidas e limitadas.' },
+              { letra: 'C', texto: 'absolutas, relativas e programáticas.' },
+              { letra: 'D', texto: 'originárias, derivadas e decorrentes.' },
+              { letra: 'E', texto: 'formais, materiais e mistas.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A classificação tradicional de José Afonso da Silva divide as normas constitucionais, quanto à eficácia, em: PLENAS (aplicabilidade direta, imediata e integral), CONTIDAS (podem ser restringidas) e LIMITADAS (dependem de regulamentação).',
+            dificuldade: 'Fácil',
+            competencia: 'Classificação de José Afonso da Silva',
+            banca: 'IADES',
+            tags: ['eficácia', 'classificação'],
+          },
+          {
+            id: 'da-q-18-2',
+            enunciado: 'As normas constitucionais de eficácia CONTIDA caracterizam-se por:',
+            alternativas: [
+              { letra: 'A', texto: 'não produzirem efeitos enquanto não regulamentadas por lei.' },
+              { letra: 'B', texto: 'produzirem efeitos imediatos, mas poderem ser restringidas por lei.' },
+              { letra: 'C', texto: 'não admitirem qualquer tipo de restrição pelo legislador.' },
+              { letra: 'D', texto: 'dependerem exclusivamente de emenda constitucional para produzirem efeitos.' },
+              { letra: 'E', texto: 'serem destituídas de qualquer eficácia jurídica.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Normas de eficácia CONTIDA têm aplicabilidade direta e imediata (produzem efeitos desde logo), mas podem ter seu alcance RESTRINGIDO por lei infraconstitucional. Enquanto não restringidas, têm eficácia plena.',
+            dificuldade: 'Média',
+            competencia: 'Eficácia contida',
+            banca: 'IADES',
+            tags: ['contida', 'características'],
+          },
+          {
+            id: 'da-q-18-3',
+            enunciado: 'O art. 5º, XIII, da CF/88 dispõe: "é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer". Trata-se de norma de eficácia:',
+            alternativas: [
+              { letra: 'A', texto: 'plena.' },
+              { letra: 'B', texto: 'contida.' },
+              { letra: 'C', texto: 'limitada.' },
+              { letra: 'D', texto: 'programática.' },
+              { letra: 'E', texto: 'absoluta.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'É norma de eficácia CONTIDA: o direito ao livre exercício profissional já existe e produz efeitos, mas a lei pode RESTRINGIR esse direito exigindo qualificações profissionais (ex: exame da OAB, registro no CRM).',
+            dificuldade: 'Média',
+            competencia: 'Identificação de eficácia',
+            banca: 'IADES',
+            tags: ['contida', 'art. 5º, XIII'],
+          },
+          {
+            id: 'da-q-18-4',
+            enunciado: 'As normas programáticas são espécie de normas de eficácia:',
+            alternativas: [
+              { letra: 'A', texto: 'plena.' },
+              { letra: 'B', texto: 'contida.' },
+              { letra: 'C', texto: 'limitada.' },
+              { letra: 'D', texto: 'absoluta.' },
+              { letra: 'E', texto: 'exaurida.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'As normas PROGRAMÁTICAS são subespécie das normas de eficácia LIMITADA. Estabelecem programas, diretrizes e metas a serem implementados pelo Estado, dependendo de atuação legislativa e administrativa para plena efetivação.',
+            dificuldade: 'Fácil',
+            competencia: 'Normas programáticas',
+            banca: 'IADES',
+            tags: ['programáticas', 'limitada'],
+          },
+          {
+            id: 'da-q-18-5',
+            enunciado: 'Sobre as normas constitucionais de eficácia limitada, é CORRETO afirmar que:',
+            alternativas: [
+              { letra: 'A', texto: 'não possuem qualquer eficácia jurídica.' },
+              { letra: 'B', texto: 'produzem todos os seus efeitos desde a promulgação.' },
+              { letra: 'C', texto: 'possuem eficácia mínima, como revogar normas anteriores incompatíveis.' },
+              { letra: 'D', texto: 'podem ser livremente restringidas pelo legislador.' },
+              { letra: 'E', texto: 'são sinônimo de normas de eficácia contida.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'TODA norma constitucional possui eficácia mínima, inclusive as de eficácia limitada. Essa eficácia mínima inclui: revogar normas anteriores incompatíveis, impedir leis contrárias e servir de parâmetro interpretativo.',
+            dificuldade: 'Média',
+            competencia: 'Eficácia mínima',
+            banca: 'IADES',
+            tags: ['limitada', 'eficácia mínima'],
+          },
+          {
+            id: 'da-q-18-6',
+            enunciado: 'Assinale a alternativa que contém exemplo de norma de eficácia PLENA:',
+            alternativas: [
+              { letra: 'A', texto: 'Art. 5º, XIII - livre exercício de profissão, atendidas as qualificações que a lei estabelecer.' },
+              { letra: 'B', texto: 'Art. 7º, I - relação de emprego protegida contra despedida arbitrária, nos termos de lei complementar.' },
+              { letra: 'C', texto: 'Art. 2º - São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.' },
+              { letra: 'D', texto: 'Art. 196 - A saúde é direito de todos e dever do Estado.' },
+              { letra: 'E', texto: 'Art. 37, VII - o direito de greve será exercido nos termos e nos limites definidos em lei específica.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O Art. 2º (separação de poderes) é norma de eficácia PLENA: produz todos os efeitos desde logo, não depende de regulamentação e não pode ser restringida. As demais são: A = contida, B = limitada, D = programática, E = limitada.',
+            dificuldade: 'Média',
+            competencia: 'Identificação de eficácia plena',
+            banca: 'IADES',
+            tags: ['plena', 'exemplo'],
+          },
+          {
+            id: 'da-q-18-7',
+            enunciado: 'A diferença fundamental entre normas de eficácia CONTIDA e LIMITADA está no fato de que:',
+            alternativas: [
+              { letra: 'A', texto: 'ambas dependem de lei para produzir efeitos.' },
+              { letra: 'B', texto: 'a contida é autoaplicável e a limitada depende de regulamentação.' },
+              { letra: 'C', texto: 'a limitada é autoaplicável e a contida depende de regulamentação.' },
+              { letra: 'D', texto: 'nenhuma delas possui eficácia jurídica.' },
+              { letra: 'E', texto: 'são sinônimas, não havendo diferença.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'A diferença fundamental: CONTIDA é autoaplicável (produz efeitos imediatos, mas pode ser restringida). LIMITADA NÃO é autoaplicável (depende de regulamentação para produzir seus efeitos principais).',
+            dificuldade: 'Média',
+            competencia: 'Diferença contida x limitada',
+            banca: 'IADES',
+            tags: ['contida', 'limitada', 'diferença'],
+          },
+          {
+            id: 'da-q-18-8',
+            enunciado: 'As normas de eficácia limitada de caráter INSTITUTIVO ou ORGANIZATÓRIO caracterizam-se por:',
+            alternativas: [
+              { letra: 'A', texto: 'estabelecer programas e metas governamentais.' },
+              { letra: 'B', texto: 'criar estruturas para órgãos, entidades ou instituições.' },
+              { letra: 'C', texto: 'restringir direitos fundamentais.' },
+              { letra: 'D', texto: 'produzir efeitos imediatos e integrais.' },
+              { letra: 'E', texto: 'não depender de qualquer regulamentação.' },
+            ],
+            gabarito: 'B',
+            justificativa: 'Normas INSTITUTIVAS (ou organizatórias) são aquelas que dependem de lei para dar estrutura, criar ou organizar órgãos, entidades ou instituições previstas na Constituição. Ex: "A lei criará...", "Lei complementar regulará...".',
+            dificuldade: 'Média',
+            competencia: 'Normas institutivas',
+            banca: 'IADES',
+            tags: ['institutiva', 'organizatória'],
+          },
+          {
+            id: 'da-q-18-9',
+            enunciado: 'O art. 196 da CF/88 ("A saúde é direito de todos e dever do Estado...") é classificado como norma de eficácia:',
+            alternativas: [
+              { letra: 'A', texto: 'plena.' },
+              { letra: 'B', texto: 'contida.' },
+              { letra: 'C', texto: 'limitada programática.' },
+              { letra: 'D', texto: 'limitada institutiva.' },
+              { letra: 'E', texto: 'absoluta.' },
+            ],
+            gabarito: 'C',
+            justificativa: 'O art. 196 (direito à saúde) é norma de eficácia LIMITADA PROGRAMÁTICA: estabelece um programa, uma meta a ser alcançada pelo Estado através de políticas públicas. Depende de implementação legislativa e administrativa.',
+            dificuldade: 'Média',
+            competencia: 'Normas programáticas',
+            banca: 'IADES',
+            tags: ['art. 196', 'programática'],
+          },
+          {
+            id: 'da-q-18-10',
+            enunciado: 'Quanto à aplicabilidade das normas constitucionais, é INCORRETO afirmar:',
+            alternativas: [
+              { letra: 'A', texto: 'Normas de eficácia plena têm aplicabilidade direta, imediata e integral.' },
+              { letra: 'B', texto: 'Normas de eficácia contida podem ser restringidas pelo legislador.' },
+              { letra: 'C', texto: 'Normas de eficácia limitada dependem de regulamentação para efeitos plenos.' },
+              { letra: 'D', texto: 'Existem normas constitucionais completamente desprovidas de eficácia.' },
+              { letra: 'E', texto: 'Normas programáticas vinculam a atuação do Estado.' },
+            ],
+            gabarito: 'D',
+            justificativa: 'É INCORRETO afirmar que existem normas sem eficácia. TODA norma constitucional possui eficácia mínima (revoga normas anteriores, impede leis contrárias, serve de parâmetro interpretativo). Não existe norma constitucional "letra morta".',
+            dificuldade: 'Média',
+            competencia: 'Eficácia mínima',
+            banca: 'IADES',
+            tags: ['eficácia', 'incorreta'],
+          },
+        ],
+      },
+    },
   ],
 };

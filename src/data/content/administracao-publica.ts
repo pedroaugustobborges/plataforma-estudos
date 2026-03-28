@@ -1979,7 +1979,8 @@ Exercido pela Administração Direta sobre a **Indireta** (descentralização).
     {
       id: "ap-topico-4",
       numero: 4,
-      titulo: "Princípios da Administração Pública previstos no art. 37 da Constituição Federal",
+      titulo:
+        "Princípios da Administração Pública previstos no art. 37 da Constituição Federal",
       conteudo: {
         resumo: `
 ## Resumo Rápido
@@ -2312,27 +2313,32 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
         armadilhas: [
           {
             titulo: "Confundir legalidade para particular e Administração",
-            descricao: "Para o particular: pode tudo que a lei não proíbe. Para a Administração: só pode o que a lei autoriza.",
+            descricao:
+              "Para o particular: pode tudo que a lei não proíbe. Para a Administração: só pode o que a lei autoriza.",
             dica: "Particular = liberdade. Administração = vinculação à lei.",
           },
           {
             titulo: "Achar que publicidade é sempre obrigatória",
-            descricao: "Existem exceções: segurança do Estado, segurança da sociedade, intimidade.",
+            descricao:
+              "Existem exceções: segurança do Estado, segurança da sociedade, intimidade.",
             dica: "Publicidade é REGRA, sigilo é EXCEÇÃO justificada.",
           },
           {
             titulo: "Confundir anulação com revogação",
-            descricao: "Anulação = ilegalidade (ex tunc). Revogação = conveniência (ex nunc).",
+            descricao:
+              "Anulação = ilegalidade (ex tunc). Revogação = conveniência (ex nunc).",
             dica: "Anula o ilegal, Revoga o inconveniente.",
           },
           {
             titulo: "Pensar que eficiência é apenas economia",
-            descricao: "Eficiência inclui qualidade, celeridade, resultados - não apenas reduzir custos.",
+            descricao:
+              "Eficiência inclui qualidade, celeridade, resultados - não apenas reduzir custos.",
             dica: "Eficiência = qualidade + economia + resultados.",
           },
           {
             titulo: "Esquecer que eficiência foi incluída pela EC 19/98",
-            descricao: "A EC 19/98 (Reforma Administrativa) incluiu o princípio da eficiência no art. 37.",
+            descricao:
+              "A EC 19/98 (Reforma Administrativa) incluiu o princípio da eficiência no art. 37.",
             dica: "LIMPE só ficou completo em 1998.",
           },
         ],
@@ -2340,12 +2346,14 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
         mnemonicos: [
           {
             termo: "LIMPE",
-            significado: "Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência",
+            significado:
+              "Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência",
             frase: "A Administração deve ter conduta LIMPE (art. 37, CF)",
           },
           {
             termo: "A-I-L-E-G",
-            significado: "Anulação = Ilegalidade; Revogação = LEGítimo mas inconveniente",
+            significado:
+              "Anulação = Ilegalidade; Revogação = LEGítimo mas inconveniente",
             frase: "Anula o Ilegal, Revoga o Legítimo inconveniente",
           },
           {
@@ -2363,8 +2371,10 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
         flashcards: [
           {
             id: "ap-fc-4-1",
-            frente: "Quais são os 5 princípios EXPRESSOS da Administração Pública (art. 37, CF)?",
-            verso: "**LIMPE:**\n\n- **L**egalidade\n- **I**mpessoalidade\n- **M**oralidade\n- **P**ublicidade\n- **E**ficiência\n\n(Eficiência foi incluída pela EC 19/98)",
+            frente:
+              "Quais são os 5 princípios EXPRESSOS da Administração Pública (art. 37, CF)?",
+            verso:
+              "**LIMPE:**\n\n- **L**egalidade\n- **I**mpessoalidade\n- **M**oralidade\n- **P**ublicidade\n- **E**ficiência\n\n(Eficiência foi incluída pela EC 19/98)",
             tags: ["princípios", "LIMPE", "art. 37"],
             dificuldade: "facil",
             caixa: 1,
@@ -2375,8 +2385,10 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           },
           {
             id: "ap-fc-4-2",
-            frente: "Qual a diferença entre LEGALIDADE para a Administração e para o particular?",
-            verso: "**ADMINISTRAÇÃO:**\nSó pode fazer o que a lei **AUTORIZA**\n(Legalidade positiva/estrita)\n\n**PARTICULAR:**\nPode fazer tudo que a lei **NÃO PROÍBE**\n(Legalidade negativa)\n\nA Administração está mais restrita que o particular.",
+            frente:
+              "Qual a diferença entre LEGALIDADE para a Administração e para o particular?",
+            verso:
+              "**ADMINISTRAÇÃO:**\nSó pode fazer o que a lei **AUTORIZA**\n(Legalidade positiva/estrita)\n\n**PARTICULAR:**\nPode fazer tudo que a lei **NÃO PROÍBE**\n(Legalidade negativa)\n\nA Administração está mais restrita que o particular.",
             tags: ["legalidade", "diferença"],
             dificuldade: "medio",
             caixa: 1,
@@ -2387,8 +2399,10 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           },
           {
             id: "ap-fc-4-3",
-            frente: "O que é o princípio da IMPESSOALIDADE e quais suas dimensões?",
-            verso: "**IMPESSOALIDADE = atuação imparcial**\n\n**Duas dimensões:**\n\n1. **Finalidade**: visar ao interesse público\n2. **Isonomia**: tratamento igualitário\n\n**Consequências:**\n- Vedação ao nepotismo (SV 13)\n- Concurso público\n- Proibição de promoção pessoal (art. 37, § 1º)",
+            frente:
+              "O que é o princípio da IMPESSOALIDADE e quais suas dimensões?",
+            verso:
+              "**IMPESSOALIDADE = atuação imparcial**\n\n**Duas dimensões:**\n\n1. **Finalidade**: visar ao interesse público\n2. **Isonomia**: tratamento igualitário\n\n**Consequências:**\n- Vedação ao nepotismo (SV 13)\n- Concurso público\n- Proibição de promoção pessoal (art. 37, § 1º)",
             tags: ["impessoalidade", "dimensões"],
             dificuldade: "medio",
             caixa: 1,
@@ -2399,8 +2413,10 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           },
           {
             id: "ap-fc-4-4",
-            frente: "O que é o princípio da MORALIDADE e qual sua consequência?",
-            verso: "**MORALIDADE = ética, probidade, boa-fé**\n\nNão é apenas a moral comum, mas a MORALIDADE ADMINISTRATIVA (regras de boa administração).\n\n**Violação = IMPROBIDADE (Lei 8.429/92)**\n\n**Controle:**\n- Ação Popular\n- Ação Civil Pública",
+            frente:
+              "O que é o princípio da MORALIDADE e qual sua consequência?",
+            verso:
+              "**MORALIDADE = ética, probidade, boa-fé**\n\nNão é apenas a moral comum, mas a MORALIDADE ADMINISTRATIVA (regras de boa administração).\n\n**Violação = IMPROBIDADE (Lei 8.429/92)**\n\n**Controle:**\n- Ação Popular\n- Ação Civil Pública",
             tags: ["moralidade", "improbidade"],
             dificuldade: "medio",
             caixa: 1,
@@ -2412,7 +2428,8 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           {
             id: "ap-fc-4-5",
             frente: "Quais as exceções ao princípio da PUBLICIDADE?",
-            verso: "**Exceções (sigilo permitido):**\n\n1. **Segurança do Estado**\n2. **Segurança da sociedade**\n3. **Intimidade** dos envolvidos\n4. **Sigilo da fonte** jornalística\n\n**LAI (Lei 12.527/2011):**\nClassificação: reservado (5a), secreto (15a), ultrassecreto (25a)\n\nPublicidade = REGRA; Sigilo = EXCEÇÃO",
+            verso:
+              "**Exceções (sigilo permitido):**\n\n1. **Segurança do Estado**\n2. **Segurança da sociedade**\n3. **Intimidade** dos envolvidos\n4. **Sigilo da fonte** jornalística\n\n**LAI (Lei 12.527/2011):**\nClassificação: reservado (5a), secreto (15a), ultrassecreto (25a)\n\nPublicidade = REGRA; Sigilo = EXCEÇÃO",
             tags: ["publicidade", "exceções", "sigilo"],
             dificuldade: "medio",
             caixa: 1,
@@ -2424,7 +2441,8 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           {
             id: "ap-fc-4-6",
             frente: "Quando foi incluído o princípio da EFICIÊNCIA?",
-            verso: "**EC 19/98** (Reforma Administrativa)\n\n**EFICIÊNCIA = qualidade + resultados + economia**\n\n**Instrumentos:**\n- Contratos de gestão\n- Avaliação de desempenho\n- Agências executivas\n- Administração gerencial\n\nAntes de 1998, o LIMPE era apenas LIMP!",
+            verso:
+              "**EC 19/98** (Reforma Administrativa)\n\n**EFICIÊNCIA = qualidade + resultados + economia**\n\n**Instrumentos:**\n- Contratos de gestão\n- Avaliação de desempenho\n- Agências executivas\n- Administração gerencial\n\nAntes de 1998, o LIMPE era apenas LIMP!",
             tags: ["eficiência", "EC 19/98"],
             dificuldade: "facil",
             caixa: 1,
@@ -2436,7 +2454,8 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           {
             id: "ap-fc-4-7",
             frente: "O que diz a Súmula 473 do STF (Autotutela)?",
-            verso: "**Súmula 473/STF:**\n\n\"A Administração pode ANULAR seus atos ilegais [...] ou REVOGÁ-LOS por conveniência, respeitados os direitos adquiridos.\"\n\n| Ação | Fundamento | Efeitos |\n|------|------------|--------|\n| Anulação | Ilegalidade | Ex tunc |\n| Revogação | Conveniência | Ex nunc |",
+            verso:
+              '**Súmula 473/STF:**\n\n"A Administração pode ANULAR seus atos ilegais [...] ou REVOGÁ-LOS por conveniência, respeitados os direitos adquiridos."\n\n| Ação | Fundamento | Efeitos |\n|------|------------|--------|\n| Anulação | Ilegalidade | Ex tunc |\n| Revogação | Conveniência | Ex nunc |',
             tags: ["autotutela", "Súmula 473"],
             dificuldade: "medio",
             caixa: 1,
@@ -2448,7 +2467,8 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           {
             id: "ap-fc-4-8",
             frente: "O que é o princípio da SUPREMACIA DO INTERESSE PÚBLICO?",
-            verso: "**SUPREMACIA: interesse COLETIVO > interesse INDIVIDUAL**\n\n**Manifestações:**\n- Desapropriação\n- Requisição administrativa\n- Poder de polícia\n- Cláusulas exorbitantes\n\n⚠️ Não é absoluto: deve respeitar direitos fundamentais!",
+            verso:
+              "**SUPREMACIA: interesse COLETIVO > interesse INDIVIDUAL**\n\n**Manifestações:**\n- Desapropriação\n- Requisição administrativa\n- Poder de polícia\n- Cláusulas exorbitantes\n\n⚠️ Não é absoluto: deve respeitar direitos fundamentais!",
             tags: ["supremacia", "interesse público"],
             dificuldade: "facil",
             caixa: 1,
@@ -2459,8 +2479,10 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           },
           {
             id: "ap-fc-4-9",
-            frente: "O que é o princípio da PROPORCIONALIDADE e seu tríplice teste?",
-            verso: "**PROPORCIONALIDADE: meios adequados aos fins**\n\n**Tríplice teste:**\n\n1. **ADEQUAÇÃO**: meio apto ao fim?\n2. **NECESSIDADE**: meio menos gravoso?\n3. **PROPORCIONALIDADE em sentido estrito**: benefícios > custos?\n\nExemplo: interdição deve ser proporcional ao risco.",
+            frente:
+              "O que é o princípio da PROPORCIONALIDADE e seu tríplice teste?",
+            verso:
+              "**PROPORCIONALIDADE: meios adequados aos fins**\n\n**Tríplice teste:**\n\n1. **ADEQUAÇÃO**: meio apto ao fim?\n2. **NECESSIDADE**: meio menos gravoso?\n3. **PROPORCIONALIDADE em sentido estrito**: benefícios > custos?\n\nExemplo: interdição deve ser proporcional ao risco.",
             tags: ["proporcionalidade", "tríplice teste"],
             dificuldade: "medio",
             caixa: 1,
@@ -2471,8 +2493,10 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           },
           {
             id: "ap-fc-4-10",
-            frente: "Qual a diferença entre EFICIÊNCIA, EFICÁCIA e EFETIVIDADE?",
-            verso: "**EFICIÊNCIA:**\n- Fazer bem (relação custo-benefício)\n- \"Fazer certo\"\n\n**EFICÁCIA:**\n- Atingir o objetivo\n- \"Fazer a coisa certa\"\n\n**EFETIVIDADE:**\n- Impacto real na sociedade\n- \"Fazer a diferença\"\n\nPode ser eficaz sem ser eficiente (e vice-versa)!",
+            frente:
+              "Qual a diferença entre EFICIÊNCIA, EFICÁCIA e EFETIVIDADE?",
+            verso:
+              '**EFICIÊNCIA:**\n- Fazer bem (relação custo-benefício)\n- "Fazer certo"\n\n**EFICÁCIA:**\n- Atingir o objetivo\n- "Fazer a coisa certa"\n\n**EFETIVIDADE:**\n- Impacto real na sociedade\n- "Fazer a diferença"\n\nPode ser eficaz sem ser eficiente (e vice-versa)!',
             tags: ["eficiência", "eficácia", "efetividade"],
             dificuldade: "medio",
             caixa: 1,
@@ -2486,16 +2510,38 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
         questoes: [
           {
             id: "ap-q-4-1",
-            enunciado: "Os princípios constitucionais expressos da Administração Pública, previstos no art. 37 da Constituição Federal, são:",
+            enunciado:
+              "Os princípios constitucionais expressos da Administração Pública, previstos no art. 37 da Constituição Federal, são:",
             alternativas: [
-              { letra: "A", texto: "Legalidade, supremacia, moralidade, publicidade e eficiência." },
-              { letra: "B", texto: "Legalidade, impessoalidade, moralidade, publicidade e eficiência." },
-              { letra: "C", texto: "Legalidade, impessoalidade, motivação, publicidade e eficiência." },
-              { letra: "D", texto: "Supremacia, indisponibilidade, razoabilidade, publicidade e eficiência." },
-              { letra: "E", texto: "Legalidade, impessoalidade, moralidade, continuidade e eficiência." },
+              {
+                letra: "A",
+                texto:
+                  "Legalidade, supremacia, moralidade, publicidade e eficiência.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "Legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "Legalidade, impessoalidade, motivação, publicidade e eficiência.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "Supremacia, indisponibilidade, razoabilidade, publicidade e eficiência.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "Legalidade, impessoalidade, moralidade, continuidade e eficiência.",
+              },
             ],
             gabarito: "B",
-            justificativa: "O art. 37, caput, da CF estabelece expressamente os princípios LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência. Os demais são princípios implícitos.",
+            justificativa:
+              "O art. 37, caput, da CF estabelece expressamente os princípios LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência. Os demais são princípios implícitos.",
             dificuldade: "Fácil",
             competencia: "Princípios expressos",
             banca: "IADES",
@@ -2503,16 +2549,37 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           },
           {
             id: "ap-q-4-2",
-            enunciado: "O princípio da legalidade, aplicado à Administração Pública, significa que o administrador:",
+            enunciado:
+              "O princípio da legalidade, aplicado à Administração Pública, significa que o administrador:",
             alternativas: [
-              { letra: "A", texto: "Pode fazer tudo que a lei não proíbe, tal como o particular." },
-              { letra: "B", texto: "Só pode atuar quando houver prévia autorização ou determinação legal." },
-              { letra: "C", texto: "Deve obedecer apenas às leis em sentido estrito, não aos regulamentos." },
-              { letra: "D", texto: "Pode descumprir a lei se isso resultar em maior eficiência." },
-              { letra: "E", texto: "Tem liberdade para inovar no ordenamento jurídico." },
+              {
+                letra: "A",
+                texto:
+                  "Pode fazer tudo que a lei não proíbe, tal como o particular.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "Só pode atuar quando houver prévia autorização ou determinação legal.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "Deve obedecer apenas às leis em sentido estrito, não aos regulamentos.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "Pode descumprir a lei se isso resultar em maior eficiência.",
+              },
+              {
+                letra: "E",
+                texto: "Tem liberdade para inovar no ordenamento jurídico.",
+              },
             ],
             gabarito: "B",
-            justificativa: "Para a Administração, vigora a legalidade estrita: só pode fazer o que a lei AUTORIZA ou DETERMINA. Diferente do particular, que pode fazer tudo que a lei não proíbe.",
+            justificativa:
+              "Para a Administração, vigora a legalidade estrita: só pode fazer o que a lei AUTORIZA ou DETERMINA. Diferente do particular, que pode fazer tudo que a lei não proíbe.",
             dificuldade: "Fácil",
             competencia: "Princípio da legalidade",
             banca: "IADES",
@@ -2520,16 +2587,33 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           },
           {
             id: "ap-q-4-3",
-            enunciado: "O princípio da impessoalidade veda, entre outras situações:",
+            enunciado:
+              "O princípio da impessoalidade veda, entre outras situações:",
             alternativas: [
-              { letra: "A", texto: "A publicação dos atos administrativos em Diário Oficial." },
-              { letra: "B", texto: "A realização de concurso público para provimento de cargos." },
-              { letra: "C", texto: "A promoção pessoal de autoridades em publicidade governamental." },
-              { letra: "D", texto: "A transparência na execução orçamentária." },
+              {
+                letra: "A",
+                texto:
+                  "A publicação dos atos administrativos em Diário Oficial.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "A realização de concurso público para provimento de cargos.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "A promoção pessoal de autoridades em publicidade governamental.",
+              },
+              {
+                letra: "D",
+                texto: "A transparência na execução orçamentária.",
+              },
               { letra: "E", texto: "A motivação dos atos administrativos." },
             ],
             gabarito: "C",
-            justificativa: "O art. 37, § 1º, CF veda a promoção pessoal em publicidade governamental. A impessoalidade impede que autoridades usem a máquina pública para autopromoção.",
+            justificativa:
+              "O art. 37, § 1º, CF veda a promoção pessoal em publicidade governamental. A impessoalidade impede que autoridades usem a máquina pública para autopromoção.",
             dificuldade: "Fácil",
             competencia: "Princípio da impessoalidade",
             banca: "IADES",
@@ -2537,16 +2621,33 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           },
           {
             id: "ap-q-4-4",
-            enunciado: "A violação ao princípio da moralidade administrativa pode configurar:",
+            enunciado:
+              "A violação ao princípio da moralidade administrativa pode configurar:",
             alternativas: [
-              { letra: "A", texto: "Apenas infração disciplinar, sem outras consequências." },
-              { letra: "B", texto: "Ato de improbidade administrativa, nos termos da Lei 8.429/92." },
-              { letra: "C", texto: "Apenas responsabilidade civil, sem repercussão administrativa." },
-              { letra: "D", texto: "Nenhuma sanção, pois a moralidade é apenas recomendação." },
+              {
+                letra: "A",
+                texto: "Apenas infração disciplinar, sem outras consequências.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "Ato de improbidade administrativa, nos termos da Lei 8.429/92.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "Apenas responsabilidade civil, sem repercussão administrativa.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "Nenhuma sanção, pois a moralidade é apenas recomendação.",
+              },
               { letra: "E", texto: "Exclusivamente responsabilidade penal." },
             ],
             gabarito: "B",
-            justificativa: "A violação ao princípio da moralidade pode configurar ato de IMPROBIDADE ADMINISTRATIVA (Lei 8.429/92), especialmente nos casos de atentado contra princípios (art. 11).",
+            justificativa:
+              "A violação ao princípio da moralidade pode configurar ato de IMPROBIDADE ADMINISTRATIVA (Lei 8.429/92), especialmente nos casos de atentado contra princípios (art. 11).",
             dificuldade: "Média",
             competencia: "Princípio da moralidade",
             banca: "IADES",
@@ -2554,16 +2655,31 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           },
           {
             id: "ap-q-4-5",
-            enunciado: "O princípio da publicidade admite exceções. É hipótese de sigilo constitucionalmente prevista:",
+            enunciado:
+              "O princípio da publicidade admite exceções. É hipótese de sigilo constitucionalmente prevista:",
             alternativas: [
-              { letra: "A", texto: "Decisões que beneficiem particular em licitação." },
+              {
+                letra: "A",
+                texto: "Decisões que beneficiem particular em licitação.",
+              },
               { letra: "B", texto: "Atos que causem prejuízo ao erário." },
-              { letra: "C", texto: "Informações imprescindíveis à segurança do Estado." },
-              { letra: "D", texto: "Atos que contrariem interesses de autoridades." },
-              { letra: "E", texto: "Qualquer informação considerada inconveniente pelo administrador." },
+              {
+                letra: "C",
+                texto: "Informações imprescindíveis à segurança do Estado.",
+              },
+              {
+                letra: "D",
+                texto: "Atos que contrariem interesses de autoridades.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "Qualquer informação considerada inconveniente pelo administrador.",
+              },
             ],
             gabarito: "C",
-            justificativa: "A CF permite sigilo em casos de segurança do Estado e da sociedade (art. 5º, XXXIII), além de proteção à intimidade. As demais alternativas não constituem exceções legítimas.",
+            justificativa:
+              "A CF permite sigilo em casos de segurança do Estado e da sociedade (art. 5º, XXXIII), além de proteção à intimidade. As demais alternativas não constituem exceções legítimas.",
             dificuldade: "Média",
             competencia: "Princípio da publicidade",
             banca: "IADES",
@@ -2571,7 +2687,8 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           },
           {
             id: "ap-q-4-6",
-            enunciado: "O princípio da eficiência foi incluído expressamente na Constituição Federal pela:",
+            enunciado:
+              "O princípio da eficiência foi incluído expressamente na Constituição Federal pela:",
             alternativas: [
               { letra: "A", texto: "Constituição originária de 1988." },
               { letra: "B", texto: "Emenda Constitucional nº 19/1998." },
@@ -2580,7 +2697,8 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
               { letra: "E", texto: "Emenda Constitucional nº 32/2001." },
             ],
             gabarito: "B",
-            justificativa: "O princípio da EFICIÊNCIA foi incluído no art. 37 da CF pela EC 19/98 (Reforma Administrativa). Antes, o acrônimo era apenas LIMP.",
+            justificativa:
+              "O princípio da EFICIÊNCIA foi incluído no art. 37 da CF pela EC 19/98 (Reforma Administrativa). Antes, o acrônimo era apenas LIMP.",
             dificuldade: "Fácil",
             competencia: "Princípio da eficiência",
             banca: "IADES",
@@ -2597,7 +2715,8 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
               { letra: "E", texto: "Eficiência." },
             ],
             gabarito: "C",
-            justificativa: "A Súmula 473/STF consagra a AUTOTUTELA: a Administração pode anular seus atos ilegais ou revogá-los por conveniência, respeitados os direitos adquiridos.",
+            justificativa:
+              "A Súmula 473/STF consagra a AUTOTUTELA: a Administração pode anular seus atos ilegais ou revogá-los por conveniência, respeitados os direitos adquiridos.",
             dificuldade: "Fácil",
             competencia: "Princípio da autotutela",
             banca: "IADES",
@@ -2605,16 +2724,38 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           },
           {
             id: "ap-q-4-8",
-            enunciado: "O princípio da supremacia do interesse público estabelece que:",
+            enunciado:
+              "O princípio da supremacia do interesse público estabelece que:",
             alternativas: [
-              { letra: "A", texto: "Os interesses particulares sempre prevalecem sobre os coletivos." },
-              { letra: "B", texto: "O interesse coletivo prevalece sobre o interesse individual, observados os direitos fundamentais." },
-              { letra: "C", texto: "A Administração pode violar direitos fundamentais em nome do interesse público." },
-              { letra: "D", texto: "Não há limites ao poder estatal quando invocado o interesse público." },
-              { letra: "E", texto: "O interesse público pode ser renunciado pelo administrador." },
+              {
+                letra: "A",
+                texto:
+                  "Os interesses particulares sempre prevalecem sobre os coletivos.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "O interesse coletivo prevalece sobre o interesse individual, observados os direitos fundamentais.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "A Administração pode violar direitos fundamentais em nome do interesse público.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "Não há limites ao poder estatal quando invocado o interesse público.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "O interesse público pode ser renunciado pelo administrador.",
+              },
             ],
             gabarito: "B",
-            justificativa: "A supremacia do interesse público significa que o interesse coletivo prevalece sobre o individual, mas isso NÃO autoriza violação de direitos fundamentais. A supremacia tem limites.",
+            justificativa:
+              "A supremacia do interesse público significa que o interesse coletivo prevalece sobre o individual, mas isso NÃO autoriza violação de direitos fundamentais. A supremacia tem limites.",
             dificuldade: "Média",
             competencia: "Supremacia do interesse público",
             banca: "IADES",
@@ -2622,16 +2763,37 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           },
           {
             id: "ap-q-4-9",
-            enunciado: "Quanto à anulação e revogação de atos administrativos, é CORRETO afirmar que:",
+            enunciado:
+              "Quanto à anulação e revogação de atos administrativos, é CORRETO afirmar que:",
             alternativas: [
-              { letra: "A", texto: "A anulação produz efeitos ex nunc, enquanto a revogação produz efeitos ex tunc." },
-              { letra: "B", texto: "A anulação decorre de ilegalidade e produz efeitos ex tunc." },
-              { letra: "C", texto: "A revogação decorre de ilegalidade do ato." },
-              { letra: "D", texto: "Apenas o Poder Judiciário pode anular atos administrativos." },
-              { letra: "E", texto: "A anulação respeita os direitos adquiridos, mas a revogação não." },
+              {
+                letra: "A",
+                texto:
+                  "A anulação produz efeitos ex nunc, enquanto a revogação produz efeitos ex tunc.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "A anulação decorre de ilegalidade e produz efeitos ex tunc.",
+              },
+              {
+                letra: "C",
+                texto: "A revogação decorre de ilegalidade do ato.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "Apenas o Poder Judiciário pode anular atos administrativos.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "A anulação respeita os direitos adquiridos, mas a revogação não.",
+              },
             ],
             gabarito: "B",
-            justificativa: "ANULAÇÃO: ilegalidade, efeitos ex tunc (retroativos). REVOGAÇÃO: conveniência/oportunidade, efeitos ex nunc (prospectivos). Ambas respeitam direitos adquiridos.",
+            justificativa:
+              "ANULAÇÃO: ilegalidade, efeitos ex tunc (retroativos). REVOGAÇÃO: conveniência/oportunidade, efeitos ex nunc (prospectivos). Ambas respeitam direitos adquiridos.",
             dificuldade: "Média",
             competencia: "Anulação e revogação",
             banca: "IADES",
@@ -2639,7 +2801,8 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
           },
           {
             id: "ap-q-4-10",
-            enunciado: "A aplicação de multa desproporcional à gravidade da infração sanitária viola o princípio da:",
+            enunciado:
+              "A aplicação de multa desproporcional à gravidade da infração sanitária viola o princípio da:",
             alternativas: [
               { letra: "A", texto: "Publicidade." },
               { letra: "B", texto: "Continuidade." },
@@ -2648,7 +2811,8 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
               { letra: "E", texto: "Presunção de legitimidade." },
             ],
             gabarito: "C",
-            justificativa: "A proporcionalidade exige que os meios sejam adequados, necessários e proporcionais aos fins. Multa desproporcional à gravidade viola esse princípio, pois o meio não corresponde à finalidade.",
+            justificativa:
+              "A proporcionalidade exige que os meios sejam adequados, necessários e proporcionais aos fins. Multa desproporcional à gravidade viola esse princípio, pois o meio não corresponde à finalidade.",
             dificuldade: "Média",
             competencia: "Proporcionalidade",
             banca: "IADES",
@@ -2658,9 +2822,10 @@ A Administração deve atuar com **qualidade**, buscando os **melhores resultado
       },
     },
     {
-      id: 'ap-topico-5',
+      id: "ap-topico-5",
       numero: 5,
-      titulo: 'Poderes administrativos: hierárquico, disciplinar, regulamentar e de polícia',
+      titulo:
+        "Poderes administrativos: hierárquico, disciplinar, regulamentar e de polícia",
       conteudo: {
         resumo: `
 ## Resumo Rápido - Poderes Administrativos
@@ -2911,22 +3076,26 @@ Supremacia do interesse público sobre o privado.
         armadilhas: [
           {
             titulo: "Achar que avocação é regra",
-            descricao: "Avocação é EXCEÇÃO e deve ser justificada. Delegação é mais comum.",
+            descricao:
+              "Avocação é EXCEÇÃO e deve ser justificada. Delegação é mais comum.",
             dica: "Avocar = excepcional. Delegar = possível em regra.",
           },
           {
             titulo: "Confundir polícia administrativa e judiciária",
-            descricao: "Administrativa: preventiva, sobre bens/atividades. Judiciária: repressiva, sobre pessoas.",
+            descricao:
+              "Administrativa: preventiva, sobre bens/atividades. Judiciária: repressiva, sobre pessoas.",
             dica: "VISA = administrativa. Polícia Civil = judiciária.",
           },
           {
             titulo: "Achar que regulamento pode criar obrigações",
-            descricao: "Regulamento EXECUTIVO não pode inovar, apenas complementa a lei.",
+            descricao:
+              "Regulamento EXECUTIVO não pode inovar, apenas complementa a lei.",
             dica: "Só LEI cria direitos e obrigações.",
           },
           {
             titulo: "Pensar que toda multa é autoexecutável",
-            descricao: "APLICAR multa: autoexecutável. COBRAR multa: precisa execução fiscal.",
+            descricao:
+              "APLICAR multa: autoexecutável. COBRAR multa: precisa execução fiscal.",
             dica: "Aplicar ≠ Cobrar. Cobrar exige processo judicial.",
           },
         ],
@@ -2939,7 +3108,8 @@ Supremacia do interesse público sobre o privado.
           },
           {
             termo: "DAC",
-            significado: "Discricionariedade, Autoexecutoriedade, Coercibilidade",
+            significado:
+              "Discricionariedade, Autoexecutoriedade, Coercibilidade",
             frase: "Atributos do poder de polícia: DAC",
           },
           {
@@ -2958,7 +3128,8 @@ Supremacia do interesse público sobre o privado.
           {
             id: "ap-fc-5-1",
             frente: "Quais são os 4 poderes administrativos?",
-            verso: "**4 PODERES ADMINISTRATIVOS:**\n\n1. **Hierárquico**: organização interna\n2. **Disciplinar**: apurar e punir\n3. **Regulamentar**: editar normas\n4. **De Polícia**: limitar direitos\n\nMnemônico: HIDIPO + Regulamentar",
+            verso:
+              "**4 PODERES ADMINISTRATIVOS:**\n\n1. **Hierárquico**: organização interna\n2. **Disciplinar**: apurar e punir\n3. **Regulamentar**: editar normas\n4. **De Polícia**: limitar direitos\n\nMnemônico: HIDIPO + Regulamentar",
             tags: ["poderes", "classificação"],
             dificuldade: "facil",
             caixa: 1,
@@ -2970,7 +3141,8 @@ Supremacia do interesse público sobre o privado.
           {
             id: "ap-fc-5-2",
             frente: "Quais competências NÃO podem ser delegadas?",
-            verso: "**INDELEGÁVEIS (Lei 9.784/99, art. 13):**\n\n1. Edição de atos **NORMATIVOS**\n2. Decisão de **RECURSOS**\n3. Matérias de competência **EXCLUSIVA**\n\nMnemônico: ARE",
+            verso:
+              "**INDELEGÁVEIS (Lei 9.784/99, art. 13):**\n\n1. Edição de atos **NORMATIVOS**\n2. Decisão de **RECURSOS**\n3. Matérias de competência **EXCLUSIVA**\n\nMnemônico: ARE",
             tags: ["delegação", "hierárquico"],
             dificuldade: "medio",
             caixa: 1,
@@ -2981,8 +3153,10 @@ Supremacia do interesse público sobre o privado.
           },
           {
             id: "ap-fc-5-3",
-            frente: "Qual a natureza do poder disciplinar (vinculado ou discricionário)?",
-            verso: "**NATUREZA MISTA:**\n\n**VINCULADO:**\n- Dever de apurar\n- Dever de punir (se comprovado)\n\n**DISCRICIONÁRIO:**\n- Escolha da penalidade\n- Dosimetria da pena\n\nDEVE punir, mas ESCOLHE como.",
+            frente:
+              "Qual a natureza do poder disciplinar (vinculado ou discricionário)?",
+            verso:
+              "**NATUREZA MISTA:**\n\n**VINCULADO:**\n- Dever de apurar\n- Dever de punir (se comprovado)\n\n**DISCRICIONÁRIO:**\n- Escolha da penalidade\n- Dosimetria da pena\n\nDEVE punir, mas ESCOLHE como.",
             tags: ["disciplinar", "natureza"],
             dificuldade: "medio",
             caixa: 1,
@@ -2994,7 +3168,8 @@ Supremacia do interesse público sobre o privado.
           {
             id: "ap-fc-5-4",
             frente: "Qual a diferença entre delegação e avocação?",
-            verso: "**DELEGAÇÃO:**\n- Transfere competência para subordinado\n- REGRA GERAL\n- Pode ser revogada\n\n**AVOCAÇÃO:**\n- Chama para si competência do subordinado\n- EXCEÇÃO (deve ser justificada)\n- Temporária",
+            verso:
+              "**DELEGAÇÃO:**\n- Transfere competência para subordinado\n- REGRA GERAL\n- Pode ser revogada\n\n**AVOCAÇÃO:**\n- Chama para si competência do subordinado\n- EXCEÇÃO (deve ser justificada)\n- Temporária",
             tags: ["delegação", "avocação"],
             dificuldade: "medio",
             caixa: 1,
@@ -3006,7 +3181,8 @@ Supremacia do interesse público sobre o privado.
           {
             id: "ap-fc-5-5",
             frente: "Quais os limites do poder regulamentar?",
-            verso: "**LIMITES:**\n\n❌ NÃO pode INOVAR\n(não cria direitos/obrigações)\n\n❌ NÃO pode CONTRARIAR\n(fidelidade à lei)\n\n❌ NÃO pode EXTRAPOLAR\n(dentro dos limites legais)\n\n**Controle:**\nCongresso pode sustar (art. 49, V, CF)",
+            verso:
+              "**LIMITES:**\n\n❌ NÃO pode INOVAR\n(não cria direitos/obrigações)\n\n❌ NÃO pode CONTRARIAR\n(fidelidade à lei)\n\n❌ NÃO pode EXTRAPOLAR\n(dentro dos limites legais)\n\n**Controle:**\nCongresso pode sustar (art. 49, V, CF)",
             tags: ["regulamentar", "limites"],
             dificuldade: "medio",
             caixa: 1,
@@ -3018,7 +3194,8 @@ Supremacia do interesse público sobre o privado.
           {
             id: "ap-fc-5-6",
             frente: "O que é o ciclo de polícia?",
-            verso: "**CICLO OCFS:**\n\n1. **O**rdem: legislação\n2. **C**onsentimento: licenças, autorizações\n3. **F**iscalização: verificação\n4. **S**anção: penalidades\n\n**Delegáveis:** C e F\n**Indelegáveis:** O e S",
+            verso:
+              "**CICLO OCFS:**\n\n1. **O**rdem: legislação\n2. **C**onsentimento: licenças, autorizações\n3. **F**iscalização: verificação\n4. **S**anção: penalidades\n\n**Delegáveis:** C e F\n**Indelegáveis:** O e S",
             tags: ["polícia", "ciclo"],
             dificuldade: "medio",
             caixa: 1,
@@ -3030,7 +3207,8 @@ Supremacia do interesse público sobre o privado.
           {
             id: "ap-fc-5-7",
             frente: "Quais são os atributos do poder de polícia?",
-            verso: "**DAC:**\n\n**D**iscricionariedade\n→ Margem de escolha\n\n**A**utoexecutoriedade\n→ Sem ordem judicial\n\n**C**oercibilidade\n→ Imposição obrigatória\n\n⚠️ Cobrar multa NÃO é autoexecutável!",
+            verso:
+              "**DAC:**\n\n**D**iscricionariedade\n→ Margem de escolha\n\n**A**utoexecutoriedade\n→ Sem ordem judicial\n\n**C**oercibilidade\n→ Imposição obrigatória\n\n⚠️ Cobrar multa NÃO é autoexecutável!",
             tags: ["polícia", "atributos"],
             dificuldade: "facil",
             caixa: 1,
@@ -3041,8 +3219,10 @@ Supremacia do interesse público sobre o privado.
           },
           {
             id: "ap-fc-5-8",
-            frente: "Qual a diferença entre polícia administrativa e polícia judiciária?",
-            verso: "**ADMINISTRATIVA:**\n- Caráter PREVENTIVO\n- Incide sobre BENS e ATIVIDADES\n- Diversos órgãos\n- Ex: vigilância sanitária\n\n**JUDICIÁRIA:**\n- Caráter REPRESSIVO\n- Incide sobre PESSOAS\n- Órgãos de segurança\n- Ex: polícia civil",
+            frente:
+              "Qual a diferença entre polícia administrativa e polícia judiciária?",
+            verso:
+              "**ADMINISTRATIVA:**\n- Caráter PREVENTIVO\n- Incide sobre BENS e ATIVIDADES\n- Diversos órgãos\n- Ex: vigilância sanitária\n\n**JUDICIÁRIA:**\n- Caráter REPRESSIVO\n- Incide sobre PESSOAS\n- Órgãos de segurança\n- Ex: polícia civil",
             tags: ["polícia", "tipos"],
             dificuldade: "medio",
             caixa: 1,
@@ -3054,7 +3234,8 @@ Supremacia do interesse público sobre o privado.
           {
             id: "ap-fc-5-9",
             frente: "Quem o poder disciplinar pode alcançar?",
-            verso: "**ALCANCE DO PODER DISCIPLINAR:**\n\nPessoas com VÍNCULO especial:\n- Servidores públicos\n- Empregados públicos\n- Contratados (licitação)\n- Particulares em regime especial\n\n⚠️ NÃO confundir com poder de polícia (alcança a coletividade).",
+            verso:
+              "**ALCANCE DO PODER DISCIPLINAR:**\n\nPessoas com VÍNCULO especial:\n- Servidores públicos\n- Empregados públicos\n- Contratados (licitação)\n- Particulares em regime especial\n\n⚠️ NÃO confundir com poder de polícia (alcança a coletividade).",
             tags: ["disciplinar", "alcance"],
             dificuldade: "medio",
             caixa: 1,
@@ -3066,7 +3247,8 @@ Supremacia do interesse público sobre o privado.
           {
             id: "ap-fc-5-10",
             frente: "Como a vigilância sanitária exerce o poder de polícia?",
-            verso: "**VISA E PODER DE POLÍCIA:**\n\n**Ordem:** RDCs da ANVISA\n**Consentimento:** Alvará sanitário\n**Fiscalização:** Inspeção de estabelecimentos\n**Sanção:** Multa, interdição, apreensão\n\n**Atributos:**\n- Interdição imediata (autoexecutoriedade)\n- Obrigação de cumprir (coercibilidade)",
+            verso:
+              "**VISA E PODER DE POLÍCIA:**\n\n**Ordem:** RDCs da ANVISA\n**Consentimento:** Alvará sanitário\n**Fiscalização:** Inspeção de estabelecimentos\n**Sanção:** Multa, interdição, apreensão\n\n**Atributos:**\n- Interdição imediata (autoexecutoriedade)\n- Obrigação de cumprir (coercibilidade)",
             tags: ["VISA", "polícia"],
             dificuldade: "facil",
             caixa: 1,
@@ -3080,7 +3262,8 @@ Supremacia do interesse público sobre o privado.
         questoes: [
           {
             id: "ap-q-5-1",
-            enunciado: "O poder pelo qual a Administração distribui e escalona funções de seus órgãos, ordena e revê a atuação de seus agentes, estabelecendo relação de subordinação, denomina-se poder:",
+            enunciado:
+              "O poder pelo qual a Administração distribui e escalona funções de seus órgãos, ordena e revê a atuação de seus agentes, estabelecendo relação de subordinação, denomina-se poder:",
             alternativas: [
               { letra: "A", texto: "Disciplinar." },
               { letra: "B", texto: "Regulamentar." },
@@ -3089,7 +3272,8 @@ Supremacia do interesse público sobre o privado.
               { letra: "E", texto: "Vinculado." },
             ],
             gabarito: "C",
-            justificativa: "O poder HIERÁRQUICO é o que permite organizar a estrutura administrativa, estabelecer subordinação, dar ordens, fiscalizar, delegar, avocar e rever atos dos subordinados.",
+            justificativa:
+              "O poder HIERÁRQUICO é o que permite organizar a estrutura administrativa, estabelecer subordinação, dar ordens, fiscalizar, delegar, avocar e rever atos dos subordinados.",
             dificuldade: "Fácil",
             competencia: "Poder hierárquico",
             banca: "IADES",
@@ -3097,7 +3281,8 @@ Supremacia do interesse público sobre o privado.
           },
           {
             id: "ap-q-5-2",
-            enunciado: "A apuração de infrações e a aplicação de penalidades aos servidores públicos e demais pessoas sujeitas à disciplina administrativa caracteriza o exercício do poder:",
+            enunciado:
+              "A apuração de infrações e a aplicação de penalidades aos servidores públicos e demais pessoas sujeitas à disciplina administrativa caracteriza o exercício do poder:",
             alternativas: [
               { letra: "A", texto: "Hierárquico." },
               { letra: "B", texto: "Disciplinar." },
@@ -3106,7 +3291,8 @@ Supremacia do interesse público sobre o privado.
               { letra: "E", texto: "Normativo." },
             ],
             gabarito: "B",
-            justificativa: "O poder DISCIPLINAR é a faculdade de apurar infrações e aplicar penalidades a servidores e demais pessoas com vínculo especial com a Administração.",
+            justificativa:
+              "O poder DISCIPLINAR é a faculdade de apurar infrações e aplicar penalidades a servidores e demais pessoas com vínculo especial com a Administração.",
             dificuldade: "Fácil",
             competencia: "Poder disciplinar",
             banca: "IADES",
@@ -3114,7 +3300,8 @@ Supremacia do interesse público sobre o privado.
           },
           {
             id: "ap-q-5-3",
-            enunciado: "A competência para expedição de decretos e regulamentos para fiel execução das leis, conferida ao Chefe do Poder Executivo, caracteriza o poder:",
+            enunciado:
+              "A competência para expedição de decretos e regulamentos para fiel execução das leis, conferida ao Chefe do Poder Executivo, caracteriza o poder:",
             alternativas: [
               { letra: "A", texto: "Hierárquico." },
               { letra: "B", texto: "Disciplinar." },
@@ -3123,7 +3310,8 @@ Supremacia do interesse público sobre o privado.
               { letra: "E", texto: "Discricionário." },
             ],
             gabarito: "D",
-            justificativa: "O poder REGULAMENTAR (art. 84, IV, CF) é a competência do Chefe do Executivo para editar decretos e regulamentos para a fiel execução das leis.",
+            justificativa:
+              "O poder REGULAMENTAR (art. 84, IV, CF) é a competência do Chefe do Executivo para editar decretos e regulamentos para a fiel execução das leis.",
             dificuldade: "Fácil",
             competencia: "Poder regulamentar",
             banca: "IADES",
@@ -3131,16 +3319,37 @@ Supremacia do interesse público sobre o privado.
           },
           {
             id: "ap-q-5-4",
-            enunciado: "Sobre os atributos do poder de polícia, é INCORRETO afirmar que:",
+            enunciado:
+              "Sobre os atributos do poder de polícia, é INCORRETO afirmar que:",
             alternativas: [
-              { letra: "A", texto: "A discricionariedade permite margem de escolha ao administrador." },
-              { letra: "B", texto: "A autoexecutoriedade dispensa autorização judicial prévia." },
-              { letra: "C", texto: "A coercibilidade permite a imposição obrigatória das medidas." },
-              { letra: "D", texto: "A cobrança de multa é sempre autoexecutável." },
-              { letra: "E", texto: "A interdição de estabelecimento é medida autoexecutável." },
+              {
+                letra: "A",
+                texto:
+                  "A discricionariedade permite margem de escolha ao administrador.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "A autoexecutoriedade dispensa autorização judicial prévia.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "A coercibilidade permite a imposição obrigatória das medidas.",
+              },
+              {
+                letra: "D",
+                texto: "A cobrança de multa é sempre autoexecutável.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "A interdição de estabelecimento é medida autoexecutável.",
+              },
             ],
             gabarito: "D",
-            justificativa: "A APLICAÇÃO da multa é autoexecutável, mas a COBRANÇA não é. Para cobrar a multa (obter o pagamento forçado), é necessário ajuizar execução fiscal.",
+            justificativa:
+              "A APLICAÇÃO da multa é autoexecutável, mas a COBRANÇA não é. Para cobrar a multa (obter o pagamento forçado), é necessário ajuizar execução fiscal.",
             dificuldade: "Média",
             competencia: "Atributos",
             banca: "IADES",
@@ -3148,7 +3357,8 @@ Supremacia do interesse público sobre o privado.
           },
           {
             id: "ap-q-5-5",
-            enunciado: "O ciclo de polícia compreende as fases de ordem, consentimento, fiscalização e sanção. São fases INDELEGÁVEIS a particulares:",
+            enunciado:
+              "O ciclo de polícia compreende as fases de ordem, consentimento, fiscalização e sanção. São fases INDELEGÁVEIS a particulares:",
             alternativas: [
               { letra: "A", texto: "Ordem e consentimento." },
               { letra: "B", texto: "Consentimento e fiscalização." },
@@ -3157,7 +3367,8 @@ Supremacia do interesse público sobre o privado.
               { letra: "E", texto: "Todas as fases são indelegáveis." },
             ],
             gabarito: "D",
-            justificativa: "As fases de ORDEM (legislação) e SANÇÃO (penalidades) são indelegáveis a particulares, pois envolvem exercício de autoridade típica do Estado. Consentimento e fiscalização podem ser delegados.",
+            justificativa:
+              "As fases de ORDEM (legislação) e SANÇÃO (penalidades) são indelegáveis a particulares, pois envolvem exercício de autoridade típica do Estado. Consentimento e fiscalização podem ser delegados.",
             dificuldade: "Média",
             competencia: "Ciclo de polícia",
             banca: "IADES",
@@ -3165,7 +3376,8 @@ Supremacia do interesse público sobre o privado.
           },
           {
             id: "ap-q-5-6",
-            enunciado: "De acordo com a Lei 9.784/99, NÃO pode ser objeto de delegação:",
+            enunciado:
+              "De acordo com a Lei 9.784/99, NÃO pode ser objeto de delegação:",
             alternativas: [
               { letra: "A", texto: "Atos de expediente." },
               { letra: "B", texto: "Decisão de recursos administrativos." },
@@ -3174,7 +3386,8 @@ Supremacia do interesse público sobre o privado.
               { letra: "E", texto: "Atos vinculados." },
             ],
             gabarito: "B",
-            justificativa: "O art. 13 da Lei 9.784/99 veda a delegação de: I - edição de atos normativos; II - decisão de recursos administrativos; III - matérias de competência exclusiva.",
+            justificativa:
+              "O art. 13 da Lei 9.784/99 veda a delegação de: I - edição de atos normativos; II - decisão de recursos administrativos; III - matérias de competência exclusiva.",
             dificuldade: "Média",
             competencia: "Delegação",
             banca: "IADES",
@@ -3182,7 +3395,8 @@ Supremacia do interesse público sobre o privado.
           },
           {
             id: "ap-q-5-7",
-            enunciado: "A vigilância sanitária, ao interditar estabelecimento que oferece risco à saúde pública, exerce o poder:",
+            enunciado:
+              "A vigilância sanitária, ao interditar estabelecimento que oferece risco à saúde pública, exerce o poder:",
             alternativas: [
               { letra: "A", texto: "Hierárquico." },
               { letra: "B", texto: "Disciplinar." },
@@ -3191,7 +3405,8 @@ Supremacia do interesse público sobre o privado.
               { letra: "E", texto: "Moderador." },
             ],
             gabarito: "C",
-            justificativa: "A interdição de estabelecimento é típico exercício do PODER DE POLÍCIA sanitária, limitando a atividade econômica em razão do interesse público (saúde coletiva).",
+            justificativa:
+              "A interdição de estabelecimento é típico exercício do PODER DE POLÍCIA sanitária, limitando a atividade econômica em razão do interesse público (saúde coletiva).",
             dificuldade: "Fácil",
             competencia: "Poder de polícia",
             banca: "IADES",
@@ -3199,16 +3414,36 @@ Supremacia do interesse público sobre o privado.
           },
           {
             id: "ap-q-5-8",
-            enunciado: "A polícia administrativa distingue-se da polícia judiciária porque:",
+            enunciado:
+              "A polícia administrativa distingue-se da polícia judiciária porque:",
             alternativas: [
-              { letra: "A", texto: "A administrativa tem caráter repressivo; a judiciária, preventivo." },
-              { letra: "B", texto: "A administrativa incide sobre pessoas; a judiciária, sobre bens." },
-              { letra: "C", texto: "A administrativa tem caráter preventivo e incide sobre bens e atividades." },
-              { letra: "D", texto: "Ambas são idênticas em natureza e finalidade." },
-              { letra: "E", texto: "A judiciária é exercida pela vigilância sanitária." },
+              {
+                letra: "A",
+                texto:
+                  "A administrativa tem caráter repressivo; a judiciária, preventivo.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "A administrativa incide sobre pessoas; a judiciária, sobre bens.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "A administrativa tem caráter preventivo e incide sobre bens e atividades.",
+              },
+              {
+                letra: "D",
+                texto: "Ambas são idênticas em natureza e finalidade.",
+              },
+              {
+                letra: "E",
+                texto: "A judiciária é exercida pela vigilância sanitária.",
+              },
             ],
             gabarito: "C",
-            justificativa: "A polícia ADMINISTRATIVA tem caráter PREVENTIVO e incide sobre BENS e ATIVIDADES. A polícia JUDICIÁRIA tem caráter REPRESSIVO e incide sobre PESSOAS.",
+            justificativa:
+              "A polícia ADMINISTRATIVA tem caráter PREVENTIVO e incide sobre BENS e ATIVIDADES. A polícia JUDICIÁRIA tem caráter REPRESSIVO e incide sobre PESSOAS.",
             dificuldade: "Média",
             competencia: "Tipos de polícia",
             banca: "IADES",
@@ -3216,16 +3451,21 @@ Supremacia do interesse público sobre o privado.
           },
           {
             id: "ap-q-5-9",
-            enunciado: "O regulamento executivo, previsto no art. 84, IV, da CF/88, caracteriza-se por:",
+            enunciado:
+              "O regulamento executivo, previsto no art. 84, IV, da CF/88, caracteriza-se por:",
             alternativas: [
               { letra: "A", texto: "Criar direitos e obrigações novos." },
               { letra: "B", texto: "Independer de lei anterior." },
               { letra: "C", texto: "Ter força de lei ordinária." },
-              { letra: "D", texto: "Complementar a lei sem inovar na ordem jurídica." },
+              {
+                letra: "D",
+                texto: "Complementar a lei sem inovar na ordem jurídica.",
+              },
               { letra: "E", texto: "Poder revogar leis incompatíveis." },
             ],
             gabarito: "D",
-            justificativa: "O regulamento EXECUTIVO destina-se à fiel execução da lei, complementando-a sem INOVAR na ordem jurídica. Não pode criar direitos ou obrigações que a lei não previu.",
+            justificativa:
+              "O regulamento EXECUTIVO destina-se à fiel execução da lei, complementando-a sem INOVAR na ordem jurídica. Não pode criar direitos ou obrigações que a lei não previu.",
             dificuldade: "Média",
             competencia: "Regulamento executivo",
             banca: "IADES",
@@ -3237,12 +3477,21 @@ Supremacia do interesse público sobre o privado.
             alternativas: [
               { letra: "A", texto: "Inteiramente vinculada." },
               { letra: "B", texto: "Inteiramente discricionária." },
-              { letra: "C", texto: "Vinculada quanto ao dever de punir e discricionária quanto à escolha da pena." },
-              { letra: "D", texto: "Discricionária quanto ao dever de punir e vinculada quanto à escolha da pena." },
+              {
+                letra: "C",
+                texto:
+                  "Vinculada quanto ao dever de punir e discricionária quanto à escolha da pena.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "Discricionária quanto ao dever de punir e vinculada quanto à escolha da pena.",
+              },
               { letra: "E", texto: "Facultativa em todos os aspectos." },
             ],
             gabarito: "C",
-            justificativa: "O poder disciplinar é VINCULADO quanto ao dever de apurar e punir (se comprovada a infração), mas DISCRICIONÁRIO quanto à escolha e dosimetria da penalidade aplicável.",
+            justificativa:
+              "O poder disciplinar é VINCULADO quanto ao dever de apurar e punir (se comprovada a infração), mas DISCRICIONÁRIO quanto à escolha e dosimetria da penalidade aplicável.",
             dificuldade: "Média",
             competencia: "Natureza do disciplinar",
             banca: "IADES",
@@ -3254,7 +3503,8 @@ Supremacia do interesse público sobre o privado.
     {
       id: "ap-topico-6",
       numero: 6,
-      titulo: "Atos administrativos: conceito, requisitos, atributos, classificação e invalidação",
+      titulo:
+        "Atos administrativos: conceito, requisitos, atributos, classificação e invalidação",
       conteudo: {
         resumo: `
 ## Resumo Rápido
@@ -3560,27 +3810,32 @@ Os atributos são **características especiais** que diferenciam os atos adminis
         armadilhas: [
           {
             titulo: "Confundir requisitos com atributos",
-            descricao: "Requisitos são elementos de VALIDADE (CO-FI-FO-MO-OB). Atributos são características ESPECIAIS (PATI).",
+            descricao:
+              "Requisitos são elementos de VALIDADE (CO-FI-FO-MO-OB). Atributos são características ESPECIAIS (PATI).",
             dica: "Requisitos = estrutura do ato. Atributos = poderes/características.",
           },
           {
             titulo: "Achar que multa é totalmente autoexecutável",
-            descricao: "APLICAR a multa é autoexecutável. COBRAR a multa NÃO é (precisa de execução fiscal).",
+            descricao:
+              "APLICAR a multa é autoexecutável. COBRAR a multa NÃO é (precisa de execução fiscal).",
             dica: "Auto de infração = autoexecutável. Cobrança forçada = precisa do Judiciário.",
           },
           {
             titulo: "Confundir anulação com revogação",
-            descricao: "ANULAÇÃO = ilegal, ex tunc. REVOGAÇÃO = inconveniente, ex nunc.",
+            descricao:
+              "ANULAÇÃO = ilegal, ex tunc. REVOGAÇÃO = inconveniente, ex nunc.",
             dica: "A-nulação = vícios (atrás). Re-vogação = re-pensar (nunc).",
           },
           {
             titulo: "Trocar ato vinculado por discricionário",
-            descricao: "LICENÇA é vinculada (direito subjetivo). AUTORIZAÇÃO é discricionária (precária).",
+            descricao:
+              "LICENÇA é vinculada (direito subjetivo). AUTORIZAÇÃO é discricionária (precária).",
             dica: "Licença: preencheu requisitos = TEM direito. Autorização: Administração decide.",
           },
           {
             titulo: "Esquecer que presunção é relativa",
-            descricao: "A presunção de legitimidade é RELATIVA (juris tantum), admite prova em contrário.",
+            descricao:
+              "A presunção de legitimidade é RELATIVA (juris tantum), admite prova em contrário.",
             dica: "O administrado pode provar que o ato é ilegal ou os fatos são falsos.",
           },
         ],
@@ -3593,7 +3848,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           },
           {
             termo: "PATI",
-            significado: "Presunção, Autoexecutoriedade, Tipicidade, Imperatividade",
+            significado:
+              "Presunção, Autoexecutoriedade, Tipicidade, Imperatividade",
             frase: "Os 4 atributos do ato administrativo: PATI.",
           },
           {
@@ -3608,7 +3864,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           },
           {
             termo: "VMI",
-            significado: "Vinculado: Motivo e objeto definidos. Mérito: Integram o objeto/motivo",
+            significado:
+              "Vinculado: Motivo e objeto definidos. Mérito: Integram o objeto/motivo",
             frase: "No ato Vinculado não há Mérito. No discricionário, há.",
           },
         ],
@@ -3616,8 +3873,10 @@ Os atributos são **características especiais** que diferenciam os atos adminis
         flashcards: [
           {
             id: "ap-fc-6-1",
-            frente: "Quais são os 5 REQUISITOS (elementos) do ato administrativo?",
-            verso: "**CO-FI-FO-MO-OB:**\n\n1. **CO**mpetência - QUEM pratica\n2. **FI**nalidade - PARA QUÊ\n3. **FO**rma - COMO se exterioriza\n4. **MO**tivo - POR QUÊ\n5. **OB**jeto - O QUÊ determina\n\nVícios em qualquer requisito = ATO NULO",
+            frente:
+              "Quais são os 5 REQUISITOS (elementos) do ato administrativo?",
+            verso:
+              "**CO-FI-FO-MO-OB:**\n\n1. **CO**mpetência - QUEM pratica\n2. **FI**nalidade - PARA QUÊ\n3. **FO**rma - COMO se exterioriza\n4. **MO**tivo - POR QUÊ\n5. **OB**jeto - O QUÊ determina\n\nVícios em qualquer requisito = ATO NULO",
             tags: ["requisitos", "elementos"],
             dificuldade: "facil",
             caixa: 1,
@@ -3629,7 +3888,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           {
             id: "ap-fc-6-2",
             frente: "Quais são os 4 ATRIBUTOS do ato administrativo?",
-            verso: "**PATI:**\n\n1. **P**resunção de legitimidade\n   (presume-se legal até prova em contrário)\n\n2. **A**utoexecutoriedade\n   (executa sem ordem judicial)\n\n3. **T**ipicidade\n   (deve corresponder a tipo legal)\n\n4. **I**mperatividade\n   (impõe obrigações independente de concordância)\n\n⚠️ Nem todo ato tem todos (ex: certidão não tem imperatividade).",
+            verso:
+              "**PATI:**\n\n1. **P**resunção de legitimidade\n   (presume-se legal até prova em contrário)\n\n2. **A**utoexecutoriedade\n   (executa sem ordem judicial)\n\n3. **T**ipicidade\n   (deve corresponder a tipo legal)\n\n4. **I**mperatividade\n   (impõe obrigações independente de concordância)\n\n⚠️ Nem todo ato tem todos (ex: certidão não tem imperatividade).",
             tags: ["atributos", "PATI"],
             dificuldade: "facil",
             caixa: 1,
@@ -3640,8 +3900,10 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           },
           {
             id: "ap-fc-6-3",
-            frente: "A presunção de legitimidade dos atos administrativos é absoluta ou relativa?",
-            verso: "**RELATIVA (juris tantum)**\n\n• Presume-se que o ato é LEGAL e VERDADEIRO\n• MAS admite prova em contrário\n• O ÔNUS DA PROVA é do administrado\n\n**Consequência:**\nO ato produz efeitos imediatamente, mesmo que impugnado.\n\nEx: Multa de trânsito vale até você provar que não cometeu a infração.",
+            frente:
+              "A presunção de legitimidade dos atos administrativos é absoluta ou relativa?",
+            verso:
+              "**RELATIVA (juris tantum)**\n\n• Presume-se que o ato é LEGAL e VERDADEIRO\n• MAS admite prova em contrário\n• O ÔNUS DA PROVA é do administrado\n\n**Consequência:**\nO ato produz efeitos imediatamente, mesmo que impugnado.\n\nEx: Multa de trânsito vale até você provar que não cometeu a infração.",
             tags: ["presunção", "relativa"],
             dificuldade: "facil",
             caixa: 1,
@@ -3653,7 +3915,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           {
             id: "ap-fc-6-4",
             frente: "Por que a COBRANÇA de multa NÃO é autoexecutável?",
-            verso: "**MULTA - Autoexecutoriedade PARCIAL:**\n\n✅ **APLICAR a multa = Autoexecutável**\n(Lavrar auto de infração sem ordem judicial)\n\n❌ **COBRAR a multa = NÃO autoexecutável**\n(Precisa de EXECUÇÃO FISCAL para tirar o dinheiro)\n\n**Razão:** A Administração não pode, por conta própria, acessar a conta bancária ou penhorar bens do devedor.",
+            verso:
+              "**MULTA - Autoexecutoriedade PARCIAL:**\n\n✅ **APLICAR a multa = Autoexecutável**\n(Lavrar auto de infração sem ordem judicial)\n\n❌ **COBRAR a multa = NÃO autoexecutável**\n(Precisa de EXECUÇÃO FISCAL para tirar o dinheiro)\n\n**Razão:** A Administração não pode, por conta própria, acessar a conta bancária ou penhorar bens do devedor.",
             tags: ["multa", "autoexecutoriedade"],
             dificuldade: "medio",
             caixa: 1,
@@ -3665,7 +3928,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           {
             id: "ap-fc-6-5",
             frente: "Qual a diferença entre ato VINCULADO e DISCRICIONÁRIO?",
-            verso: "| | VINCULADO | DISCRICIONÁRIO |\n|--|-----------|----------------|\n| **Margem** | Sem escolha | Há mérito (conveniência) |\n| **Requisitos** | Todos definidos em lei | Motivo e/ou objeto com margem |\n| **Exemplo** | LICENÇA sanitária | AUTORIZAÇÃO |\n| **Direito** | Subjetivo (TEM direito) | Interesse legítimo |\n\n**Lembre:** Licença = Vinculada. Autorização = Discricionária.",
+            verso:
+              "| | VINCULADO | DISCRICIONÁRIO |\n|--|-----------|----------------|\n| **Margem** | Sem escolha | Há mérito (conveniência) |\n| **Requisitos** | Todos definidos em lei | Motivo e/ou objeto com margem |\n| **Exemplo** | LICENÇA sanitária | AUTORIZAÇÃO |\n| **Direito** | Subjetivo (TEM direito) | Interesse legítimo |\n\n**Lembre:** Licença = Vinculada. Autorização = Discricionária.",
             tags: ["vinculado", "discricionário"],
             dificuldade: "medio",
             caixa: 1,
@@ -3677,7 +3941,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           {
             id: "ap-fc-6-6",
             frente: "O que é DESVIO DE FINALIDADE (desvio de poder)?",
-            verso: "**DESVIO DE FINALIDADE/PODER:**\n\nO agente usa sua competência para FIM DIVERSO do previsto em lei.\n\n**Vício:** No requisito FINALIDADE\n**Consequência:** ATO NULO\n\n**Exemplo VISA:**\nFiscal interdita restaurante de desafeto pessoal, sem irregularidade sanitária.\n\nUsou o poder de interdição (que é para proteger a saúde) para vingança pessoal.",
+            verso:
+              "**DESVIO DE FINALIDADE/PODER:**\n\nO agente usa sua competência para FIM DIVERSO do previsto em lei.\n\n**Vício:** No requisito FINALIDADE\n**Consequência:** ATO NULO\n\n**Exemplo VISA:**\nFiscal interdita restaurante de desafeto pessoal, sem irregularidade sanitária.\n\nUsou o poder de interdição (que é para proteger a saúde) para vingança pessoal.",
             tags: ["desvio", "finalidade"],
             dificuldade: "medio",
             caixa: 1,
@@ -3689,7 +3954,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           {
             id: "ap-fc-6-7",
             frente: "Qual a diferença entre ANULAÇÃO e REVOGAÇÃO?",
-            verso: "| | ANULAÇÃO | REVOGAÇÃO |\n|--|----------|----------|\n| **Motivo** | Ato ILEGAL | Ato INCONVENIENTE |\n| **Efeitos** | Ex TUNC (retroage) | Ex NUNC (não retroage) |\n| **Quem pode** | Adm. ou Judiciário | Só Administração |\n| **Prazo** | 5 anos (boa-fé) | Sem prazo fixo |\n\n**Mnemônico:** ANE retroage (ex Tunc). REX não retroage (ex Nunc).",
+            verso:
+              "| | ANULAÇÃO | REVOGAÇÃO |\n|--|----------|----------|\n| **Motivo** | Ato ILEGAL | Ato INCONVENIENTE |\n| **Efeitos** | Ex TUNC (retroage) | Ex NUNC (não retroage) |\n| **Quem pode** | Adm. ou Judiciário | Só Administração |\n| **Prazo** | 5 anos (boa-fé) | Sem prazo fixo |\n\n**Mnemônico:** ANE retroage (ex Tunc). REX não retroage (ex Nunc).",
             tags: ["anulação", "revogação"],
             dificuldade: "medio",
             caixa: 1,
@@ -3701,7 +3967,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           {
             id: "ap-fc-6-8",
             frente: "O que é CONVALIDAÇÃO de ato administrativo?",
-            verso: "**CONVALIDAÇÃO (Saneamento):**\n\nCorreção de VÍCIO SANÁVEL do ato.\n\n**Vícios SANÁVEIS (podem convalidar):**\n• Competência (se não exclusiva)\n• Forma (se não essencial)\n\n**Vícios INSANÁVEIS (não convalidam):**\n• Finalidade\n• Motivo\n• Objeto\n\n**Efeitos:** Ex TUNC (retroativos)\n\nPreservam-se os efeitos já produzidos.",
+            verso:
+              "**CONVALIDAÇÃO (Saneamento):**\n\nCorreção de VÍCIO SANÁVEL do ato.\n\n**Vícios SANÁVEIS (podem convalidar):**\n• Competência (se não exclusiva)\n• Forma (se não essencial)\n\n**Vícios INSANÁVEIS (não convalidam):**\n• Finalidade\n• Motivo\n• Objeto\n\n**Efeitos:** Ex TUNC (retroativos)\n\nPreservam-se os efeitos já produzidos.",
             tags: ["convalidação", "sanável"],
             dificuldade: "medio",
             caixa: 1,
@@ -3713,7 +3980,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           {
             id: "ap-fc-6-9",
             frente: "Quais são as espécies de atos administrativos?",
-            verso: "**5 ESPÉCIES:**\n\n1. **NORMATIVOS** - gerais e abstratos\n   Ex: decretos, regulamentos\n\n2. **ORDINATÓRIOS** - organização interna\n   Ex: instruções, circulares\n\n3. **NEGOCIAIS** - interesse do particular\n   Ex: licença, autorização, permissão\n\n4. **ENUNCIATIVOS** - atestam, certificam\n   Ex: certidão, atestado, parecer\n\n5. **PUNITIVOS** - sancionam\n   Ex: multa, interdição, suspensão",
+            verso:
+              "**5 ESPÉCIES:**\n\n1. **NORMATIVOS** - gerais e abstratos\n   Ex: decretos, regulamentos\n\n2. **ORDINATÓRIOS** - organização interna\n   Ex: instruções, circulares\n\n3. **NEGOCIAIS** - interesse do particular\n   Ex: licença, autorização, permissão\n\n4. **ENUNCIATIVOS** - atestam, certificam\n   Ex: certidão, atestado, parecer\n\n5. **PUNITIVOS** - sancionam\n   Ex: multa, interdição, suspensão",
             tags: ["espécies", "classificação"],
             dificuldade: "medio",
             caixa: 1,
@@ -3725,7 +3993,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           {
             id: "ap-fc-6-10",
             frente: "O que são atos de IMPÉRIO, GESTÃO e EXPEDIENTE?",
-            verso: "**Classificação quanto ao OBJETO:**\n\n**IMPÉRIO:**\n• Supremacia do Estado\n• Coerção, poder de polícia\n• Ex: multa, interdição, desapropriação\n\n**GESTÃO:**\n• Administração como particular\n• Sem supremacia\n• Ex: contrato de locação, compra de material\n\n**EXPEDIENTE:**\n• Rotina administrativa\n• Impulsiona processos\n• Ex: numeração, protocolo, encaminhamento",
+            verso:
+              "**Classificação quanto ao OBJETO:**\n\n**IMPÉRIO:**\n• Supremacia do Estado\n• Coerção, poder de polícia\n• Ex: multa, interdição, desapropriação\n\n**GESTÃO:**\n• Administração como particular\n• Sem supremacia\n• Ex: contrato de locação, compra de material\n\n**EXPEDIENTE:**\n• Rotina administrativa\n• Impulsiona processos\n• Ex: numeração, protocolo, encaminhamento",
             tags: ["império", "gestão"],
             dificuldade: "facil",
             caixa: 1,
@@ -3741,14 +4010,28 @@ Os atributos são **características especiais** que diferenciam os atos adminis
             id: "ap-q-6-1",
             enunciado: "São requisitos (elementos) do ato administrativo:",
             alternativas: [
-              { letra: "A", texto: "Presunção de legitimidade, imperatividade e autoexecutoriedade." },
-              { letra: "B", texto: "Competência, finalidade, forma, motivo e objeto." },
-              { letra: "C", texto: "Legalidade, impessoalidade, moralidade e eficiência." },
-              { letra: "D", texto: "Supremacia, indisponibilidade e continuidade." },
+              {
+                letra: "A",
+                texto:
+                  "Presunção de legitimidade, imperatividade e autoexecutoriedade.",
+              },
+              {
+                letra: "B",
+                texto: "Competência, finalidade, forma, motivo e objeto.",
+              },
+              {
+                letra: "C",
+                texto: "Legalidade, impessoalidade, moralidade e eficiência.",
+              },
+              {
+                letra: "D",
+                texto: "Supremacia, indisponibilidade e continuidade.",
+              },
               { letra: "E", texto: "Hierarquia, disciplina e vinculação." },
             ],
             gabarito: "B",
-            justificativa: "Os requisitos (elementos) do ato administrativo são: COMPETÊNCIA, FINALIDADE, FORMA, MOTIVO e OBJETO (CO-FI-FO-MO-OB). A alternativa A traz atributos, não requisitos.",
+            justificativa:
+              "Os requisitos (elementos) do ato administrativo são: COMPETÊNCIA, FINALIDADE, FORMA, MOTIVO e OBJETO (CO-FI-FO-MO-OB). A alternativa A traz atributos, não requisitos.",
             dificuldade: "Fácil",
             competencia: "Requisitos do ato",
             banca: "IADES",
@@ -3765,7 +4048,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
               { letra: "E", texto: "Tipicidade." },
             ],
             gabarito: "C",
-            justificativa: "FINALIDADE é REQUISITO (elemento) do ato, não atributo. Os atributos são: Presunção de legitimidade, Autoexecutoriedade, Tipicidade e Imperatividade (PATI).",
+            justificativa:
+              "FINALIDADE é REQUISITO (elemento) do ato, não atributo. Os atributos são: Presunção de legitimidade, Autoexecutoriedade, Tipicidade e Imperatividade (PATI).",
             dificuldade: "Fácil",
             competencia: "Atributos do ato",
             banca: "IADES",
@@ -3775,14 +4059,25 @@ Os atributos são **características especiais** que diferenciam os atos adminis
             id: "ap-q-6-3",
             enunciado: "A presunção de legitimidade dos atos administrativos:",
             alternativas: [
-              { letra: "A", texto: "É absoluta, não admitindo prova em contrário." },
-              { letra: "B", texto: "Impede a produção de efeitos até decisão judicial." },
-              { letra: "C", texto: "É relativa, admitindo prova em contrário pelo interessado." },
+              {
+                letra: "A",
+                texto: "É absoluta, não admitindo prova em contrário.",
+              },
+              {
+                letra: "B",
+                texto: "Impede a produção de efeitos até decisão judicial.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "É relativa, admitindo prova em contrário pelo interessado.",
+              },
               { letra: "D", texto: "Só existe nos atos vinculados." },
               { letra: "E", texto: "Foi revogada pela Lei 9.784/99." },
             ],
             gabarito: "C",
-            justificativa: "A presunção de legitimidade é RELATIVA (juris tantum), ou seja, admite prova em contrário. O ônus da prova é do administrado que alega o vício. O ato produz efeitos enquanto não for invalidado.",
+            justificativa:
+              "A presunção de legitimidade é RELATIVA (juris tantum), ou seja, admite prova em contrário. O ônus da prova é do administrado que alega o vício. O ato produz efeitos enquanto não for invalidado.",
             dificuldade: "Fácil",
             competencia: "Presunção de legitimidade",
             banca: "IADES",
@@ -3790,16 +4085,37 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           },
           {
             id: "ap-q-6-4",
-            enunciado: "Quanto à autoexecutoriedade do ato administrativo, é correto afirmar que:",
+            enunciado:
+              "Quanto à autoexecutoriedade do ato administrativo, é correto afirmar que:",
             alternativas: [
-              { letra: "A", texto: "A aplicação e a cobrança de multa são igualmente autoexecutáveis." },
-              { letra: "B", texto: "A aplicação de multa é autoexecutável, mas sua cobrança não é." },
-              { letra: "C", texto: "Nenhum ato de vigilância sanitária é autoexecutável." },
-              { letra: "D", texto: "A autoexecutoriedade exige sempre prévia autorização judicial." },
-              { letra: "E", texto: "A autoexecutoriedade é atributo exclusivo de atos vinculados." },
+              {
+                letra: "A",
+                texto:
+                  "A aplicação e a cobrança de multa são igualmente autoexecutáveis.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "A aplicação de multa é autoexecutável, mas sua cobrança não é.",
+              },
+              {
+                letra: "C",
+                texto: "Nenhum ato de vigilância sanitária é autoexecutável.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "A autoexecutoriedade exige sempre prévia autorização judicial.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "A autoexecutoriedade é atributo exclusivo de atos vinculados.",
+              },
             ],
             gabarito: "B",
-            justificativa: "A APLICAÇÃO da multa (lavrar auto de infração) é autoexecutável. Porém, a COBRANÇA da multa (tirar o dinheiro do devedor) NÃO é autoexecutável - exige execução fiscal.",
+            justificativa:
+              "A APLICAÇÃO da multa (lavrar auto de infração) é autoexecutável. Porém, a COBRANÇA da multa (tirar o dinheiro do devedor) NÃO é autoexecutável - exige execução fiscal.",
             dificuldade: "Média",
             competencia: "Autoexecutoriedade",
             banca: "IADES",
@@ -3807,7 +4123,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           },
           {
             id: "ap-q-6-5",
-            enunciado: "O vício no elemento FINALIDADE do ato administrativo caracteriza:",
+            enunciado:
+              "O vício no elemento FINALIDADE do ato administrativo caracteriza:",
             alternativas: [
               { letra: "A", texto: "Excesso de poder." },
               { letra: "B", texto: "Desvio de poder (ou de finalidade)." },
@@ -3816,7 +4133,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
               { letra: "E", texto: "Defeito de objeto." },
             ],
             gabarito: "B",
-            justificativa: "O DESVIO DE PODER (ou desvio de finalidade) ocorre quando o agente usa sua competência para fim DIVERSO do previsto em lei. É vício no requisito FINALIDADE e torna o ato NULO.",
+            justificativa:
+              "O DESVIO DE PODER (ou desvio de finalidade) ocorre quando o agente usa sua competência para fim DIVERSO do previsto em lei. É vício no requisito FINALIDADE e torna o ato NULO.",
             dificuldade: "Fácil",
             competencia: "Desvio de finalidade",
             banca: "IADES",
@@ -3827,13 +4145,20 @@ Os atributos são **características especiais** que diferenciam os atos adminis
             enunciado: "A licença sanitária é classificada como ato:",
             alternativas: [
               { letra: "A", texto: "Discricionário e precário." },
-              { letra: "B", texto: "Vinculado, gerando direito subjetivo ao interessado." },
+              {
+                letra: "B",
+                texto: "Vinculado, gerando direito subjetivo ao interessado.",
+              },
               { letra: "C", texto: "Normativo de caráter geral." },
               { letra: "D", texto: "Punitivo e autoexecutável." },
-              { letra: "E", texto: "Complexo, exigindo manifestação de dois órgãos." },
+              {
+                letra: "E",
+                texto: "Complexo, exigindo manifestação de dois órgãos.",
+              },
             ],
             gabarito: "B",
-            justificativa: "A LICENÇA é ato VINCULADO: preenchidos os requisitos legais, o interessado TEM DIREITO à sua concessão. Diferente da autorização, que é discricionária e precária.",
+            justificativa:
+              "A LICENÇA é ato VINCULADO: preenchidos os requisitos legais, o interessado TEM DIREITO à sua concessão. Diferente da autorização, que é discricionária e precária.",
             dificuldade: "Média",
             competencia: "Ato vinculado",
             banca: "IADES",
@@ -3841,16 +4166,21 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           },
           {
             id: "ap-q-6-7",
-            enunciado: "A anulação de ato administrativo ilegal produz efeitos:",
+            enunciado:
+              "A anulação de ato administrativo ilegal produz efeitos:",
             alternativas: [
               { letra: "A", texto: "Ex nunc, ou seja, não retroativos." },
-              { letra: "B", texto: "Ex tunc, ou seja, retroativos à data do ato." },
+              {
+                letra: "B",
+                texto: "Ex tunc, ou seja, retroativos à data do ato.",
+              },
               { letra: "C", texto: "Somente para o futuro, após publicação." },
               { letra: "D", texto: "Condicionados à indenização prévia." },
               { letra: "E", texto: "Dependentes de trânsito em julgado." },
             ],
             gabarito: "B",
-            justificativa: "A ANULAÇÃO de atos ilegais produz efeitos EX TUNC (retroativos), como se o ato nunca tivesse existido. Já a REVOGAÇÃO produz efeitos EX NUNC (não retroage).",
+            justificativa:
+              "A ANULAÇÃO de atos ilegais produz efeitos EX TUNC (retroativos), como se o ato nunca tivesse existido. Já a REVOGAÇÃO produz efeitos EX NUNC (não retroage).",
             dificuldade: "Fácil",
             competencia: "Efeitos da anulação",
             banca: "IADES",
@@ -3858,7 +4188,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
           },
           {
             id: "ap-q-6-8",
-            enunciado: "A convalidação de ato administrativo é possível quando o vício recai sobre:",
+            enunciado:
+              "A convalidação de ato administrativo é possível quando o vício recai sobre:",
             alternativas: [
               { letra: "A", texto: "A finalidade do ato." },
               { letra: "B", texto: "O objeto do ato." },
@@ -3867,7 +4198,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
               { letra: "E", texto: "Qualquer dos elementos, indistintamente." },
             ],
             gabarito: "D",
-            justificativa: "A convalidação é possível para vícios SANÁVEIS: competência (quando não exclusiva) e forma (quando não essencial). Vícios de finalidade, motivo e objeto são INSANÁVEIS.",
+            justificativa:
+              "A convalidação é possível para vícios SANÁVEIS: competência (quando não exclusiva) e forma (quando não essencial). Vícios de finalidade, motivo e objeto são INSANÁVEIS.",
             dificuldade: "Média",
             competencia: "Convalidação",
             banca: "IADES",
@@ -3884,7 +4216,8 @@ Os atributos são **características especiais** que diferenciam os atos adminis
               { letra: "E", texto: "Instruções, portarias e circulares." },
             ],
             gabarito: "C",
-            justificativa: "Atos ENUNCIATIVOS são aqueles que atestam, certificam ou emitem opinião: certidões, atestados e pareceres. A) normativos; B) punitivos; D) negociais; E) ordinatórios.",
+            justificativa:
+              "Atos ENUNCIATIVOS são aqueles que atestam, certificam ou emitem opinião: certidões, atestados e pareceres. A) normativos; B) punitivos; D) negociais; E) ordinatórios.",
             dificuldade: "Média",
             competencia: "Espécies de atos",
             banca: "IADES",
@@ -3894,14 +4227,29 @@ Os atributos são **características especiais** que diferenciam os atos adminis
             id: "ap-q-6-10",
             enunciado: "A revogação de ato administrativo:",
             alternativas: [
-              { letra: "A", texto: "Pode ser feita pelo Poder Judiciário em qualquer situação." },
+              {
+                letra: "A",
+                texto:
+                  "Pode ser feita pelo Poder Judiciário em qualquer situação.",
+              },
               { letra: "B", texto: "Pressupõe vício de legalidade no ato." },
-              { letra: "C", texto: "Produz efeitos ex tunc, retroagindo à data do ato." },
-              { letra: "D", texto: "É privativa da Administração e baseia-se em conveniência e oportunidade." },
-              { letra: "E", texto: "Depende de autorização legislativa prévia." },
+              {
+                letra: "C",
+                texto: "Produz efeitos ex tunc, retroagindo à data do ato.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "É privativa da Administração e baseia-se em conveniência e oportunidade.",
+              },
+              {
+                letra: "E",
+                texto: "Depende de autorização legislativa prévia.",
+              },
             ],
             gabarito: "D",
-            justificativa: "A REVOGAÇÃO é privativa da Administração (Judiciário não revoga) e baseia-se em conveniência e oportunidade (mérito), não em ilegalidade. Produz efeitos EX NUNC (não retroage).",
+            justificativa:
+              "A REVOGAÇÃO é privativa da Administração (Judiciário não revoga) e baseia-se em conveniência e oportunidade (mérito), não em ilegalidade. Produz efeitos EX NUNC (não retroage).",
             dificuldade: "Média",
             competencia: "Revogação",
             banca: "IADES",
@@ -4035,7 +4383,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
         armadilhas: [
           {
             titulo: "Autarquia vs Empresa Pública",
-            descricao: "Confundir autarquia com empresa pública quanto à natureza jurídica.",
+            descricao:
+              "Confundir autarquia com empresa pública quanto à natureza jurídica.",
             dica: "Autarquia = direito PÚBLICO. Empresa Pública = direito PRIVADO.",
           },
           {
@@ -4045,7 +4394,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
           },
           {
             titulo: "Subordinação vs Vinculação",
-            descricao: "Pensar que EP/SEM são subordinadas à Administração Direta.",
+            descricao:
+              "Pensar que EP/SEM são subordinadas à Administração Direta.",
             dica: "São VINCULADAS (tutela/controle finalístico), não subordinadas.",
           },
           {
@@ -4074,7 +4424,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
           {
             termo: "SEM = S.A.",
             significado: "Forma societária obrigatória",
-            frase: "Sociedade de Economia Mista só pode ser S.A. (ambos com S).",
+            frase:
+              "Sociedade de Economia Mista só pode ser S.A. (ambos com S).",
           },
           {
             termo: "EP = 100% P",
@@ -4102,7 +4453,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
           {
             id: "ap-fc-7-1",
             frente: "Quais são as entidades da Administração Indireta?",
-            verso: "Autarquias, Fundações Públicas, Empresas Públicas e Sociedades de Economia Mista",
+            verso:
+              "Autarquias, Fundações Públicas, Empresas Públicas e Sociedades de Economia Mista",
             tags: ["administração indireta", "entidades"],
             dificuldade: "facil",
             caixa: 1,
@@ -4113,8 +4465,10 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
           },
           {
             id: "ap-fc-7-2",
-            frente: "Qual a diferença entre desconcentração e descentralização?",
-            verso: "Desconcentração: distribuição de tarefas dentro da mesma pessoa jurídica (cria órgãos). Descentralização: transferência para outra pessoa jurídica (cria entidades)",
+            frente:
+              "Qual a diferença entre desconcentração e descentralização?",
+            verso:
+              "Desconcentração: distribuição de tarefas dentro da mesma pessoa jurídica (cria órgãos). Descentralização: transferência para outra pessoa jurídica (cria entidades)",
             tags: ["desconcentração", "descentralização"],
             dificuldade: "medio",
             caixa: 1,
@@ -4126,7 +4480,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
           {
             id: "ap-fc-7-3",
             frente: "Como são criadas as autarquias?",
-            verso: "Por LEI ESPECÍFICA (art. 37, XIX, CF) - a lei cria diretamente, sem necessidade de registro",
+            verso:
+              "Por LEI ESPECÍFICA (art. 37, XIX, CF) - a lei cria diretamente, sem necessidade de registro",
             tags: ["autarquia", "criação"],
             dificuldade: "medio",
             caixa: 1,
@@ -4138,7 +4493,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
           {
             id: "ap-fc-7-4",
             frente: "Qual a diferença de capital entre Empresa Pública e SEM?",
-            verso: "EP: capital 100% público. SEM: capital majoritariamente público, mas admite sócios privados",
+            verso:
+              "EP: capital 100% público. SEM: capital majoritariamente público, mas admite sócios privados",
             tags: ["EP", "SEM", "capital"],
             dificuldade: "medio",
             caixa: 1,
@@ -4161,8 +4517,10 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
           },
           {
             id: "ap-fc-7-6",
-            frente: "Autarquias têm personalidade jurídica de direito público ou privado?",
-            verso: "Direito PÚBLICO - por isso têm imunidade tributária, bens impenhoráveis, precatórios, servidores estatutários",
+            frente:
+              "Autarquias têm personalidade jurídica de direito público ou privado?",
+            verso:
+              "Direito PÚBLICO - por isso têm imunidade tributária, bens impenhoráveis, precatórios, servidores estatutários",
             tags: ["autarquia", "direito público"],
             dificuldade: "facil",
             caixa: 1,
@@ -4173,8 +4531,10 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
           },
           {
             id: "ap-fc-7-7",
-            frente: "As entidades da Administração Indireta são subordinadas ou vinculadas?",
-            verso: "VINCULADAS (supervisão ministerial), não subordinadas - não há hierarquia entre a entidade e a Administração Direta",
+            frente:
+              "As entidades da Administração Indireta são subordinadas ou vinculadas?",
+            verso:
+              "VINCULADAS (supervisão ministerial), não subordinadas - não há hierarquia entre a entidade e a Administração Direta",
             tags: ["vinculação", "supervisão"],
             dificuldade: "medio",
             caixa: 1,
@@ -4186,7 +4546,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
           {
             id: "ap-fc-7-8",
             frente: "Dê exemplos de autarquias federais.",
-            verso: "INSS, IBAMA, INCRA, BACEN, CVM, universidades federais, agências reguladoras",
+            verso:
+              "INSS, IBAMA, INCRA, BACEN, CVM, universidades federais, agências reguladoras",
             tags: ["autarquia", "exemplos"],
             dificuldade: "facil",
             caixa: 1,
@@ -4204,12 +4565,21 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
             alternativas: [
               { letra: "A", texto: "Ministérios, Secretarias e Delegacias." },
               { letra: "B", texto: "União, Estados, DF e Municípios." },
-              { letra: "C", texto: "Autarquias, fundações, empresas públicas e sociedades de economia mista." },
+              {
+                letra: "C",
+                texto:
+                  "Autarquias, fundações, empresas públicas e sociedades de economia mista.",
+              },
               { letra: "D", texto: "Apenas autarquias e fundações." },
-              { letra: "E", texto: "Apenas empresas públicas e sociedades de economia mista." },
+              {
+                letra: "E",
+                texto:
+                  "Apenas empresas públicas e sociedades de economia mista.",
+              },
             ],
             gabarito: "C",
-            justificativa: "A Administração Indireta é composta por: AUTARQUIAS, FUNDAÇÕES PÚBLICAS, EMPRESAS PÚBLICAS e SOCIEDADES DE ECONOMIA MISTA.",
+            justificativa:
+              "A Administração Indireta é composta por: AUTARQUIAS, FUNDAÇÕES PÚBLICAS, EMPRESAS PÚBLICAS e SOCIEDADES DE ECONOMIA MISTA.",
             dificuldade: "Fácil",
             competencia: "Administração indireta",
             banca: "IADES",
@@ -4221,12 +4591,16 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
             alternativas: [
               { letra: "A", texto: "por decreto do chefe do Executivo." },
               { letra: "B", texto: "por lei específica." },
-              { letra: "C", texto: "por lei autorizativa seguida de registro." },
+              {
+                letra: "C",
+                texto: "por lei autorizativa seguida de registro.",
+              },
               { letra: "D", texto: "por medida provisória." },
               { letra: "E", texto: "por resolução do órgão competente." },
             ],
             gabarito: "B",
-            justificativa: "Autarquias são criadas por LEI ESPECÍFICA (art. 37, XIX, CF). A lei cria diretamente a autarquia, sem necessidade de registro posterior.",
+            justificativa:
+              "Autarquias são criadas por LEI ESPECÍFICA (art. 37, XIX, CF). A lei cria diretamente a autarquia, sem necessidade de registro posterior.",
             dificuldade: "Média",
             competencia: "Criação de autarquias",
             banca: "IADES",
@@ -4234,7 +4608,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
           },
           {
             id: "ap-q-7-3",
-            enunciado: "A distribuição de competências dentro de uma mesma pessoa jurídica denomina-se:",
+            enunciado:
+              "A distribuição de competências dentro de uma mesma pessoa jurídica denomina-se:",
             alternativas: [
               { letra: "A", texto: "descentralização." },
               { letra: "B", texto: "delegação." },
@@ -4243,7 +4618,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
               { letra: "E", texto: "avocação." },
             ],
             gabarito: "C",
-            justificativa: "DESCONCENTRAÇÃO é a distribuição de competências dentro da mesma pessoa jurídica, criando órgãos internos. DESCENTRALIZAÇÃO transfere competências para outra pessoa jurídica.",
+            justificativa:
+              "DESCONCENTRAÇÃO é a distribuição de competências dentro da mesma pessoa jurídica, criando órgãos internos. DESCENTRALIZAÇÃO transfere competências para outra pessoa jurídica.",
             dificuldade: "Média",
             competencia: "Desconcentração",
             banca: "IADES",
@@ -4260,7 +4636,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
               { letra: "E", texto: "qualquer forma societária." },
             ],
             gabarito: "B",
-            justificativa: "A SEM obrigatoriamente deve ser SOCIEDADE ANÔNIMA (S.A.). A empresa pública pode adotar qualquer forma societária.",
+            justificativa:
+              "A SEM obrigatoriamente deve ser SOCIEDADE ANÔNIMA (S.A.). A empresa pública pode adotar qualquer forma societária.",
             dificuldade: "Média",
             competencia: "Forma societária",
             banca: "IADES",
@@ -4268,7 +4645,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
           },
           {
             id: "ap-q-7-5",
-            enunciado: "A relação entre as entidades da Administração Indireta e a Administração Direta é de:",
+            enunciado:
+              "A relação entre as entidades da Administração Indireta e a Administração Direta é de:",
             alternativas: [
               { letra: "A", texto: "subordinação hierárquica." },
               { letra: "B", texto: "vinculação, sem subordinação." },
@@ -4277,7 +4655,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
               { letra: "E", texto: "tutela absoluta." },
             ],
             gabarito: "B",
-            justificativa: "As entidades da Administração Indireta são VINCULADAS (supervisão ministerial), não SUBORDINADAS. Não há hierarquia, mas há controle finalístico.",
+            justificativa:
+              "As entidades da Administração Indireta são VINCULADAS (supervisão ministerial), não SUBORDINADAS. Não há hierarquia, mas há controle finalístico.",
             dificuldade: "Média",
             competencia: "Vinculação",
             banca: "IADES",
@@ -4289,12 +4668,16 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
             alternativas: [
               { letra: "A", texto: "capital misto, com maioria pública." },
               { letra: "B", texto: "capital integralmente público." },
-              { letra: "C", texto: "personalidade jurídica de direito público." },
+              {
+                letra: "C",
+                texto: "personalidade jurídica de direito público.",
+              },
               { letra: "D", texto: "forma obrigatória de S.A." },
               { letra: "E", texto: "regime jurídico integralmente público." },
             ],
             gabarito: "B",
-            justificativa: "A empresa pública tem capital 100% PÚBLICO. A SEM é que tem capital misto. Ambas têm personalidade de direito privado.",
+            justificativa:
+              "A empresa pública tem capital 100% PÚBLICO. A SEM é que tem capital misto. Ambas têm personalidade de direito privado.",
             dificuldade: "Média",
             competencia: "Empresa pública",
             banca: "IADES",
@@ -4307,11 +4690,15 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
               { letra: "A", texto: "Correios e Caixa Econômica Federal." },
               { letra: "B", texto: "Petrobras e Banco do Brasil." },
               { letra: "C", texto: "INSS, IBAMA e INCRA." },
-              { letra: "D", texto: "Ministério da Saúde e Secretaria da Receita Federal." },
+              {
+                letra: "D",
+                texto: "Ministério da Saúde e Secretaria da Receita Federal.",
+              },
               { letra: "E", texto: "BNDES e Casa da Moeda." },
             ],
             gabarito: "C",
-            justificativa: "INSS, IBAMA e INCRA são autarquias. Correios, CEF, BNDES são empresas públicas. Petrobras e BB são SEM. Ministérios são órgãos.",
+            justificativa:
+              "INSS, IBAMA e INCRA são autarquias. Correios, CEF, BNDES são empresas públicas. Petrobras e BB são SEM. Ministérios são órgãos.",
             dificuldade: "Média",
             competencia: "Exemplos de autarquias",
             banca: "IADES",
@@ -4319,7 +4706,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
           },
           {
             id: "ap-q-7-8",
-            enunciado: "As autarquias possuem personalidade jurídica de direito:",
+            enunciado:
+              "As autarquias possuem personalidade jurídica de direito:",
             alternativas: [
               { letra: "A", texto: "privado." },
               { letra: "B", texto: "público." },
@@ -4328,7 +4716,8 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
               { letra: "E", texto: "especial." },
             ],
             gabarito: "B",
-            justificativa: "Autarquias têm personalidade jurídica de direito PÚBLICO, o que lhes confere prerrogativas como imunidade tributária recíproca, bens impenhoráveis e pagamento por precatório.",
+            justificativa:
+              "Autarquias têm personalidade jurídica de direito PÚBLICO, o que lhes confere prerrogativas como imunidade tributária recíproca, bens impenhoráveis e pagamento por precatório.",
             dificuldade: "Fácil",
             competencia: "Natureza jurídica",
             banca: "IADES",
@@ -4338,14 +4727,26 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
             id: "ap-q-7-9",
             enunciado: "A descentralização administrativa consiste em:",
             alternativas: [
-              { letra: "A", texto: "distribuição de competências dentro da mesma pessoa jurídica." },
-              { letra: "B", texto: "transferência de competências para outra pessoa jurídica." },
+              {
+                letra: "A",
+                texto:
+                  "distribuição de competências dentro da mesma pessoa jurídica.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "transferência de competências para outra pessoa jurídica.",
+              },
               { letra: "C", texto: "criação de órgãos internos." },
               { letra: "D", texto: "delegação de competências entre órgãos." },
-              { letra: "E", texto: "concentração de poderes no órgão central." },
+              {
+                letra: "E",
+                texto: "concentração de poderes no órgão central.",
+              },
             ],
             gabarito: "B",
-            justificativa: "DESCENTRALIZAÇÃO é a transferência de competências para OUTRA pessoa jurídica, criando entidades da Administração Indireta. Desconcentração é que distribui dentro da mesma pessoa jurídica.",
+            justificativa:
+              "DESCENTRALIZAÇÃO é a transferência de competências para OUTRA pessoa jurídica, criando entidades da Administração Indireta. Desconcentração é que distribui dentro da mesma pessoa jurídica.",
             dificuldade: "Média",
             competencia: "Descentralização",
             banca: "IADES",
@@ -4353,16 +4754,22 @@ DESCENTRALIZAÇÃO (Administração INDIRETA):
           },
           {
             id: "ap-q-7-10",
-            enunciado: "A criação de empresas públicas e sociedades de economia mista depende de:",
+            enunciado:
+              "A criação de empresas públicas e sociedades de economia mista depende de:",
             alternativas: [
               { letra: "A", texto: "lei específica que as cria diretamente." },
               { letra: "B", texto: "decreto do chefe do Executivo." },
-              { letra: "C", texto: "autorização legislativa e registro em órgão competente." },
+              {
+                letra: "C",
+                texto:
+                  "autorização legislativa e registro em órgão competente.",
+              },
               { letra: "D", texto: "apenas registro em órgão competente." },
               { letra: "E", texto: "medida provisória com força de lei." },
             ],
             gabarito: "C",
-            justificativa: "EP e SEM são criadas em duas etapas: 1) autorização por lei específica; 2) registro no órgão competente (Junta Comercial). Diferente das autarquias, que são criadas diretamente por lei.",
+            justificativa:
+              "EP e SEM são criadas em duas etapas: 1) autorização por lei específica; 2) registro no órgão competente (Junta Comercial). Diferente das autarquias, que são criadas diretamente por lei.",
             dificuldade: "Média",
             competencia: "Criação de EP/SEM",
             banca: "IADES",
@@ -4651,58 +5058,68 @@ Obrigatório para todos os entes federativos (LC 131/2009).
           "LAI (Lei 12.527/11): publicidade como regra, sigilo como exceção",
           "Prazos LAI: 20 dias + 10 de prorrogação para resposta",
           "Recurso hierárquico próprio não precisa previsão legal; impróprio exige",
-          "Anulação pela Administração: prazo decadencial de 5 anos (Lei 9.784/99)"
+          "Anulação pela Administração: prazo decadencial de 5 anos (Lei 9.784/99)",
         ],
 
         armadilhas: [
           {
             titulo: "TCU JULGA x APRECIA",
-            descricao: "TCU JULGA contas de administradores, mas apenas APRECIA (parecer prévio) contas do Presidente.",
+            descricao:
+              "TCU JULGA contas de administradores, mas apenas APRECIA (parecer prévio) contas do Presidente.",
             dica: "Lembre: quem JULGA o Presidente é o Congresso Nacional, não o TCU.",
           },
           {
             titulo: "Decisões do TCU e coisa julgada",
-            descricao: "Decisões do TCU NÃO fazem coisa julgada material - são revisíveis pelo Judiciário.",
+            descricao:
+              "Decisões do TCU NÃO fazem coisa julgada material - são revisíveis pelo Judiciário.",
             dica: "TCU exerce função administrativa, não jurisdicional.",
           },
           {
             titulo: "Judiciário e mérito administrativo",
-            descricao: "Judiciário NÃO pode substituir o mérito administrativo - pode anular, não revogar.",
+            descricao:
+              "Judiciário NÃO pode substituir o mérito administrativo - pode anular, não revogar.",
             dica: "Revogar = conveniência/oportunidade = competência da própria Administração.",
           },
           {
             titulo: "Sistema de jurisdição brasileiro",
-            descricao: "Brasil adota sistema de jurisdição UNA (inglês), não o contencioso administrativo (francês).",
+            descricao:
+              "Brasil adota sistema de jurisdição UNA (inglês), não o contencioso administrativo (francês).",
             dica: "Una = todas as causas vão ao Judiciário comum.",
           },
           {
             titulo: "Recurso hierárquico impróprio",
-            descricao: "Recurso hierárquico IMPRÓPRIO exige previsão legal expressa (entre entidades diferentes).",
+            descricao:
+              "Recurso hierárquico IMPRÓPRIO exige previsão legal expressa (entre entidades diferentes).",
             dica: "Próprio não precisa de lei; impróprio (outra pessoa jurídica) precisa.",
           },
           {
             titulo: "Legitimidade para ação popular",
-            descricao: "A ação popular exige que o autor seja CIDADÃO ELEITOR (não basta ser brasileiro).",
+            descricao:
+              "A ação popular exige que o autor seja CIDADÃO ELEITOR (não basta ser brasileiro).",
             dica: "Precisa ter título de eleitor - estrangeiros e menores de 16 não podem.",
           },
           {
             titulo: "Controle interno obrigatório",
-            descricao: "Controle interno é OBRIGATÓRIO para todos os Poderes (art. 74, CF).",
+            descricao:
+              "Controle interno é OBRIGATÓRIO para todos os Poderes (art. 74, CF).",
             dica: "Todos = Executivo, Legislativo e Judiciário devem ter.",
           },
           {
             titulo: "Sustação de atos x contratos",
-            descricao: "O TCU pode SUSTAR atos, mas sustação de CONTRATOS é competência do Congresso.",
+            descricao:
+              "O TCU pode SUSTAR atos, mas sustação de CONTRATOS é competência do Congresso.",
             dica: "Atos = TCU sozinho. Contratos = Congresso (mais grave).",
           },
           {
             titulo: "Prazo de resposta LAI",
-            descricao: "LAI: prazo de resposta é 20 dias (não 30), prorrogável por mais 10.",
+            descricao:
+              "LAI: prazo de resposta é 20 dias (não 30), prorrogável por mais 10.",
             dica: "20+10 = máximo 30 dias, mas o prazo inicial é 20.",
           },
           {
             titulo: "Súmula 473 e prazo decadencial",
-            descricao: "Súmula 473 não elimina prazo decadencial - após 5 anos, não pode mais anular.",
+            descricao:
+              "Súmula 473 não elimina prazo decadencial - após 5 anos, não pode mais anular.",
             dica: "Art. 54 da Lei 9.784/99: 5 anos para anular atos de boa-fé.",
           },
         ],
@@ -4711,42 +5128,49 @@ Obrigatório para todos os entes federativos (LC 131/2009).
           {
             termo: "LEGS",
             significado: "Fiscalização pelo Controle Externo (art. 70, CF)",
-            frase: "L - Legalidade / E - Economicidade / G - leGitimidade / S - Subvenções e renúncias",
+            frase:
+              "L - Legalidade / E - Economicidade / G - leGitimidade / S - Subvenções e renúncias",
           },
           {
             termo: "AME o APOIO",
             significado: "Finalidades do Controle Interno (art. 74, CF)",
-            frase: "A - Avaliar metas (PPA) / M - Monitorar gestão / E - Exercer controle de crédito / APOIO ao controle externo",
+            frase:
+              "A - Avaliar metas (PPA) / M - Monitorar gestão / E - Exercer controle de crédito / APOIO ao controle externo",
           },
           {
             termo: "APRECIA x JULGA",
             significado: "Competências do TCU",
-            frase: "APRECIA = Presidente (parecer prévio) e aposentadorias / JULGA = administradores e responsáveis por dinheiro público",
+            frase:
+              "APRECIA = Presidente (parecer prévio) e aposentadorias / JULGA = administradores e responsáveis por dinheiro público",
           },
           {
             termo: "5-15-25",
             significado: "Prazos de Sigilo na LAI",
-            frase: "Reservado = 5 anos / Secreto = 15 anos / Ultrassecreto = 25 anos (dobra a cada nível)",
+            frase:
+              "Reservado = 5 anos / Secreto = 15 anos / Ultrassecreto = 25 anos (dobra a cada nível)",
           },
           {
             termo: "PADACO",
             significado: "Instrumentos de Controle Social",
-            frase: "P - Petição / A - Ação popular / D - Denúncia ao TCU / A - Audiência pública / CO - Conselhos/COnsulta pública",
+            frase:
+              "P - Petição / A - Ação popular / D - Denúncia ao TCU / A - Audiência pública / CO - Conselhos/COnsulta pública",
           },
           {
             termo: "ANULA e REVOGA",
             significado: "Súmula 473 do STF",
-            frase: "ANULA = vícios de ilegalidade (não gera direito) / REVOGA = conveniência e oportunidade (respeita direitos adquiridos)",
+            frase:
+              "ANULA = vícios de ilegalidade (não gera direito) / REVOGA = conveniência e oportunidade (respeita direitos adquiridos)",
           },
         ],
 
         flashcards: [
           {
-            id: 'ap-fc-8-1',
+            id: "ap-fc-8-1",
             frente: "Qual a diferença entre controle interno e externo?",
-            verso: "INTERNO: exercido pelo próprio Poder/órgão sobre seus atos (autotutela, hierarquia). EXTERNO: exercido por Poder/órgão estranho (Legislativo, Judiciário, TCU).",
-            tags: ['controle', 'interno', 'externo'],
-            dificuldade: 'facil',
+            verso:
+              "INTERNO: exercido pelo próprio Poder/órgão sobre seus atos (autotutela, hierarquia). EXTERNO: exercido por Poder/órgão estranho (Legislativo, Judiciário, TCU).",
+            tags: ["controle", "interno", "externo"],
+            dificuldade: "facil",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4754,11 +5178,12 @@ Obrigatório para todos os entes federativos (LC 131/2009).
             erros: 0,
           },
           {
-            id: 'ap-fc-8-2',
+            id: "ap-fc-8-2",
             frente: "Quem julga as contas dos administradores públicos?",
-            verso: "O TRIBUNAL DE CONTAS julga as contas dos administradores e demais responsáveis por dinheiros públicos. Já as contas do Presidente da República são APRECIADAS (parecer prévio) pelo TCU e JULGADAS pelo Congresso Nacional.",
-            tags: ['TCU', 'contas', 'julgamento'],
-            dificuldade: 'medio',
+            verso:
+              "O TRIBUNAL DE CONTAS julga as contas dos administradores e demais responsáveis por dinheiros públicos. Já as contas do Presidente da República são APRECIADAS (parecer prévio) pelo TCU e JULGADAS pelo Congresso Nacional.",
+            tags: ["TCU", "contas", "julgamento"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4766,11 +5191,12 @@ Obrigatório para todos os entes federativos (LC 131/2009).
             erros: 0,
           },
           {
-            id: 'ap-fc-8-3',
+            id: "ap-fc-8-3",
             frente: "As decisões do TCU fazem coisa julgada?",
-            verso: "NÃO. As decisões do TCU têm natureza ADMINISTRATIVA, não jurisdicional, portanto não fazem coisa julgada material e podem ser revistas pelo Poder Judiciário.",
-            tags: ['TCU', 'coisa julgada', 'natureza'],
-            dificuldade: 'medio',
+            verso:
+              "NÃO. As decisões do TCU têm natureza ADMINISTRATIVA, não jurisdicional, portanto não fazem coisa julgada material e podem ser revistas pelo Poder Judiciário.",
+            tags: ["TCU", "coisa julgada", "natureza"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4778,11 +5204,13 @@ Obrigatório para todos os entes federativos (LC 131/2009).
             erros: 0,
           },
           {
-            id: 'ap-fc-8-4',
-            frente: "O Judiciário pode analisar o mérito dos atos administrativos?",
-            verso: "O Judiciário NÃO pode substituir o mérito (conveniência e oportunidade) do administrador, mas pode controlar os LIMITES da discricionariedade: proporcionalidade, razoabilidade, motivação, desvio de finalidade.",
-            tags: ['controle judicial', 'mérito', 'discricionariedade'],
-            dificuldade: 'medio',
+            id: "ap-fc-8-4",
+            frente:
+              "O Judiciário pode analisar o mérito dos atos administrativos?",
+            verso:
+              "O Judiciário NÃO pode substituir o mérito (conveniência e oportunidade) do administrador, mas pode controlar os LIMITES da discricionariedade: proporcionalidade, razoabilidade, motivação, desvio de finalidade.",
+            tags: ["controle judicial", "mérito", "discricionariedade"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4790,11 +5218,12 @@ Obrigatório para todos os entes federativos (LC 131/2009).
             erros: 0,
           },
           {
-            id: 'ap-fc-8-5',
+            id: "ap-fc-8-5",
             frente: "O que estabelece a Súmula 473 do STF?",
-            verso: "A Administração pode ANULAR seus atos ilegais (deles não se originam direitos) ou REVOGÁ-LOS por conveniência/oportunidade (respeitados direitos adquiridos), ressalvada a apreciação judicial. É o princípio da AUTOTUTELA.",
-            tags: ['Súmula 473', 'autotutela', 'anulação'],
-            dificuldade: 'medio',
+            verso:
+              "A Administração pode ANULAR seus atos ilegais (deles não se originam direitos) ou REVOGÁ-LOS por conveniência/oportunidade (respeitados direitos adquiridos), ressalvada a apreciação judicial. É o princípio da AUTOTUTELA.",
+            tags: ["Súmula 473", "autotutela", "anulação"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4802,11 +5231,12 @@ Obrigatório para todos os entes federativos (LC 131/2009).
             erros: 0,
           },
           {
-            id: 'ap-fc-8-6',
+            id: "ap-fc-8-6",
             frente: "Qual o prazo para a Administração anular atos ilegais?",
-            verso: "5 ANOS, conforme art. 54 da Lei 9.784/99, contados da data em que foram praticados, SALVO comprovada MÁ-FÉ do beneficiário.",
-            tags: ['prazo', 'anulação', 'Lei 9.784'],
-            dificuldade: 'medio',
+            verso:
+              "5 ANOS, conforme art. 54 da Lei 9.784/99, contados da data em que foram praticados, SALVO comprovada MÁ-FÉ do beneficiário.",
+            tags: ["prazo", "anulação", "Lei 9.784"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4814,11 +5244,12 @@ Obrigatório para todos os entes federativos (LC 131/2009).
             erros: 0,
           },
           {
-            id: 'ap-fc-8-7',
+            id: "ap-fc-8-7",
             frente: "Quais são os graus de sigilo na LAI e seus prazos?",
-            verso: "RESERVADO: 5 anos / SECRETO: 15 anos / ULTRASSECRETO: 25 anos. Macete: 5-15-25 (dobra e soma 5).",
-            tags: ['LAI', 'sigilo', 'prazos'],
-            dificuldade: 'medio',
+            verso:
+              "RESERVADO: 5 anos / SECRETO: 15 anos / ULTRASSECRETO: 25 anos. Macete: 5-15-25 (dobra e soma 5).",
+            tags: ["LAI", "sigilo", "prazos"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4826,11 +5257,13 @@ Obrigatório para todos os entes federativos (LC 131/2009).
             erros: 0,
           },
           {
-            id: 'ap-fc-8-8',
-            frente: "Qual o prazo para resposta a pedido de informação pela LAI?",
-            verso: "Resposta imediata ou em até 20 DIAS, prorrogável por mais 10 dias mediante justificativa expressa.",
-            tags: ['LAI', 'prazo', 'resposta'],
-            dificuldade: 'facil',
+            id: "ap-fc-8-8",
+            frente:
+              "Qual o prazo para resposta a pedido de informação pela LAI?",
+            verso:
+              "Resposta imediata ou em até 20 DIAS, prorrogável por mais 10 dias mediante justificativa expressa.",
+            tags: ["LAI", "prazo", "resposta"],
+            dificuldade: "facil",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4838,11 +5271,12 @@ Obrigatório para todos os entes federativos (LC 131/2009).
             erros: 0,
           },
           {
-            id: 'ap-fc-8-9',
+            id: "ap-fc-8-9",
             frente: "O que é o recurso hierárquico impróprio?",
-            verso: "É o recurso dirigido a autoridade de OUTRA pessoa jurídica (ex: de autarquia para o Ministério). Diferente do próprio, EXIGE previsão legal expressa.",
-            tags: ['recurso', 'hierárquico', 'impróprio'],
-            dificuldade: 'medio',
+            verso:
+              "É o recurso dirigido a autoridade de OUTRA pessoa jurídica (ex: de autarquia para o Ministério). Diferente do próprio, EXIGE previsão legal expressa.",
+            tags: ["recurso", "hierárquico", "impróprio"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4850,11 +5284,12 @@ Obrigatório para todos os entes federativos (LC 131/2009).
             erros: 0,
           },
           {
-            id: 'ap-fc-8-10',
+            id: "ap-fc-8-10",
             frente: "Quais são os principais instrumentos do controle social?",
-            verso: "Ação Popular (Lei 4.717/65), Direito de Petição (art. 5º, XXXIV), Denúncia ao TCU (art. 74, §2º), Lei de Acesso à Informação, Audiências/Consultas Públicas, Conselhos de Políticas Públicas.",
-            tags: ['controle social', 'instrumentos', 'participação'],
-            dificuldade: 'medio',
+            verso:
+              "Ação Popular (Lei 4.717/65), Direito de Petição (art. 5º, XXXIV), Denúncia ao TCU (art. 74, §2º), Lei de Acesso à Informação, Audiências/Consultas Públicas, Conselhos de Políticas Públicas.",
+            tags: ["controle social", "instrumentos", "participação"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -4866,16 +5301,38 @@ Obrigatório para todos os entes federativos (LC 131/2009).
         questoes: [
           {
             id: "ap-q-8-1",
-            enunciado: "Acerca do controle da Administração Pública, assinale a alternativa correta:",
+            enunciado:
+              "Acerca do controle da Administração Pública, assinale a alternativa correta:",
             alternativas: [
-              { letra: "A", texto: "O Tribunal de Contas da União exerce função jurisdicional ao julgar as contas dos administradores públicos." },
-              { letra: "B", texto: "O controle interno é facultativo, devendo cada Poder decidir sobre sua implementação." },
-              { letra: "C", texto: "As decisões do TCU possuem natureza administrativa e podem ser revistas pelo Poder Judiciário." },
-              { letra: "D", texto: "O Poder Judiciário pode revogar atos administrativos por conveniência e oportunidade." },
-              { letra: "E", texto: "O TCU julga as contas anuais prestadas pelo Presidente da República." },
+              {
+                letra: "A",
+                texto:
+                  "O Tribunal de Contas da União exerce função jurisdicional ao julgar as contas dos administradores públicos.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "O controle interno é facultativo, devendo cada Poder decidir sobre sua implementação.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "As decisões do TCU possuem natureza administrativa e podem ser revistas pelo Poder Judiciário.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "O Poder Judiciário pode revogar atos administrativos por conveniência e oportunidade.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "O TCU julga as contas anuais prestadas pelo Presidente da República.",
+              },
             ],
             gabarito: "C",
-            justificativa: "As decisões do TCU têm natureza ADMINISTRATIVA, não jurisdicional, portanto são revisíveis pelo Judiciário. O TCU APRECIA (não julga) as contas do Presidente. O controle interno é OBRIGATÓRIO (art. 74, CF). O Judiciário NÃO revoga atos (não analisa mérito).",
+            justificativa:
+              "As decisões do TCU têm natureza ADMINISTRATIVA, não jurisdicional, portanto são revisíveis pelo Judiciário. O TCU APRECIA (não julga) as contas do Presidente. O controle interno é OBRIGATÓRIO (art. 74, CF). O Judiciário NÃO revoga atos (não analisa mérito).",
             dificuldade: "Média",
             competencia: "Natureza das decisões do TCU",
             banca: "IADES",
@@ -4883,16 +5340,38 @@ Obrigatório para todos os entes federativos (LC 131/2009).
           },
           {
             id: "ap-q-8-2",
-            enunciado: "Segundo a Súmula 473 do Supremo Tribunal Federal, a Administração Pública:",
+            enunciado:
+              "Segundo a Súmula 473 do Supremo Tribunal Federal, a Administração Pública:",
             alternativas: [
-              { letra: "A", texto: "pode anular seus atos ilegais, independentemente de qualquer prazo." },
-              { letra: "B", texto: "pode revogar atos ilegais e anular atos inconvenientes." },
-              { letra: "C", texto: "pode anular atos ilegais e revogar atos por conveniência, respeitados direitos adquiridos na revogação." },
-              { letra: "D", texto: "somente pode invalidar seus atos mediante decisão judicial." },
-              { letra: "E", texto: "pode revogar atos ilegais, dos quais não se originam direitos." },
+              {
+                letra: "A",
+                texto:
+                  "pode anular seus atos ilegais, independentemente de qualquer prazo.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "pode revogar atos ilegais e anular atos inconvenientes.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "pode anular atos ilegais e revogar atos por conveniência, respeitados direitos adquiridos na revogação.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "somente pode invalidar seus atos mediante decisão judicial.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "pode revogar atos ilegais, dos quais não se originam direitos.",
+              },
             ],
             gabarito: "C",
-            justificativa: "A Súmula 473 estabelece que a Administração pode ANULAR atos ilegais (não geram direitos) e REVOGAR por conveniência/oportunidade (respeitando direitos adquiridos). Atenção: há prazo de 5 anos para anulação (Lei 9.784/99, art. 54).",
+            justificativa:
+              "A Súmula 473 estabelece que a Administração pode ANULAR atos ilegais (não geram direitos) e REVOGAR por conveniência/oportunidade (respeitando direitos adquiridos). Atenção: há prazo de 5 anos para anulação (Lei 9.784/99, art. 54).",
             dificuldade: "Média",
             competencia: "Autotutela administrativa",
             banca: "IADES",
@@ -4900,16 +5379,37 @@ Obrigatório para todos os entes federativos (LC 131/2009).
           },
           {
             id: "ap-q-8-3",
-            enunciado: "A respeito do controle judicial da Administração Pública, é correto afirmar que:",
+            enunciado:
+              "A respeito do controle judicial da Administração Pública, é correto afirmar que:",
             alternativas: [
-              { letra: "A", texto: "o Brasil adota o sistema do contencioso administrativo." },
-              { letra: "B", texto: "o Judiciário pode substituir o mérito do ato administrativo discricionário." },
-              { letra: "C", texto: "o controle judicial alcança apenas os atos vinculados." },
-              { letra: "D", texto: "o Judiciário pode controlar a proporcionalidade e razoabilidade dos atos discricionários." },
-              { letra: "E", texto: "a inafastabilidade da jurisdição impede qualquer instância administrativa prévia." },
+              {
+                letra: "A",
+                texto:
+                  "o Brasil adota o sistema do contencioso administrativo.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "o Judiciário pode substituir o mérito do ato administrativo discricionário.",
+              },
+              {
+                letra: "C",
+                texto: "o controle judicial alcança apenas os atos vinculados.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "o Judiciário pode controlar a proporcionalidade e razoabilidade dos atos discricionários.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "a inafastabilidade da jurisdição impede qualquer instância administrativa prévia.",
+              },
             ],
             gabarito: "D",
-            justificativa: "O Judiciário não substitui o mérito, mas pode controlar os LIMITES da discricionariedade: proporcionalidade, razoabilidade, motivação. Brasil adota jurisdição UNA (não contencioso administrativo). Pode haver instância administrativa prévia (não obrigatória).",
+            justificativa:
+              "O Judiciário não substitui o mérito, mas pode controlar os LIMITES da discricionariedade: proporcionalidade, razoabilidade, motivação. Brasil adota jurisdição UNA (não contencioso administrativo). Pode haver instância administrativa prévia (não obrigatória).",
             dificuldade: "Média",
             competencia: "Controle judicial",
             banca: "IADES",
@@ -4917,7 +5417,8 @@ Obrigatório para todos os entes federativos (LC 131/2009).
           },
           {
             id: "ap-q-8-4",
-            enunciado: "De acordo com a Lei de Acesso à Informação (Lei nº 12.527/2011), o prazo para resposta a pedido de acesso à informação é de:",
+            enunciado:
+              "De acordo com a Lei de Acesso à Informação (Lei nº 12.527/2011), o prazo para resposta a pedido de acesso à informação é de:",
             alternativas: [
               { letra: "A", texto: "10 dias, prorrogáveis por mais 10." },
               { letra: "B", texto: "15 dias, improrrogáveis." },
@@ -4926,7 +5427,8 @@ Obrigatório para todos os entes federativos (LC 131/2009).
               { letra: "E", texto: "20 dias, improrrogáveis." },
             ],
             gabarito: "C",
-            justificativa: "A LAI estabelece prazo de 20 DIAS para resposta, prorrogável por mais 10 dias mediante justificativa expressa. Total máximo: 30 dias.",
+            justificativa:
+              "A LAI estabelece prazo de 20 DIAS para resposta, prorrogável por mais 10 dias mediante justificativa expressa. Total máximo: 30 dias.",
             dificuldade: "Fácil",
             competencia: "Prazos da LAI",
             banca: "IADES",
@@ -4936,14 +5438,26 @@ Obrigatório para todos os entes federativos (LC 131/2009).
             id: "ap-q-8-5",
             enunciado: "O recurso hierárquico impróprio caracteriza-se por:",
             alternativas: [
-              { letra: "A", texto: "ser dirigido a autoridade superior dentro da mesma pessoa jurídica." },
+              {
+                letra: "A",
+                texto:
+                  "ser dirigido a autoridade superior dentro da mesma pessoa jurídica.",
+              },
               { letra: "B", texto: "independer de previsão legal expressa." },
-              { letra: "C", texto: "ser dirigido a autoridade de outra pessoa jurídica e exigir previsão legal." },
-              { letra: "D", texto: "ser cabível apenas no âmbito da Administração Direta." },
+              {
+                letra: "C",
+                texto:
+                  "ser dirigido a autoridade de outra pessoa jurídica e exigir previsão legal.",
+              },
+              {
+                letra: "D",
+                texto: "ser cabível apenas no âmbito da Administração Direta.",
+              },
               { letra: "E", texto: "substituir o controle judicial." },
             ],
             gabarito: "C",
-            justificativa: "O recurso hierárquico IMPRÓPRIO é dirigido a autoridade de OUTRA pessoa jurídica (ex: do INSS para o Ministério da Previdência) e EXIGE previsão legal expressa. Já o recurso próprio é dentro da mesma pessoa jurídica e independe de previsão legal.",
+            justificativa:
+              "O recurso hierárquico IMPRÓPRIO é dirigido a autoridade de OUTRA pessoa jurídica (ex: do INSS para o Ministério da Previdência) e EXIGE previsão legal expressa. Já o recurso próprio é dentro da mesma pessoa jurídica e independe de previsão legal.",
             dificuldade: "Média",
             competencia: "Recursos administrativos",
             banca: "IADES",
@@ -4953,14 +5467,34 @@ Obrigatório para todos os entes federativos (LC 131/2009).
             id: "ap-q-8-6",
             enunciado: "Compete ao Tribunal de Contas da União:",
             alternativas: [
-              { letra: "A", texto: "julgar as contas anuais do Presidente da República." },
-              { letra: "B", texto: "apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal." },
-              { letra: "C", texto: "sustar contratos administrativos considerados irregulares." },
-              { letra: "D", texto: "exercer o controle jurisdicional da Administração Pública." },
-              { letra: "E", texto: "anular atos administrativos ilegais praticados pelo Poder Executivo." },
+              {
+                letra: "A",
+                texto: "julgar as contas anuais do Presidente da República.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "sustar contratos administrativos considerados irregulares.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "exercer o controle jurisdicional da Administração Pública.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "anular atos administrativos ilegais praticados pelo Poder Executivo.",
+              },
             ],
             gabarito: "B",
-            justificativa: "O TCU aprecia, para fins de registro, a legalidade dos atos de admissão e aposentadorias (art. 71, III, CF). O TCU APRECIA (não julga) contas do Presidente. Sustação de CONTRATOS é do Congresso. TCU não exerce jurisdição nem anula atos diretamente.",
+            justificativa:
+              "O TCU aprecia, para fins de registro, a legalidade dos atos de admissão e aposentadorias (art. 71, III, CF). O TCU APRECIA (não julga) contas do Presidente. Sustação de CONTRATOS é do Congresso. TCU não exerce jurisdição nem anula atos diretamente.",
             dificuldade: "Média",
             competencia: "Competências do TCU",
             banca: "IADES",
@@ -4968,7 +5502,8 @@ Obrigatório para todos os entes federativos (LC 131/2009).
           },
           {
             id: "ap-q-8-7",
-            enunciado: "São instrumentos do controle social da Administração Pública, EXCETO:",
+            enunciado:
+              "São instrumentos do controle social da Administração Pública, EXCETO:",
             alternativas: [
               { letra: "A", texto: "ação popular." },
               { letra: "B", texto: "audiências públicas." },
@@ -4977,7 +5512,8 @@ Obrigatório para todos os entes federativos (LC 131/2009).
               { letra: "E", texto: "direito de petição." },
             ],
             gabarito: "D",
-            justificativa: "A ADI é instrumento de controle de constitucionalidade concentrado, com legitimados restritos (art. 103, CF), não sendo instrumento de controle SOCIAL. Ação popular, audiências públicas, denúncia ao TCU e direito de petição são instrumentos típicos de controle social.",
+            justificativa:
+              "A ADI é instrumento de controle de constitucionalidade concentrado, com legitimados restritos (art. 103, CF), não sendo instrumento de controle SOCIAL. Ação popular, audiências públicas, denúncia ao TCU e direito de petição são instrumentos típicos de controle social.",
             dificuldade: "Média",
             competencia: "Instrumentos de controle social",
             banca: "IADES",
@@ -4985,16 +5521,36 @@ Obrigatório para todos os entes federativos (LC 131/2009).
           },
           {
             id: "ap-q-8-8",
-            enunciado: "Acerca da Súmula Vinculante nº 3 do STF, é correto afirmar que:",
+            enunciado:
+              "Acerca da Súmula Vinculante nº 3 do STF, é correto afirmar que:",
             alternativas: [
-              { letra: "A", texto: "dispensa o contraditório em todos os processos do TCU." },
-              { letra: "B", texto: "assegura contraditório quando a decisão puder anular ato que beneficie o interessado." },
-              { letra: "C", texto: "exige contraditório prévio para a apreciação inicial de aposentadoria." },
-              { letra: "D", texto: "impede a revisão das decisões do TCU pelo Judiciário." },
-              { letra: "E", texto: "aplica-se exclusivamente aos processos de tomada de contas especial." },
+              {
+                letra: "A",
+                texto: "dispensa o contraditório em todos os processos do TCU.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "assegura contraditório quando a decisão puder anular ato que beneficie o interessado.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "exige contraditório prévio para a apreciação inicial de aposentadoria.",
+              },
+              {
+                letra: "D",
+                texto: "impede a revisão das decisões do TCU pelo Judiciário.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "aplica-se exclusivamente aos processos de tomada de contas especial.",
+              },
             ],
             gabarito: "B",
-            justificativa: "A SV 3 assegura contraditório e ampla defesa no TCU quando a decisão puder anular/revogar ato que beneficie o interessado, EXCETUADA a apreciação da legalidade do ato de concessão INICIAL de aposentadoria, reforma e pensão.",
+            justificativa:
+              "A SV 3 assegura contraditório e ampla defesa no TCU quando a decisão puder anular/revogar ato que beneficie o interessado, EXCETUADA a apreciação da legalidade do ato de concessão INICIAL de aposentadoria, reforma e pensão.",
             dificuldade: "Difícil",
             competencia: "Súmula Vinculante 3",
             banca: "IADES",
@@ -5002,16 +5558,21 @@ Obrigatório para todos os entes federativos (LC 131/2009).
           },
           {
             id: "ap-q-8-9",
-            enunciado: "O prazo decadencial para a Administração anular atos administrativos ilegais de que decorram efeitos favoráveis aos administrados de boa-fé é de:",
+            enunciado:
+              "O prazo decadencial para a Administração anular atos administrativos ilegais de que decorram efeitos favoráveis aos administrados de boa-fé é de:",
             alternativas: [
               { letra: "A", texto: "2 anos." },
               { letra: "B", texto: "5 anos." },
               { letra: "C", texto: "10 anos." },
-              { letra: "D", texto: "não há prazo, em razão do princípio da autotutela." },
+              {
+                letra: "D",
+                texto: "não há prazo, em razão do princípio da autotutela.",
+              },
               { letra: "E", texto: "3 anos." },
             ],
             gabarito: "B",
-            justificativa: "Conforme art. 54 da Lei 9.784/99, o prazo decadencial é de 5 ANOS, contados da data em que foram praticados, salvo comprovada má-fé. A Súmula 473 não elimina esse prazo.",
+            justificativa:
+              "Conforme art. 54 da Lei 9.784/99, o prazo decadencial é de 5 ANOS, contados da data em que foram praticados, salvo comprovada má-fé. A Súmula 473 não elimina esse prazo.",
             dificuldade: "Média",
             competencia: "Prazo decadencial",
             banca: "IADES",
@@ -5019,7 +5580,8 @@ Obrigatório para todos os entes federativos (LC 131/2009).
           },
           {
             id: "ap-q-8-10",
-            enunciado: "A classificação de informação como ultrassecreta, nos termos da Lei de Acesso à Informação, implica sigilo pelo prazo máximo de:",
+            enunciado:
+              "A classificação de informação como ultrassecreta, nos termos da Lei de Acesso à Informação, implica sigilo pelo prazo máximo de:",
             alternativas: [
               { letra: "A", texto: "5 anos." },
               { letra: "B", texto: "10 anos." },
@@ -5028,7 +5590,8 @@ Obrigatório para todos os entes federativos (LC 131/2009).
               { letra: "E", texto: "50 anos." },
             ],
             gabarito: "D",
-            justificativa: "Os prazos máximos de sigilo na LAI são: RESERVADO = 5 anos, SECRETO = 15 anos, ULTRASSECRETO = 25 anos. Macete: 5-15-25.",
+            justificativa:
+              "Os prazos máximos de sigilo na LAI são: RESERVADO = 5 anos, SECRETO = 15 anos, ULTRASSECRETO = 25 anos. Macete: 5-15-25.",
             dificuldade: "Fácil",
             competencia: "Classificação de sigilo",
             banca: "IADES",
@@ -5331,28 +5894,32 @@ Princípios:
           "EC 19/98: eficiência como princípio constitucional expresso",
           "Gerencial NÃO elimina burocracia, corrige suas disfunções",
           "Controle: patrimonialista (não há), burocrático (prévio/meios), gerencial (posterior/fins)",
-          "Setores do PDRAE: núcleo estratégico, exclusivas, não exclusivas, produção"
+          "Setores do PDRAE: núcleo estratégico, exclusivas, não exclusivas, produção",
         ],
 
         armadilhas: [
           {
             titulo: "Gerencial não elimina burocracia",
-            descricao: "Modelo gerencial NÃO elimina a burocracia - mantém legalidade, concurso, impessoalidade.",
+            descricao:
+              "Modelo gerencial NÃO elimina a burocracia - mantém legalidade, concurso, impessoalidade.",
             dica: "Gerencial corrige DISFUNÇÕES, não elimina a burocracia inteira.",
           },
           {
             titulo: "Ano de criação do DASP",
-            descricao: "DASP foi criado em 1938 (não 1930 nem 1936 - lei 284 foi em 1936).",
+            descricao:
+              "DASP foi criado em 1938 (não 1930 nem 1936 - lei 284 foi em 1936).",
             dica: "1930 = Revolução / 1936 = Lei 284 / 1938 = DASP.",
           },
           {
             titulo: "Weber e o tipo ideal",
-            descricao: "Weber definiu burocracia como TIPO IDEAL, não como disfunção.",
+            descricao:
+              "Weber definiu burocracia como TIPO IDEAL, não como disfunção.",
             dica: "Para Weber, burocracia era a forma mais eficiente de organização.",
           },
           {
             titulo: "Disfunções não previstas por Weber",
-            descricao: "Disfunções burocráticas NÃO foram previstas por Weber - são desvios identificados posteriormente.",
+            descricao:
+              "Disfunções burocráticas NÃO foram previstas por Weber - são desvios identificados posteriormente.",
             dica: "Disfunções são CRÍTICAS à burocracia, não parte do conceito original.",
           },
           {
@@ -5362,17 +5929,20 @@ Princípios:
           },
           {
             titulo: "Eficiência antes da EC 19",
-            descricao: "Eficiência virou princípio EXPRESSO com EC 19/98 (já existia implicitamente).",
+            descricao:
+              "Eficiência virou princípio EXPRESSO com EC 19/98 (já existia implicitamente).",
             dica: "Sempre existiu, mas a EC 19 tornou EXPRESSO no art. 37.",
           },
           {
             titulo: "Decreto-Lei 200/67",
-            descricao: "Decreto-Lei 200/67 JÁ tentou flexibilizar, mas não é modelo gerencial pleno.",
+            descricao:
+              "Decreto-Lei 200/67 JÁ tentou flexibilizar, mas não é modelo gerencial pleno.",
             dica: "Foi uma tentativa, mas o gerencialismo veio mesmo com o PDRAE.",
           },
           {
             titulo: "Resquícios patrimonialistas",
-            descricao: "Patrimonialismo NÃO foi totalmente eliminado - há resquícios até hoje.",
+            descricao:
+              "Patrimonialismo NÃO foi totalmente eliminado - há resquícios até hoje.",
             dica: "Nepotismo, clientelismo ainda existem (por isso súmula vinculante 13).",
           },
           {
@@ -5391,37 +5961,43 @@ Princípios:
           {
             termo: "FIHIP",
             significado: "Características da burocracia de Weber",
-            frase: "Formalismo / Impessoalidade / Hierarquia / Impessoalidade / Profissionalização",
+            frase:
+              "Formalismo / Impessoalidade / Hierarquia / Impessoalidade / Profissionalização",
           },
           {
             termo: "REAL FRESTA",
             significado: "Disfunções da burocracia",
-            frase: "Rigidez / Excesso de formalismo / Autorreferência / Lentidão / Foco em meios / Resistência / Excesso de papéis / STAgnação",
+            frase:
+              "Rigidez / Excesso de formalismo / Autorreferência / Lentidão / Foco em meios / Resistência / Excesso de papéis / STAgnação",
           },
           {
             termo: "CRED FOCO",
             significado: "Características do modelo gerencial",
-            frase: "Cidadão-cliente / Resultados / Eficiência / Descentralização / FOco em metas / COmpetição",
+            frase:
+              "Cidadão-cliente / Resultados / Eficiência / Descentralização / FOco em metas / COmpetição",
           },
           {
             termo: "PMF",
             significado: "Tipo de controle em cada modelo",
-            frase: "Patrimonialista = Nenhum / Burocrático = Meios (prévio) / Gerencial = Fins (posterior)",
+            frase:
+              "Patrimonialista = Nenhum / Burocrático = Meios (prévio) / Gerencial = Fins (posterior)",
           },
           {
             termo: "DASP-PDRAE",
             significado: "Marcos históricos",
-            frase: "1938 = DASP (burocracia) / 1995 = PDRAE (gerencial) / 1998 = EC 19 (eficiência)",
+            frase:
+              "1938 = DASP (burocracia) / 1995 = PDRAE (gerencial) / 1998 = EC 19 (eficiência)",
           },
         ],
 
         flashcards: [
           {
-            id: 'ap-fc-9-1',
+            id: "ap-fc-9-1",
             frente: "Quais são os três modelos de administração pública?",
-            verso: "1) PATRIMONIALISTA (até 1930) - confusão público-privado 2) BUROCRÁTICO (1930-1995) - formalismo, impessoalidade 3) GERENCIAL (1995-atual) - resultados, cidadão-cliente",
-            tags: ['modelos', 'evolução', 'administração'],
-            dificuldade: 'facil',
+            verso:
+              "1) PATRIMONIALISTA (até 1930) - confusão público-privado 2) BUROCRÁTICO (1930-1995) - formalismo, impessoalidade 3) GERENCIAL (1995-atual) - resultados, cidadão-cliente",
+            tags: ["modelos", "evolução", "administração"],
+            dificuldade: "facil",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5429,11 +6005,12 @@ Princípios:
             erros: 0,
           },
           {
-            id: 'ap-fc-9-2',
+            id: "ap-fc-9-2",
             frente: "Quais as características do modelo patrimonialista?",
-            verso: "Confusão entre patrimônio público e privado, nepotismo, clientelismo, cargos como prebendas (fonte de renda pessoal), corrupção institucionalizada, personalismo nas decisões.",
-            tags: ['patrimonialismo', 'características'],
-            dificuldade: 'medio',
+            verso:
+              "Confusão entre patrimônio público e privado, nepotismo, clientelismo, cargos como prebendas (fonte de renda pessoal), corrupção institucionalizada, personalismo nas decisões.",
+            tags: ["patrimonialismo", "características"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5441,11 +6018,12 @@ Princípios:
             erros: 0,
           },
           {
-            id: 'ap-fc-9-3',
+            id: "ap-fc-9-3",
             frente: "Quais as características do modelo burocrático (Weber)?",
-            verso: "Formalismo, impessoalidade, hierarquia, profissionalização (concurso), especialização (divisão do trabalho), previsibilidade, separação entre público e privado.",
-            tags: ['burocracia', 'Weber', 'características'],
-            dificuldade: 'medio',
+            verso:
+              "Formalismo, impessoalidade, hierarquia, profissionalização (concurso), especialização (divisão do trabalho), previsibilidade, separação entre público e privado.",
+            tags: ["burocracia", "Weber", "características"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5453,11 +6031,12 @@ Princípios:
             erros: 0,
           },
           {
-            id: 'ap-fc-9-4',
+            id: "ap-fc-9-4",
             frente: "O que foi o DASP e quando foi criado?",
-            verso: "Departamento Administrativo do Serviço Público, criado em 1938 (Era Vargas). Foi o marco da implantação do modelo burocrático no Brasil. Funções: organização, orçamento, pessoal, métodos.",
-            tags: ['DASP', 'burocracia', 'história'],
-            dificuldade: 'medio',
+            verso:
+              "Departamento Administrativo do Serviço Público, criado em 1938 (Era Vargas). Foi o marco da implantação do modelo burocrático no Brasil. Funções: organização, orçamento, pessoal, métodos.",
+            tags: ["DASP", "burocracia", "história"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5465,11 +6044,12 @@ Princípios:
             erros: 0,
           },
           {
-            id: 'ap-fc-9-5',
+            id: "ap-fc-9-5",
             frente: "Quais são as disfunções da burocracia?",
-            verso: "Excesso de formalismo (papelada), rigidez, lentidão, autorreferencialidade (foco em si mesma), resistência a mudanças, despersonalização, foco em meios (processos) ao invés de fins (resultados).",
-            tags: ['burocracia', 'disfunções'],
-            dificuldade: 'medio',
+            verso:
+              "Excesso de formalismo (papelada), rigidez, lentidão, autorreferencialidade (foco em si mesma), resistência a mudanças, despersonalização, foco em meios (processos) ao invés de fins (resultados).",
+            tags: ["burocracia", "disfunções"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5477,11 +6057,12 @@ Princípios:
             erros: 0,
           },
           {
-            id: 'ap-fc-9-6',
+            id: "ap-fc-9-6",
             frente: "O que foi o PDRAE?",
-            verso: "Plano Diretor da Reforma do Aparelho do Estado (1995), elaborado por Bresser-Pereira (MARE). Marco do modelo gerencial no Brasil. Objetivo: transformar a administração burocrática em gerencial.",
-            tags: ['PDRAE', 'reforma', 'gerencialismo'],
-            dificuldade: 'medio',
+            verso:
+              "Plano Diretor da Reforma do Aparelho do Estado (1995), elaborado por Bresser-Pereira (MARE). Marco do modelo gerencial no Brasil. Objetivo: transformar a administração burocrática em gerencial.",
+            tags: ["PDRAE", "reforma", "gerencialismo"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5489,11 +6070,12 @@ Princípios:
             erros: 0,
           },
           {
-            id: 'ap-fc-9-7',
+            id: "ap-fc-9-7",
             frente: "Quais as características do modelo gerencial?",
-            verso: "Foco em resultados, cidadão-cliente, descentralização, flexibilização, controle a posteriori, competição administrada, gestão por objetivos, accountability (responsabilização).",
-            tags: ['gerencialismo', 'características'],
-            dificuldade: 'medio',
+            verso:
+              "Foco em resultados, cidadão-cliente, descentralização, flexibilização, controle a posteriori, competição administrada, gestão por objetivos, accountability (responsabilização).",
+            tags: ["gerencialismo", "características"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5501,11 +6083,12 @@ Princípios:
             erros: 0,
           },
           {
-            id: 'ap-fc-9-8',
+            id: "ap-fc-9-8",
             frente: "O modelo gerencial elimina a burocracia?",
-            verso: "NÃO. O modelo gerencial mantém princípios burocráticos (legalidade, impessoalidade, concurso) mas busca corrigir as DISFUNÇÕES (rigidez, lentidão, foco em meios), adicionando foco em resultados e eficiência.",
-            tags: ['gerencialismo', 'burocracia', 'evolução'],
-            dificuldade: 'medio',
+            verso:
+              "NÃO. O modelo gerencial mantém princípios burocráticos (legalidade, impessoalidade, concurso) mas busca corrigir as DISFUNÇÕES (rigidez, lentidão, foco em meios), adicionando foco em resultados e eficiência.",
+            tags: ["gerencialismo", "burocracia", "evolução"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5513,11 +6096,12 @@ Princípios:
             erros: 0,
           },
           {
-            id: 'ap-fc-9-9',
+            id: "ap-fc-9-9",
             frente: "Qual a diferença no tipo de controle de cada modelo?",
-            verso: "PATRIMONIALISTA: controle inexistente ou pessoal / BUROCRÁTICO: controle PRÉVIO (de meios/processos) / GERENCIAL: controle POSTERIOR (de resultados/fins).",
-            tags: ['controle', 'modelos', 'comparação'],
-            dificuldade: 'medio',
+            verso:
+              "PATRIMONIALISTA: controle inexistente ou pessoal / BUROCRÁTICO: controle PRÉVIO (de meios/processos) / GERENCIAL: controle POSTERIOR (de resultados/fins).",
+            tags: ["controle", "modelos", "comparação"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5525,11 +6109,12 @@ Princípios:
             erros: 0,
           },
           {
-            id: 'ap-fc-9-10',
+            id: "ap-fc-9-10",
             frente: "O que a EC 19/1998 trouxe para a administração pública?",
-            verso: "Constitucionalizou a reforma gerencial: eficiência como princípio EXPRESSO (art. 37), contratos de gestão (§8º), avaliação de desempenho, estabilidade condicionada, teto remuneratório.",
-            tags: ['EC 19/1998', 'eficiência', 'reforma'],
-            dificuldade: 'medio',
+            verso:
+              "Constitucionalizou a reforma gerencial: eficiência como princípio EXPRESSO (art. 37), contratos de gestão (§8º), avaliação de desempenho, estabilidade condicionada, teto remuneratório.",
+            tags: ["EC 19/1998", "eficiência", "reforma"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -5541,7 +6126,8 @@ Princípios:
         questoes: [
           {
             id: "ap-q-9-1",
-            enunciado: "O modelo de administração pública caracterizado pela confusão entre patrimônio público e privado denomina-se:",
+            enunciado:
+              "O modelo de administração pública caracterizado pela confusão entre patrimônio público e privado denomina-se:",
             alternativas: [
               { letra: "A", texto: "burocrático." },
               { letra: "B", texto: "gerencial." },
@@ -5550,7 +6136,8 @@ Princípios:
               { letra: "E", texto: "weberiano." },
             ],
             gabarito: "C",
-            justificativa: "O modelo PATRIMONIALISTA se caracteriza pela confusão entre o patrimônio público e o privado do governante, além de nepotismo e cargos como prebendas.",
+            justificativa:
+              "O modelo PATRIMONIALISTA se caracteriza pela confusão entre o patrimônio público e o privado do governante, além de nepotismo e cargos como prebendas.",
             dificuldade: "Fácil",
             competencia: "Modelo patrimonialista",
             banca: "IADES",
@@ -5558,7 +6145,8 @@ Princípios:
           },
           {
             id: "ap-q-9-2",
-            enunciado: "São características do modelo burocrático de administração pública, segundo Max Weber, EXCETO:",
+            enunciado:
+              "São características do modelo burocrático de administração pública, segundo Max Weber, EXCETO:",
             alternativas: [
               { letra: "A", texto: "formalismo." },
               { letra: "B", texto: "hierarquia." },
@@ -5567,7 +6155,8 @@ Princípios:
               { letra: "E", texto: "profissionalização." },
             ],
             gabarito: "D",
-            justificativa: "Foco em RESULTADOS é característica do modelo GERENCIAL. A burocracia weberiana foca em processos (meios), não em resultados (fins).",
+            justificativa:
+              "Foco em RESULTADOS é característica do modelo GERENCIAL. A burocracia weberiana foca em processos (meios), não em resultados (fins).",
             dificuldade: "Fácil",
             competencia: "Modelo burocrático",
             banca: "IADES",
@@ -5575,7 +6164,8 @@ Princípios:
           },
           {
             id: "ap-q-9-3",
-            enunciado: "O DASP (Departamento Administrativo do Serviço Público) foi criado em:",
+            enunciado:
+              "O DASP (Departamento Administrativo do Serviço Público) foi criado em:",
             alternativas: [
               { letra: "A", texto: "1922." },
               { letra: "B", texto: "1930." },
@@ -5584,7 +6174,8 @@ Princípios:
               { letra: "E", texto: "1995." },
             ],
             gabarito: "C",
-            justificativa: "O DASP foi criado em 1938, durante a Era Vargas, sendo o marco da implantação do modelo burocrático no Brasil.",
+            justificativa:
+              "O DASP foi criado em 1938, durante a Era Vargas, sendo o marco da implantação do modelo burocrático no Brasil.",
             dificuldade: "Média",
             competencia: "DASP",
             banca: "IADES",
@@ -5596,12 +6187,16 @@ Princípios:
             alternativas: [
               { letra: "A", texto: "eficiência e foco em resultados." },
               { letra: "B", texto: "flexibilidade e descentralização." },
-              { letra: "C", texto: "rigidez, lentidão e excesso de formalismo." },
+              {
+                letra: "C",
+                texto: "rigidez, lentidão e excesso de formalismo.",
+              },
               { letra: "D", texto: "impessoalidade e meritocracia." },
               { letra: "E", texto: "accountability e transparência." },
             ],
             gabarito: "C",
-            justificativa: "DISFUNÇÕES da burocracia: rigidez, lentidão, excesso de formalismo, autorreferência, resistência a mudanças, foco em meios.",
+            justificativa:
+              "DISFUNÇÕES da burocracia: rigidez, lentidão, excesso de formalismo, autorreferência, resistência a mudanças, foco em meios.",
             dificuldade: "Fácil",
             competencia: "Disfunções burocráticas",
             banca: "IADES",
@@ -5609,7 +6204,8 @@ Princípios:
           },
           {
             id: "ap-q-9-5",
-            enunciado: "O Plano Diretor da Reforma do Aparelho do Estado (PDRAE), de 1995, foi elaborado por:",
+            enunciado:
+              "O Plano Diretor da Reforma do Aparelho do Estado (PDRAE), de 1995, foi elaborado por:",
             alternativas: [
               { letra: "A", texto: "Getúlio Vargas." },
               { letra: "B", texto: "Fernando Henrique Cardoso." },
@@ -5618,7 +6214,8 @@ Princípios:
               { letra: "E", texto: "Fernando Collor." },
             ],
             gabarito: "C",
-            justificativa: "O PDRAE foi elaborado por BRESSER-PEREIRA, Ministro da Administração e Reforma do Estado (MARE) no governo FHC.",
+            justificativa:
+              "O PDRAE foi elaborado por BRESSER-PEREIRA, Ministro da Administração e Reforma do Estado (MARE) no governo FHC.",
             dificuldade: "Média",
             competencia: "PDRAE",
             banca: "IADES",
@@ -5635,7 +6232,8 @@ Princípios:
               { letra: "E", texto: "na hierarquia funcional." },
             ],
             gabarito: "D",
-            justificativa: "O modelo gerencial foca em RESULTADOS (controle a posteriori), diferente do burocrático que foca em meios/processos (controle prévio).",
+            justificativa:
+              "O modelo gerencial foca em RESULTADOS (controle a posteriori), diferente do burocrático que foca em meios/processos (controle prévio).",
             dificuldade: "Fácil",
             competencia: "Modelo gerencial",
             banca: "IADES",
@@ -5643,7 +6241,8 @@ Princípios:
           },
           {
             id: "ap-q-9-7",
-            enunciado: "A Emenda Constitucional nº 19/1998 incluiu expressamente como princípio da administração pública:",
+            enunciado:
+              "A Emenda Constitucional nº 19/1998 incluiu expressamente como princípio da administração pública:",
             alternativas: [
               { letra: "A", texto: "a legalidade." },
               { letra: "B", texto: "a impessoalidade." },
@@ -5652,7 +6251,8 @@ Princípios:
               { letra: "E", texto: "a eficiência." },
             ],
             gabarito: "E",
-            justificativa: "A EC 19/98 incluiu a EFICIÊNCIA como princípio expresso no art. 37 da CF. Os demais (LIMP) já constavam desde 1988.",
+            justificativa:
+              "A EC 19/98 incluiu a EFICIÊNCIA como princípio expresso no art. 37 da CF. Os demais (LIMP) já constavam desde 1988.",
             dificuldade: "Fácil",
             competencia: "EC 19/1998",
             banca: "IADES",
@@ -5664,12 +6264,16 @@ Princípios:
             alternativas: [
               { letra: "A", texto: "busca a eficiência e a eficácia." },
               { letra: "B", texto: "foca no cidadão como cliente." },
-              { letra: "C", texto: "elimina completamente os princípios burocráticos." },
+              {
+                letra: "C",
+                texto: "elimina completamente os princípios burocráticos.",
+              },
               { letra: "D", texto: "adota o controle de resultados." },
               { letra: "E", texto: "promove a descentralização." },
             ],
             gabarito: "C",
-            justificativa: "O modelo gerencial NÃO elimina completamente os princípios burocráticos. Mantém legalidade, impessoalidade, concurso público, mas corrige as DISFUNÇÕES.",
+            justificativa:
+              "O modelo gerencial NÃO elimina completamente os princípios burocráticos. Mantém legalidade, impessoalidade, concurso público, mas corrige as DISFUNÇÕES.",
             dificuldade: "Média",
             competencia: "Relação gerencial-burocrático",
             banca: "IADES",
@@ -5677,7 +6281,8 @@ Princípios:
           },
           {
             id: "ap-q-9-9",
-            enunciado: "O tipo de dominação que fundamenta a burocracia, segundo Max Weber, é a dominação:",
+            enunciado:
+              "O tipo de dominação que fundamenta a burocracia, segundo Max Weber, é a dominação:",
             alternativas: [
               { letra: "A", texto: "tradicional." },
               { letra: "B", texto: "carismática." },
@@ -5686,7 +6291,8 @@ Princípios:
               { letra: "E", texto: "aristocrática." },
             ],
             gabarito: "C",
-            justificativa: "Para Weber, a burocracia é a forma de organização típica da dominação RACIONAL-LEGAL, baseada em leis e normas impessoais.",
+            justificativa:
+              "Para Weber, a burocracia é a forma de organização típica da dominação RACIONAL-LEGAL, baseada em leis e normas impessoais.",
             dificuldade: "Média",
             competencia: "Dominação weberiana",
             banca: "IADES",
@@ -5694,7 +6300,8 @@ Princípios:
           },
           {
             id: "ap-q-9-10",
-            enunciado: "A expressão 'cidadão-cliente' é característica do modelo:",
+            enunciado:
+              "A expressão 'cidadão-cliente' é característica do modelo:",
             alternativas: [
               { letra: "A", texto: "patrimonialista." },
               { letra: "B", texto: "burocrático." },
@@ -5703,7 +6310,8 @@ Princípios:
               { letra: "E", texto: "carismático." },
             ],
             gabarito: "D",
-            justificativa: "A visão do cidadão como CLIENTE é típica do modelo GERENCIAL, que coloca o usuário como centro das decisões e foco do atendimento.",
+            justificativa:
+              "A visão do cidadão como CLIENTE é típica do modelo GERENCIAL, que coloca o usuário como centro das decisões e foco do atendimento.",
             dificuldade: "Fácil",
             competencia: "Cidadão-cliente",
             banca: "IADES",
@@ -6060,23 +6668,28 @@ PLANEJAR → EXECUTAR → MONITORAR → AVALIAR → CORRIGIR
         mnemonicos: [
           {
             termo: "TIPA",
-            significado: "Transparência, Integridade, Participação, Accountability",
-            frase: "Pilares da governança: TIPA (um governo com TIPA de qualidade)",
+            significado:
+              "Transparência, Integridade, Participação, Accountability",
+            frase:
+              "Pilares da governança: TIPA (um governo com TIPA de qualidade)",
           },
           {
             termo: "3 Es",
             significado: "Eficiência, Eficácia, Efetividade",
-            frase: "Os 3 Es da avaliação: Eficiência (como), Eficácia (o quê), Efetividade (impacto)",
+            frase:
+              "Os 3 Es da avaliação: Eficiência (como), Eficácia (o quê), Efetividade (impacto)",
           },
           {
             termo: "GOVERNANÇA-COMO",
             significado: "Governança = Como se governa",
-            frase: "GoverNANÇA começa com a mesma sílaba de NANAGEM (gerenciamento) = COMO",
+            frase:
+              "GoverNANÇA começa com a mesma sílaba de NANAGEM (gerenciamento) = COMO",
           },
           {
             termo: "APRI-POST",
             significado: "Burocrático=A Priori, Gerencial=A Posteriori",
-            frase: "Buro controla Antes (A Priori), Gerencial controla dePoiS (Posteriori)",
+            frase:
+              "Buro controla Antes (A Priori), Gerencial controla dePoiS (Posteriori)",
           },
         ],
 
@@ -6109,7 +6722,8 @@ PLANEJAR → EXECUTAR → MONITORAR → AVALIAR → CORRIGIR
           },
           {
             id: "ap-fc-10-3",
-            frente: "Qual a diferença entre EFICIÊNCIA, EFICÁCIA e EFETIVIDADE?",
+            frente:
+              "Qual a diferença entre EFICIÊNCIA, EFICÁCIA e EFETIVIDADE?",
             verso:
               "**EFICIÊNCIA**:\n→ Fazer CERTO (relação custo-benefício)\n→ Usar menos recursos\n\n**EFICÁCIA**:\n→ Fazer a COISA CERTA (atingir metas)\n→ Alcançar objetivos\n\n**EFETIVIDADE**:\n→ Causar IMPACTO (transformação social)\n→ Resolver o problema",
             tags: ["eficiência", "eficácia", "efetividade"],
@@ -6176,7 +6790,7 @@ PLANEJAR → EXECUTAR → MONITORAR → AVALIAR → CORRIGIR
             id: "ap-fc-10-8",
             frente: "O que são Organizações Sociais (OS)?",
             verso:
-              "**Lei 9.637/1998**\n\nEntidades **privadas sem fins lucrativos** que:\n- Recebem qualificação do Poder Público\n- Celebram **contrato de gestão**\n- Recebem recursos públicos\n- Atuam em: saúde, educação, cultura, ciência, meio ambiente\n\nÉ a \"publicização\" de serviços não-exclusivos.",
+              '**Lei 9.637/1998**\n\nEntidades **privadas sem fins lucrativos** que:\n- Recebem qualificação do Poder Público\n- Celebram **contrato de gestão**\n- Recebem recursos públicos\n- Atuam em: saúde, educação, cultura, ciência, meio ambiente\n\nÉ a "publicização" de serviços não-exclusivos.',
             tags: ["OS", "organizações sociais"],
             dificuldade: "medio",
             caixa: 1,
@@ -6247,8 +6861,7 @@ PLANEJAR → EXECUTAR → MONITORAR → AVALIAR → CORRIGIR
           },
           {
             id: "ap-q-10-4",
-            enunciado:
-              "São pilares da boa governança pública, EXCETO:",
+            enunciado: "São pilares da boa governança pública, EXCETO:",
             alternativas: [
               { letra: "A", texto: "transparência." },
               { letra: "B", texto: "accountability." },
@@ -6680,22 +7293,26 @@ PPA → LDO → LOA → Execução → Avaliação
         armadilhas: [
           {
             titulo: "Confundir os níveis de planejamento",
-            descricao: "Estratégico é LONGO prazo e global. Tático é MÉDIO prazo e departamental. Operacional é CURTO prazo e específico.",
+            descricao:
+              "Estratégico é LONGO prazo e global. Tático é MÉDIO prazo e departamental. Operacional é CURTO prazo e específico.",
             dica: "Estratégico = estratégia global. Tático = tática setorial. Operacional = operações do dia.",
           },
           {
             titulo: "Inverter análise interna e externa na SWOT",
-            descricao: "INTERNO = Forças e Fraquezas (dependem da organização). EXTERNO = Oportunidades e Ameaças (não controláveis).",
+            descricao:
+              "INTERNO = Forças e Fraquezas (dependem da organização). EXTERNO = Oportunidades e Ameaças (não controláveis).",
             dica: "FOFA: Forças/Fraquezas = DENTRO. Oportunidades/Ameaças = FORA.",
           },
           {
             titulo: "Confundir missão com visão",
-            descricao: "MISSÃO = razão de ser ATUAL. VISÃO = onde quer CHEGAR no futuro.",
+            descricao:
+              "MISSÃO = razão de ser ATUAL. VISÃO = onde quer CHEGAR no futuro.",
             dica: "Missão = o que sou. Visão = o que quero ser.",
           },
           {
             titulo: "Trocar eficiência, eficácia e efetividade",
-            descricao: "Eficiência = fazer certo (recursos). Eficácia = fazer a coisa certa (metas). Efetividade = causar impacto.",
+            descricao:
+              "Eficiência = fazer certo (recursos). Eficácia = fazer a coisa certa (metas). Efetividade = causar impacto.",
             dica: "3 Es: eficiência (como), eficácia (o quê), efetividade (resultado).",
           },
         ],
@@ -6704,17 +7321,20 @@ PPA → LDO → LOA → Execução → Avaliação
           {
             termo: "FOFA",
             significado: "Forças, Oportunidades, Fraquezas, Ameaças",
-            frase: "FOFA = SWOT em português (Forças-Fraquezas interno, Oportunidades-Ameaças externo)",
+            frase:
+              "FOFA = SWOT em português (Forças-Fraquezas interno, Oportunidades-Ameaças externo)",
           },
           {
             termo: "SMART",
-            significado: "Específico, Mensurável, Alcançável, Relevante, Temporal",
+            significado:
+              "Específico, Mensurável, Alcançável, Relevante, Temporal",
             frase: "Objetivo SMART é objetivo bem definido",
           },
           {
             termo: "ETO",
             significado: "Estratégico, Tático, Operacional",
-            frase: "ETO: do mais alto (Estratégico) ao mais baixo (Operacional)",
+            frase:
+              "ETO: do mais alto (Estratégico) ao mais baixo (Operacional)",
           },
           {
             termo: "BSC-4P",
@@ -6727,7 +7347,8 @@ PPA → LDO → LOA → Execução → Avaliação
           {
             id: "ap-fc-11-1",
             frente: "Quais são os 3 níveis de planejamento organizacional?",
-            verso: "**1. ESTRATÉGICO:**\n→ Longo prazo (3-10 anos)\n→ Alta direção\n→ Visão global\n\n**2. TÁTICO:**\n→ Médio prazo (1-3 anos)\n→ Gerência média\n→ Departamental\n\n**3. OPERACIONAL:**\n→ Curto prazo (até 1 ano)\n→ Supervisão\n→ Tarefas específicas",
+            verso:
+              "**1. ESTRATÉGICO:**\n→ Longo prazo (3-10 anos)\n→ Alta direção\n→ Visão global\n\n**2. TÁTICO:**\n→ Médio prazo (1-3 anos)\n→ Gerência média\n→ Departamental\n\n**3. OPERACIONAL:**\n→ Curto prazo (até 1 ano)\n→ Supervisão\n→ Tarefas específicas",
             tags: ["níveis", "planejamento"],
             dificuldade: "facil",
             caixa: 1,
@@ -6739,7 +7360,8 @@ PPA → LDO → LOA → Execução → Avaliação
           {
             id: "ap-fc-11-2",
             frente: "O que é a análise SWOT e o que cada letra significa?",
-            verso: "**SWOT** = Ferramenta de diagnóstico estratégico\n\n**Ambiente INTERNO:**\n- **S**trengths (Forças)\n- **W**eaknesses (Fraquezas)\n\n**Ambiente EXTERNO:**\n- **O**pportunities (Oportunidades)\n- **T**hreats (Ameaças)\n\nEm português: FOFA",
+            verso:
+              "**SWOT** = Ferramenta de diagnóstico estratégico\n\n**Ambiente INTERNO:**\n- **S**trengths (Forças)\n- **W**eaknesses (Fraquezas)\n\n**Ambiente EXTERNO:**\n- **O**pportunities (Oportunidades)\n- **T**hreats (Ameaças)\n\nEm português: FOFA",
             tags: ["SWOT", "diagnóstico"],
             dificuldade: "facil",
             caixa: 1,
@@ -6751,7 +7373,8 @@ PPA → LDO → LOA → Execução → Avaliação
           {
             id: "ap-fc-11-3",
             frente: "Qual a diferença entre MISSÃO e VISÃO?",
-            verso: "**MISSÃO:**\n→ Razão de ser da organização\n→ O que ela FAZ, para QUEM, POR QUÊ\n→ Presente/permanente\n\n**VISÃO:**\n→ Estado futuro DESEJADO\n→ Onde a organização QUER CHEGAR\n→ Inspiradora, desafiadora\n\n**Valores:** princípios que orientam a conduta",
+            verso:
+              "**MISSÃO:**\n→ Razão de ser da organização\n→ O que ela FAZ, para QUEM, POR QUÊ\n→ Presente/permanente\n\n**VISÃO:**\n→ Estado futuro DESEJADO\n→ Onde a organização QUER CHEGAR\n→ Inspiradora, desafiadora\n\n**Valores:** princípios que orientam a conduta",
             tags: ["missão", "visão"],
             dificuldade: "medio",
             caixa: 1,
@@ -6763,7 +7386,8 @@ PPA → LDO → LOA → Execução → Avaliação
           {
             id: "ap-fc-11-4",
             frente: "O que significa um objetivo SMART?",
-            verso: "**S** - Specific (Específico)\n**M** - Measurable (Mensurável)\n**A** - Achievable (Alcançável)\n**R** - Relevant (Relevante)\n**T** - Time-bound (Temporal)\n\nExemplo: \"Aumentar as inspeções sanitárias em 20% até dezembro de 2025.\"",
+            verso:
+              '**S** - Specific (Específico)\n**M** - Measurable (Mensurável)\n**A** - Achievable (Alcançável)\n**R** - Relevant (Relevante)\n**T** - Time-bound (Temporal)\n\nExemplo: "Aumentar as inspeções sanitárias em 20% até dezembro de 2025."',
             tags: ["SMART", "objetivos"],
             dificuldade: "medio",
             caixa: 1,
@@ -6775,7 +7399,8 @@ PPA → LDO → LOA → Execução → Avaliação
           {
             id: "ap-fc-11-5",
             frente: "Quais são as 4 perspectivas do Balanced Scorecard (BSC)?",
-            verso: "**1. Financeira/Orçamentária:**\n→ Como estamos para contribuintes?\n\n**2. Cliente/Cidadão:**\n→ Como os cidadãos nos veem?\n\n**3. Processos Internos:**\n→ Em que devemos ser excelentes?\n\n**4. Aprendizado e Crescimento:**\n→ Como continuar melhorando?",
+            verso:
+              "**1. Financeira/Orçamentária:**\n→ Como estamos para contribuintes?\n\n**2. Cliente/Cidadão:**\n→ Como os cidadãos nos veem?\n\n**3. Processos Internos:**\n→ Em que devemos ser excelentes?\n\n**4. Aprendizado e Crescimento:**\n→ Como continuar melhorando?",
             tags: ["BSC", "perspectivas"],
             dificuldade: "medio",
             caixa: 1,
@@ -6786,8 +7411,10 @@ PPA → LDO → LOA → Execução → Avaliação
           },
           {
             id: "ap-fc-11-6",
-            frente: "Quais são os instrumentos do ciclo orçamentário brasileiro (CF/88)?",
-            verso: "**PPA** (Plano Plurianual):\n→ 4 anos\n→ Diretrizes, objetivos, metas\n\n**LDO** (Lei de Diretrizes Orçamentárias):\n→ 1 ano\n→ Metas e prioridades\n\n**LOA** (Lei Orçamentária Anual):\n→ 1 ano\n→ Orçamento detalhado\n\nFluxo: PPA → LDO → LOA",
+            frente:
+              "Quais são os instrumentos do ciclo orçamentário brasileiro (CF/88)?",
+            verso:
+              "**PPA** (Plano Plurianual):\n→ 4 anos\n→ Diretrizes, objetivos, metas\n\n**LDO** (Lei de Diretrizes Orçamentárias):\n→ 1 ano\n→ Metas e prioridades\n\n**LOA** (Lei Orçamentária Anual):\n→ 1 ano\n→ Orçamento detalhado\n\nFluxo: PPA → LDO → LOA",
             tags: ["PPA", "LDO", "LOA"],
             dificuldade: "medio",
             caixa: 1,
@@ -6798,8 +7425,10 @@ PPA → LDO → LOA → Execução → Avaliação
           },
           {
             id: "ap-fc-11-7",
-            frente: "Qual a diferença entre eficiência, eficácia e efetividade?",
-            verso: "**EFICIÊNCIA:**\n→ Relação insumos/produtos\n→ Fazer CERTO as coisas\n→ Uso racional de recursos\n\n**EFICÁCIA:**\n→ Alcance de metas/objetivos\n→ Fazer a COISA certa\n→ Resultados planejados\n\n**EFETIVIDADE:**\n→ Impacto na sociedade\n→ Transformação real\n→ Outcomes",
+            frente:
+              "Qual a diferença entre eficiência, eficácia e efetividade?",
+            verso:
+              "**EFICIÊNCIA:**\n→ Relação insumos/produtos\n→ Fazer CERTO as coisas\n→ Uso racional de recursos\n\n**EFICÁCIA:**\n→ Alcance de metas/objetivos\n→ Fazer a COISA certa\n→ Resultados planejados\n\n**EFETIVIDADE:**\n→ Impacto na sociedade\n→ Transformação real\n→ Outcomes",
             tags: ["eficiência", "eficácia", "efetividade"],
             dificuldade: "medio",
             caixa: 1,
@@ -6811,7 +7440,8 @@ PPA → LDO → LOA → Execução → Avaliação
           {
             id: "ap-fc-11-8",
             frente: "Quais são as etapas do planejamento estratégico?",
-            verso: "**1. Diagnóstico** (análise SWOT)\n\n**2. Definição de missão/visão/valores**\n\n**3. Definição de objetivos** (SMART)\n\n**4. Formulação de estratégias**\n\n**5. Implementação** (execução)\n\n**6. Controle e avaliação** (indicadores, monitoramento)",
+            verso:
+              "**1. Diagnóstico** (análise SWOT)\n\n**2. Definição de missão/visão/valores**\n\n**3. Definição de objetivos** (SMART)\n\n**4. Formulação de estratégias**\n\n**5. Implementação** (execução)\n\n**6. Controle e avaliação** (indicadores, monitoramento)",
             tags: ["etapas", "processo"],
             dificuldade: "medio",
             caixa: 1,
@@ -6825,7 +7455,8 @@ PPA → LDO → LOA → Execução → Avaliação
         questoes: [
           {
             id: "ap-q-11-1",
-            enunciado: "O planejamento que envolve a alta direção, tem visão global da organização e horizonte de longo prazo é denominado:",
+            enunciado:
+              "O planejamento que envolve a alta direção, tem visão global da organização e horizonte de longo prazo é denominado:",
             alternativas: [
               { letra: "A", texto: "planejamento operacional." },
               { letra: "B", texto: "planejamento tático." },
@@ -6834,7 +7465,8 @@ PPA → LDO → LOA → Execução → Avaliação
               { letra: "E", texto: "planejamento contingencial." },
             ],
             gabarito: "C",
-            justificativa: "O planejamento ESTRATÉGICO é de longo prazo, envolve a alta direção e tem visão global da organização. O tático é médio prazo/departamental. O operacional é curto prazo/tarefas.",
+            justificativa:
+              "O planejamento ESTRATÉGICO é de longo prazo, envolve a alta direção e tem visão global da organização. O tático é médio prazo/departamental. O operacional é curto prazo/tarefas.",
             dificuldade: "Fácil",
             competencia: "Níveis de planejamento",
             banca: "IADES",
@@ -6842,7 +7474,8 @@ PPA → LDO → LOA → Execução → Avaliação
           },
           {
             id: "ap-q-11-2",
-            enunciado: "Na análise SWOT, as oportunidades e ameaças referem-se ao ambiente:",
+            enunciado:
+              "Na análise SWOT, as oportunidades e ameaças referem-se ao ambiente:",
             alternativas: [
               { letra: "A", texto: "interno da organização." },
               { letra: "B", texto: "externo à organização." },
@@ -6851,7 +7484,8 @@ PPA → LDO → LOA → Execução → Avaliação
               { letra: "E", texto: "funcional." },
             ],
             gabarito: "B",
-            justificativa: "Na SWOT: INTERNO = Forças e Fraquezas (controláveis). EXTERNO = Oportunidades e Ameaças (não controláveis pela organização).",
+            justificativa:
+              "Na SWOT: INTERNO = Forças e Fraquezas (controláveis). EXTERNO = Oportunidades e Ameaças (não controláveis pela organização).",
             dificuldade: "Fácil",
             competencia: "Análise SWOT",
             banca: "IADES",
@@ -6859,7 +7493,8 @@ PPA → LDO → LOA → Execução → Avaliação
           },
           {
             id: "ap-q-11-3",
-            enunciado: "A razão de ser de uma organização, que define o que ela faz e para quem, denomina-se:",
+            enunciado:
+              "A razão de ser de uma organização, que define o que ela faz e para quem, denomina-se:",
             alternativas: [
               { letra: "A", texto: "visão." },
               { letra: "B", texto: "missão." },
@@ -6868,7 +7503,8 @@ PPA → LDO → LOA → Execução → Avaliação
               { letra: "E", texto: "estratégia." },
             ],
             gabarito: "B",
-            justificativa: "MISSÃO é a razão de ser da organização (o que faz, para quem, por quê). VISÃO é o estado futuro desejado.",
+            justificativa:
+              "MISSÃO é a razão de ser da organização (o que faz, para quem, por quê). VISÃO é o estado futuro desejado.",
             dificuldade: "Fácil",
             competencia: "Missão e visão",
             banca: "IADES",
@@ -6876,7 +7512,8 @@ PPA → LDO → LOA → Execução → Avaliação
           },
           {
             id: "ap-q-11-4",
-            enunciado: "O Balanced Scorecard (BSC) contempla quantas perspectivas?",
+            enunciado:
+              "O Balanced Scorecard (BSC) contempla quantas perspectivas?",
             alternativas: [
               { letra: "A", texto: "2 perspectivas." },
               { letra: "B", texto: "3 perspectivas." },
@@ -6885,7 +7522,8 @@ PPA → LDO → LOA → Execução → Avaliação
               { letra: "E", texto: "6 perspectivas." },
             ],
             gabarito: "C",
-            justificativa: "O BSC possui 4 PERSPECTIVAS: Financeira, Cliente/Cidadão, Processos Internos e Aprendizado/Crescimento.",
+            justificativa:
+              "O BSC possui 4 PERSPECTIVAS: Financeira, Cliente/Cidadão, Processos Internos e Aprendizado/Crescimento.",
             dificuldade: "Fácil",
             competencia: "BSC",
             banca: "IADES",
@@ -6902,7 +7540,8 @@ PPA → LDO → LOA → Execução → Avaliação
               { letra: "E", texto: "5 anos." },
             ],
             gabarito: "D",
-            justificativa: "O PPA (Plano Plurianual) tem vigência de 4 ANOS, iniciando no segundo ano de governo e terminando no primeiro ano do governo seguinte.",
+            justificativa:
+              "O PPA (Plano Plurianual) tem vigência de 4 ANOS, iniciando no segundo ano de governo e terminando no primeiro ano do governo seguinte.",
             dificuldade: "Fácil",
             competencia: "PPA",
             banca: "IADES",
@@ -6910,7 +7549,8 @@ PPA → LDO → LOA → Execução → Avaliação
           },
           {
             id: "ap-q-11-6",
-            enunciado: "A relação entre os recursos utilizados e os produtos obtidos refere-se ao conceito de:",
+            enunciado:
+              "A relação entre os recursos utilizados e os produtos obtidos refere-se ao conceito de:",
             alternativas: [
               { letra: "A", texto: "eficácia." },
               { letra: "B", texto: "efetividade." },
@@ -6919,7 +7559,8 @@ PPA → LDO → LOA → Execução → Avaliação
               { letra: "E", texto: "produtividade." },
             ],
             gabarito: "C",
-            justificativa: "EFICIÊNCIA é a relação entre insumos (recursos) e produtos. Eficácia é o alcance de metas. Efetividade é o impacto na sociedade.",
+            justificativa:
+              "EFICIÊNCIA é a relação entre insumos (recursos) e produtos. Eficácia é o alcance de metas. Efetividade é o impacto na sociedade.",
             dificuldade: "Média",
             competencia: "Eficiência",
             banca: "IADES",
@@ -6927,7 +7568,8 @@ PPA → LDO → LOA → Execução → Avaliação
           },
           {
             id: "ap-q-11-7",
-            enunciado: "No critério SMART para definição de objetivos, a letra M significa:",
+            enunciado:
+              "No critério SMART para definição de objetivos, a letra M significa:",
             alternativas: [
               { letra: "A", texto: "Metodológico." },
               { letra: "B", texto: "Mensurável." },
@@ -6936,7 +7578,8 @@ PPA → LDO → LOA → Execução → Avaliação
               { letra: "E", texto: "Multidimensional." },
             ],
             gabarito: "B",
-            justificativa: "SMART: S(Specific/Específico), M(Measurable/MENSURÁVEL), A(Achievable/Alcançável), R(Relevant/Relevante), T(Time-bound/Temporal).",
+            justificativa:
+              "SMART: S(Specific/Específico), M(Measurable/MENSURÁVEL), A(Achievable/Alcançável), R(Relevant/Relevante), T(Time-bound/Temporal).",
             dificuldade: "Média",
             competencia: "SMART",
             banca: "IADES",
@@ -6944,7 +7587,8 @@ PPA → LDO → LOA → Execução → Avaliação
           },
           {
             id: "ap-q-11-8",
-            enunciado: "O planejamento que se caracteriza pelo médio prazo e foco departamental é o:",
+            enunciado:
+              "O planejamento que se caracteriza pelo médio prazo e foco departamental é o:",
             alternativas: [
               { letra: "A", texto: "estratégico." },
               { letra: "B", texto: "tático." },
@@ -6953,7 +7597,8 @@ PPA → LDO → LOA → Execução → Avaliação
               { letra: "E", texto: "normativo." },
             ],
             gabarito: "B",
-            justificativa: "O planejamento TÁTICO é de médio prazo (1-3 anos), departamental, elaborado pela gerência média. Traduz o estratégico em ações setoriais.",
+            justificativa:
+              "O planejamento TÁTICO é de médio prazo (1-3 anos), departamental, elaborado pela gerência média. Traduz o estratégico em ações setoriais.",
             dificuldade: "Fácil",
             competencia: "Planejamento tático",
             banca: "IADES",
@@ -6961,7 +7606,8 @@ PPA → LDO → LOA → Execução → Avaliação
           },
           {
             id: "ap-q-11-9",
-            enunciado: "Na análise SWOT, os pontos fortes da organização são denominados:",
+            enunciado:
+              "Na análise SWOT, os pontos fortes da organização são denominados:",
             alternativas: [
               { letra: "A", texto: "oportunidades." },
               { letra: "B", texto: "ameaças." },
@@ -6970,7 +7616,8 @@ PPA → LDO → LOA → Execução → Avaliação
               { letra: "E", texto: "estratégias." },
             ],
             gabarito: "D",
-            justificativa: "Na SWOT, os pontos FORTES internos são chamados de FORÇAS (Strengths). Pontos fracos internos são Fraquezas (Weaknesses).",
+            justificativa:
+              "Na SWOT, os pontos FORTES internos são chamados de FORÇAS (Strengths). Pontos fracos internos são Fraquezas (Weaknesses).",
             dificuldade: "Fácil",
             competencia: "SWOT",
             banca: "IADES",
@@ -6978,7 +7625,8 @@ PPA → LDO → LOA → Execução → Avaliação
           },
           {
             id: "ap-q-11-10",
-            enunciado: "O impacto real das ações governamentais na transformação da realidade social refere-se ao conceito de:",
+            enunciado:
+              "O impacto real das ações governamentais na transformação da realidade social refere-se ao conceito de:",
             alternativas: [
               { letra: "A", texto: "eficiência." },
               { letra: "B", texto: "eficácia." },
@@ -6987,7 +7635,8 @@ PPA → LDO → LOA → Execução → Avaliação
               { letra: "E", texto: "legalidade." },
             ],
             gabarito: "C",
-            justificativa: "EFETIVIDADE é o impacto real na sociedade (outcomes). Mede se as ações de fato transformaram a realidade social, para além de atingir metas (eficácia) ou usar bem os recursos (eficiência).",
+            justificativa:
+              "EFETIVIDADE é o impacto real na sociedade (outcomes). Mede se as ações de fato transformaram a realidade social, para além de atingir metas (eficácia) ou usar bem os recursos (eficiência).",
             dificuldade: "Média",
             competencia: "Efetividade",
             banca: "IADES",
@@ -7316,13 +7965,16 @@ Na **Administração Pública Gerencial**, indicadores são fundamentais para:
         mnemonicos: [
           {
             termo: "6Es",
-            significado: "Eficiência, Eficácia, Efetividade, Economicidade, Execução, Excelência",
+            significado:
+              "Eficiência, Eficácia, Efetividade, Economicidade, Execução, Excelência",
             frase: "Os 6Es do desempenho começam todos com E!",
           },
           {
             termo: "SMART",
-            significado: "Specific, Measurable, Achievable, Relevant, Time-bound",
-            frase: "Meta SMART é meta inteligente (smart = inteligente em inglês)",
+            significado:
+              "Specific, Measurable, Achievable, Relevant, Time-bound",
+            frase:
+              "Meta SMART é meta inteligente (smart = inteligente em inglês)",
           },
           {
             termo: "IPR",
@@ -7331,7 +7983,8 @@ Na **Administração Pública Gerencial**, indicadores são fundamentais para:
           },
           {
             termo: "EEE",
-            significado: "Eficiência (como), Eficácia (o quê), Efetividade (impacto)",
+            significado:
+              "Eficiência (como), Eficácia (o quê), Efetividade (impacto)",
             frase: "EEE: os três Es mais cobrados em prova!",
           },
         ],
@@ -7341,7 +7994,7 @@ Na **Administração Pública Gerencial**, indicadores são fundamentais para:
             id: "ap-fc-12-1",
             frente: "O que mede a EFICIÊNCIA?",
             verso:
-              "**EFICIÊNCIA** mede a relação entre **insumos utilizados** e **produtos gerados**.\n\nÉ o \"fazer certo as coisas\".\n\nFoco: otimização de recursos (processo)\n\n**Exemplo**: custo por aluno, tempo de atendimento, gastos por inspeção",
+              '**EFICIÊNCIA** mede a relação entre **insumos utilizados** e **produtos gerados**.\n\nÉ o "fazer certo as coisas".\n\nFoco: otimização de recursos (processo)\n\n**Exemplo**: custo por aluno, tempo de atendimento, gastos por inspeção',
             tags: ["eficiência", "insumos", "produtos"],
             dificuldade: "facil",
             caixa: 1,
@@ -7354,7 +8007,7 @@ Na **Administração Pública Gerencial**, indicadores são fundamentais para:
             id: "ap-fc-12-2",
             frente: "O que mede a EFICÁCIA?",
             verso:
-              "**EFICÁCIA** mede o grau de **alcance das metas** estabelecidas.\n\nÉ o \"fazer a coisa certa\".\n\nFoco: atingimento de objetivos (resultado)\n\n**Exemplo**: % de metas atingidas, taxa de vacinação alcançada, número de fiscalizações vs. planejadas",
+              '**EFICÁCIA** mede o grau de **alcance das metas** estabelecidas.\n\nÉ o "fazer a coisa certa".\n\nFoco: atingimento de objetivos (resultado)\n\n**Exemplo**: % de metas atingidas, taxa de vacinação alcançada, número de fiscalizações vs. planejadas',
             tags: ["eficácia", "metas", "resultados"],
             dificuldade: "facil",
             caixa: 1,
@@ -7367,7 +8020,7 @@ Na **Administração Pública Gerencial**, indicadores são fundamentais para:
             id: "ap-fc-12-3",
             frente: "O que mede a EFETIVIDADE?",
             verso:
-              "**EFETIVIDADE** mede o **impacto real na sociedade** (outcomes).\n\nÉ o \"fazer a diferença\".\n\nFoco: transformação social\n\n**Exemplo**: redução da mortalidade infantil, melhoria do IDH, diminuição de surtos alimentares\n\nVai além de atingir metas!",
+              '**EFETIVIDADE** mede o **impacto real na sociedade** (outcomes).\n\nÉ o "fazer a diferença".\n\nFoco: transformação social\n\n**Exemplo**: redução da mortalidade infantil, melhoria do IDH, diminuição de surtos alimentares\n\nVai além de atingir metas!',
             tags: ["efetividade", "impacto", "sociedade"],
             dificuldade: "medio",
             caixa: 1,
@@ -7404,7 +8057,8 @@ Na **Administração Pública Gerencial**, indicadores são fundamentais para:
           },
           {
             id: "ap-fc-12-6",
-            frente: "Qual a diferença entre indicador de PRODUTO e de RESULTADO?",
+            frente:
+              "Qual a diferença entre indicador de PRODUTO e de RESULTADO?",
             verso:
               "**PRODUTO (Output)**:\n- O que a organização ENTREGA\n- Bens e serviços produzidos\n- Ex: nº de alvarás emitidos\n\n**RESULTADO (Outcome)**:\n- EFEITOS na sociedade\n- Impacto das entregas\n- Ex: redução de DTAs\n\nProduto é entrega. Resultado é impacto.",
             tags: ["produto", "resultado", "output", "outcome"],
@@ -7419,7 +8073,7 @@ Na **Administração Pública Gerencial**, indicadores são fundamentais para:
             id: "ap-fc-12-7",
             frente: "O que é ECONOMICIDADE como dimensão de desempenho?",
             verso:
-              "**ECONOMICIDADE** mede a obtenção e uso de recursos com o **menor custo** possível.\n\nFoco: aquisição de insumos\n\n\"Gastar menos, sem perder qualidade\"\n\n**Exemplo**:\n- Economia em licitações\n- Redução de custos operacionais\n- Preço pago vs. preço de referência",
+              '**ECONOMICIDADE** mede a obtenção e uso de recursos com o **menor custo** possível.\n\nFoco: aquisição de insumos\n\n"Gastar menos, sem perder qualidade"\n\n**Exemplo**:\n- Economia em licitações\n- Redução de custos operacionais\n- Preço pago vs. preço de referência',
             tags: ["economicidade", "custos", "aquisição"],
             dificuldade: "medio",
             caixa: 1,
@@ -7456,7 +8110,8 @@ Na **Administração Pública Gerencial**, indicadores são fundamentais para:
           },
           {
             id: "ap-fc-12-10",
-            frente: "Como o Balanced Scorecard (BSC) se adapta ao setor público?",
+            frente:
+              "Como o Balanced Scorecard (BSC) se adapta ao setor público?",
             verso:
               "**BSC no Setor Público**:\n\nPerspectivas adaptadas:\n1. **Cidadão/Sociedade** → no TOPO (não financeira)\n2. **Processos Internos** → eficiência operacional\n3. **Aprendizado** → capacitação de servidores\n4. **Orçamentária** → como MEIO, não fim\n\n**Diferença crucial**:\n- Privado: financeiro é objetivo final\n- Público: cidadão é objetivo final, recursos são instrumentais",
             tags: ["BSC", "setor público", "perspectivas"],
@@ -7513,11 +8168,28 @@ Na **Administração Pública Gerencial**, indicadores são fundamentais para:
             enunciado:
               "O acrônimo SMART, utilizado na definição de metas e indicadores, significa:",
             alternativas: [
-              { letra: "A", texto: "Simples, Moderado, Acessível, Razoável, Transitório." },
-              { letra: "B", texto: "Específico, Mensurável, Alcançável, Relevante, Temporal." },
-              { letra: "C", texto: "Sistemático, Metodológico, Analítico, Racional, Técnico." },
-              { letra: "D", texto: "Seguro, Monitorável, Auditável, Realista, Tangível." },
-              { letra: "E", texto: "Sintético, Macro, Avaliável, Reproduzível, Testável." },
+              {
+                letra: "A",
+                texto: "Simples, Moderado, Acessível, Razoável, Transitório.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "Específico, Mensurável, Alcançável, Relevante, Temporal.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "Sistemático, Metodológico, Analítico, Racional, Técnico.",
+              },
+              {
+                letra: "D",
+                texto: "Seguro, Monitorável, Auditável, Realista, Tangível.",
+              },
+              {
+                letra: "E",
+                texto: "Sintético, Macro, Avaliável, Reproduzível, Testável.",
+              },
             ],
             gabarito: "B",
             justificativa:
@@ -7571,7 +8243,10 @@ Na **Administração Pública Gerencial**, indicadores são fundamentais para:
               "Na cadeia de valor da gestão pública, os indicadores de PRODUTO (output) medem:",
             alternativas: [
               { letra: "A", texto: "os recursos disponibilizados." },
-              { letra: "B", texto: "os bens e serviços entregues à sociedade." },
+              {
+                letra: "B",
+                texto: "os bens e serviços entregues à sociedade.",
+              },
               { letra: "C", texto: "os impactos na realidade social." },
               { letra: "D", texto: "as atividades de transformação." },
               { letra: "E", texto: "o custo por unidade produzida." },
@@ -7648,9 +8323,15 @@ Na **Administração Pública Gerencial**, indicadores são fundamentais para:
             alternativas: [
               { letra: "A", texto: "Plan (Planejar), exclusivamente." },
               { letra: "B", texto: "Do (Executar), exclusivamente." },
-              { letra: "C", texto: "Check (Verificar), para análise do desempenho." },
+              {
+                letra: "C",
+                texto: "Check (Verificar), para análise do desempenho.",
+              },
               { letra: "D", texto: "Act (Agir), exclusivamente." },
-              { letra: "E", texto: "nenhuma das fases, pois são externos ao ciclo." },
+              {
+                letra: "E",
+                texto: "nenhuma das fases, pois são externos ao ciclo.",
+              },
             ],
             gabarito: "C",
             justificativa:
@@ -7664,9 +8345,9 @@ Na **Administração Pública Gerencial**, indicadores são fundamentais para:
       },
     },
     {
-      id: 'ap-topico-13',
+      id: "ap-topico-13",
       numero: 13,
-      titulo: 'Políticas Públicas',
+      titulo: "Políticas Públicas",
       conteudo: {
         resumo: `
 ## Resumo Rápido
@@ -7877,81 +8558,88 @@ Monitoramento é CONTÍNUO; Avaliação é em momentos específicos.
         `,
 
         pontosChave: [
-          'Política pública = decisões e ações do Estado para resolver problemas públicos',
-          'Tipologia de Lowi: Distributivas, Redistributivas, Regulatórias, Constitutivas',
-          'Ciclo: Agenda → Formulação → Implementação → Monitoramento → Avaliação',
-          'O ciclo é ITERATIVO, não linear (fases se sobrepõem)',
-          'Agenda-setting: definir QUAIS problemas entram na pauta governamental',
-          'Modelo de Kingdon: convergência de fluxos (problemas, soluções, político)',
-          'Implementação: abordagens top-down (comando) vs bottom-up (implementadores)',
-          'Avaliação: ex-ante (antes), formativa (durante), ex-post/somativa (depois)',
-          'Eficácia = atingir objetivos; Efetividade = mudar a realidade',
-          'Monitoramento é contínuo; Avaliação é pontual',
+          "Política pública = decisões e ações do Estado para resolver problemas públicos",
+          "Tipologia de Lowi: Distributivas, Redistributivas, Regulatórias, Constitutivas",
+          "Ciclo: Agenda → Formulação → Implementação → Monitoramento → Avaliação",
+          "O ciclo é ITERATIVO, não linear (fases se sobrepõem)",
+          "Agenda-setting: definir QUAIS problemas entram na pauta governamental",
+          "Modelo de Kingdon: convergência de fluxos (problemas, soluções, político)",
+          "Implementação: abordagens top-down (comando) vs bottom-up (implementadores)",
+          "Avaliação: ex-ante (antes), formativa (durante), ex-post/somativa (depois)",
+          "Eficácia = atingir objetivos; Efetividade = mudar a realidade",
+          "Monitoramento é contínuo; Avaliação é pontual",
         ],
 
         armadilhas: [
           {
-            titulo: 'Ciclo Linear',
-            descricao: 'O ciclo de políticas públicas NÃO é linear nem sequencial rígido',
-            dica: 'As fases se sobrepõem e retroalimentam - é iterativo',
+            titulo: "Ciclo Linear",
+            descricao:
+              "O ciclo de políticas públicas NÃO é linear nem sequencial rígido",
+            dica: "As fases se sobrepõem e retroalimentam - é iterativo",
           },
           {
-            titulo: 'Eficácia x Efetividade',
-            descricao: 'Eficácia = atingir metas. Efetividade = impacto real na sociedade',
-            dica: 'Pode ter eficácia (meta batida) sem efetividade (problema não resolvido)',
+            titulo: "Eficácia x Efetividade",
+            descricao:
+              "Eficácia = atingir metas. Efetividade = impacto real na sociedade",
+            dica: "Pode ter eficácia (meta batida) sem efetividade (problema não resolvido)",
           },
           {
-            titulo: 'Monitoramento x Avaliação',
-            descricao: 'Monitoramento é CONTÍNUO durante execução; Avaliação é em momentos específicos',
-            dica: 'Monitoramento acompanha; Avaliação julga resultados',
+            titulo: "Monitoramento x Avaliação",
+            descricao:
+              "Monitoramento é CONTÍNUO durante execução; Avaliação é em momentos específicos",
+            dica: "Monitoramento acompanha; Avaliação julga resultados",
           },
           {
-            titulo: 'Formulação x Implementação',
-            descricao: 'Uma boa formulação NÃO garante boa implementação',
+            titulo: "Formulação x Implementação",
+            descricao: "Uma boa formulação NÃO garante boa implementação",
             dica: 'Há "brechas de implementação" por falta de recursos, resistência, etc.',
           },
           {
-            titulo: 'Top-down x Bottom-up',
-            descricao: 'Top-down vê implementação como execução; Bottom-up valoriza adaptação local',
-            dica: 'Na prática, há combinação das duas abordagens',
+            titulo: "Top-down x Bottom-up",
+            descricao:
+              "Top-down vê implementação como execução; Bottom-up valoriza adaptação local",
+            dica: "Na prática, há combinação das duas abordagens",
           },
           {
-            titulo: 'Avaliação Ex-ante',
-            descricao: 'Ex-ante é ANTES da implementação, não durante',
-            dica: 'Ex-ante prevê; Formativa ajusta; Ex-post mede resultados',
+            titulo: "Avaliação Ex-ante",
+            descricao: "Ex-ante é ANTES da implementação, não durante",
+            dica: "Ex-ante prevê; Formativa ajusta; Ex-post mede resultados",
           },
         ],
 
         mnemonicos: [
           {
-            termo: 'DRRC',
-            significado: 'Tipologia de Lowi',
-            frase: 'Distributiva, Redistributiva, Regulatória, Constitutiva',
+            termo: "DRRC",
+            significado: "Tipologia de Lowi",
+            frase: "Distributiva, Redistributiva, Regulatória, Constitutiva",
           },
           {
-            termo: 'AFIMA',
-            significado: 'Ciclo de Políticas Públicas',
-            frase: 'Agenda, Formulação, Implementação, Monitoramento, Avaliação',
+            termo: "AFIMA",
+            significado: "Ciclo de Políticas Públicas",
+            frase:
+              "Agenda, Formulação, Implementação, Monitoramento, Avaliação",
           },
           {
-            termo: '3Es + Equidade',
-            significado: 'Critérios de avaliação',
-            frase: 'Eficiência (recursos), Eficácia (metas), Efetividade (impacto) + Equidade (justiça)',
+            termo: "3Es + Equidade",
+            significado: "Critérios de avaliação",
+            frase:
+              "Eficiência (recursos), Eficácia (metas), Efetividade (impacto) + Equidade (justiça)",
           },
           {
-            termo: 'EFE',
-            significado: 'Momentos da avaliação',
-            frase: 'Ex-ante (antes), Formativa (durante), Ex-post (depois)',
+            termo: "EFE",
+            significado: "Momentos da avaliação",
+            frase: "Ex-ante (antes), Formativa (durante), Ex-post (depois)",
           },
         ],
 
         flashcards: [
           {
-            id: 'ap-fc-13-1',
-            frente: 'O que é política pública?',
-            verso: 'Conjunto de decisões e ações do Estado (governo) para resolver PROBLEMAS PÚBLICOS e atender demandas da sociedade. Envolve definição de prioridades, alocação de recursos e implementação de programas.',
-            tags: ['conceito', 'política pública'],
-            dificuldade: 'facil',
+            id: "ap-fc-13-1",
+            frente: "O que é política pública?",
+            verso:
+              "Conjunto de decisões e ações do Estado (governo) para resolver PROBLEMAS PÚBLICOS e atender demandas da sociedade. Envolve definição de prioridades, alocação de recursos e implementação de programas.",
+            tags: ["conceito", "política pública"],
+            dificuldade: "facil",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -7959,11 +8647,12 @@ Monitoramento é CONTÍNUO; Avaliação é em momentos específicos.
             erros: 0,
           },
           {
-            id: 'ap-fc-13-2',
-            frente: 'Quais são os tipos de políticas públicas segundo Lowi?',
-            verso: 'DISTRIBUTIVAS (benefícios concentrados), REDISTRIBUTIVAS (transferência entre grupos), REGULATÓRIAS (regras de comportamento), CONSTITUTIVAS (regras do jogo político).',
-            tags: ['Lowi', 'tipologia'],
-            dificuldade: 'medio',
+            id: "ap-fc-13-2",
+            frente: "Quais são os tipos de políticas públicas segundo Lowi?",
+            verso:
+              "DISTRIBUTIVAS (benefícios concentrados), REDISTRIBUTIVAS (transferência entre grupos), REGULATÓRIAS (regras de comportamento), CONSTITUTIVAS (regras do jogo político).",
+            tags: ["Lowi", "tipologia"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -7971,11 +8660,12 @@ Monitoramento é CONTÍNUO; Avaliação é em momentos específicos.
             erros: 0,
           },
           {
-            id: 'ap-fc-13-3',
-            frente: 'Quais são as fases do ciclo de políticas públicas?',
-            verso: '1) Formação da AGENDA 2) FORMULAÇÃO de alternativas 3) IMPLEMENTAÇÃO 4) MONITORAMENTO 5) AVALIAÇÃO. O ciclo é ITERATIVO (não linear).',
-            tags: ['ciclo', 'fases'],
-            dificuldade: 'facil',
+            id: "ap-fc-13-3",
+            frente: "Quais são as fases do ciclo de políticas públicas?",
+            verso:
+              "1) Formação da AGENDA 2) FORMULAÇÃO de alternativas 3) IMPLEMENTAÇÃO 4) MONITORAMENTO 5) AVALIAÇÃO. O ciclo é ITERATIVO (não linear).",
+            tags: ["ciclo", "fases"],
+            dificuldade: "facil",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -7983,11 +8673,12 @@ Monitoramento é CONTÍNUO; Avaliação é em momentos específicos.
             erros: 0,
           },
           {
-            id: 'ap-fc-13-4',
-            frente: 'O que é a fase de agenda-setting?',
-            verso: 'É a fase em que se define QUAIS PROBLEMAS entram na pauta de decisões do governo. Nem todo problema social vira problema político. O modelo de Kingdon explica pela convergência de três fluxos.',
-            tags: ['agenda', 'Kingdon'],
-            dificuldade: 'medio',
+            id: "ap-fc-13-4",
+            frente: "O que é a fase de agenda-setting?",
+            verso:
+              "É a fase em que se define QUAIS PROBLEMAS entram na pauta de decisões do governo. Nem todo problema social vira problema político. O modelo de Kingdon explica pela convergência de três fluxos.",
+            tags: ["agenda", "Kingdon"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -7995,11 +8686,13 @@ Monitoramento é CONTÍNUO; Avaliação é em momentos específicos.
             erros: 0,
           },
           {
-            id: 'ap-fc-13-5',
-            frente: 'Qual a diferença entre avaliação ex-ante, formativa e ex-post?',
-            verso: 'EX-ANTE: ANTES de implementar (viabilidade). FORMATIVA: DURANTE a execução (ajustes). EX-POST (somativa): APÓS conclusão (resultados e impactos).',
-            tags: ['avaliação', 'tipos'],
-            dificuldade: 'medio',
+            id: "ap-fc-13-5",
+            frente:
+              "Qual a diferença entre avaliação ex-ante, formativa e ex-post?",
+            verso:
+              "EX-ANTE: ANTES de implementar (viabilidade). FORMATIVA: DURANTE a execução (ajustes). EX-POST (somativa): APÓS conclusão (resultados e impactos).",
+            tags: ["avaliação", "tipos"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8007,11 +8700,12 @@ Monitoramento é CONTÍNUO; Avaliação é em momentos específicos.
             erros: 0,
           },
           {
-            id: 'ap-fc-13-6',
-            frente: 'Qual a diferença entre eficácia e efetividade?',
-            verso: 'EFICÁCIA: atingir os OBJETIVOS propostos (fazer a coisa certa). EFETIVIDADE: produzir IMPACTO REAL na situação-problema (mudança na sociedade). Pode haver eficácia sem efetividade.',
-            tags: ['eficácia', 'efetividade'],
-            dificuldade: 'medio',
+            id: "ap-fc-13-6",
+            frente: "Qual a diferença entre eficácia e efetividade?",
+            verso:
+              "EFICÁCIA: atingir os OBJETIVOS propostos (fazer a coisa certa). EFETIVIDADE: produzir IMPACTO REAL na situação-problema (mudança na sociedade). Pode haver eficácia sem efetividade.",
+            tags: ["eficácia", "efetividade"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8019,11 +8713,12 @@ Monitoramento é CONTÍNUO; Avaliação é em momentos específicos.
             erros: 0,
           },
           {
-            id: 'ap-fc-13-7',
-            frente: 'O que é uma política redistributiva?',
-            verso: 'Política que TRANSFERE recursos de um grupo social para outro. Gera alto conflito político (ganhadores vs perdedores). Exemplos: Bolsa Família, progressividade tributária, reforma agrária.',
-            tags: ['redistributiva', 'Lowi'],
-            dificuldade: 'medio',
+            id: "ap-fc-13-7",
+            frente: "O que é uma política redistributiva?",
+            verso:
+              "Política que TRANSFERE recursos de um grupo social para outro. Gera alto conflito político (ganhadores vs perdedores). Exemplos: Bolsa Família, progressividade tributária, reforma agrária.",
+            tags: ["redistributiva", "Lowi"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8031,11 +8726,12 @@ Monitoramento é CONTÍNUO; Avaliação é em momentos específicos.
             erros: 0,
           },
           {
-            id: 'ap-fc-13-8',
-            frente: 'O que é a abordagem top-down na implementação?',
-            verso: 'Visão que enfatiza o COMANDO do topo para a base. A decisão vem dos formuladores e deve ser executada fielmente pelos implementadores. Foco no controle e na hierarquia.',
-            tags: ['implementação', 'top-down'],
-            dificuldade: 'medio',
+            id: "ap-fc-13-8",
+            frente: "O que é a abordagem top-down na implementação?",
+            verso:
+              "Visão que enfatiza o COMANDO do topo para a base. A decisão vem dos formuladores e deve ser executada fielmente pelos implementadores. Foco no controle e na hierarquia.",
+            tags: ["implementação", "top-down"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8043,11 +8739,12 @@ Monitoramento é CONTÍNUO; Avaliação é em momentos específicos.
             erros: 0,
           },
           {
-            id: 'ap-fc-13-9',
-            frente: 'Qual a diferença entre monitoramento e avaliação?',
-            verso: 'MONITORAMENTO: acompanhamento CONTÍNUO durante a execução (indicadores de processo). AVALIAÇÃO: análise em MOMENTOS ESPECÍFICOS (antes, durante, depois) para julgar resultados.',
-            tags: ['monitoramento', 'avaliação'],
-            dificuldade: 'medio',
+            id: "ap-fc-13-9",
+            frente: "Qual a diferença entre monitoramento e avaliação?",
+            verso:
+              "MONITORAMENTO: acompanhamento CONTÍNUO durante a execução (indicadores de processo). AVALIAÇÃO: análise em MOMENTOS ESPECÍFICOS (antes, durante, depois) para julgar resultados.",
+            tags: ["monitoramento", "avaliação"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8055,11 +8752,12 @@ Monitoramento é CONTÍNUO; Avaliação é em momentos específicos.
             erros: 0,
           },
           {
-            id: 'ap-fc-13-10',
+            id: "ap-fc-13-10",
             frente: 'O que é a "janela de oportunidade" no modelo de Kingdon?',
-            verso: 'É o momento em que os TRÊS FLUXOS convergem: problemas (indicadores, crises), soluções (alternativas técnicas) e político (clima, mudança de governo). Quando a janela abre, a política pode entrar na agenda.',
-            tags: ['Kingdon', 'janela'],
-            dificuldade: 'medio',
+            verso:
+              "É o momento em que os TRÊS FLUXOS convergem: problemas (indicadores, crises), soluções (alternativas técnicas) e político (clima, mudança de governo). Quando a janela abre, a política pode entrar na agenda.",
+            tags: ["Kingdon", "janela"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8070,182 +8768,213 @@ Monitoramento é CONTÍNUO; Avaliação é em momentos específicos.
 
         questoes: [
           {
-            id: 'ap-q-13-1',
-            enunciado: 'De acordo com a tipologia de Theodore Lowi, a política que estabelece regras de comportamento para setores específicos é classificada como:',
+            id: "ap-q-13-1",
+            enunciado:
+              "De acordo com a tipologia de Theodore Lowi, a política que estabelece regras de comportamento para setores específicos é classificada como:",
             alternativas: [
-              { letra: 'A', texto: 'distributiva.' },
-              { letra: 'B', texto: 'redistributiva.' },
-              { letra: 'C', texto: 'regulatória.' },
-              { letra: 'D', texto: 'constitutiva.' },
-              { letra: 'E', texto: 'compensatória.' },
+              { letra: "A", texto: "distributiva." },
+              { letra: "B", texto: "redistributiva." },
+              { letra: "C", texto: "regulatória." },
+              { letra: "D", texto: "constitutiva." },
+              { letra: "E", texto: "compensatória." },
             ],
-            gabarito: 'C',
-            justificativa: 'Políticas REGULATÓRIAS estabelecem REGRAS de comportamento para setores específicos. Exemplos: código de trânsito, normas sanitárias, regulação de preços.',
-            dificuldade: 'facil',
-            competencia: 'Tipologia de Lowi',
-            banca: 'IADES',
-            tags: ['Lowi', 'regulatória'],
+            gabarito: "C",
+            justificativa:
+              "Políticas REGULATÓRIAS estabelecem REGRAS de comportamento para setores específicos. Exemplos: código de trânsito, normas sanitárias, regulação de preços.",
+            dificuldade: "facil",
+            competencia: "Tipologia de Lowi",
+            banca: "IADES",
+            tags: ["Lowi", "regulatória"],
           },
           {
-            id: 'ap-q-13-2',
-            enunciado: 'A fase do ciclo de políticas públicas em que se define quais problemas entrarão na pauta de decisões governamentais é denominada:',
+            id: "ap-q-13-2",
+            enunciado:
+              "A fase do ciclo de políticas públicas em que se define quais problemas entrarão na pauta de decisões governamentais é denominada:",
             alternativas: [
-              { letra: 'A', texto: 'formulação.' },
-              { letra: 'B', texto: 'implementação.' },
-              { letra: 'C', texto: 'avaliação.' },
-              { letra: 'D', texto: 'formação da agenda.' },
-              { letra: 'E', texto: 'monitoramento.' },
+              { letra: "A", texto: "formulação." },
+              { letra: "B", texto: "implementação." },
+              { letra: "C", texto: "avaliação." },
+              { letra: "D", texto: "formação da agenda." },
+              { letra: "E", texto: "monitoramento." },
             ],
-            gabarito: 'D',
-            justificativa: 'A FORMAÇÃO DA AGENDA (agenda-setting) é a fase em que se define QUAIS PROBLEMAS entrarão ou não na pauta de decisões do governo.',
-            dificuldade: 'facil',
-            competencia: 'Ciclo de políticas públicas',
-            banca: 'IADES',
-            tags: ['agenda', 'ciclo'],
+            gabarito: "D",
+            justificativa:
+              "A FORMAÇÃO DA AGENDA (agenda-setting) é a fase em que se define QUAIS PROBLEMAS entrarão ou não na pauta de decisões do governo.",
+            dificuldade: "facil",
+            competencia: "Ciclo de políticas públicas",
+            banca: "IADES",
+            tags: ["agenda", "ciclo"],
           },
           {
-            id: 'ap-q-13-3',
-            enunciado: 'A avaliação realizada ANTES da implementação de uma política pública, com foco na viabilidade e previsão de impactos, é denominada avaliação:',
+            id: "ap-q-13-3",
+            enunciado:
+              "A avaliação realizada ANTES da implementação de uma política pública, com foco na viabilidade e previsão de impactos, é denominada avaliação:",
             alternativas: [
-              { letra: 'A', texto: 'formativa.' },
-              { letra: 'B', texto: 'somativa.' },
-              { letra: 'C', texto: 'ex-ante.' },
-              { letra: 'D', texto: 'ex-post.' },
-              { letra: 'E', texto: 'processual.' },
+              { letra: "A", texto: "formativa." },
+              { letra: "B", texto: "somativa." },
+              { letra: "C", texto: "ex-ante." },
+              { letra: "D", texto: "ex-post." },
+              { letra: "E", texto: "processual." },
             ],
-            gabarito: 'C',
-            justificativa: 'Avaliação EX-ANTE é realizada ANTES da implementação, focando na VIABILIDADE e na PREVISÃO de impactos da política.',
-            dificuldade: 'facil',
-            competencia: 'Tipos de avaliação',
-            banca: 'IADES',
-            tags: ['avaliação', 'ex-ante'],
+            gabarito: "C",
+            justificativa:
+              "Avaliação EX-ANTE é realizada ANTES da implementação, focando na VIABILIDADE e na PREVISÃO de impactos da política.",
+            dificuldade: "facil",
+            competencia: "Tipos de avaliação",
+            banca: "IADES",
+            tags: ["avaliação", "ex-ante"],
           },
           {
-            id: 'ap-q-13-4',
-            enunciado: 'O critério de avaliação que verifica se a política produziu mudanças reais na situação-problema é denominado:',
+            id: "ap-q-13-4",
+            enunciado:
+              "O critério de avaliação que verifica se a política produziu mudanças reais na situação-problema é denominado:",
             alternativas: [
-              { letra: 'A', texto: 'eficiência.' },
-              { letra: 'B', texto: 'eficácia.' },
-              { letra: 'C', texto: 'efetividade.' },
-              { letra: 'D', texto: 'economicidade.' },
-              { letra: 'E', texto: 'equidade.' },
+              { letra: "A", texto: "eficiência." },
+              { letra: "B", texto: "eficácia." },
+              { letra: "C", texto: "efetividade." },
+              { letra: "D", texto: "economicidade." },
+              { letra: "E", texto: "equidade." },
             ],
-            gabarito: 'C',
-            justificativa: 'EFETIVIDADE mede se a política produziu MUDANÇAS REAIS na situação-problema, ou seja, o IMPACTO na sociedade. Diferente de eficácia (atingir metas).',
-            dificuldade: 'medio',
-            competencia: 'Critérios de avaliação',
-            banca: 'IADES',
-            tags: ['efetividade', 'impacto'],
+            gabarito: "C",
+            justificativa:
+              "EFETIVIDADE mede se a política produziu MUDANÇAS REAIS na situação-problema, ou seja, o IMPACTO na sociedade. Diferente de eficácia (atingir metas).",
+            dificuldade: "medio",
+            competencia: "Critérios de avaliação",
+            banca: "IADES",
+            tags: ["efetividade", "impacto"],
           },
           {
-            id: 'ap-q-13-5',
-            enunciado: 'Segundo Lowi, políticas que transferem recursos de um grupo social para outro, gerando alto conflito político, são classificadas como:',
+            id: "ap-q-13-5",
+            enunciado:
+              "Segundo Lowi, políticas que transferem recursos de um grupo social para outro, gerando alto conflito político, são classificadas como:",
             alternativas: [
-              { letra: 'A', texto: 'distributivas.' },
-              { letra: 'B', texto: 'redistributivas.' },
-              { letra: 'C', texto: 'regulatórias.' },
-              { letra: 'D', texto: 'constitutivas.' },
-              { letra: 'E', texto: 'alocativas.' },
+              { letra: "A", texto: "distributivas." },
+              { letra: "B", texto: "redistributivas." },
+              { letra: "C", texto: "regulatórias." },
+              { letra: "D", texto: "constitutivas." },
+              { letra: "E", texto: "alocativas." },
             ],
-            gabarito: 'B',
-            justificativa: 'Políticas REDISTRIBUTIVAS transferem recursos entre grupos sociais, gerando ALTO CONFLITO (ganhadores vs perdedores). Ex: Bolsa Família, reforma agrária.',
-            dificuldade: 'medio',
-            competencia: 'Tipologia de Lowi',
-            banca: 'IADES',
-            tags: ['redistributiva', 'conflito'],
+            gabarito: "B",
+            justificativa:
+              "Políticas REDISTRIBUTIVAS transferem recursos entre grupos sociais, gerando ALTO CONFLITO (ganhadores vs perdedores). Ex: Bolsa Família, reforma agrária.",
+            dificuldade: "medio",
+            competencia: "Tipologia de Lowi",
+            banca: "IADES",
+            tags: ["redistributiva", "conflito"],
           },
           {
-            id: 'ap-q-13-6',
-            enunciado: 'No modelo de Kingdon, a convergência dos fluxos de problemas, soluções e político cria uma:',
+            id: "ap-q-13-6",
+            enunciado:
+              "No modelo de Kingdon, a convergência dos fluxos de problemas, soluções e político cria uma:",
             alternativas: [
-              { letra: 'A', texto: 'crise institucional.' },
-              { letra: 'B', texto: 'janela de oportunidade.' },
-              { letra: 'C', texto: 'avaliação formativa.' },
-              { letra: 'D', texto: 'decisão incremental.' },
-              { letra: 'E', texto: 'política distributiva.' },
+              { letra: "A", texto: "crise institucional." },
+              { letra: "B", texto: "janela de oportunidade." },
+              { letra: "C", texto: "avaliação formativa." },
+              { letra: "D", texto: "decisão incremental." },
+              { letra: "E", texto: "política distributiva." },
             ],
-            gabarito: 'B',
-            justificativa: 'No modelo de Kingdon, quando os três FLUXOS (problemas, soluções, político) CONVERGEM, abre-se uma JANELA DE OPORTUNIDADE para que uma política entre na agenda.',
-            dificuldade: 'medio',
-            competencia: 'Modelo de Kingdon',
-            banca: 'IADES',
-            tags: ['Kingdon', 'janela'],
+            gabarito: "B",
+            justificativa:
+              "No modelo de Kingdon, quando os três FLUXOS (problemas, soluções, político) CONVERGEM, abre-se uma JANELA DE OPORTUNIDADE para que uma política entre na agenda.",
+            dificuldade: "medio",
+            competencia: "Modelo de Kingdon",
+            banca: "IADES",
+            tags: ["Kingdon", "janela"],
           },
           {
-            id: 'ap-q-13-7',
-            enunciado: 'A abordagem de implementação que enfatiza a importância dos implementadores de linha de frente e a adaptação local é denominada:',
+            id: "ap-q-13-7",
+            enunciado:
+              "A abordagem de implementação que enfatiza a importância dos implementadores de linha de frente e a adaptação local é denominada:",
             alternativas: [
-              { letra: 'A', texto: 'top-down.' },
-              { letra: 'B', texto: 'bottom-up.' },
-              { letra: 'C', texto: 'incremental.' },
-              { letra: 'D', texto: 'racional.' },
-              { letra: 'E', texto: 'garbage can.' },
+              { letra: "A", texto: "top-down." },
+              { letra: "B", texto: "bottom-up." },
+              { letra: "C", texto: "incremental." },
+              { letra: "D", texto: "racional." },
+              { letra: "E", texto: "garbage can." },
             ],
-            gabarito: 'B',
-            justificativa: 'A abordagem BOTTOM-UP valoriza o papel dos IMPLEMENTADORES de linha de frente (burocratas de rua) e a ADAPTAÇÃO LOCAL das políticas.',
-            dificuldade: 'medio',
-            competencia: 'Implementação',
-            banca: 'IADES',
-            tags: ['bottom-up', 'implementação'],
+            gabarito: "B",
+            justificativa:
+              "A abordagem BOTTOM-UP valoriza o papel dos IMPLEMENTADORES de linha de frente (burocratas de rua) e a ADAPTAÇÃO LOCAL das políticas.",
+            dificuldade: "medio",
+            competencia: "Implementação",
+            banca: "IADES",
+            tags: ["bottom-up", "implementação"],
           },
           {
-            id: 'ap-q-13-8',
-            enunciado: 'Sobre o ciclo de políticas públicas, é correto afirmar que:',
+            id: "ap-q-13-8",
+            enunciado:
+              "Sobre o ciclo de políticas públicas, é correto afirmar que:",
             alternativas: [
-              { letra: 'A', texto: 'é um processo linear e sequencial obrigatório.' },
-              { letra: 'B', texto: 'as fases são estanques e não se relacionam.' },
-              { letra: 'C', texto: 'a avaliação ocorre apenas ao final do processo.' },
-              { letra: 'D', texto: 'é um modelo iterativo em que as fases se sobrepõem.' },
-              { letra: 'E', texto: 'não inclui a fase de monitoramento.' },
+              {
+                letra: "A",
+                texto: "é um processo linear e sequencial obrigatório.",
+              },
+              {
+                letra: "B",
+                texto: "as fases são estanques e não se relacionam.",
+              },
+              {
+                letra: "C",
+                texto: "a avaliação ocorre apenas ao final do processo.",
+              },
+              {
+                letra: "D",
+                texto: "é um modelo iterativo em que as fases se sobrepõem.",
+              },
+              { letra: "E", texto: "não inclui a fase de monitoramento." },
             ],
-            gabarito: 'D',
-            justificativa: 'O ciclo de políticas públicas é ITERATIVO (não linear), as fases SE SOBREPÕEM e se retroalimentam. É um modelo analítico, não uma sequência rígida.',
-            dificuldade: 'medio',
-            competencia: 'Ciclo de políticas',
-            banca: 'IADES',
-            tags: ['ciclo', 'iterativo'],
+            gabarito: "D",
+            justificativa:
+              "O ciclo de políticas públicas é ITERATIVO (não linear), as fases SE SOBREPÕEM e se retroalimentam. É um modelo analítico, não uma sequência rígida.",
+            dificuldade: "medio",
+            competencia: "Ciclo de políticas",
+            banca: "IADES",
+            tags: ["ciclo", "iterativo"],
           },
           {
-            id: 'ap-q-13-9',
-            enunciado: 'O acompanhamento contínuo da execução de uma política pública, com verificação de indicadores de processo, caracteriza:',
+            id: "ap-q-13-9",
+            enunciado:
+              "O acompanhamento contínuo da execução de uma política pública, com verificação de indicadores de processo, caracteriza:",
             alternativas: [
-              { letra: 'A', texto: 'a formulação.' },
-              { letra: 'B', texto: 'a avaliação ex-ante.' },
-              { letra: 'C', texto: 'o monitoramento.' },
-              { letra: 'D', texto: 'a avaliação ex-post.' },
-              { letra: 'E', texto: 'a formação da agenda.' },
+              { letra: "A", texto: "a formulação." },
+              { letra: "B", texto: "a avaliação ex-ante." },
+              { letra: "C", texto: "o monitoramento." },
+              { letra: "D", texto: "a avaliação ex-post." },
+              { letra: "E", texto: "a formação da agenda." },
             ],
-            gabarito: 'C',
-            justificativa: 'O MONITORAMENTO é o acompanhamento CONTÍNUO da execução, verificando indicadores de processo e identificando desvios para correção.',
-            dificuldade: 'facil',
-            competencia: 'Monitoramento',
-            banca: 'IADES',
-            tags: ['monitoramento', 'contínuo'],
+            gabarito: "C",
+            justificativa:
+              "O MONITORAMENTO é o acompanhamento CONTÍNUO da execução, verificando indicadores de processo e identificando desvios para correção.",
+            dificuldade: "facil",
+            competencia: "Monitoramento",
+            banca: "IADES",
+            tags: ["monitoramento", "contínuo"],
           },
           {
-            id: 'ap-q-13-10',
-            enunciado: 'São exemplos de políticas distributivas, EXCETO:',
+            id: "ap-q-13-10",
+            enunciado: "São exemplos de políticas distributivas, EXCETO:",
             alternativas: [
-              { letra: 'A', texto: 'subsídios agrícolas.' },
-              { letra: 'B', texto: 'isenções fiscais para empresas.' },
-              { letra: 'C', texto: 'obras de infraestrutura localizadas.' },
-              { letra: 'D', texto: 'bolsa família e reforma agrária.' },
-              { letra: 'E', texto: 'financiamentos subsidiados.' },
+              { letra: "A", texto: "subsídios agrícolas." },
+              { letra: "B", texto: "isenções fiscais para empresas." },
+              { letra: "C", texto: "obras de infraestrutura localizadas." },
+              { letra: "D", texto: "bolsa família e reforma agrária." },
+              { letra: "E", texto: "financiamentos subsidiados." },
             ],
-            gabarito: 'D',
-            justificativa: 'Bolsa Família e reforma agrária são políticas REDISTRIBUTIVAS (transferem recursos entre grupos). Distributivas têm benefícios concentrados e custos difusos.',
-            dificuldade: 'medio',
-            competencia: 'Tipologia de políticas',
-            banca: 'IADES',
-            tags: ['distributiva', 'redistributiva'],
+            gabarito: "D",
+            justificativa:
+              "Bolsa Família e reforma agrária são políticas REDISTRIBUTIVAS (transferem recursos entre grupos). Distributivas têm benefícios concentrados e custos difusos.",
+            dificuldade: "medio",
+            competencia: "Tipologia de políticas",
+            banca: "IADES",
+            tags: ["distributiva", "redistributiva"],
           },
         ],
       },
     },
     {
-      id: 'ap-topico-14',
+      id: "ap-topico-14",
       numero: 14,
-      titulo: 'Planejamento e Orçamento Público',
+      titulo: "Planejamento e Orçamento Público",
       conteudo: {
         resumo: `
 ## Resumo Rápido
@@ -8451,86 +9180,94 @@ Despesas devem ser iguais ou menores que as receitas.
         `,
 
         pontosChave: [
-          'PPA: 4 anos, Diretrizes-Objetivos-Metas (DOM), despesas de capital',
-          'LDO: 1 ano, ELO entre PPA e LOA, metas fiscais, prioridades',
-          'LOA: 1 ano, previsão de receitas e fixação de despesas',
-          'LOA compõe-se de 3 orçamentos: Fiscal, Investimentos estatais, Seguridade',
-          'Iniciativa das leis orçamentárias: PRIVATIVA do Executivo',
-          'LDO não pode ser rejeitada sem aprovação (sessão não encerra)',
-          'Créditos adicionais: Suplementares, Especiais, Extraordinários',
-          'Crédito extraordinário: guerra, calamidade, comoção interna (MP)',
-          'Princípio da não vinculação: exceções para saúde, educação, repartição',
-          'Princípio da exclusividade: exceção para créditos suplementares e operações de crédito',
+          "PPA: 4 anos, Diretrizes-Objetivos-Metas (DOM), despesas de capital",
+          "LDO: 1 ano, ELO entre PPA e LOA, metas fiscais, prioridades",
+          "LOA: 1 ano, previsão de receitas e fixação de despesas",
+          "LOA compõe-se de 3 orçamentos: Fiscal, Investimentos estatais, Seguridade",
+          "Iniciativa das leis orçamentárias: PRIVATIVA do Executivo",
+          "LDO não pode ser rejeitada sem aprovação (sessão não encerra)",
+          "Créditos adicionais: Suplementares, Especiais, Extraordinários",
+          "Crédito extraordinário: guerra, calamidade, comoção interna (MP)",
+          "Princípio da não vinculação: exceções para saúde, educação, repartição",
+          "Princípio da exclusividade: exceção para créditos suplementares e operações de crédito",
         ],
 
         armadilhas: [
           {
-            titulo: 'Vigência do PPA',
-            descricao: 'PPA é de 4 ANOS, não coincide com o mandato (inicia no 2º ano)',
-            dica: 'Novo governante executa 1 ano do PPA anterior e elabora o seu próprio',
+            titulo: "Vigência do PPA",
+            descricao:
+              "PPA é de 4 ANOS, não coincide com o mandato (inicia no 2º ano)",
+            dica: "Novo governante executa 1 ano do PPA anterior e elabora o seu próprio",
           },
           {
-            titulo: 'LDO x LOA',
-            descricao: 'LDO ORIENTA a LOA, não é a mesma coisa',
-            dica: 'LDO = prioridades. LOA = números (receitas e despesas)',
+            titulo: "LDO x LOA",
+            descricao: "LDO ORIENTA a LOA, não é a mesma coisa",
+            dica: "LDO = prioridades. LOA = números (receitas e despesas)",
           },
           {
-            titulo: 'Três Orçamentos na LOA',
-            descricao: 'LOA contém TRÊS orçamentos (fiscal, investimentos, seguridade)',
-            dica: 'Mas é uma única lei (princípio da unidade)',
+            titulo: "Três Orçamentos na LOA",
+            descricao:
+              "LOA contém TRÊS orçamentos (fiscal, investimentos, seguridade)",
+            dica: "Mas é uma única lei (princípio da unidade)",
           },
           {
-            titulo: 'Crédito Extraordinário',
-            descricao: 'Crédito extraordinário é para URGÊNCIA (guerra, calamidade)',
-            dica: 'Não confundir com suplementar (reforço) ou especial (nova despesa)',
+            titulo: "Crédito Extraordinário",
+            descricao:
+              "Crédito extraordinário é para URGÊNCIA (guerra, calamidade)",
+            dica: "Não confundir com suplementar (reforço) ou especial (nova despesa)",
           },
           {
-            titulo: 'Não Vinculação de Impostos',
-            descricao: 'A não vinculação é para IMPOSTOS, não para todas as receitas',
-            dica: 'Taxas e contribuições podem ser vinculadas',
+            titulo: "Não Vinculação de Impostos",
+            descricao:
+              "A não vinculação é para IMPOSTOS, não para todas as receitas",
+            dica: "Taxas e contribuições podem ser vinculadas",
           },
           {
-            titulo: 'Iniciativa Privativa',
-            descricao: 'As leis orçamentárias são de iniciativa PRIVATIVA do Executivo',
-            dica: 'Legislativo aprova, mas NÃO pode propor PPA, LDO ou LOA',
+            titulo: "Iniciativa Privativa",
+            descricao:
+              "As leis orçamentárias são de iniciativa PRIVATIVA do Executivo",
+            dica: "Legislativo aprova, mas NÃO pode propor PPA, LDO ou LOA",
           },
         ],
 
         mnemonicos: [
           {
-            termo: 'DOM',
-            significado: 'Conteúdo do PPA',
-            frase: 'Diretrizes, Objetivos, Metas',
+            termo: "DOM",
+            significado: "Conteúdo do PPA",
+            frase: "Diretrizes, Objetivos, Metas",
           },
           {
-            termo: '4-1-1',
-            significado: 'Vigência das leis orçamentárias',
-            frase: 'PPA = 4 anos / LDO = 1 ano / LOA = 1 ano',
+            termo: "4-1-1",
+            significado: "Vigência das leis orçamentárias",
+            frase: "PPA = 4 anos / LDO = 1 ano / LOA = 1 ano",
           },
           {
-            termo: 'FIS',
-            significado: 'Orçamentos da LOA',
-            frase: 'Fiscal, Investimentos das estatais, Seguridade social',
+            termo: "FIS",
+            significado: "Orçamentos da LOA",
+            frase: "Fiscal, Investimentos das estatais, Seguridade social",
           },
           {
-            termo: 'SE-E-EX',
-            significado: 'Créditos adicionais',
-            frase: 'Suplementar (reforço), Especial (novo), Extraordinário (urgente)',
+            termo: "SE-E-EX",
+            significado: "Créditos adicionais",
+            frase:
+              "Suplementar (reforço), Especial (novo), Extraordinário (urgente)",
           },
           {
-            termo: 'GCC',
-            significado: 'Crédito extraordinário',
-            frase: 'Guerra, Calamidade, Comoção interna',
+            termo: "GCC",
+            significado: "Crédito extraordinário",
+            frase: "Guerra, Calamidade, Comoção interna",
           },
         ],
 
         flashcards: [
           {
-            id: 'ap-fc-14-1',
-            frente: 'Quais são os três instrumentos de planejamento orçamentário previstos na CF?',
-            verso: 'PPA (Plano Plurianual), LDO (Lei de Diretrizes Orçamentárias) e LOA (Lei Orçamentária Anual). Todos de iniciativa privativa do Poder Executivo.',
-            tags: ['planejamento', 'instrumentos'],
-            dificuldade: 'facil',
+            id: "ap-fc-14-1",
+            frente:
+              "Quais são os três instrumentos de planejamento orçamentário previstos na CF?",
+            verso:
+              "PPA (Plano Plurianual), LDO (Lei de Diretrizes Orçamentárias) e LOA (Lei Orçamentária Anual). Todos de iniciativa privativa do Poder Executivo.",
+            tags: ["planejamento", "instrumentos"],
+            dificuldade: "facil",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8538,11 +9275,12 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-14-2',
-            frente: 'Qual a vigência do PPA e o que ele contém?',
-            verso: 'Vigência de 4 ANOS (do 2º ano do mandato ao 1º do seguinte). Contém: Diretrizes, Objetivos e Metas (DOM) para despesas de capital e programas de duração continuada.',
-            tags: ['PPA', 'vigência'],
-            dificuldade: 'medio',
+            id: "ap-fc-14-2",
+            frente: "Qual a vigência do PPA e o que ele contém?",
+            verso:
+              "Vigência de 4 ANOS (do 2º ano do mandato ao 1º do seguinte). Contém: Diretrizes, Objetivos e Metas (DOM) para despesas de capital e programas de duração continuada.",
+            tags: ["PPA", "vigência"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8550,11 +9288,12 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-14-3',
-            frente: 'Qual a função da LDO no sistema orçamentário?',
-            verso: 'A LDO é o ELO entre o PPA e a LOA. Estabelece metas e prioridades, orienta a elaboração da LOA, dispõe sobre alterações tributárias e política de pessoal.',
-            tags: ['LDO', 'função'],
-            dificuldade: 'medio',
+            id: "ap-fc-14-3",
+            frente: "Qual a função da LDO no sistema orçamentário?",
+            verso:
+              "A LDO é o ELO entre o PPA e a LOA. Estabelece metas e prioridades, orienta a elaboração da LOA, dispõe sobre alterações tributárias e política de pessoal.",
+            tags: ["LDO", "função"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8562,11 +9301,12 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-14-4',
-            frente: 'Quais orçamentos compõem a LOA?',
-            verso: 'A LOA compreende TRÊS orçamentos: 1) Fiscal (Poderes e órgãos), 2) Investimentos das estatais (empresas não dependentes), 3) Seguridade social (saúde, previdência, assistência).',
-            tags: ['LOA', 'composição'],
-            dificuldade: 'medio',
+            id: "ap-fc-14-4",
+            frente: "Quais orçamentos compõem a LOA?",
+            verso:
+              "A LOA compreende TRÊS orçamentos: 1) Fiscal (Poderes e órgãos), 2) Investimentos das estatais (empresas não dependentes), 3) Seguridade social (saúde, previdência, assistência).",
+            tags: ["LOA", "composição"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8574,11 +9314,12 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-14-5',
-            frente: 'Quais são os tipos de créditos adicionais?',
-            verso: 'SUPLEMENTARES (reforço de dotação existente), ESPECIAIS (despesa sem dotação prévia), EXTRAORDINÁRIOS (urgentes - guerra, calamidade, comoção interna).',
-            tags: ['créditos adicionais', 'tipos'],
-            dificuldade: 'medio',
+            id: "ap-fc-14-5",
+            frente: "Quais são os tipos de créditos adicionais?",
+            verso:
+              "SUPLEMENTARES (reforço de dotação existente), ESPECIAIS (despesa sem dotação prévia), EXTRAORDINÁRIOS (urgentes - guerra, calamidade, comoção interna).",
+            tags: ["créditos adicionais", "tipos"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8586,11 +9327,12 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-14-6',
-            frente: 'O que é o princípio da não vinculação (não afetação)?',
-            verso: 'Proíbe vincular receita de IMPOSTOS a órgão, fundo ou despesa. Exceções: saúde, educação, repartição de receitas, garantias de ARO, administração tributária.',
-            tags: ['não vinculação', 'princípio'],
-            dificuldade: 'medio',
+            id: "ap-fc-14-6",
+            frente: "O que é o princípio da não vinculação (não afetação)?",
+            verso:
+              "Proíbe vincular receita de IMPOSTOS a órgão, fundo ou despesa. Exceções: saúde, educação, repartição de receitas, garantias de ARO, administração tributária.",
+            tags: ["não vinculação", "princípio"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8598,11 +9340,12 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-14-7',
-            frente: 'O que é o princípio da exclusividade orçamentária?',
-            verso: 'A LOA não pode conter dispositivo estranho à previsão de receita e fixação de despesa. Exceções: autorização para créditos suplementares e operações de crédito.',
-            tags: ['exclusividade', 'princípio'],
-            dificuldade: 'medio',
+            id: "ap-fc-14-7",
+            frente: "O que é o princípio da exclusividade orçamentária?",
+            verso:
+              "A LOA não pode conter dispositivo estranho à previsão de receita e fixação de despesa. Exceções: autorização para créditos suplementares e operações de crédito.",
+            tags: ["exclusividade", "princípio"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8610,11 +9353,13 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-14-8',
-            frente: 'O que acontece se a LDO não for aprovada antes do recesso?',
-            verso: 'A sessão legislativa NÃO PODE ser encerrada sem a aprovação da LDO (art. 57, §2º, CF). Os parlamentares ficam até aprovar.',
-            tags: ['LDO', 'aprovação'],
-            dificuldade: 'medio',
+            id: "ap-fc-14-8",
+            frente:
+              "O que acontece se a LDO não for aprovada antes do recesso?",
+            verso:
+              "A sessão legislativa NÃO PODE ser encerrada sem a aprovação da LDO (art. 57, §2º, CF). Os parlamentares ficam até aprovar.",
+            tags: ["LDO", "aprovação"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8622,11 +9367,12 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-14-9',
-            frente: 'Quais são os anexos obrigatórios da LDO segundo a LRF?',
-            verso: 'Anexo de METAS FISCAIS (metas de receita, despesa, resultado primário e nominal) e Anexo de RISCOS FISCAIS (passivos contingentes, riscos orçamentários).',
-            tags: ['LDO', 'anexos', 'LRF'],
-            dificuldade: 'medio',
+            id: "ap-fc-14-9",
+            frente: "Quais são os anexos obrigatórios da LDO segundo a LRF?",
+            verso:
+              "Anexo de METAS FISCAIS (metas de receita, despesa, resultado primário e nominal) e Anexo de RISCOS FISCAIS (passivos contingentes, riscos orçamentários).",
+            tags: ["LDO", "anexos", "LRF"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8634,11 +9380,12 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-14-10',
-            frente: 'Qual o prazo de envio da LOA ao Legislativo?',
-            verso: 'Até 4 meses antes do encerramento do exercício financeiro (31 de agosto na União). Devolução até 22 de dezembro.',
-            tags: ['LOA', 'prazos'],
-            dificuldade: 'medio',
+            id: "ap-fc-14-10",
+            frente: "Qual o prazo de envio da LOA ao Legislativo?",
+            verso:
+              "Até 4 meses antes do encerramento do exercício financeiro (31 de agosto na União). Devolução até 22 de dezembro.",
+            tags: ["LOA", "prazos"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -8649,182 +9396,219 @@ Despesas devem ser iguais ou menores que as receitas.
 
         questoes: [
           {
-            id: 'ap-q-14-1',
-            enunciado: 'O instrumento de planejamento que estabelece, de forma regionalizada, as diretrizes, objetivos e metas da administração pública para as despesas de capital é o:',
+            id: "ap-q-14-1",
+            enunciado:
+              "O instrumento de planejamento que estabelece, de forma regionalizada, as diretrizes, objetivos e metas da administração pública para as despesas de capital é o:",
             alternativas: [
-              { letra: 'A', texto: 'Plano Plurianual (PPA).' },
-              { letra: 'B', texto: 'Lei de Diretrizes Orçamentárias (LDO).' },
-              { letra: 'C', texto: 'Lei Orçamentária Anual (LOA).' },
-              { letra: 'D', texto: 'Plano Diretor.' },
-              { letra: 'E', texto: 'Programa de Metas.' },
+              { letra: "A", texto: "Plano Plurianual (PPA)." },
+              { letra: "B", texto: "Lei de Diretrizes Orçamentárias (LDO)." },
+              { letra: "C", texto: "Lei Orçamentária Anual (LOA)." },
+              { letra: "D", texto: "Plano Diretor." },
+              { letra: "E", texto: "Programa de Metas." },
             ],
-            gabarito: 'A',
-            justificativa: 'O PPA estabelece, de forma regionalizada, as DIRETRIZES, OBJETIVOS e METAS (DOM) para as despesas de capital e programas de duração continuada.',
-            dificuldade: 'facil',
-            competencia: 'PPA',
-            banca: 'IADES',
-            tags: ['PPA', 'DOM'],
+            gabarito: "A",
+            justificativa:
+              "O PPA estabelece, de forma regionalizada, as DIRETRIZES, OBJETIVOS e METAS (DOM) para as despesas de capital e programas de duração continuada.",
+            dificuldade: "facil",
+            competencia: "PPA",
+            banca: "IADES",
+            tags: ["PPA", "DOM"],
           },
           {
-            id: 'ap-q-14-2',
-            enunciado: 'A vigência do Plano Plurianual (PPA) é de:',
+            id: "ap-q-14-2",
+            enunciado: "A vigência do Plano Plurianual (PPA) é de:",
             alternativas: [
-              { letra: 'A', texto: '1 ano.' },
-              { letra: 'B', texto: '2 anos.' },
-              { letra: 'C', texto: '3 anos.' },
-              { letra: 'D', texto: '4 anos.' },
-              { letra: 'E', texto: '5 anos.' },
+              { letra: "A", texto: "1 ano." },
+              { letra: "B", texto: "2 anos." },
+              { letra: "C", texto: "3 anos." },
+              { letra: "D", texto: "4 anos." },
+              { letra: "E", texto: "5 anos." },
             ],
-            gabarito: 'D',
-            justificativa: 'O PPA tem vigência de 4 ANOS, iniciando no 2º ano do mandato do chefe do Executivo e encerrando no 1º ano do mandato seguinte.',
-            dificuldade: 'facil',
-            competencia: 'Vigência do PPA',
-            banca: 'IADES',
-            tags: ['PPA', 'vigência'],
+            gabarito: "D",
+            justificativa:
+              "O PPA tem vigência de 4 ANOS, iniciando no 2º ano do mandato do chefe do Executivo e encerrando no 1º ano do mandato seguinte.",
+            dificuldade: "facil",
+            competencia: "Vigência do PPA",
+            banca: "IADES",
+            tags: ["PPA", "vigência"],
           },
           {
-            id: 'ap-q-14-3',
-            enunciado: 'A Lei de Diretrizes Orçamentárias (LDO), segundo a Lei de Responsabilidade Fiscal, deve conter:',
+            id: "ap-q-14-3",
+            enunciado:
+              "A Lei de Diretrizes Orçamentárias (LDO), segundo a Lei de Responsabilidade Fiscal, deve conter:",
             alternativas: [
-              { letra: 'A', texto: 'apenas as metas de arrecadação.' },
-              { letra: 'B', texto: 'Anexo de Metas Fiscais e Anexo de Riscos Fiscais.' },
-              { letra: 'C', texto: 'somente a previsão de receitas correntes.' },
-              { letra: 'D', texto: 'exclusivamente as despesas de capital.' },
-              { letra: 'E', texto: 'apenas o cronograma de desembolso.' },
+              { letra: "A", texto: "apenas as metas de arrecadação." },
+              {
+                letra: "B",
+                texto: "Anexo de Metas Fiscais e Anexo de Riscos Fiscais.",
+              },
+              {
+                letra: "C",
+                texto: "somente a previsão de receitas correntes.",
+              },
+              { letra: "D", texto: "exclusivamente as despesas de capital." },
+              { letra: "E", texto: "apenas o cronograma de desembolso." },
             ],
-            gabarito: 'B',
-            justificativa: 'A LRF exige que a LDO contenha ANEXO DE METAS FISCAIS (metas anuais de receita, despesa, resultado) e ANEXO DE RISCOS FISCAIS (passivos contingentes).',
-            dificuldade: 'medio',
-            competencia: 'LDO e LRF',
-            banca: 'IADES',
-            tags: ['LDO', 'anexos'],
+            gabarito: "B",
+            justificativa:
+              "A LRF exige que a LDO contenha ANEXO DE METAS FISCAIS (metas anuais de receita, despesa, resultado) e ANEXO DE RISCOS FISCAIS (passivos contingentes).",
+            dificuldade: "medio",
+            competencia: "LDO e LRF",
+            banca: "IADES",
+            tags: ["LDO", "anexos"],
           },
           {
-            id: 'ap-q-14-4',
-            enunciado: 'A Lei Orçamentária Anual (LOA) compreende:',
+            id: "ap-q-14-4",
+            enunciado: "A Lei Orçamentária Anual (LOA) compreende:",
             alternativas: [
-              { letra: 'A', texto: 'apenas o orçamento fiscal.' },
-              { letra: 'B', texto: 'o orçamento fiscal e o de investimentos das estatais.' },
-              { letra: 'C', texto: 'o orçamento fiscal, de investimentos das estatais e da seguridade social.' },
-              { letra: 'D', texto: 'apenas o orçamento da seguridade social.' },
-              { letra: 'E', texto: 'somente as despesas de capital.' },
+              { letra: "A", texto: "apenas o orçamento fiscal." },
+              {
+                letra: "B",
+                texto: "o orçamento fiscal e o de investimentos das estatais.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "o orçamento fiscal, de investimentos das estatais e da seguridade social.",
+              },
+              { letra: "D", texto: "apenas o orçamento da seguridade social." },
+              { letra: "E", texto: "somente as despesas de capital." },
             ],
-            gabarito: 'C',
-            justificativa: 'A LOA compreende TRÊS orçamentos: fiscal, de investimentos das empresas estatais e da seguridade social (art. 165, §5º, CF).',
-            dificuldade: 'medio',
-            competencia: 'Composição da LOA',
-            banca: 'IADES',
-            tags: ['LOA', 'orçamentos'],
+            gabarito: "C",
+            justificativa:
+              "A LOA compreende TRÊS orçamentos: fiscal, de investimentos das empresas estatais e da seguridade social (art. 165, §5º, CF).",
+            dificuldade: "medio",
+            competencia: "Composição da LOA",
+            banca: "IADES",
+            tags: ["LOA", "orçamentos"],
           },
           {
-            id: 'ap-q-14-5',
-            enunciado: 'Os créditos adicionais destinados a despesas urgentes e imprevistas, como em caso de guerra ou calamidade pública, são denominados:',
+            id: "ap-q-14-5",
+            enunciado:
+              "Os créditos adicionais destinados a despesas urgentes e imprevistas, como em caso de guerra ou calamidade pública, são denominados:",
             alternativas: [
-              { letra: 'A', texto: 'suplementares.' },
-              { letra: 'B', texto: 'especiais.' },
-              { letra: 'C', texto: 'extraordinários.' },
-              { letra: 'D', texto: 'complementares.' },
-              { letra: 'E', texto: 'emergenciais.' },
+              { letra: "A", texto: "suplementares." },
+              { letra: "B", texto: "especiais." },
+              { letra: "C", texto: "extraordinários." },
+              { letra: "D", texto: "complementares." },
+              { letra: "E", texto: "emergenciais." },
             ],
-            gabarito: 'C',
-            justificativa: 'Créditos EXTRAORDINÁRIOS são destinados a despesas urgentes e IMPREVISTAS, decorrentes de guerra, comoção interna ou calamidade pública.',
-            dificuldade: 'facil',
-            competencia: 'Créditos adicionais',
-            banca: 'IADES',
-            tags: ['extraordinário', 'calamidade'],
+            gabarito: "C",
+            justificativa:
+              "Créditos EXTRAORDINÁRIOS são destinados a despesas urgentes e IMPREVISTAS, decorrentes de guerra, comoção interna ou calamidade pública.",
+            dificuldade: "facil",
+            competencia: "Créditos adicionais",
+            banca: "IADES",
+            tags: ["extraordinário", "calamidade"],
           },
           {
-            id: 'ap-q-14-6',
-            enunciado: 'O princípio orçamentário que proíbe vincular receita de impostos a órgão, fundo ou despesa é o princípio da:',
+            id: "ap-q-14-6",
+            enunciado:
+              "O princípio orçamentário que proíbe vincular receita de impostos a órgão, fundo ou despesa é o princípio da:",
             alternativas: [
-              { letra: 'A', texto: 'universalidade.' },
-              { letra: 'B', texto: 'unidade.' },
-              { letra: 'C', texto: 'não vinculação (não afetação).' },
-              { letra: 'D', texto: 'exclusividade.' },
-              { letra: 'E', texto: 'anualidade.' },
+              { letra: "A", texto: "universalidade." },
+              { letra: "B", texto: "unidade." },
+              { letra: "C", texto: "não vinculação (não afetação)." },
+              { letra: "D", texto: "exclusividade." },
+              { letra: "E", texto: "anualidade." },
             ],
-            gabarito: 'C',
-            justificativa: 'O princípio da NÃO VINCULAÇÃO (não afetação) proíbe vincular receita de IMPOSTOS a órgão, fundo ou despesa, com exceções previstas na CF.',
-            dificuldade: 'medio',
-            competencia: 'Princípios orçamentários',
-            banca: 'IADES',
-            tags: ['não vinculação', 'princípio'],
+            gabarito: "C",
+            justificativa:
+              "O princípio da NÃO VINCULAÇÃO (não afetação) proíbe vincular receita de IMPOSTOS a órgão, fundo ou despesa, com exceções previstas na CF.",
+            dificuldade: "medio",
+            competencia: "Princípios orçamentários",
+            banca: "IADES",
+            tags: ["não vinculação", "princípio"],
           },
           {
-            id: 'ap-q-14-7',
-            enunciado: 'A iniciativa das leis orçamentárias (PPA, LDO e LOA) é:',
+            id: "ap-q-14-7",
+            enunciado:
+              "A iniciativa das leis orçamentárias (PPA, LDO e LOA) é:",
             alternativas: [
-              { letra: 'A', texto: 'concorrente entre Executivo e Legislativo.' },
-              { letra: 'B', texto: 'privativa do Poder Legislativo.' },
-              { letra: 'C', texto: 'privativa do Poder Executivo.' },
-              { letra: 'D', texto: 'do Tribunal de Contas.' },
-              { letra: 'E', texto: 'popular, mediante projeto de lei.' },
+              {
+                letra: "A",
+                texto: "concorrente entre Executivo e Legislativo.",
+              },
+              { letra: "B", texto: "privativa do Poder Legislativo." },
+              { letra: "C", texto: "privativa do Poder Executivo." },
+              { letra: "D", texto: "do Tribunal de Contas." },
+              { letra: "E", texto: "popular, mediante projeto de lei." },
             ],
-            gabarito: 'C',
-            justificativa: 'A iniciativa das leis orçamentárias (PPA, LDO e LOA) é PRIVATIVA do Poder EXECUTIVO (art. 165, CF).',
-            dificuldade: 'facil',
-            competencia: 'Iniciativa de leis',
-            banca: 'IADES',
-            tags: ['iniciativa', 'Executivo'],
+            gabarito: "C",
+            justificativa:
+              "A iniciativa das leis orçamentárias (PPA, LDO e LOA) é PRIVATIVA do Poder EXECUTIVO (art. 165, CF).",
+            dificuldade: "facil",
+            competencia: "Iniciativa de leis",
+            banca: "IADES",
+            tags: ["iniciativa", "Executivo"],
           },
           {
-            id: 'ap-q-14-8',
-            enunciado: 'Segundo a Constituição Federal, a sessão legislativa NÃO será interrompida sem a aprovação do projeto de:',
+            id: "ap-q-14-8",
+            enunciado:
+              "Segundo a Constituição Federal, a sessão legislativa NÃO será interrompida sem a aprovação do projeto de:",
             alternativas: [
-              { letra: 'A', texto: 'Lei Orçamentária Anual.' },
-              { letra: 'B', texto: 'Lei de Diretrizes Orçamentárias.' },
-              { letra: 'C', texto: 'Plano Plurianual.' },
-              { letra: 'D', texto: 'Lei Complementar de Finanças.' },
-              { letra: 'E', texto: 'qualquer lei de iniciativa do Executivo.' },
+              { letra: "A", texto: "Lei Orçamentária Anual." },
+              { letra: "B", texto: "Lei de Diretrizes Orçamentárias." },
+              { letra: "C", texto: "Plano Plurianual." },
+              { letra: "D", texto: "Lei Complementar de Finanças." },
+              { letra: "E", texto: "qualquer lei de iniciativa do Executivo." },
             ],
-            gabarito: 'B',
-            justificativa: 'A sessão legislativa NÃO será interrompida sem a aprovação da LDO (art. 57, §2º, CF). Os parlamentares devem aprovar antes do recesso.',
-            dificuldade: 'medio',
-            competencia: 'Aprovação da LDO',
-            banca: 'IADES',
-            tags: ['LDO', 'recesso'],
+            gabarito: "B",
+            justificativa:
+              "A sessão legislativa NÃO será interrompida sem a aprovação da LDO (art. 57, §2º, CF). Os parlamentares devem aprovar antes do recesso.",
+            dificuldade: "medio",
+            competencia: "Aprovação da LDO",
+            banca: "IADES",
+            tags: ["LDO", "recesso"],
           },
           {
-            id: 'ap-q-14-9',
-            enunciado: 'O princípio da exclusividade orçamentária determina que a LOA não conterá dispositivo estranho à previsão de receita e fixação de despesa, EXCETO:',
+            id: "ap-q-14-9",
+            enunciado:
+              "O princípio da exclusividade orçamentária determina que a LOA não conterá dispositivo estranho à previsão de receita e fixação de despesa, EXCETO:",
             alternativas: [
-              { letra: 'A', texto: 'disposições sobre pessoal e encargos.' },
-              { letra: 'B', texto: 'normas de direito tributário.' },
-              { letra: 'C', texto: 'autorização para abertura de créditos suplementares.' },
-              { letra: 'D', texto: 'criação de cargos públicos.' },
-              { letra: 'E', texto: 'disposições sobre regime previdenciário.' },
+              { letra: "A", texto: "disposições sobre pessoal e encargos." },
+              { letra: "B", texto: "normas de direito tributário." },
+              {
+                letra: "C",
+                texto: "autorização para abertura de créditos suplementares.",
+              },
+              { letra: "D", texto: "criação de cargos públicos." },
+              { letra: "E", texto: "disposições sobre regime previdenciário." },
             ],
-            gabarito: 'C',
-            justificativa: 'As exceções ao princípio da exclusividade são: autorização para CRÉDITOS SUPLEMENTARES e contratação de OPERAÇÕES DE CRÉDITO.',
-            dificuldade: 'medio',
-            competencia: 'Princípio da exclusividade',
-            banca: 'IADES',
-            tags: ['exclusividade', 'exceções'],
+            gabarito: "C",
+            justificativa:
+              "As exceções ao princípio da exclusividade são: autorização para CRÉDITOS SUPLEMENTARES e contratação de OPERAÇÕES DE CRÉDITO.",
+            dificuldade: "medio",
+            competencia: "Princípio da exclusividade",
+            banca: "IADES",
+            tags: ["exclusividade", "exceções"],
           },
           {
-            id: 'ap-q-14-10',
-            enunciado: 'São fontes de recursos para abertura de créditos adicionais, EXCETO:',
+            id: "ap-q-14-10",
+            enunciado:
+              "São fontes de recursos para abertura de créditos adicionais, EXCETO:",
             alternativas: [
-              { letra: 'A', texto: 'superávit financeiro apurado em balanço.' },
-              { letra: 'B', texto: 'excesso de arrecadação.' },
-              { letra: 'C', texto: 'anulação total ou parcial de dotações.' },
-              { letra: 'D', texto: 'operações de crédito.' },
-              { letra: 'E', texto: 'doações de pessoas físicas.' },
+              { letra: "A", texto: "superávit financeiro apurado em balanço." },
+              { letra: "B", texto: "excesso de arrecadação." },
+              { letra: "C", texto: "anulação total ou parcial de dotações." },
+              { letra: "D", texto: "operações de crédito." },
+              { letra: "E", texto: "doações de pessoas físicas." },
             ],
-            gabarito: 'E',
-            justificativa: 'As fontes para créditos adicionais são: superávit financeiro, excesso de arrecadação, anulação de dotações, operações de crédito. Doações de PF não são fonte prevista.',
-            dificuldade: 'medio',
-            competencia: 'Fontes de recursos',
-            banca: 'IADES',
-            tags: ['créditos adicionais', 'fontes'],
+            gabarito: "E",
+            justificativa:
+              "As fontes para créditos adicionais são: superávit financeiro, excesso de arrecadação, anulação de dotações, operações de crédito. Doações de PF não são fonte prevista.",
+            dificuldade: "medio",
+            competencia: "Fontes de recursos",
+            banca: "IADES",
+            tags: ["créditos adicionais", "fontes"],
           },
         ],
       },
     },
     {
-      id: 'ap-topico-15',
+      id: "ap-topico-15",
       numero: 15,
-      titulo: 'Princípios Orçamentários',
+      titulo: "Princípios Orçamentários",
       conteudo: {
         resumo: `
 ## Resumo Rápido
@@ -8988,76 +9772,83 @@ Despesas devem ser iguais ou menores que as receitas.
         `,
 
         pontosChave: [
-          'Unidade: um único orçamento por ente (LOA consolida fiscal + investimentos + seguridade)',
-          'Universalidade: TODAS as receitas e despesas devem estar previstas',
-          'Anualidade: vigência de 1 ANO (exercício financeiro = ano civil)',
-          'Exclusividade: LOA só trata de receita e despesa (exceções: créditos suplementares e operações de crédito)',
-          'Orçamento Bruto: valores TOTAIS, sem deduções',
-          'Não Vinculação: vedado vincular IMPOSTOS (exceções: saúde, educação, repartição, administração tributária)',
-          'Especificação: discriminar origem e aplicação (veda dotações globais)',
-          'Publicidade: divulgação ampla e obrigatória',
-          'Equilíbrio: receitas previstas = despesas fixadas',
-          'Legalidade: orçamento aprovado por LEI',
+          "Unidade: um único orçamento por ente (LOA consolida fiscal + investimentos + seguridade)",
+          "Universalidade: TODAS as receitas e despesas devem estar previstas",
+          "Anualidade: vigência de 1 ANO (exercício financeiro = ano civil)",
+          "Exclusividade: LOA só trata de receita e despesa (exceções: créditos suplementares e operações de crédito)",
+          "Orçamento Bruto: valores TOTAIS, sem deduções",
+          "Não Vinculação: vedado vincular IMPOSTOS (exceções: saúde, educação, repartição, administração tributária)",
+          "Especificação: discriminar origem e aplicação (veda dotações globais)",
+          "Publicidade: divulgação ampla e obrigatória",
+          "Equilíbrio: receitas previstas = despesas fixadas",
+          "Legalidade: orçamento aprovado por LEI",
         ],
 
         armadilhas: [
           {
-            titulo: 'Universalidade x Unidade',
-            descricao: 'Universalidade = tudo previsto / Unidade = um único documento',
-            dica: 'UNIversalidade = tUdo INcluído / UNIdade = UM documento',
+            titulo: "Universalidade x Unidade",
+            descricao:
+              "Universalidade = tudo previsto / Unidade = um único documento",
+            dica: "UNIversalidade = tUdo INcluído / UNIdade = UM documento",
           },
           {
-            titulo: 'Exceções à Exclusividade',
-            descricao: 'Créditos SUPLEMENTARES e operações de crédito podem constar na LOA',
-            dica: 'Não é vedação absoluta - há duas exceções importantes',
+            titulo: "Exceções à Exclusividade",
+            descricao:
+              "Créditos SUPLEMENTARES e operações de crédito podem constar na LOA",
+            dica: "Não é vedação absoluta - há duas exceções importantes",
           },
           {
-            titulo: 'Não Vinculação só para IMPOSTOS',
-            descricao: 'A vedação de vincular receitas é apenas para IMPOSTOS',
-            dica: 'Taxas e contribuições PODEM ser vinculadas',
+            titulo: "Não Vinculação só para IMPOSTOS",
+            descricao: "A vedação de vincular receitas é apenas para IMPOSTOS",
+            dica: "Taxas e contribuições PODEM ser vinculadas",
           },
           {
-            titulo: 'Exceções à Não Vinculação',
-            descricao: 'Saúde, educação, repartição de receitas, administração tributária, ARO',
-            dica: 'São muitas exceções - memorize as principais',
+            titulo: "Exceções à Não Vinculação",
+            descricao:
+              "Saúde, educação, repartição de receitas, administração tributária, ARO",
+            dica: "São muitas exceções - memorize as principais",
           },
           {
-            titulo: 'Orçamento Bruto',
-            descricao: 'Valores TOTAIS, sem compensação ou dedução',
-            dica: 'Se arrecada 100 e gasta 30, consta 100 + 30, não 70',
+            titulo: "Orçamento Bruto",
+            descricao: "Valores TOTAIS, sem compensação ou dedução",
+            dica: "Se arrecada 100 e gasta 30, consta 100 + 30, não 70",
           },
         ],
 
         mnemonicos: [
           {
-            termo: 'UUA-EO-NEP-ELP',
-            significado: 'Princípios orçamentários',
-            frase: 'Unidade, Universalidade, Anualidade, Exclusividade, Orçamento bruto, Não vinculação, Especificação, Publicidade, Equilíbrio, Legalidade, Programação',
+            termo: "UUA-EO-NEP-ELP",
+            significado: "Princípios orçamentários",
+            frase:
+              "Unidade, Universalidade, Anualidade, Exclusividade, Orçamento bruto, Não vinculação, Especificação, Publicidade, Equilíbrio, Legalidade, Programação",
           },
           {
-            termo: 'SO-CO',
-            significado: 'Exceções à exclusividade',
-            frase: 'Créditos Suplementares e Operações de Crédito',
+            termo: "SO-CO",
+            significado: "Exceções à exclusividade",
+            frase: "Créditos Suplementares e Operações de Crédito",
           },
           {
-            termo: 'SEAR-CG',
-            significado: 'Exceções à não vinculação',
-            frase: 'Saúde, Educação, Administração tributária, Repartição, Contragarantia, Garantia ARO',
+            termo: "SEAR-CG",
+            significado: "Exceções à não vinculação",
+            frase:
+              "Saúde, Educação, Administração tributária, Repartição, Contragarantia, Garantia ARO",
           },
           {
-            termo: 'TUDO-UM',
-            significado: 'Universalidade x Unidade',
-            frase: 'Universalidade = TUDO previsto / Unidade = UM documento',
+            termo: "TUDO-UM",
+            significado: "Universalidade x Unidade",
+            frase: "Universalidade = TUDO previsto / Unidade = UM documento",
           },
         ],
 
         flashcards: [
           {
-            id: 'ap-fc-15-1',
-            frente: 'O que estabelece o princípio da universalidade orçamentária?',
-            verso: 'Que o orçamento deve conter TODAS as receitas e TODAS as despesas do ente. Permite conhecimento global das finanças e facilita controle parlamentar.',
-            tags: ['universalidade', 'princípio'],
-            dificuldade: 'facil',
+            id: "ap-fc-15-1",
+            frente:
+              "O que estabelece o princípio da universalidade orçamentária?",
+            verso:
+              "Que o orçamento deve conter TODAS as receitas e TODAS as despesas do ente. Permite conhecimento global das finanças e facilita controle parlamentar.",
+            tags: ["universalidade", "princípio"],
+            dificuldade: "facil",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9065,11 +9856,12 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-15-2',
-            frente: 'Quais são as exceções ao princípio da exclusividade?',
-            verso: 'Autorização para abertura de créditos SUPLEMENTARES e contratação de OPERAÇÕES DE CRÉDITO. São os únicos dispositivos "estranhos" permitidos na LOA.',
-            tags: ['exclusividade', 'exceções'],
-            dificuldade: 'medio',
+            id: "ap-fc-15-2",
+            frente: "Quais são as exceções ao princípio da exclusividade?",
+            verso:
+              'Autorização para abertura de créditos SUPLEMENTARES e contratação de OPERAÇÕES DE CRÉDITO. São os únicos dispositivos "estranhos" permitidos na LOA.',
+            tags: ["exclusividade", "exceções"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9077,11 +9869,13 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-15-3',
-            frente: 'O princípio da não vinculação (não afetação) aplica-se a quais receitas?',
-            verso: 'Aplica-se apenas a receitas de IMPOSTOS. Taxas e contribuições PODEM ser vinculadas a órgãos, fundos ou despesas específicas.',
-            tags: ['não vinculação', 'impostos'],
-            dificuldade: 'medio',
+            id: "ap-fc-15-3",
+            frente:
+              "O princípio da não vinculação (não afetação) aplica-se a quais receitas?",
+            verso:
+              "Aplica-se apenas a receitas de IMPOSTOS. Taxas e contribuições PODEM ser vinculadas a órgãos, fundos ou despesas específicas.",
+            tags: ["não vinculação", "impostos"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9089,11 +9883,13 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-15-4',
-            frente: 'Quais são as principais exceções ao princípio da não vinculação?',
-            verso: 'Saúde, Educação, Administração tributária, Repartição de receitas (FPE, FPM), Garantia às ARO, Contragarantia à União, Fundo de combate à pobreza.',
-            tags: ['não vinculação', 'exceções'],
-            dificuldade: 'medio',
+            id: "ap-fc-15-4",
+            frente:
+              "Quais são as principais exceções ao princípio da não vinculação?",
+            verso:
+              "Saúde, Educação, Administração tributária, Repartição de receitas (FPE, FPM), Garantia às ARO, Contragarantia à União, Fundo de combate à pobreza.",
+            tags: ["não vinculação", "exceções"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9101,11 +9897,12 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-15-5',
-            frente: 'O que estabelece o princípio do orçamento bruto?',
-            verso: 'Receitas e despesas devem constar pelos valores TOTAIS, vedadas quaisquer deduções. Não se permite compensação. Se arrecada 100 e gasta 30, consta 100 + 30.',
-            tags: ['orçamento bruto', 'valores'],
-            dificuldade: 'facil',
+            id: "ap-fc-15-5",
+            frente: "O que estabelece o princípio do orçamento bruto?",
+            verso:
+              "Receitas e despesas devem constar pelos valores TOTAIS, vedadas quaisquer deduções. Não se permite compensação. Se arrecada 100 e gasta 30, consta 100 + 30.",
+            tags: ["orçamento bruto", "valores"],
+            dificuldade: "facil",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9113,11 +9910,13 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-15-6',
-            frente: 'Qual a diferença entre princípio da unidade e da universalidade?',
-            verso: 'UNIDADE: cada ente tem UM único orçamento (documento único). UNIVERSALIDADE: TODAS as receitas e despesas devem estar previstas no orçamento.',
-            tags: ['unidade', 'universalidade'],
-            dificuldade: 'medio',
+            id: "ap-fc-15-6",
+            frente:
+              "Qual a diferença entre princípio da unidade e da universalidade?",
+            verso:
+              "UNIDADE: cada ente tem UM único orçamento (documento único). UNIVERSALIDADE: TODAS as receitas e despesas devem estar previstas no orçamento.",
+            tags: ["unidade", "universalidade"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9125,11 +9924,12 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-15-7',
-            frente: 'O que é o princípio da anualidade orçamentária?',
-            verso: 'O orçamento deve ser elaborado para período de 1 ANO. O exercício financeiro coincide com o ano civil (1º de janeiro a 31 de dezembro).',
-            tags: ['anualidade', 'exercício'],
-            dificuldade: 'facil',
+            id: "ap-fc-15-7",
+            frente: "O que é o princípio da anualidade orçamentária?",
+            verso:
+              "O orçamento deve ser elaborado para período de 1 ANO. O exercício financeiro coincide com o ano civil (1º de janeiro a 31 de dezembro).",
+            tags: ["anualidade", "exercício"],
+            dificuldade: "facil",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9137,11 +9937,12 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-15-8',
-            frente: 'O princípio da especificação veda o quê?',
-            verso: 'Veda autorizações GLOBAIS ou genéricas. As receitas e despesas devem ser DISCRIMINADAS, detalhando origem e aplicação para permitir fiscalização.',
-            tags: ['especificação', 'discriminação'],
-            dificuldade: 'medio',
+            id: "ap-fc-15-8",
+            frente: "O princípio da especificação veda o quê?",
+            verso:
+              "Veda autorizações GLOBAIS ou genéricas. As receitas e despesas devem ser DISCRIMINADAS, detalhando origem e aplicação para permitir fiscalização.",
+            tags: ["especificação", "discriminação"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9149,11 +9950,13 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-15-9',
-            frente: 'O que são "caudas orçamentárias" e qual princípio as proíbe?',
-            verso: 'Caudas orçamentárias são normas estranhas ao orçamento inseridas na LOA. O princípio da EXCLUSIVIDADE proíbe, permitindo apenas receita/despesa + exceções.',
-            tags: ['exclusividade', 'caudas'],
-            dificuldade: 'medio',
+            id: "ap-fc-15-9",
+            frente:
+              'O que são "caudas orçamentárias" e qual princípio as proíbe?',
+            verso:
+              "Caudas orçamentárias são normas estranhas ao orçamento inseridas na LOA. O princípio da EXCLUSIVIDADE proíbe, permitindo apenas receita/despesa + exceções.",
+            tags: ["exclusividade", "caudas"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9161,11 +9964,12 @@ Despesas devem ser iguais ou menores que as receitas.
             erros: 0,
           },
           {
-            id: 'ap-fc-15-10',
-            frente: 'O princípio do equilíbrio orçamentário significa o quê?',
-            verso: 'Que as receitas PREVISTAS devem ser iguais às despesas FIXADAS. É um equilíbrio FORMAL/planejado. A LRF reforça o equilíbrio das contas públicas.',
-            tags: ['equilíbrio', 'receitas'],
-            dificuldade: 'facil',
+            id: "ap-fc-15-10",
+            frente: "O princípio do equilíbrio orçamentário significa o quê?",
+            verso:
+              "Que as receitas PREVISTAS devem ser iguais às despesas FIXADAS. É um equilíbrio FORMAL/planejado. A LRF reforça o equilíbrio das contas públicas.",
+            tags: ["equilíbrio", "receitas"],
+            dificuldade: "facil",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9176,182 +9980,258 @@ Despesas devem ser iguais ou menores que as receitas.
 
         questoes: [
           {
-            id: 'ap-q-15-1',
-            enunciado: 'O princípio orçamentário que estabelece que todas as receitas e despesas devem estar previstas no orçamento é o princípio da:',
+            id: "ap-q-15-1",
+            enunciado:
+              "O princípio orçamentário que estabelece que todas as receitas e despesas devem estar previstas no orçamento é o princípio da:",
             alternativas: [
-              { letra: 'A', texto: 'unidade.' },
-              { letra: 'B', texto: 'universalidade.' },
-              { letra: 'C', texto: 'exclusividade.' },
-              { letra: 'D', texto: 'anualidade.' },
-              { letra: 'E', texto: 'não vinculação.' },
+              { letra: "A", texto: "unidade." },
+              { letra: "B", texto: "universalidade." },
+              { letra: "C", texto: "exclusividade." },
+              { letra: "D", texto: "anualidade." },
+              { letra: "E", texto: "não vinculação." },
             ],
-            gabarito: 'B',
-            justificativa: 'O princípio da UNIVERSALIDADE estabelece que o orçamento deve conter TODAS as receitas e TODAS as despesas do ente.',
-            dificuldade: 'Fácil',
-            competencia: 'Princípio da universalidade',
-            banca: 'IADES',
-            tags: ['universalidade', 'princípio'],
+            gabarito: "B",
+            justificativa:
+              "O princípio da UNIVERSALIDADE estabelece que o orçamento deve conter TODAS as receitas e TODAS as despesas do ente.",
+            dificuldade: "Fácil",
+            competencia: "Princípio da universalidade",
+            banca: "IADES",
+            tags: ["universalidade", "princípio"],
           },
           {
-            id: 'ap-q-15-2',
-            enunciado: 'São exceções ao princípio da exclusividade orçamentária:',
+            id: "ap-q-15-2",
+            enunciado:
+              "São exceções ao princípio da exclusividade orçamentária:",
             alternativas: [
-              { letra: 'A', texto: 'criação de cargos e alteração de alíquotas.' },
-              { letra: 'B', texto: 'autorização para créditos suplementares e operações de crédito.' },
-              { letra: 'C', texto: 'vinculação de receitas e criação de tributos.' },
-              { letra: 'D', texto: 'transferências voluntárias e convênios.' },
-              { letra: 'E', texto: 'emendas parlamentares e reserva de contingência.' },
+              {
+                letra: "A",
+                texto: "criação de cargos e alteração de alíquotas.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "autorização para créditos suplementares e operações de crédito.",
+              },
+              {
+                letra: "C",
+                texto: "vinculação de receitas e criação de tributos.",
+              },
+              { letra: "D", texto: "transferências voluntárias e convênios." },
+              {
+                letra: "E",
+                texto: "emendas parlamentares e reserva de contingência.",
+              },
             ],
-            gabarito: 'B',
-            justificativa: 'As exceções ao princípio da exclusividade são: autorização para CRÉDITOS SUPLEMENTARES e contratação de OPERAÇÕES DE CRÉDITO.',
-            dificuldade: 'Média',
-            competencia: 'Princípio da exclusividade',
-            banca: 'IADES',
-            tags: ['exclusividade', 'exceções'],
+            gabarito: "B",
+            justificativa:
+              "As exceções ao princípio da exclusividade são: autorização para CRÉDITOS SUPLEMENTARES e contratação de OPERAÇÕES DE CRÉDITO.",
+            dificuldade: "Média",
+            competencia: "Princípio da exclusividade",
+            banca: "IADES",
+            tags: ["exclusividade", "exceções"],
           },
           {
-            id: 'ap-q-15-3',
-            enunciado: 'O princípio da não vinculação (não afetação) proíbe vincular receitas de:',
+            id: "ap-q-15-3",
+            enunciado:
+              "O princípio da não vinculação (não afetação) proíbe vincular receitas de:",
             alternativas: [
-              { letra: 'A', texto: 'taxas.' },
-              { letra: 'B', texto: 'contribuições de melhoria.' },
-              { letra: 'C', texto: 'impostos.' },
-              { letra: 'D', texto: 'contribuições sociais.' },
-              { letra: 'E', texto: 'empréstimos compulsórios.' },
+              { letra: "A", texto: "taxas." },
+              { letra: "B", texto: "contribuições de melhoria." },
+              { letra: "C", texto: "impostos." },
+              { letra: "D", texto: "contribuições sociais." },
+              { letra: "E", texto: "empréstimos compulsórios." },
             ],
-            gabarito: 'C',
-            justificativa: 'O princípio da não vinculação (art. 167, IV, CF) proíbe vincular receitas de IMPOSTOS a órgão, fundo ou despesa. Não se aplica a taxas e contribuições.',
-            dificuldade: 'Fácil',
-            competencia: 'Não vinculação',
-            banca: 'IADES',
-            tags: ['não vinculação', 'impostos'],
+            gabarito: "C",
+            justificativa:
+              "O princípio da não vinculação (art. 167, IV, CF) proíbe vincular receitas de IMPOSTOS a órgão, fundo ou despesa. Não se aplica a taxas e contribuições.",
+            dificuldade: "Fácil",
+            competencia: "Não vinculação",
+            banca: "IADES",
+            tags: ["não vinculação", "impostos"],
           },
           {
-            id: 'ap-q-15-4',
-            enunciado: 'São exceções constitucionais ao princípio da não vinculação de receitas de impostos, EXCETO:',
+            id: "ap-q-15-4",
+            enunciado:
+              "São exceções constitucionais ao princípio da não vinculação de receitas de impostos, EXCETO:",
             alternativas: [
-              { letra: 'A', texto: 'destinação para a saúde.' },
-              { letra: 'B', texto: 'destinação para a educação.' },
-              { letra: 'C', texto: 'repartição constitucional de receitas.' },
-              { letra: 'D', texto: 'destinação para obras públicas.' },
-              { letra: 'E', texto: 'administração tributária.' },
+              { letra: "A", texto: "destinação para a saúde." },
+              { letra: "B", texto: "destinação para a educação." },
+              { letra: "C", texto: "repartição constitucional de receitas." },
+              { letra: "D", texto: "destinação para obras públicas." },
+              { letra: "E", texto: "administração tributária." },
             ],
-            gabarito: 'D',
-            justificativa: 'Obras públicas NÃO são exceção à não vinculação. Exceções: saúde, educação, repartição de receitas, administração tributária, garantia ARO, contragarantia.',
-            dificuldade: 'Média',
-            competencia: 'Exceções à não vinculação',
-            banca: 'IADES',
-            tags: ['não vinculação', 'exceções'],
+            gabarito: "D",
+            justificativa:
+              "Obras públicas NÃO são exceção à não vinculação. Exceções: saúde, educação, repartição de receitas, administração tributária, garantia ARO, contragarantia.",
+            dificuldade: "Média",
+            competencia: "Exceções à não vinculação",
+            banca: "IADES",
+            tags: ["não vinculação", "exceções"],
           },
           {
-            id: 'ap-q-15-5',
-            enunciado: 'O princípio do orçamento bruto determina que:',
+            id: "ap-q-15-5",
+            enunciado: "O princípio do orçamento bruto determina que:",
             alternativas: [
-              { letra: 'A', texto: 'as despesas devem superar as receitas.' },
-              { letra: 'B', texto: 'receitas e despesas devem constar pelos valores totais, sem deduções.' },
-              { letra: 'C', texto: 'o orçamento deve ser aprovado antes do início do exercício.' },
-              { letra: 'D', texto: 'é permitida a compensação entre receitas e despesas.' },
-              { letra: 'E', texto: 'as receitas devem ser discriminadas por fonte.' },
+              { letra: "A", texto: "as despesas devem superar as receitas." },
+              {
+                letra: "B",
+                texto:
+                  "receitas e despesas devem constar pelos valores totais, sem deduções.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "o orçamento deve ser aprovado antes do início do exercício.",
+              },
+              {
+                letra: "D",
+                texto: "é permitida a compensação entre receitas e despesas.",
+              },
+              {
+                letra: "E",
+                texto: "as receitas devem ser discriminadas por fonte.",
+              },
             ],
-            gabarito: 'B',
-            justificativa: 'O princípio do orçamento BRUTO determina que receitas e despesas constem pelos valores TOTAIS, vedadas quaisquer deduções ou compensações.',
-            dificuldade: 'Fácil',
-            competencia: 'Orçamento bruto',
-            banca: 'IADES',
-            tags: ['orçamento bruto', 'valores'],
+            gabarito: "B",
+            justificativa:
+              "O princípio do orçamento BRUTO determina que receitas e despesas constem pelos valores TOTAIS, vedadas quaisquer deduções ou compensações.",
+            dificuldade: "Fácil",
+            competencia: "Orçamento bruto",
+            banca: "IADES",
+            tags: ["orçamento bruto", "valores"],
           },
           {
-            id: 'ap-q-15-6',
-            enunciado: 'O princípio que estabelece que cada ente federativo deve ter um único orçamento é o princípio da:',
+            id: "ap-q-15-6",
+            enunciado:
+              "O princípio que estabelece que cada ente federativo deve ter um único orçamento é o princípio da:",
             alternativas: [
-              { letra: 'A', texto: 'universalidade.' },
-              { letra: 'B', texto: 'unidade.' },
-              { letra: 'C', texto: 'exclusividade.' },
-              { letra: 'D', texto: 'programação.' },
-              { letra: 'E', texto: 'clareza.' },
+              { letra: "A", texto: "universalidade." },
+              { letra: "B", texto: "unidade." },
+              { letra: "C", texto: "exclusividade." },
+              { letra: "D", texto: "programação." },
+              { letra: "E", texto: "clareza." },
             ],
-            gabarito: 'B',
-            justificativa: 'O princípio da UNIDADE (ou totalidade) estabelece que cada ente federativo deve ter UM único orçamento, evitando orçamentos paralelos.',
-            dificuldade: 'Fácil',
-            competencia: 'Princípio da unidade',
-            banca: 'IADES',
-            tags: ['unidade', 'princípio'],
+            gabarito: "B",
+            justificativa:
+              "O princípio da UNIDADE (ou totalidade) estabelece que cada ente federativo deve ter UM único orçamento, evitando orçamentos paralelos.",
+            dificuldade: "Fácil",
+            competencia: "Princípio da unidade",
+            banca: "IADES",
+            tags: ["unidade", "princípio"],
           },
           {
-            id: 'ap-q-15-7',
-            enunciado: 'O princípio da anualidade orçamentária estabelece que:',
+            id: "ap-q-15-7",
+            enunciado: "O princípio da anualidade orçamentária estabelece que:",
             alternativas: [
-              { letra: 'A', texto: 'o orçamento deve ser publicado anualmente no Diário Oficial.' },
-              { letra: 'B', texto: 'o orçamento deve ser elaborado e executado para o período de um ano.' },
-              { letra: 'C', texto: 'as receitas devem ser arrecadadas anualmente.' },
-              { letra: 'D', texto: 'os créditos devem ser renovados todo ano.' },
-              { letra: 'E', texto: 'as despesas devem ser pagas dentro do ano.' },
+              {
+                letra: "A",
+                texto:
+                  "o orçamento deve ser publicado anualmente no Diário Oficial.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "o orçamento deve ser elaborado e executado para o período de um ano.",
+              },
+              {
+                letra: "C",
+                texto: "as receitas devem ser arrecadadas anualmente.",
+              },
+              {
+                letra: "D",
+                texto: "os créditos devem ser renovados todo ano.",
+              },
+              {
+                letra: "E",
+                texto: "as despesas devem ser pagas dentro do ano.",
+              },
             ],
-            gabarito: 'B',
-            justificativa: 'O princípio da ANUALIDADE (periodicidade) estabelece que o orçamento é elaborado para período de UM ANO, coincidente com o exercício financeiro (ano civil).',
-            dificuldade: 'Fácil',
-            competencia: 'Princípio da anualidade',
-            banca: 'IADES',
-            tags: ['anualidade', 'período'],
+            gabarito: "B",
+            justificativa:
+              "O princípio da ANUALIDADE (periodicidade) estabelece que o orçamento é elaborado para período de UM ANO, coincidente com o exercício financeiro (ano civil).",
+            dificuldade: "Fácil",
+            competencia: "Princípio da anualidade",
+            banca: "IADES",
+            tags: ["anualidade", "período"],
           },
           {
-            id: 'ap-q-15-8',
-            enunciado: 'O princípio da especificação (discriminação) orçamentária veda:',
+            id: "ap-q-15-8",
+            enunciado:
+              "O princípio da especificação (discriminação) orçamentária veda:",
             alternativas: [
-              { letra: 'A', texto: 'a publicação do orçamento.' },
-              { letra: 'B', texto: 'a inclusão de todas as receitas.' },
-              { letra: 'C', texto: 'autorizações globais ou genéricas de despesas.' },
-              { letra: 'D', texto: 'a previsão de receitas tributárias.' },
-              { letra: 'E', texto: 'a fixação de despesas de pessoal.' },
+              { letra: "A", texto: "a publicação do orçamento." },
+              { letra: "B", texto: "a inclusão de todas as receitas." },
+              {
+                letra: "C",
+                texto: "autorizações globais ou genéricas de despesas.",
+              },
+              { letra: "D", texto: "a previsão de receitas tributárias." },
+              { letra: "E", texto: "a fixação de despesas de pessoal." },
             ],
-            gabarito: 'C',
-            justificativa: 'O princípio da especificação veda autorizações GLOBAIS ou genéricas. As receitas e despesas devem ser discriminadas/detalhadas.',
-            dificuldade: 'Média',
-            competencia: 'Princípio da especificação',
-            banca: 'IADES',
-            tags: ['especificação', 'discriminação'],
+            gabarito: "C",
+            justificativa:
+              "O princípio da especificação veda autorizações GLOBAIS ou genéricas. As receitas e despesas devem ser discriminadas/detalhadas.",
+            dificuldade: "Média",
+            competencia: "Princípio da especificação",
+            banca: "IADES",
+            tags: ["especificação", "discriminação"],
           },
           {
-            id: 'ap-q-15-9',
-            enunciado: 'O princípio da exclusividade orçamentária visa evitar:',
+            id: "ap-q-15-9",
+            enunciado: "O princípio da exclusividade orçamentária visa evitar:",
             alternativas: [
-              { letra: 'A', texto: 'a duplicidade de orçamentos.' },
-              { letra: 'B', texto: 'as chamadas "caudas orçamentárias".' },
-              { letra: 'C', texto: 'a universalidade das receitas.' },
-              { letra: 'D', texto: 'o equilíbrio entre receitas e despesas.' },
-              { letra: 'E', texto: 'a publicidade do orçamento.' },
+              { letra: "A", texto: "a duplicidade de orçamentos." },
+              { letra: "B", texto: 'as chamadas "caudas orçamentárias".' },
+              { letra: "C", texto: "a universalidade das receitas." },
+              { letra: "D", texto: "o equilíbrio entre receitas e despesas." },
+              { letra: "E", texto: "a publicidade do orçamento." },
             ],
-            gabarito: 'B',
-            justificativa: 'O princípio da EXCLUSIVIDADE visa evitar as "caudas orçamentárias", ou seja, normas estranhas ao orçamento inseridas na LOA.',
-            dificuldade: 'Média',
-            competencia: 'Princípio da exclusividade',
-            banca: 'IADES',
-            tags: ['exclusividade', 'caudas'],
+            gabarito: "B",
+            justificativa:
+              'O princípio da EXCLUSIVIDADE visa evitar as "caudas orçamentárias", ou seja, normas estranhas ao orçamento inseridas na LOA.',
+            dificuldade: "Média",
+            competencia: "Princípio da exclusividade",
+            banca: "IADES",
+            tags: ["exclusividade", "caudas"],
           },
           {
-            id: 'ap-q-15-10',
-            enunciado: 'O princípio do equilíbrio orçamentário preconiza que:',
+            id: "ap-q-15-10",
+            enunciado: "O princípio do equilíbrio orçamentário preconiza que:",
             alternativas: [
-              { letra: 'A', texto: 'as despesas devem ser sempre maiores que as receitas.' },
-              { letra: 'B', texto: 'as receitas previstas devem ser iguais às despesas fixadas.' },
-              { letra: 'C', texto: 'o superávit deve ser a meta principal.' },
-              { letra: 'D', texto: 'o déficit é permitido em qualquer situação.' },
-              { letra: 'E', texto: 'apenas as despesas correntes devem ser equilibradas.' },
+              {
+                letra: "A",
+                texto: "as despesas devem ser sempre maiores que as receitas.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "as receitas previstas devem ser iguais às despesas fixadas.",
+              },
+              { letra: "C", texto: "o superávit deve ser a meta principal." },
+              {
+                letra: "D",
+                texto: "o déficit é permitido em qualquer situação.",
+              },
+              {
+                letra: "E",
+                texto: "apenas as despesas correntes devem ser equilibradas.",
+              },
             ],
-            gabarito: 'B',
-            justificativa: 'O princípio do EQUILÍBRIO estabelece que as receitas PREVISTAS devem ser iguais às despesas FIXADAS. É um equilíbrio formal/planejado.',
-            dificuldade: 'Fácil',
-            competencia: 'Princípio do equilíbrio',
-            banca: 'IADES',
-            tags: ['equilíbrio', 'receitas'],
+            gabarito: "B",
+            justificativa:
+              "O princípio do EQUILÍBRIO estabelece que as receitas PREVISTAS devem ser iguais às despesas FIXADAS. É um equilíbrio formal/planejado.",
+            dificuldade: "Fácil",
+            competencia: "Princípio do equilíbrio",
+            banca: "IADES",
+            tags: ["equilíbrio", "receitas"],
           },
         ],
       },
     },
     {
-      id: 'ap-topico-16',
+      id: "ap-topico-16",
       numero: 16,
-      titulo: 'Receita Pública: Conceitos, Classificação e Estágios',
+      titulo: "Receita Pública: Conceitos, Classificação e Estágios",
       conteudo: {
         resumo: `
 ## Resumo Rápido
@@ -9535,76 +10415,79 @@ Receitas que NÃO aumentam o patrimônio líquido (geram contrapartida no passiv
         `,
 
         pontosChave: [
-          'Receita orçamentária: prevista na LOA / Extraorçamentária: não prevista, devolução futura',
-          'Receitas Correntes (código 1): AUMENTAM patrimônio líquido',
-          'Receitas de Capital (código 2): NÃO aumentam patrimônio líquido',
-          'Estágios: PLAR - Previsão, Lançamento, Arrecadação, Recolhimento',
-          'Tributos são receitas CORRENTES (tributária)',
-          'Operações de crédito são receitas de CAPITAL',
-          'Alienação de bens = receita de CAPITAL',
-          'Lançamento: de ofício, por declaração ou por homologação',
-          'Arrecadação: pagamento ao agente / Recolhimento: transferência ao Tesouro',
-          'Dívida ativa: créditos não pagos, inscrita após via administrativa',
+          "Receita orçamentária: prevista na LOA / Extraorçamentária: não prevista, devolução futura",
+          "Receitas Correntes (código 1): AUMENTAM patrimônio líquido",
+          "Receitas de Capital (código 2): NÃO aumentam patrimônio líquido",
+          "Estágios: PLAR - Previsão, Lançamento, Arrecadação, Recolhimento",
+          "Tributos são receitas CORRENTES (tributária)",
+          "Operações de crédito são receitas de CAPITAL",
+          "Alienação de bens = receita de CAPITAL",
+          "Lançamento: de ofício, por declaração ou por homologação",
+          "Arrecadação: pagamento ao agente / Recolhimento: transferência ao Tesouro",
+          "Dívida ativa: créditos não pagos, inscrita após via administrativa",
         ],
 
         armadilhas: [
           {
-            titulo: 'Corrente x Capital',
-            descricao: 'Corrente AUMENTA patrimônio / Capital NÃO aumenta',
-            dica: 'Tributo = corrente / Empréstimo = capital',
+            titulo: "Corrente x Capital",
+            descricao: "Corrente AUMENTA patrimônio / Capital NÃO aumenta",
+            dica: "Tributo = corrente / Empréstimo = capital",
           },
           {
-            titulo: 'Arrecadação x Recolhimento',
-            descricao: 'Arrecadação = pagamento ao agente / Recolhimento = transferência ao Tesouro',
-            dica: 'Arrecadação vem ANTES do recolhimento',
+            titulo: "Arrecadação x Recolhimento",
+            descricao:
+              "Arrecadação = pagamento ao agente / Recolhimento = transferência ao Tesouro",
+            dica: "Arrecadação vem ANTES do recolhimento",
           },
           {
-            titulo: 'Operação de crédito',
-            descricao: 'É receita de CAPITAL, não corrente',
-            dica: 'Empréstimo gera passivo, não aumenta patrimônio líquido',
+            titulo: "Operação de crédito",
+            descricao: "É receita de CAPITAL, não corrente",
+            dica: "Empréstimo gera passivo, não aumenta patrimônio líquido",
           },
           {
-            titulo: 'Receita extraorçamentária',
-            descricao: 'NÃO está prevista no orçamento, será devolvida',
-            dica: 'Caução e depósito são extraorçamentárias',
+            titulo: "Receita extraorçamentária",
+            descricao: "NÃO está prevista no orçamento, será devolvida",
+            dica: "Caução e depósito são extraorçamentárias",
           },
           {
-            titulo: 'Estágios da receita',
-            descricao: 'PLAR: Previsão, Lançamento, Arrecadação, Recolhimento',
-            dica: 'Cuidado: não confunda ordem dos estágios',
+            titulo: "Estágios da receita",
+            descricao: "PLAR: Previsão, Lançamento, Arrecadação, Recolhimento",
+            dica: "Cuidado: não confunda ordem dos estágios",
           },
         ],
 
         mnemonicos: [
           {
-            termo: 'PLAR',
-            significado: 'Estágios da receita',
-            frase: 'Previsão, Lançamento, Arrecadação, Recolhimento',
+            termo: "PLAR",
+            significado: "Estágios da receita",
+            frase: "Previsão, Lançamento, Arrecadação, Recolhimento",
           },
           {
-            termo: 'TRIBUTA CON PAIS',
-            significado: 'Receitas correntes',
-            frase: 'Tributária, Contribuições, Patrimonial, Agropecuária, Industrial, Serviços',
+            termo: "TRIBUTA CON PAIS",
+            significado: "Receitas correntes",
+            frase:
+              "Tributária, Contribuições, Patrimonial, Agropecuária, Industrial, Serviços",
           },
           {
-            termo: 'OPERA ALI AMOR',
-            significado: 'Receitas de capital',
-            frase: 'Operações de crédito, Alienação, Amortização',
+            termo: "OPERA ALI AMOR",
+            significado: "Receitas de capital",
+            frase: "Operações de crédito, Alienação, Amortização",
           },
           {
-            termo: 'ODH',
-            significado: 'Modalidades de lançamento',
-            frase: 'De Ofício, por Declaração, por Homologação',
+            termo: "ODH",
+            significado: "Modalidades de lançamento",
+            frase: "De Ofício, por Declaração, por Homologação",
           },
         ],
 
         flashcards: [
           {
-            id: 'ap-fc-16-1',
-            frente: 'Quais são os estágios da receita pública?',
-            verso: 'PLAR: 1) PREVISÃO (estimativa na LOA), 2) LANÇAMENTO (identificação do devedor), 3) ARRECADAÇÃO (pagamento ao agente), 4) RECOLHIMENTO (transferência ao Tesouro).',
-            tags: ['estágios', 'receita'],
-            dificuldade: 'facil',
+            id: "ap-fc-16-1",
+            frente: "Quais são os estágios da receita pública?",
+            verso:
+              "PLAR: 1) PREVISÃO (estimativa na LOA), 2) LANÇAMENTO (identificação do devedor), 3) ARRECADAÇÃO (pagamento ao agente), 4) RECOLHIMENTO (transferência ao Tesouro).",
+            tags: ["estágios", "receita"],
+            dificuldade: "facil",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9612,11 +10495,13 @@ Receitas que NÃO aumentam o patrimônio líquido (geram contrapartida no passiv
             erros: 0,
           },
           {
-            id: 'ap-fc-16-2',
-            frente: 'Qual a diferença entre receita corrente e receita de capital?',
-            verso: 'CORRENTE: AUMENTA patrimônio líquido (tributos, serviços). CAPITAL: NÃO aumenta patrimônio (operações de crédito, alienações). Código 1 = corrente / Código 2 = capital.',
-            tags: ['corrente', 'capital'],
-            dificuldade: 'medio',
+            id: "ap-fc-16-2",
+            frente:
+              "Qual a diferença entre receita corrente e receita de capital?",
+            verso:
+              "CORRENTE: AUMENTA patrimônio líquido (tributos, serviços). CAPITAL: NÃO aumenta patrimônio (operações de crédito, alienações). Código 1 = corrente / Código 2 = capital.",
+            tags: ["corrente", "capital"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9624,11 +10509,12 @@ Receitas que NÃO aumentam o patrimônio líquido (geram contrapartida no passiv
             erros: 0,
           },
           {
-            id: 'ap-fc-16-3',
-            frente: 'Quais são as origens das receitas correntes?',
-            verso: 'TRIBUTA CON PAIS: Tributária, Contribuições, Patrimonial, Agropecuária, Industrial, Serviços, Transferências correntes, Outras receitas correntes.',
-            tags: ['correntes', 'origens'],
-            dificuldade: 'medio',
+            id: "ap-fc-16-3",
+            frente: "Quais são as origens das receitas correntes?",
+            verso:
+              "TRIBUTA CON PAIS: Tributária, Contribuições, Patrimonial, Agropecuária, Industrial, Serviços, Transferências correntes, Outras receitas correntes.",
+            tags: ["correntes", "origens"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9636,11 +10522,12 @@ Receitas que NÃO aumentam o patrimônio líquido (geram contrapartida no passiv
             erros: 0,
           },
           {
-            id: 'ap-fc-16-4',
-            frente: 'O que é receita extraorçamentária?',
-            verso: 'É ingresso de recursos NÃO previsto no orçamento, que gera obrigação de DEVOLUÇÃO. São entradas temporárias. Ex: caução, depósito de terceiros, ARO.',
-            tags: ['extraorçamentária', 'conceito'],
-            dificuldade: 'medio',
+            id: "ap-fc-16-4",
+            frente: "O que é receita extraorçamentária?",
+            verso:
+              "É ingresso de recursos NÃO previsto no orçamento, que gera obrigação de DEVOLUÇÃO. São entradas temporárias. Ex: caução, depósito de terceiros, ARO.",
+            tags: ["extraorçamentária", "conceito"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9648,11 +10535,12 @@ Receitas que NÃO aumentam o patrimônio líquido (geram contrapartida no passiv
             erros: 0,
           },
           {
-            id: 'ap-fc-16-5',
-            frente: 'Qual a diferença entre arrecadação e recolhimento?',
-            verso: 'ARRECADAÇÃO: contribuinte paga ao agente arrecadador (banco). RECOLHIMENTO: agente transfere os recursos ao Tesouro (conta única). Arrecadação vem ANTES.',
-            tags: ['arrecadação', 'recolhimento'],
-            dificuldade: 'medio',
+            id: "ap-fc-16-5",
+            frente: "Qual a diferença entre arrecadação e recolhimento?",
+            verso:
+              "ARRECADAÇÃO: contribuinte paga ao agente arrecadador (banco). RECOLHIMENTO: agente transfere os recursos ao Tesouro (conta única). Arrecadação vem ANTES.",
+            tags: ["arrecadação", "recolhimento"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9660,11 +10548,12 @@ Receitas que NÃO aumentam o patrimônio líquido (geram contrapartida no passiv
             erros: 0,
           },
           {
-            id: 'ap-fc-16-6',
-            frente: 'Quais são as modalidades de lançamento tributário?',
-            verso: 'DE OFÍCIO: autoridade faz tudo (IPTU, IPVA). POR DECLARAÇÃO: contribuinte informa, autoridade lança (ITBI). POR HOMOLOGAÇÃO: contribuinte calcula e paga (IR, ICMS).',
-            tags: ['lançamento', 'modalidades'],
-            dificuldade: 'medio',
+            id: "ap-fc-16-6",
+            frente: "Quais são as modalidades de lançamento tributário?",
+            verso:
+              "DE OFÍCIO: autoridade faz tudo (IPTU, IPVA). POR DECLARAÇÃO: contribuinte informa, autoridade lança (ITBI). POR HOMOLOGAÇÃO: contribuinte calcula e paga (IR, ICMS).",
+            tags: ["lançamento", "modalidades"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9672,11 +10561,12 @@ Receitas que NÃO aumentam o patrimônio líquido (geram contrapartida no passiv
             erros: 0,
           },
           {
-            id: 'ap-fc-16-7',
-            frente: 'Operação de crédito é receita corrente ou de capital?',
-            verso: 'Receita de CAPITAL. Operações de crédito (empréstimos) geram aumento do passivo, portanto NÃO aumentam o patrimônio líquido.',
-            tags: ['operação de crédito', 'capital'],
-            dificuldade: 'facil',
+            id: "ap-fc-16-7",
+            frente: "Operação de crédito é receita corrente ou de capital?",
+            verso:
+              "Receita de CAPITAL. Operações de crédito (empréstimos) geram aumento do passivo, portanto NÃO aumentam o patrimônio líquido.",
+            tags: ["operação de crédito", "capital"],
+            dificuldade: "facil",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9684,11 +10574,12 @@ Receitas que NÃO aumentam o patrimônio líquido (geram contrapartida no passiv
             erros: 0,
           },
           {
-            id: 'ap-fc-16-8',
-            frente: 'O que é a dívida ativa?',
-            verso: 'Créditos públicos NÃO PAGOS no vencimento, após esgotada a via administrativa. É inscrita e gera Certidão de Dívida Ativa (CDA), que permite execução fiscal.',
-            tags: ['dívida ativa', 'conceito'],
-            dificuldade: 'medio',
+            id: "ap-fc-16-8",
+            frente: "O que é a dívida ativa?",
+            verso:
+              "Créditos públicos NÃO PAGOS no vencimento, após esgotada a via administrativa. É inscrita e gera Certidão de Dívida Ativa (CDA), que permite execução fiscal.",
+            tags: ["dívida ativa", "conceito"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9696,11 +10587,12 @@ Receitas que NÃO aumentam o patrimônio líquido (geram contrapartida no passiv
             erros: 0,
           },
           {
-            id: 'ap-fc-16-9',
-            frente: 'Quais são as origens das receitas de capital?',
-            verso: 'OPERA ALI AMOR: Operações de crédito, Alienação de bens, Amortização de empréstimos concedidos, Transferências de capital, Outras receitas de capital.',
-            tags: ['capital', 'origens'],
-            dificuldade: 'medio',
+            id: "ap-fc-16-9",
+            frente: "Quais são as origens das receitas de capital?",
+            verso:
+              "OPERA ALI AMOR: Operações de crédito, Alienação de bens, Amortização de empréstimos concedidos, Transferências de capital, Outras receitas de capital.",
+            tags: ["capital", "origens"],
+            dificuldade: "medio",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9708,11 +10600,13 @@ Receitas que NÃO aumentam o patrimônio líquido (geram contrapartida no passiv
             erros: 0,
           },
           {
-            id: 'ap-fc-16-10',
-            frente: 'A receita tributária é classificada como corrente ou de capital?',
-            verso: 'CORRENTE. Receitas tributárias (impostos, taxas, contribuições de melhoria) são receitas correntes pois AUMENTAM o patrimônio líquido do ente.',
-            tags: ['tributária', 'corrente'],
-            dificuldade: 'facil',
+            id: "ap-fc-16-10",
+            frente:
+              "A receita tributária é classificada como corrente ou de capital?",
+            verso:
+              "CORRENTE. Receitas tributárias (impostos, taxas, contribuições de melhoria) são receitas correntes pois AUMENTAM o patrimônio líquido do ente.",
+            tags: ["tributária", "corrente"],
+            dificuldade: "facil",
             caixa: 1,
             proximaRevisao: null,
             ultimaRevisao: null,
@@ -9723,174 +10617,1479 @@ Receitas que NÃO aumentam o patrimônio líquido (geram contrapartida no passiv
 
         questoes: [
           {
-            id: 'ap-q-16-1',
-            enunciado: 'Os estágios da receita pública, na ordem correta, são:',
+            id: "ap-q-16-1",
+            enunciado: "Os estágios da receita pública, na ordem correta, são:",
             alternativas: [
-              { letra: 'A', texto: 'lançamento, previsão, arrecadação e recolhimento.' },
-              { letra: 'B', texto: 'previsão, lançamento, arrecadação e recolhimento.' },
-              { letra: 'C', texto: 'arrecadação, lançamento, previsão e recolhimento.' },
-              { letra: 'D', texto: 'recolhimento, arrecadação, lançamento e previsão.' },
-              { letra: 'E', texto: 'previsão, arrecadação, lançamento e recolhimento.' },
+              {
+                letra: "A",
+                texto: "lançamento, previsão, arrecadação e recolhimento.",
+              },
+              {
+                letra: "B",
+                texto: "previsão, lançamento, arrecadação e recolhimento.",
+              },
+              {
+                letra: "C",
+                texto: "arrecadação, lançamento, previsão e recolhimento.",
+              },
+              {
+                letra: "D",
+                texto: "recolhimento, arrecadação, lançamento e previsão.",
+              },
+              {
+                letra: "E",
+                texto: "previsão, arrecadação, lançamento e recolhimento.",
+              },
             ],
-            gabarito: 'B',
-            justificativa: 'Os estágios da receita são PLAR: PREVISÃO, LANÇAMENTO, ARRECADAÇÃO e RECOLHIMENTO, nesta ordem.',
-            dificuldade: 'Fácil',
-            competencia: 'Estágios da receita',
-            banca: 'IADES',
-            tags: ['estágios', 'ordem'],
+            gabarito: "B",
+            justificativa:
+              "Os estágios da receita são PLAR: PREVISÃO, LANÇAMENTO, ARRECADAÇÃO e RECOLHIMENTO, nesta ordem.",
+            dificuldade: "Fácil",
+            competencia: "Estágios da receita",
+            banca: "IADES",
+            tags: ["estágios", "ordem"],
           },
           {
-            id: 'ap-q-16-2',
-            enunciado: 'São classificadas como receitas correntes:',
+            id: "ap-q-16-2",
+            enunciado: "São classificadas como receitas correntes:",
             alternativas: [
-              { letra: 'A', texto: 'operações de crédito e alienação de bens.' },
-              { letra: 'B', texto: 'tributárias, patrimoniais e de serviços.' },
-              { letra: 'C', texto: 'amortização de empréstimos e transferências de capital.' },
-              { letra: 'D', texto: 'alienação de bens e receitas industriais.' },
-              { letra: 'E', texto: 'operações de crédito e contribuições.' },
+              {
+                letra: "A",
+                texto: "operações de crédito e alienação de bens.",
+              },
+              { letra: "B", texto: "tributárias, patrimoniais e de serviços." },
+              {
+                letra: "C",
+                texto:
+                  "amortização de empréstimos e transferências de capital.",
+              },
+              {
+                letra: "D",
+                texto: "alienação de bens e receitas industriais.",
+              },
+              { letra: "E", texto: "operações de crédito e contribuições." },
             ],
-            gabarito: 'B',
-            justificativa: 'Receitas CORRENTES: tributárias, contribuições, patrimoniais, agropecuárias, industriais, serviços, transferências correntes. Operações de crédito e alienações são de CAPITAL.',
-            dificuldade: 'Fácil',
-            competencia: 'Receitas correntes',
-            banca: 'IADES',
-            tags: ['correntes', 'classificação'],
+            gabarito: "B",
+            justificativa:
+              "Receitas CORRENTES: tributárias, contribuições, patrimoniais, agropecuárias, industriais, serviços, transferências correntes. Operações de crédito e alienações são de CAPITAL.",
+            dificuldade: "Fácil",
+            competencia: "Receitas correntes",
+            banca: "IADES",
+            tags: ["correntes", "classificação"],
           },
           {
-            id: 'ap-q-16-3',
-            enunciado: 'A receita extraorçamentária caracteriza-se por:',
+            id: "ap-q-16-3",
+            enunciado: "A receita extraorçamentária caracteriza-se por:",
             alternativas: [
-              { letra: 'A', texto: 'estar prevista na LOA.' },
-              { letra: 'B', texto: 'aumentar o patrimônio líquido do ente.' },
-              { letra: 'C', texto: 'não estar prevista no orçamento e gerar obrigação de devolução.' },
-              { letra: 'D', texto: 'ser de natureza tributária.' },
-              { letra: 'E', texto: 'decorrer de transferências constitucionais.' },
+              { letra: "A", texto: "estar prevista na LOA." },
+              { letra: "B", texto: "aumentar o patrimônio líquido do ente." },
+              {
+                letra: "C",
+                texto:
+                  "não estar prevista no orçamento e gerar obrigação de devolução.",
+              },
+              { letra: "D", texto: "ser de natureza tributária." },
+              {
+                letra: "E",
+                texto: "decorrer de transferências constitucionais.",
+              },
             ],
-            gabarito: 'C',
-            justificativa: 'Receita extraorçamentária NÃO está prevista no orçamento e gera obrigação de DEVOLUÇÃO. Ex: caução, depósitos, ARO.',
-            dificuldade: 'Média',
-            competencia: 'Receita extraorçamentária',
-            banca: 'IADES',
-            tags: ['extraorçamentária', 'conceito'],
+            gabarito: "C",
+            justificativa:
+              "Receita extraorçamentária NÃO está prevista no orçamento e gera obrigação de DEVOLUÇÃO. Ex: caução, depósitos, ARO.",
+            dificuldade: "Média",
+            competencia: "Receita extraorçamentária",
+            banca: "IADES",
+            tags: ["extraorçamentária", "conceito"],
           },
           {
-            id: 'ap-q-16-4',
-            enunciado: 'O estágio da receita em que o contribuinte efetua o pagamento ao agente arrecadador é a:',
+            id: "ap-q-16-4",
+            enunciado:
+              "O estágio da receita em que o contribuinte efetua o pagamento ao agente arrecadador é a:",
             alternativas: [
-              { letra: 'A', texto: 'previsão.' },
-              { letra: 'B', texto: 'lançamento.' },
-              { letra: 'C', texto: 'arrecadação.' },
-              { letra: 'D', texto: 'recolhimento.' },
-              { letra: 'E', texto: 'liquidação.' },
+              { letra: "A", texto: "previsão." },
+              { letra: "B", texto: "lançamento." },
+              { letra: "C", texto: "arrecadação." },
+              { letra: "D", texto: "recolhimento." },
+              { letra: "E", texto: "liquidação." },
             ],
-            gabarito: 'C',
-            justificativa: 'A ARRECADAÇÃO é o estágio em que o contribuinte efetua o pagamento ao agente arrecadador (banco, lotérica). O RECOLHIMENTO é a transferência ao Tesouro.',
-            dificuldade: 'Fácil',
-            competencia: 'Estágio da arrecadação',
-            banca: 'IADES',
-            tags: ['arrecadação', 'estágio'],
+            gabarito: "C",
+            justificativa:
+              "A ARRECADAÇÃO é o estágio em que o contribuinte efetua o pagamento ao agente arrecadador (banco, lotérica). O RECOLHIMENTO é a transferência ao Tesouro.",
+            dificuldade: "Fácil",
+            competencia: "Estágio da arrecadação",
+            banca: "IADES",
+            tags: ["arrecadação", "estágio"],
           },
           {
-            id: 'ap-q-16-5',
-            enunciado: 'As receitas de capital caracterizam-se por:',
+            id: "ap-q-16-5",
+            enunciado: "As receitas de capital caracterizam-se por:",
             alternativas: [
-              { letra: 'A', texto: 'aumentarem o patrimônio líquido do ente.' },
-              { letra: 'B', texto: 'não aumentarem o patrimônio líquido do ente.' },
-              { letra: 'C', texto: 'serem exclusivamente tributárias.' },
-              { letra: 'D', texto: 'decorrerem apenas de serviços públicos.' },
-              { letra: 'E', texto: 'serem sempre extraorçamentárias.' },
+              { letra: "A", texto: "aumentarem o patrimônio líquido do ente." },
+              {
+                letra: "B",
+                texto: "não aumentarem o patrimônio líquido do ente.",
+              },
+              { letra: "C", texto: "serem exclusivamente tributárias." },
+              { letra: "D", texto: "decorrerem apenas de serviços públicos." },
+              { letra: "E", texto: "serem sempre extraorçamentárias." },
             ],
-            gabarito: 'B',
-            justificativa: 'Receitas de CAPITAL NÃO aumentam o patrimônio líquido. Ex: operações de crédito (geram passivo), alienação (reduzem ativo).',
-            dificuldade: 'Fácil',
-            competencia: 'Receitas de capital',
-            banca: 'IADES',
-            tags: ['capital', 'patrimônio'],
+            gabarito: "B",
+            justificativa:
+              "Receitas de CAPITAL NÃO aumentam o patrimônio líquido. Ex: operações de crédito (geram passivo), alienação (reduzem ativo).",
+            dificuldade: "Fácil",
+            competencia: "Receitas de capital",
+            banca: "IADES",
+            tags: ["capital", "patrimônio"],
           },
           {
-            id: 'ap-q-16-6',
-            enunciado: 'São exemplos de receitas de capital:',
+            id: "ap-q-16-6",
+            enunciado: "São exemplos de receitas de capital:",
             alternativas: [
-              { letra: 'A', texto: 'impostos e taxas.' },
-              { letra: 'B', texto: 'contribuições sociais e patrimoniais.' },
-              { letra: 'C', texto: 'operações de crédito e alienação de bens.' },
-              { letra: 'D', texto: 'receitas de serviços e industriais.' },
-              { letra: 'E', texto: 'transferências correntes e tributárias.' },
+              { letra: "A", texto: "impostos e taxas." },
+              { letra: "B", texto: "contribuições sociais e patrimoniais." },
+              {
+                letra: "C",
+                texto: "operações de crédito e alienação de bens.",
+              },
+              { letra: "D", texto: "receitas de serviços e industriais." },
+              { letra: "E", texto: "transferências correntes e tributárias." },
             ],
-            gabarito: 'C',
-            justificativa: 'Receitas de CAPITAL: operações de crédito, alienação de bens, amortização de empréstimos, transferências de capital.',
-            dificuldade: 'Fácil',
-            competencia: 'Receitas de capital',
-            banca: 'IADES',
-            tags: ['capital', 'exemplos'],
+            gabarito: "C",
+            justificativa:
+              "Receitas de CAPITAL: operações de crédito, alienação de bens, amortização de empréstimos, transferências de capital.",
+            dificuldade: "Fácil",
+            competencia: "Receitas de capital",
+            banca: "IADES",
+            tags: ["capital", "exemplos"],
           },
           {
-            id: 'ap-q-16-7',
-            enunciado: 'O lançamento de ofício é caracterizado por:',
+            id: "ap-q-16-7",
+            enunciado: "O lançamento de ofício é caracterizado por:",
             alternativas: [
-              { letra: 'A', texto: 'a autoridade fazer tudo, sem participação do contribuinte.' },
-              { letra: 'B', texto: 'o contribuinte calcular e pagar, aguardando homologação.' },
-              { letra: 'C', texto: 'o contribuinte prestar declaração, e a autoridade lançar.' },
-              { letra: 'D', texto: 'não haver ato formal de lançamento.' },
-              { letra: 'E', texto: 'ser exclusivo para receitas de capital.' },
+              {
+                letra: "A",
+                texto:
+                  "a autoridade fazer tudo, sem participação do contribuinte.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "o contribuinte calcular e pagar, aguardando homologação.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "o contribuinte prestar declaração, e a autoridade lançar.",
+              },
+              { letra: "D", texto: "não haver ato formal de lançamento." },
+              { letra: "E", texto: "ser exclusivo para receitas de capital." },
             ],
-            gabarito: 'A',
-            justificativa: 'No lançamento DE OFÍCIO, a autoridade faz tudo: identifica fato gerador, contribuinte e valor. Ex: IPTU, IPVA.',
-            dificuldade: 'Média',
-            competencia: 'Lançamento de ofício',
-            banca: 'IADES',
-            tags: ['lançamento', 'ofício'],
+            gabarito: "A",
+            justificativa:
+              "No lançamento DE OFÍCIO, a autoridade faz tudo: identifica fato gerador, contribuinte e valor. Ex: IPTU, IPVA.",
+            dificuldade: "Média",
+            competencia: "Lançamento de ofício",
+            banca: "IADES",
+            tags: ["lançamento", "ofício"],
           },
           {
-            id: 'ap-q-16-8',
-            enunciado: 'A transferência dos valores arrecadados para a conta única do Tesouro corresponde ao estágio da:',
+            id: "ap-q-16-8",
+            enunciado:
+              "A transferência dos valores arrecadados para a conta única do Tesouro corresponde ao estágio da:",
             alternativas: [
-              { letra: 'A', texto: 'previsão.' },
-              { letra: 'B', texto: 'lançamento.' },
-              { letra: 'C', texto: 'arrecadação.' },
-              { letra: 'D', texto: 'recolhimento.' },
-              { letra: 'E', texto: 'liquidação.' },
+              { letra: "A", texto: "previsão." },
+              { letra: "B", texto: "lançamento." },
+              { letra: "C", texto: "arrecadação." },
+              { letra: "D", texto: "recolhimento." },
+              { letra: "E", texto: "liquidação." },
             ],
-            gabarito: 'D',
-            justificativa: 'O RECOLHIMENTO é a transferência dos valores arrecadados para a conta única do Tesouro. É o último estágio da receita.',
-            dificuldade: 'Fácil',
-            competencia: 'Estágio do recolhimento',
-            banca: 'IADES',
-            tags: ['recolhimento', 'Tesouro'],
+            gabarito: "D",
+            justificativa:
+              "O RECOLHIMENTO é a transferência dos valores arrecadados para a conta única do Tesouro. É o último estágio da receita.",
+            dificuldade: "Fácil",
+            competencia: "Estágio do recolhimento",
+            banca: "IADES",
+            tags: ["recolhimento", "Tesouro"],
           },
           {
-            id: 'ap-q-16-9',
-            enunciado: 'A dívida ativa é:',
+            id: "ap-q-16-9",
+            enunciado: "A dívida ativa é:",
             alternativas: [
-              { letra: 'A', texto: 'o valor dos empréstimos tomados pelo governo.' },
-              { letra: 'B', texto: 'o crédito público não pago no vencimento, inscrito após via administrativa.' },
-              { letra: 'C', texto: 'a soma das receitas tributárias do exercício.' },
-              { letra: 'D', texto: 'a previsão de receitas para o próximo exercício.' },
-              { letra: 'E', texto: 'o total de transferências recebidas.' },
+              {
+                letra: "A",
+                texto: "o valor dos empréstimos tomados pelo governo.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "o crédito público não pago no vencimento, inscrito após via administrativa.",
+              },
+              {
+                letra: "C",
+                texto: "a soma das receitas tributárias do exercício.",
+              },
+              {
+                letra: "D",
+                texto: "a previsão de receitas para o próximo exercício.",
+              },
+              { letra: "E", texto: "o total de transferências recebidas." },
             ],
-            gabarito: 'B',
-            justificativa: 'Dívida ativa é o crédito público NÃO PAGO no vencimento, inscrito após esgotada a via administrativa. Permite execução fiscal.',
-            dificuldade: 'Média',
-            competencia: 'Dívida ativa',
-            banca: 'IADES',
-            tags: ['dívida ativa', 'conceito'],
+            gabarito: "B",
+            justificativa:
+              "Dívida ativa é o crédito público NÃO PAGO no vencimento, inscrito após esgotada a via administrativa. Permite execução fiscal.",
+            dificuldade: "Média",
+            competencia: "Dívida ativa",
+            banca: "IADES",
+            tags: ["dívida ativa", "conceito"],
           },
           {
-            id: 'ap-q-16-10',
-            enunciado: 'A receita tributária é classificada como:',
+            id: "ap-q-16-10",
+            enunciado: "A receita tributária é classificada como:",
             alternativas: [
-              { letra: 'A', texto: 'receita de capital.' },
-              { letra: 'B', texto: 'receita corrente.' },
-              { letra: 'C', texto: 'receita extraorçamentária.' },
-              { letra: 'D', texto: 'ingresso de terceiros.' },
-              { letra: 'E', texto: 'operação de crédito.' },
+              { letra: "A", texto: "receita de capital." },
+              { letra: "B", texto: "receita corrente." },
+              { letra: "C", texto: "receita extraorçamentária." },
+              { letra: "D", texto: "ingresso de terceiros." },
+              { letra: "E", texto: "operação de crédito." },
             ],
-            gabarito: 'B',
-            justificativa: 'Receita tributária (impostos, taxas, contribuições de melhoria) é receita CORRENTE, pois aumenta o patrimônio líquido do ente.',
-            dificuldade: 'Fácil',
-            competencia: 'Classificação tributária',
-            banca: 'IADES',
-            tags: ['tributária', 'corrente'],
+            gabarito: "B",
+            justificativa:
+              "Receita tributária (impostos, taxas, contribuições de melhoria) é receita CORRENTE, pois aumenta o patrimônio líquido do ente.",
+            dificuldade: "Fácil",
+            competencia: "Classificação tributária",
+            banca: "IADES",
+            tags: ["tributária", "corrente"],
+          },
+        ],
+      },
+    },
+    {
+      id: "ap-topico-17",
+      numero: 17,
+      titulo: "Despesa Pública: conceitos, classificação e estágios",
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Conceito de Despesa Pública
+
+**Despesa pública** é o conjunto de dispêndios realizados pelo Estado para o funcionamento dos serviços públicos e atendimento das necessidades coletivas.
+
+### Classificações da Despesa
+
+| Critério | Tipos |
+|----------|-------|
+| **Quanto à categoria econômica** | Corrente e Capital |
+| **Quanto ao grupo** | Pessoal, Juros, Outras Correntes, Investimentos, Inversões, Amortização |
+| **Quanto à natureza** | Orçamentária e Extraorçamentária |
+| **Institucional** | Por órgão/unidade orçamentária |
+| **Funcional** | Por função e subfunção |
+| **Programática** | Por programa, ação, subtítulo |
+
+### Despesas CORRENTES vs CAPITAL
+
+| CORRENTES | CAPITAL |
+|-----------|---------|
+| Não aumentam patrimônio | Aumentam patrimônio |
+| Manutenção da máquina | Investimentos/expansão |
+| Pessoal, custeio, juros | Obras, equipamentos, amortização |
+
+### Estágios da Despesa - FELP
+
+| Estágio | Descrição | Documento |
+|---------|-----------|-----------|
+| **F**ixação | Definição na LOA | LOA |
+| **E**mpenho | Compromisso de pagamento | Nota de Empenho |
+| **L**iquidação | Verificação do direito | Nota de Liquidação |
+| **P**agamento | Entrega do numerário | Ordem de Pagamento |
+
+### Para IADES - Memorize:
+- FELP = Fixação, Empenho, Liquidação, Pagamento
+- Empenho = cria OBRIGAÇÃO de pagar
+- Liquidação = verifica DIREITO do credor
+- Pagamento = EXTINÇÃO da obrigação
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Conceito de Despesa Pública
+
+**Despesa pública** é todo dispêndio de recursos do erário para:
+- Manutenção dos serviços públicos
+- Pagamento de pessoal
+- Realização de investimentos
+- Pagamento de dívidas
+- Transferências a outras entidades
+
+#### Sentidos de Despesa Pública
+
+| Sentido | Conceito |
+|---------|----------|
+| **Amplo** | Toda saída de recursos dos cofres públicos |
+| **Estrito** | Somente os gastos fixados na LOA |
+
+### 2. Classificação da Despesa Pública
+
+#### 2.1 Quanto à NATUREZA
+
+| Tipo | Características | Exemplos |
+|------|-----------------|----------|
+| **Orçamentária** | Prevista no orçamento, depende de autorização legislativa | Pessoal, serviços, obras |
+| **Extraorçamentária** | Não consta no orçamento, são restituições | Cauções, depósitos, consignações |
+
+#### 2.2 Quanto à CATEGORIA ECONÔMICA (Lei 4.320/64)
+
+##### Despesas CORRENTES
+
+São despesas que **NÃO contribuem** diretamente para aquisição ou formação de bem de capital.
+
+| Grupo | Descrição | Exemplos |
+|-------|-----------|----------|
+| **Pessoal e Encargos** | Remuneração dos agentes | Salários, 13º, férias, INSS |
+| **Juros e Encargos** | Dívida pública | Juros, comissões, taxas |
+| **Outras Despesas Correntes** | Manutenção | Material de consumo, diárias, serviços |
+
+##### Despesas de CAPITAL
+
+São despesas que **contribuem** diretamente para aquisição ou formação de bem de capital.
+
+| Grupo | Descrição | Exemplos |
+|-------|-----------|----------|
+| **Investimentos** | Aumento de patrimônio | Obras, equipamentos, instalações |
+| **Inversões Financeiras** | Aquisição de bens já existentes | Aquisição de imóveis, títulos, ações |
+| **Amortização da Dívida** | Pagamento do principal | Amortização de empréstimos |
+
+#### Macete: CORRENTE x CAPITAL
+
+\`\`\`
+CORRENTE = ConSome (material de CONSUMO, manutenção)
+CAPITAL = ConStruir (construção, patrimônio permanente)
+\`\`\`
+
+#### 2.3 Classificação FUNCIONAL
+
+Identifica em **qual área** a despesa será realizada.
+
+| Elemento | Descrição | Exemplo |
+|----------|-----------|---------|
+| **Função** | Maior agregação das áreas | 10 - Saúde |
+| **Subfunção** | Partição da função | 301 - Atenção Básica |
+
+**Funções de Governo (principais):**
+- 01 - Legislativa
+- 04 - Administração
+- 10 - Saúde
+- 12 - Educação
+- 06 - Segurança Pública
+
+#### 2.4 Classificação INSTITUCIONAL
+
+Identifica **quem** é responsável pela despesa.
+
+| Elemento | Descrição | Exemplo |
+|----------|-----------|---------|
+| **Órgão** | Ministério, Secretaria | 36000 - Ministério da Saúde |
+| **Unidade Orçamentária** | Subdivisão do órgão | 36201 - ANVISA |
+
+#### 2.5 Classificação PROGRAMÁTICA
+
+Identifica **para quê** a despesa será realizada.
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Programa** | Conjunto de ações para objetivo comum |
+| **Ação** | Operação que resulta em produto |
+| **Subtítulo** | Localização geográfica |
+
+### 3. Estágios da Despesa Pública
+
+A despesa passa por **quatro estágios** obrigatórios: **FELP**
+
+#### 3.1 FIXAÇÃO
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Conceito** | Estabelecimento da dotação na LOA |
+| **Momento** | Fase de elaboração orçamentária |
+| **Característica** | Define o limite máximo de gasto |
+| **Documento** | Lei Orçamentária Anual |
+
+**Importante:** A LOA fixa as despesas (limite máximo) e estima as receitas.
+
+#### 3.2 EMPENHO (Art. 58-60, Lei 4.320/64)
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Conceito** | Ato que cria para o Estado obrigação de pagamento |
+| **Natureza** | **Primeiro estágio da execução** |
+| **Documento** | Nota de Empenho |
+| **Efeito** | Reserva de dotação orçamentária |
+
+**É VEDADO realizar despesa sem prévio empenho!** (Art. 60, Lei 4.320/64)
+
+##### Modalidades de Empenho
+
+| Modalidade | Característica | Exemplo |
+|------------|----------------|---------|
+| **Ordinário** | Valor exato e conhecido, pagamento único | Compra de equipamento |
+| **Estimativo** | Valor não pode ser previamente determinado | Água, luz, telefone |
+| **Global** | Valor determinado, pagamento parcelado | Contrato de serviços |
+
+#### 3.3 LIQUIDAÇÃO (Art. 62-63, Lei 4.320/64)
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Conceito** | Verificação do direito adquirido pelo credor |
+| **Objetivo** | Apurar origem, objeto e valor exato |
+| **Verificação** | Entrega do bem/serviço conforme contrato |
+| **Documento** | Ateste, nota fiscal, nota de liquidação |
+
+**Na liquidação, verifica-se:**
+1. Origem e objeto do que se deve pagar
+2. Importância exata a pagar
+3. A quem se deve pagar
+
+#### 3.4 PAGAMENTO (Art. 64-65, Lei 4.320/64)
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Conceito** | Entrega do numerário ao credor |
+| **Condição** | Após regular liquidação |
+| **Efeito** | Extinção da obrigação |
+| **Documento** | Ordem de pagamento |
+
+**Ordem de pagamento** = despacho da autoridade ordenando o pagamento.
+
+### 4. Quadro Resumo dos Estágios - FELP
+
+| Estágio | O que faz | Pergunta-chave | Documento |
+|---------|-----------|----------------|-----------|
+| **Fixação** | Autoriza a despesa | Quanto PODE gastar? | LOA |
+| **Empenho** | Reserva o crédito | Quanto VAI gastar? | Nota de Empenho |
+| **Liquidação** | Confirma o direito | O credor ENTREGOU? | Ateste/NL |
+| **Pagamento** | Extingue a obrigação | Credor RECEBEU? | Ordem Pagamento |
+
+### 5. Créditos Adicionais
+
+Quando a dotação é insuficiente ou inexistente:
+
+| Tipo | Autorização | Abertura | Quando usar |
+|------|-------------|----------|-------------|
+| **Suplementar** | Lei (pode LOA) | Decreto | Reforço de dotação |
+| **Especial** | Lei específica | Decreto | Despesa sem dotação |
+| **Extraordinário** | MP ou Decreto | Ato próprio | Guerra, calamidade, comoção |
+
+### 6. Despesa Pública e Vigilância Sanitária
+
+| Classificação | Aplicação na VISA |
+|---------------|-------------------|
+| **Funcional** | 10 - Saúde / 304 - Vigilância Sanitária |
+| **Institucional** | SES-GO, VISA Municipal, ANVISA |
+| **Econômica** | Pessoal (corrente), Equipamentos (capital) |
+        `,
+
+        pontosChave: [
+          "Despesa pública = dispêndios do Estado para serviços públicos e necessidades coletivas",
+          "Classificação econômica: CORRENTES (manutenção) e CAPITAL (patrimônio)",
+          "Despesas CORRENTES: pessoal, juros, outras correntes (não aumentam patrimônio)",
+          "Despesas de CAPITAL: investimentos, inversões, amortização (aumentam patrimônio)",
+          "Estágios da despesa: FELP (Fixação, Empenho, Liquidação, Pagamento)",
+          "FIXAÇÃO: autorização na LOA (limite máximo)",
+          "EMPENHO: cria obrigação de pagamento (é VEDADO despesa sem empenho)",
+          "Empenho: ordinário (valor exato), estimativo (variável), global (parcelado)",
+          "LIQUIDAÇÃO: verifica direito do credor (entrega do bem/serviço)",
+          "PAGAMENTO: extinção da obrigação (entrega do dinheiro)",
+          "Créditos adicionais: suplementar, especial, extraordinário",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir estágios da RECEITA com DESPESA",
+            descricao: "Receita: PLAR (Previsão, Lançamento, Arrecadação, Recolhimento). Despesa: FELP.",
+            dica: "Receita = PLAR, Despesa = FELP",
+          },
+          {
+            titulo: "Achar que empenho é o pagamento",
+            descricao: "EMPENHO apenas cria a obrigação. PAGAMENTO é a extinção da obrigação.",
+            dica: "Empenho = compromisso. Pagamento = quitação.",
+          },
+          {
+            titulo: "Confundir liquidação com pagamento",
+            descricao: "LIQUIDAÇÃO verifica o direito. PAGAMENTO entrega o dinheiro.",
+            dica: "Liquidação = conferência. Pagamento = dinheiro na conta.",
+          },
+          {
+            titulo: "Investimento x Inversão Financeira",
+            descricao: "INVESTIMENTO cria bem novo. INVERSÃO adquire bem já existente.",
+            dica: "Obra nova = investimento. Comprar imóvel pronto = inversão.",
+          },
+          {
+            titulo: "Empenho estimativo x global",
+            descricao: "ESTIMATIVO: valor incerto. GLOBAL: valor certo, pagamento parcelado.",
+            dica: "Conta de luz = estimativo. Contrato anual = global.",
+          },
+          {
+            titulo: "Crédito especial x suplementar",
+            descricao: "SUPLEMENTAR reforça dotação existente. ESPECIAL cria dotação nova.",
+            dica: "Já existe mas falta = suplementar. Não existe = especial.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "FELP",
+            significado: "Estágios da Despesa",
+            frase: "Fixação, Empenho, Liquidação, Pagamento",
+          },
+          {
+            termo: "PLAR x FELP",
+            significado: "Receita x Despesa",
+            frase: "Receita = PLAR (entra). Despesa = FELP (sai).",
+          },
+          {
+            termo: "E-L-P",
+            significado: "Execução da despesa",
+            frase: "Empenhar → Liquidar → Pagar (nessa ordem, sempre!)",
+          },
+          {
+            termo: "Corrente = Consome",
+            significado: "Despesa corrente",
+            frase: "Despesa Corrente = material de CONSumo, manutenção",
+          },
+          {
+            termo: "Capital = Constrói",
+            significado: "Despesa de capital",
+            frase: "Despesa de Capital = CONSTRói patrimônio",
+          },
+          {
+            termo: "OEG",
+            significado: "Modalidades de empenho",
+            frase: "Ordinário (exato), Estimativo (variável), Global (parcelado)",
+          },
+          {
+            termo: "SEE",
+            significado: "Créditos adicionais",
+            frase: "Suplementar (reforço), Especial (novo), Extraordinário (urgente)",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "ap-fc-17-1",
+            frente: "Quais são os ESTÁGIOS da despesa pública?",
+            verso: "**FELP:**\\n\\n1. **F**ixação - autorização na LOA\\n2. **E**mpenho - cria obrigação\\n3. **L**iquidação - verifica direito\\n4. **P**agamento - extingue obrigação",
+            tags: ["estágios", "despesa", "FELP"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-17-2",
+            frente: "O que é o EMPENHO?",
+            verso: "É o ato emanado de autoridade competente que **cria para o Estado obrigação de pagamento**.\\n\\n- Primeiro estágio da EXECUÇÃO\\n- Documento: Nota de Empenho\\n- É VEDADO despesa sem prévio empenho\\n\\nModalidades: Ordinário, Estimativo, Global",
+            tags: ["empenho", "conceito"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-17-3",
+            frente: "Quais são as MODALIDADES de empenho?",
+            verso: "**OEG:**\\n\\n1. **Ordinário**: valor exato, pagamento único\\n   Ex: compra de computador\\n\\n2. **Estimativo**: valor não determinável\\n   Ex: conta de luz, água\\n\\n3. **Global**: valor determinado, pagamento parcelado\\n   Ex: contrato de 12 meses",
+            tags: ["empenho", "modalidades"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-17-4",
+            frente: "O que é a LIQUIDAÇÃO da despesa?",
+            verso: "É a verificação do **direito adquirido pelo credor**.\\n\\nVerifica-se:\\n- Origem e objeto do que se deve pagar\\n- Importância exata a pagar\\n- A quem se deve pagar\\n\\nComprova-se a entrega do bem/serviço.",
+            tags: ["liquidação", "conceito"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-17-5",
+            frente: "Qual a diferença entre despesas CORRENTES e de CAPITAL?",
+            verso: "**CORRENTES:**\\n- NÃO aumentam patrimônio\\n- Manutenção da máquina\\n- Ex: pessoal, juros, material de consumo\\n\\n**CAPITAL:**\\n- AUMENTAM patrimônio\\n- Investimentos/expansão\\n- Ex: obras, equipamentos, amortização",
+            tags: ["corrente", "capital", "diferença"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-17-6",
+            frente: "Qual a diferença entre INVESTIMENTO e INVERSÃO FINANCEIRA?",
+            verso: "**INVESTIMENTO:**\\n- Cria bem NOVO\\n- Aumenta a produção\\n- Ex: construir prédio, comprar máquina nova\\n\\n**INVERSÃO FINANCEIRA:**\\n- Adquire bem JÁ existente\\n- Não aumenta produção\\n- Ex: comprar imóvel pronto, ações",
+            tags: ["investimento", "inversão", "diferença"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-17-7",
+            frente: "Quais são os tipos de CRÉDITOS ADICIONAIS?",
+            verso: "**SEE:**\\n\\n1. **Suplementar**: reforço de dotação existente\\n2. **Especial**: despesa sem dotação (nova)\\n3. **Extraordinário**: guerra, calamidade, comoção\\n\\nSupl/Especial = Lei + Decreto\\nExtraordinário = MP ou Decreto",
+            tags: ["créditos adicionais", "tipos"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-17-8",
+            frente: "Quais são os grupos de despesas CORRENTES?",
+            verso: "1. **Pessoal e Encargos Sociais**\\n   Salários, 13º, INSS, FGTS\\n\\n2. **Juros e Encargos da Dívida**\\n   Juros, comissões, taxas\\n\\n3. **Outras Despesas Correntes**\\n   Material de consumo, diárias, passagens, serviços",
+            tags: ["correntes", "grupos"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-17-9",
+            frente: "Quais são os grupos de despesas de CAPITAL?",
+            verso: "1. **Investimentos**\\n   Obras, equipamentos, instalações (NOVOS)\\n\\n2. **Inversões Financeiras**\\n   Aquisição de bens já existentes, títulos, ações\\n\\n3. **Amortização da Dívida**\\n   Pagamento do principal dos empréstimos",
+            tags: ["capital", "grupos"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-17-10",
+            frente: "O que é a classificação FUNCIONAL da despesa?",
+            verso: "Identifica em **qual área** a despesa será realizada.\\n\\n- **Função**: maior agregação (ex: 10-Saúde)\\n- **Subfunção**: partição da função (ex: 304-Vigilância Sanitária)\\n\\nFunções principais: Legislativa, Administração, Saúde, Educação, Segurança",
+            tags: ["funcional", "classificação"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "ap-q-17-1",
+            enunciado: "Os estágios da despesa pública, em sua ordem correta, são:",
+            alternativas: [
+              { letra: "A", texto: "empenho, liquidação, fixação e pagamento." },
+              { letra: "B", texto: "fixação, empenho, liquidação e pagamento." },
+              { letra: "C", texto: "previsão, lançamento, arrecadação e recolhimento." },
+              { letra: "D", texto: "liquidação, empenho, pagamento e fixação." },
+              { letra: "E", texto: "pagamento, fixação, empenho e liquidação." },
+            ],
+            gabarito: "B",
+            justificativa: "Os estágios da DESPESA são: FELP - Fixação, Empenho, Liquidação e Pagamento (nessa ordem). A alternativa C refere-se aos estágios da RECEITA (PLAR).",
+            dificuldade: "Fácil",
+            competencia: "Estágios da despesa",
+            banca: "IADES",
+            tags: ["estágios", "FELP"],
+          },
+          {
+            id: "ap-q-17-2",
+            enunciado: "O empenho da despesa pública é:",
+            alternativas: [
+              { letra: "A", texto: "a entrega do numerário ao credor." },
+              { letra: "B", texto: "o ato que cria para o Estado obrigação de pagamento." },
+              { letra: "C", texto: "a verificação do direito adquirido pelo credor." },
+              { letra: "D", texto: "a autorização da despesa na Lei Orçamentária." },
+              { letra: "E", texto: "a extinção da obrigação do Estado." },
+            ],
+            gabarito: "B",
+            justificativa: "Empenho é o ato emanado de autoridade competente que cria para o Estado OBRIGAÇÃO de pagamento. A = pagamento, C = liquidação, D = fixação, E = pagamento.",
+            dificuldade: "Fácil",
+            competencia: "Conceito de empenho",
+            banca: "IADES",
+            tags: ["empenho", "conceito"],
+          },
+          {
+            id: "ap-q-17-3",
+            enunciado: "São modalidades de empenho, EXCETO:",
+            alternativas: [
+              { letra: "A", texto: "ordinário." },
+              { letra: "B", texto: "estimativo." },
+              { letra: "C", texto: "global." },
+              { letra: "D", texto: "parcelado." },
+              { letra: "E", texto: "todos são modalidades de empenho." },
+            ],
+            gabarito: "D",
+            justificativa: "As modalidades de empenho são: ORDINÁRIO (valor exato, pagamento único), ESTIMATIVO (valor variável) e GLOBAL (valor certo, pagamento parcelado). 'Parcelado' não é modalidade de empenho.",
+            dificuldade: "Média",
+            competencia: "Modalidades de empenho",
+            banca: "IADES",
+            tags: ["empenho", "modalidades"],
+          },
+          {
+            id: "ap-q-17-4",
+            enunciado: "A liquidação da despesa consiste na:",
+            alternativas: [
+              { letra: "A", texto: "autorização para realização da despesa." },
+              { letra: "B", texto: "criação de obrigação de pagamento." },
+              { letra: "C", texto: "verificação do direito adquirido pelo credor." },
+              { letra: "D", texto: "entrega do numerário ao credor." },
+              { letra: "E", texto: "reserva de dotação orçamentária." },
+            ],
+            gabarito: "C",
+            justificativa: "A LIQUIDAÇÃO é a verificação do direito adquirido pelo credor, tendo por base os títulos e documentos comprobatórios do crédito (art. 63, Lei 4.320/64).",
+            dificuldade: "Fácil",
+            competencia: "Conceito de liquidação",
+            banca: "IADES",
+            tags: ["liquidação", "conceito"],
+          },
+          {
+            id: "ap-q-17-5",
+            enunciado: "As despesas com pessoal e encargos sociais classificam-se como despesas:",
+            alternativas: [
+              { letra: "A", texto: "de capital - investimentos." },
+              { letra: "B", texto: "de capital - inversões financeiras." },
+              { letra: "C", texto: "correntes." },
+              { letra: "D", texto: "extraorçamentárias." },
+              { letra: "E", texto: "de capital - amortização da dívida." },
+            ],
+            gabarito: "C",
+            justificativa: "Despesas com Pessoal e Encargos Sociais são despesas CORRENTES, pois não contribuem para aumento do patrimônio. São despesas de manutenção da máquina pública.",
+            dificuldade: "Fácil",
+            competencia: "Classificação econômica",
+            banca: "IADES",
+            tags: ["pessoal", "corrente"],
+          },
+          {
+            id: "ap-q-17-6",
+            enunciado: "A construção de uma nova sede para um órgão público é classificada como despesa de:",
+            alternativas: [
+              { letra: "A", texto: "custeio." },
+              { letra: "B", texto: "inversão financeira." },
+              { letra: "C", texto: "investimento." },
+              { letra: "D", texto: "transferência de capital." },
+              { letra: "E", texto: "amortização da dívida." },
+            ],
+            gabarito: "C",
+            justificativa: "Construção de nova sede é INVESTIMENTO (despesa de capital), pois cria bem NOVO, aumentando o patrimônio público. Inversão financeira seria a COMPRA de imóvel já existente.",
+            dificuldade: "Média",
+            competencia: "Investimento x Inversão",
+            banca: "IADES",
+            tags: ["investimento", "capital"],
+          },
+          {
+            id: "ap-q-17-7",
+            enunciado: "O empenho utilizado para despesas cujo montante não pode ser previamente determinado, como contas de água e energia elétrica, denomina-se:",
+            alternativas: [
+              { letra: "A", texto: "ordinário." },
+              { letra: "B", texto: "global." },
+              { letra: "C", texto: "estimativo." },
+              { letra: "D", texto: "especial." },
+              { letra: "E", texto: "suplementar." },
+            ],
+            gabarito: "C",
+            justificativa: "O empenho ESTIMATIVO é usado quando o valor não pode ser previamente determinado (variável). Exemplos: água, luz, telefone. Ordinário = valor exato. Global = valor certo, pagamento parcelado.",
+            dificuldade: "Média",
+            competencia: "Empenho estimativo",
+            banca: "IADES",
+            tags: ["estimativo", "empenho"],
+          },
+          {
+            id: "ap-q-17-8",
+            enunciado: "Sobre os créditos adicionais, é CORRETO afirmar:",
+            alternativas: [
+              { letra: "A", texto: "o crédito suplementar destina-se a despesas sem dotação orçamentária." },
+              { letra: "B", texto: "o crédito especial destina-se ao reforço de dotação orçamentária." },
+              { letra: "C", texto: "o crédito extraordinário destina-se a despesas urgentes e imprevistas, como calamidade." },
+              { letra: "D", texto: "todos os créditos adicionais independem de autorização legislativa." },
+              { letra: "E", texto: "o crédito suplementar é aberto por medida provisória." },
+            ],
+            gabarito: "C",
+            justificativa: "Crédito EXTRAORDINÁRIO destina-se a despesas urgentes e imprevistas (guerra, calamidade, comoção). SUPLEMENTAR = reforço (A e B invertidas). Suplementar e especial exigem lei.",
+            dificuldade: "Média",
+            competencia: "Créditos adicionais",
+            banca: "IADES",
+            tags: ["créditos adicionais", "extraordinário"],
+          },
+          {
+            id: "ap-q-17-9",
+            enunciado: "Conforme a Lei nº 4.320/64, é VEDADO:",
+            alternativas: [
+              { letra: "A", texto: "realizar empenho antes da liquidação." },
+              { letra: "B", texto: "realizar despesa sem prévio empenho." },
+              { letra: "C", texto: "realizar pagamento após a liquidação." },
+              { letra: "D", texto: "utilizar empenho estimativo." },
+              { letra: "E", texto: "abrir créditos suplementares." },
+            ],
+            gabarito: "B",
+            justificativa: "Art. 60 da Lei 4.320/64: 'É VEDADA a realização de despesa sem prévio empenho'. O empenho é pré-requisito obrigatório para qualquer despesa.",
+            dificuldade: "Fácil",
+            competencia: "Vedação de despesa sem empenho",
+            banca: "IADES",
+            tags: ["empenho", "vedação"],
+          },
+          {
+            id: "ap-q-17-10",
+            enunciado: "O pagamento da despesa pública ocorre:",
+            alternativas: [
+              { letra: "A", texto: "antes do empenho." },
+              { letra: "B", texto: "antes da liquidação." },
+              { letra: "C", texto: "somente após regular liquidação." },
+              { letra: "D", texto: "independentemente de liquidação." },
+              { letra: "E", texto: "antes da fixação da despesa." },
+            ],
+            gabarito: "C",
+            justificativa: "O PAGAMENTO é o último estágio e só pode ocorrer após regular LIQUIDAÇÃO (art. 62, Lei 4.320/64). A ordem é: Fixação → Empenho → Liquidação → Pagamento.",
+            dificuldade: "Fácil",
+            competencia: "Ordem dos estágios",
+            banca: "IADES",
+            tags: ["pagamento", "liquidação"],
+          },
+        ],
+      },
+    },
+    {
+      id: "ap-topico-18",
+      numero: 18,
+      titulo: "Restos a Pagar e Dívida Pública",
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Restos a Pagar (RAP)
+
+| Conceito | Despesas empenhadas mas NÃO pagas até 31/12 |
+|----------|---------------------------------------------|
+| **Base legal** | Art. 36, Lei 4.320/64 |
+| **Natureza** | Despesa extraorçamentária no ano seguinte |
+
+### Tipos de Restos a Pagar
+
+| Tipo | Situação | Obrigação |
+|------|----------|-----------|
+| **Processados** | Empenhados E liquidados | Mais forte (direito adquirido) |
+| **Não Processados** | Empenhados, mas NÃO liquidados | Pode ser cancelado |
+
+### Regra de Ouro dos RAP
+
+\`\`\`
+RAP PROCESSADO = já liquidou = TEM que pagar
+RAP NÃO PROCESSADO = não liquidou = PODE cancelar
+\`\`\`
+
+### Dívida Pública
+
+| Tipo | Prazo | Finalidade |
+|------|-------|------------|
+| **Flutuante** | Curto prazo (< 12 meses) | Caixa, fluxo |
+| **Fundada/Consolidada** | Longo prazo (> 12 meses) | Investimentos |
+
+### Componentes da Dívida FLUTUANTE
+
+| Componente | Descrição |
+|------------|-----------|
+| Restos a Pagar | Despesas empenhadas não pagas |
+| Serviços da dívida a pagar | Juros e encargos |
+| Depósitos de terceiros | Cauções, garantias |
+| Débitos de tesouraria | ARO (Antecipação de Receita) |
+
+### Para IADES:
+- RAP Processado = LIQUIDADO (mais seguro)
+- RAP Não Processado = NÃO liquidado (pode cancelar)
+- Restos a Pagar fazem parte da dívida FLUTUANTE
+- LRF limita inscrição de RAP no último ano de mandato
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Restos a Pagar - Conceito
+
+**Restos a Pagar (RAP)** são as despesas **empenhadas** mas **não pagas** até 31 de dezembro de cada exercício financeiro.
+
+> Art. 36, Lei 4.320/64: "Consideram-se Restos a Pagar as despesas empenhadas mas não pagas até o dia 31 de dezembro..."
+
+#### Fundamento
+
+O princípio da **anualidade orçamentária** exige que a execução ocorra dentro do exercício. Porém, nem sempre é possível pagar todas as despesas empenhadas no mesmo ano. Assim, surgem os Restos a Pagar.
+
+#### Regime de Competência
+
+| Despesa é registrada | Quando ocorre |
+|---------------------|---------------|
+| No orçamento | Quando é EMPENHADA |
+| Como RAP | Se não for PAGA no mesmo exercício |
+
+### 2. Tipos de Restos a Pagar
+
+#### 2.1 Restos a Pagar PROCESSADOS
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Conceito** | Despesas empenhadas E LIQUIDADAS |
+| **Situação** | O credor já entregou o bem/serviço |
+| **Direito** | Credor tem DIREITO ADQUIRIDO |
+| **Cancelamento** | NÃO pode ser cancelado |
+| **Prescrição** | 5 anos (Decreto 20.910/32) |
+
+**Exemplo:** Contrato de obras executado em outubro, nota fiscal emitida em novembro, mas pagamento só em fevereiro do ano seguinte.
+
+#### 2.2 Restos a Pagar NÃO PROCESSADOS
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Conceito** | Despesas empenhadas, mas NÃO liquidadas |
+| **Situação** | O credor ainda NÃO entregou o bem/serviço |
+| **Direito** | Credor NÃO tem direito adquirido |
+| **Cancelamento** | PODE ser cancelado |
+| **Validade** | Até 30/06 do 2º ano seguinte (regra federal) |
+
+**Exemplo:** Empenho feito em dezembro para material de escritório, mas entrega só em janeiro do ano seguinte.
+
+### 3. Quadro Comparativo dos RAP
+
+| Aspecto | PROCESSADO | NÃO PROCESSADO |
+|---------|------------|----------------|
+| **Empenho** | ✓ Sim | ✓ Sim |
+| **Liquidação** | ✓ Sim | ✗ Não |
+| **Pagamento** | ✗ Não | ✗ Não |
+| **Direito do credor** | Adquirido | Não adquirido |
+| **Pode cancelar** | Não | Sim |
+| **Execução** | Obrigatória | Depende da entrega |
+
+### 4. Inscrição em Restos a Pagar
+
+#### Momento da Inscrição
+- Ocorre em **31 de dezembro** de cada ano
+- Automática para despesas empenhadas não pagas
+
+#### Registro Contábil
+
+| No ano do empenho | No ano do pagamento |
+|-------------------|---------------------|
+| Despesa ORÇAMENTÁRIA | Despesa EXTRAORÇAMENTÁRIA |
+| Afeta resultado orçamentário | NÃO afeta resultado orçamentário |
+
+### 5. Restos a Pagar na LRF
+
+A **Lei de Responsabilidade Fiscal** (LC 101/2000) trouxe restrições importantes:
+
+#### Art. 42 - Vedação no Final de Mandato
+
+> "É VEDADO ao titular de Poder ou órgão, nos **últimos dois quadrimestres** do seu mandato, contrair obrigação de despesa que não possa ser cumprida integralmente dentro dele, ou que tenha parcelas a serem pagas no exercício seguinte **sem que haja suficiente disponibilidade de caixa** para este efeito."
+
+| Situação | Regra |
+|----------|-------|
+| Últimos 8 meses de mandato | Vedado contrair despesa sem cobertura |
+| Inscrição em RAP | Só se houver disponibilidade de caixa |
+| Descumprimento | Crime de responsabilidade fiscal |
+
+### 6. Dívida Pública - Conceito
+
+**Dívida pública** é o conjunto de obrigações financeiras assumidas pelo Estado em decorrência de operações de crédito, empréstimos e financiamentos.
+
+### 7. Classificação da Dívida Pública
+
+#### 7.1 Dívida FLUTUANTE (Curto Prazo)
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Conceito** | Dívida de curto prazo (até 12 meses) |
+| **Finalidade** | Administração de caixa |
+| **Autorização** | NÃO depende de autorização legislativa |
+| **Lei** | Art. 92, Lei 4.320/64 |
+
+**Componentes da Dívida Flutuante:**
+
+| Componente | Descrição |
+|------------|-----------|
+| **Restos a Pagar** | Despesas empenhadas não pagas |
+| **Serviços da dívida a pagar** | Juros e encargos pendentes |
+| **Depósitos de terceiros** | Cauções, garantias, consignações |
+| **Débitos de tesouraria** | ARO (Antecipação de Receita Orçamentária) |
+
+#### 7.2 Dívida FUNDADA ou CONSOLIDADA (Longo Prazo)
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Conceito** | Dívida de longo prazo (> 12 meses) |
+| **Finalidade** | Financiar investimentos |
+| **Autorização** | DEPENDE de autorização legislativa |
+| **Lei** | Art. 98, Lei 4.320/64 |
+
+**Componentes da Dívida Fundada:**
+
+| Componente | Descrição |
+|------------|-----------|
+| **Operações de crédito** | Empréstimos internos e externos |
+| **Precatórios** | Dívidas judiciais (> 12 meses) |
+| **Títulos públicos** | LTN, LFT, NTN-B |
+| **Parcelamentos** | Tributos parcelados (> 12 meses) |
+
+### 8. Quadro Comparativo - Dívida Flutuante x Fundada
+
+| Aspecto | FLUTUANTE | FUNDADA |
+|---------|-----------|---------|
+| **Prazo** | Curto (≤ 12 meses) | Longo (> 12 meses) |
+| **Autorização** | Não precisa | Precisa (legislativa) |
+| **Finalidade** | Caixa | Investimentos |
+| **Exemplos** | RAP, ARO, cauções | Empréstimos, títulos, precatórios |
+| **Base legal** | Art. 92, Lei 4.320 | Art. 98, Lei 4.320 |
+
+### 9. Dívida Pública na LRF
+
+#### Limites de Endividamento
+
+| Ente | Limite (% da RCL) |
+|------|-------------------|
+| **União** | Definido pelo Senado |
+| **Estados/DF** | 200% da RCL |
+| **Municípios** | 120% da RCL |
+
+#### Recondução ao Limite
+
+Se ultrapassar o limite:
+- Prazo de **3 quadrimestres** para recondução
+- Redução mínima de **25%** no primeiro quadrimestre
+- Enquanto não reconduzir: vedações a operações de crédito
+
+### 10. Operações de Crédito
+
+#### Conceito
+Compromisso financeiro assumido em razão de mútuo, abertura de crédito, emissão de títulos, etc.
+
+#### Regra de Ouro (Art. 167, III, CF)
+
+> "É VEDADA a realização de operações de crédito que excedam o montante das despesas de CAPITAL."
+
+| O que significa | Regra |
+|-----------------|-------|
+| Operações de crédito | ≤ Despesas de capital |
+| Não pode pegar emprestado | Para pagar despesas correntes |
+| Exceção | Créditos suplementares com autorização legislativa |
+
+### 11. ARO - Antecipação de Receita Orçamentária
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **Conceito** | Empréstimo para cobrir insuficiência de caixa |
+| **Natureza** | Dívida FLUTUANTE |
+| **Prazo** | Até 10 de dezembro do mesmo ano |
+| **Vedação** | No último ano de mandato |
+| **Garantia** | Receitas próprias |
+
+### 12. Resumo Prático - Vigilância Sanitária
+
+| Situação | Classificação |
+|----------|---------------|
+| Empenho em dezembro, pagamento em janeiro | RAP (processado ou não) |
+| Contrato de obras > 12 meses | Pode gerar dívida fundada |
+| Cauções de contratos | Dívida flutuante |
+| Material entregue, não pago | RAP Processado |
+        `,
+
+        pontosChave: [
+          "Restos a Pagar = despesas EMPENHADAS mas NÃO PAGAS até 31/12",
+          "RAP PROCESSADOS = empenhados E liquidados (direito adquirido, não pode cancelar)",
+          "RAP NÃO PROCESSADOS = empenhados mas NÃO liquidados (pode cancelar)",
+          "RAP fazem parte da DÍVIDA FLUTUANTE",
+          "Dívida FLUTUANTE = curto prazo (≤ 12 meses), não precisa autorização",
+          "Dívida FUNDADA = longo prazo (> 12 meses), precisa autorização legislativa",
+          "Componentes da flutuante: RAP, ARO, depósitos, serviços da dívida",
+          "LRF veda RAP nos últimos 2 quadrimestres sem disponibilidade de caixa",
+          "Limites de dívida: Estados 200% RCL, Municípios 120% RCL",
+          "Regra de Ouro: operações de crédito ≤ despesas de capital",
+          "ARO = Antecipação de Receita Orçamentária (dívida flutuante)",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir RAP Processado com Não Processado",
+            descricao: "PROCESSADO = liquidado (credor entregou). NÃO PROCESSADO = não liquidado.",
+            dica: "Processado = passou pelo processo de liquidação.",
+          },
+          {
+            titulo: "RAP como despesa orçamentária",
+            descricao: "RAP é despesa EXTRAORÇAMENTÁRIA no ano do pagamento.",
+            dica: "No ano do empenho = orçamentária. No ano do pagamento do RAP = extraorçamentária.",
+          },
+          {
+            titulo: "Dívida flutuante precisa de autorização",
+            descricao: "Dívida FLUTUANTE NÃO precisa de autorização legislativa. FUNDADA precisa.",
+            dica: "Flutuante = flui sem autorização. Fundada = tem fundamento legal (autorização).",
+          },
+          {
+            titulo: "ARO é dívida fundada",
+            descricao: "ARO (Antecipação de Receita) é dívida FLUTUANTE, não fundada.",
+            dica: "ARO = curto prazo (até dezembro) = flutuante.",
+          },
+          {
+            titulo: "Precatórios são dívida flutuante",
+            descricao: "Precatórios (> 12 meses) são dívida FUNDADA, não flutuante.",
+            dica: "Precatório = longo prazo = fundada.",
+          },
+          {
+            titulo: "Cancelamento de RAP Processado",
+            descricao: "RAP PROCESSADO não pode ser cancelado (direito adquirido do credor).",
+            dica: "Se liquidou, tem que pagar. Só RAP não processado pode cancelar.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "RAP = Restou A Pagar",
+            significado: "Restos a Pagar",
+            frase: "Empenhou, não pagou até 31/12 = RESTOU A PAGAR",
+          },
+          {
+            termo: "Processado = Passou pelo processo",
+            significado: "RAP Processado",
+            frase: "Processado = PASSOU pelo processo de liquidação (entregou)",
+          },
+          {
+            termo: "FLU-CUR / FUN-LON",
+            significado: "Flutuante x Fundada",
+            frase: "FLUtuante = CURto prazo. FUNdada = LONgo prazo",
+          },
+          {
+            termo: "RSDD",
+            significado: "Componentes da Dívida Flutuante",
+            frase: "Restos a pagar, Serviços da dívida, Depósitos, Débitos (ARO)",
+          },
+          {
+            termo: "ARO = Até o final do ano",
+            significado: "ARO - Antecipação de Receita",
+            frase: "ARO deve ser paga até 10 de dezembro do MESMO ano",
+          },
+          {
+            termo: "200-120",
+            significado: "Limites de dívida fundada",
+            frase: "Estados = 200% RCL, Municípios = 120% RCL",
+          },
+          {
+            termo: "Regra de Ouro = Empréstimo ≤ Capital",
+            significado: "Art. 167, III, CF",
+            frase: "Operações de crédito NÃO podem superar despesas de CAPITAL",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "ap-fc-18-1",
+            frente: "O que são RESTOS A PAGAR?",
+            verso: "São despesas **EMPENHADAS** mas **NÃO PAGAS** até 31 de dezembro.\\n\\nBase legal: Art. 36, Lei 4.320/64\\n\\nNatureza: despesa extraorçamentária no ano do pagamento.",
+            tags: ["RAP", "conceito"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-18-2",
+            frente: "Qual a diferença entre RAP PROCESSADO e NÃO PROCESSADO?",
+            verso: "**PROCESSADO:**\\n- Empenhado E LIQUIDADO\\n- Credor ENTREGOU o bem/serviço\\n- Direito adquirido\\n- NÃO pode cancelar\\n\\n**NÃO PROCESSADO:**\\n- Empenhado, NÃO liquidado\\n- Credor NÃO entregou\\n- Pode ser cancelado",
+            tags: ["RAP", "processado", "não processado"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-18-3",
+            frente: "Quais são os tipos de DÍVIDA PÚBLICA?",
+            verso: "**FLUTUANTE (curto prazo):**\\n- ≤ 12 meses\\n- NÃO precisa autorização\\n- Ex: RAP, ARO, depósitos\\n\\n**FUNDADA (longo prazo):**\\n- > 12 meses\\n- PRECISA autorização legislativa\\n- Ex: empréstimos, títulos, precatórios",
+            tags: ["dívida", "flutuante", "fundada"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-18-4",
+            frente: "Quais são os componentes da DÍVIDA FLUTUANTE?",
+            verso: "**RSDD:**\\n\\n1. **R**estos a Pagar\\n2. **S**erviços da dívida a pagar\\n3. **D**epósitos de terceiros (cauções)\\n4. **D**ébitos de tesouraria (ARO)\\n\\n(Art. 92, Lei 4.320/64)",
+            tags: ["flutuante", "componentes"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-18-5",
+            frente: "O que é a REGRA DE OURO do orçamento?",
+            verso: "Art. 167, III, CF:\\n\\n**Operações de crédito NÃO podem exceder despesas de CAPITAL.**\\n\\nSignifica: não pode pegar empréstimo para pagar despesa corrente (salário, custeio).\\n\\nEmpréstimo deve ser para INVESTIMENTO.",
+            tags: ["regra de ouro", "art. 167"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-18-6",
+            frente: "Quais são os limites de DÍVIDA FUNDADA na LRF?",
+            verso: "**Resolução SF 40/2001:**\\n\\n- **Estados/DF**: 200% da RCL\\n- **Municípios**: 120% da RCL\\n- **União**: definido pelo Senado\\n\\nRCL = Receita Corrente Líquida",
+            tags: ["limites", "dívida fundada", "LRF"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-18-7",
+            frente: "O que é ARO - Antecipação de Receita Orçamentária?",
+            verso: "**Empréstimo de curto prazo** para cobrir insuficiência temporária de caixa.\\n\\n- Natureza: dívida FLUTUANTE\\n- Prazo: quitação até 10/DEZ do mesmo ano\\n- Vedada no último ano de mandato\\n- Garantia: receitas próprias",
+            tags: ["ARO", "antecipação"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-18-8",
+            frente: "Qual a vedação da LRF sobre RAP no final de mandato?",
+            verso: "**Art. 42, LRF:**\\n\\nNos **últimos 2 quadrimestres** do mandato (8 meses finais):\\n\\nÉ VEDADO contrair obrigação de despesa que:\\n- Não possa ser paga no mesmo exercício\\n- OU tenha parcelas no ano seguinte SEM disponibilidade de caixa",
+            tags: ["LRF", "art. 42", "final de mandato"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-18-9",
+            frente: "RAP é classificado como despesa orçamentária ou extraorçamentária?",
+            verso: "**No ano do EMPENHO:**\\nDespesa ORÇAMENTÁRIA\\n(afeta o resultado orçamentário)\\n\\n**No ano do PAGAMENTO do RAP:**\\nDespesa EXTRAORÇAMENTÁRIA\\n(NÃO afeta o resultado orçamentário)\\n\\nO registro da despesa ocorre no empenho.",
+            tags: ["RAP", "orçamentária", "extraorçamentária"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-18-10",
+            frente: "Precatórios são dívida flutuante ou fundada?",
+            verso: "**DÍVIDA FUNDADA** (consolidada)\\n\\nPrecatórios são dívidas judiciais com prazo > 12 meses para pagamento.\\n\\nExceção: precatórios de pequeno valor (RPV) com pagamento em até 60 dias não são dívida fundada.",
+            tags: ["precatórios", "dívida fundada"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "ap-q-18-1",
+            enunciado: "Consideram-se Restos a Pagar as despesas:",
+            alternativas: [
+              { letra: "A", texto: "fixadas mas não empenhadas até 31/12." },
+              { letra: "B", texto: "empenhadas mas não pagas até 31/12." },
+              { letra: "C", texto: "liquidadas e pagas até 31/12." },
+              { letra: "D", texto: "previstas mas não arrecadadas até 31/12." },
+              { letra: "E", texto: "autorizadas mas não fixadas na LOA." },
+            ],
+            gabarito: "B",
+            justificativa: "Art. 36, Lei 4.320/64: Restos a Pagar são despesas EMPENHADAS mas NÃO PAGAS até 31 de dezembro. Se não empenhou, não é RAP. Se pagou, não restou nada.",
+            dificuldade: "Fácil",
+            competencia: "Conceito de RAP",
+            banca: "IADES",
+            tags: ["RAP", "conceito"],
+          },
+          {
+            id: "ap-q-18-2",
+            enunciado: "Os Restos a Pagar PROCESSADOS são aqueles:",
+            alternativas: [
+              { letra: "A", texto: "empenhados, mas não liquidados." },
+              { letra: "B", texto: "empenhados e liquidados, mas não pagos." },
+              { letra: "C", texto: "apenas fixados na LOA." },
+              { letra: "D", texto: "empenhados e pagos no exercício." },
+              { letra: "E", texto: "previstos mas não empenhados." },
+            ],
+            gabarito: "B",
+            justificativa: "RAP PROCESSADOS são despesas EMPENHADAS E LIQUIDADAS, mas NÃO PAGAS. Passaram pelo 'processo' de liquidação. O credor já entregou o bem/serviço.",
+            dificuldade: "Fácil",
+            competencia: "RAP Processado",
+            banca: "IADES",
+            tags: ["RAP processado"],
+          },
+          {
+            id: "ap-q-18-3",
+            enunciado: "Os Restos a Pagar fazem parte da:",
+            alternativas: [
+              { letra: "A", texto: "dívida fundada." },
+              { letra: "B", texto: "dívida consolidada." },
+              { letra: "C", texto: "dívida flutuante." },
+              { letra: "D", texto: "receita extraorçamentária." },
+              { letra: "E", texto: "despesa de capital." },
+            ],
+            gabarito: "C",
+            justificativa: "Restos a Pagar integram a DÍVIDA FLUTUANTE (art. 92, Lei 4.320/64), junto com depósitos de terceiros, serviços da dívida a pagar e débitos de tesouraria (ARO).",
+            dificuldade: "Fácil",
+            competencia: "RAP e dívida flutuante",
+            banca: "IADES",
+            tags: ["RAP", "flutuante"],
+          },
+          {
+            id: "ap-q-18-4",
+            enunciado: "A dívida pública de longo prazo, superior a 12 meses, que depende de autorização legislativa, denomina-se:",
+            alternativas: [
+              { letra: "A", texto: "dívida flutuante." },
+              { letra: "B", texto: "dívida fundada ou consolidada." },
+              { letra: "C", texto: "restos a pagar." },
+              { letra: "D", texto: "antecipação de receita orçamentária." },
+              { letra: "E", texto: "débitos de tesouraria." },
+            ],
+            gabarito: "B",
+            justificativa: "Dívida FUNDADA (ou consolidada) é aquela de LONGO PRAZO (> 12 meses) que DEPENDE de autorização legislativa. Flutuante é curto prazo e não precisa de autorização.",
+            dificuldade: "Fácil",
+            competencia: "Dívida fundada",
+            banca: "IADES",
+            tags: ["fundada", "consolidada"],
+          },
+          {
+            id: "ap-q-18-5",
+            enunciado: "São componentes da dívida flutuante, EXCETO:",
+            alternativas: [
+              { letra: "A", texto: "restos a pagar." },
+              { letra: "B", texto: "serviços da dívida a pagar." },
+              { letra: "C", texto: "depósitos de terceiros." },
+              { letra: "D", texto: "precatórios judiciais." },
+              { letra: "E", texto: "débitos de tesouraria." },
+            ],
+            gabarito: "D",
+            justificativa: "PRECATÓRIOS (dívidas judiciais > 12 meses) são dívida FUNDADA, não flutuante. Componentes da flutuante: RAP, serviços da dívida, depósitos e débitos de tesouraria (art. 92).",
+            dificuldade: "Média",
+            competencia: "Componentes da dívida flutuante",
+            banca: "IADES",
+            tags: ["flutuante", "componentes"],
+          },
+          {
+            id: "ap-q-18-6",
+            enunciado: "De acordo com a LRF, é VEDADO ao titular de Poder, nos últimos dois quadrimestres do mandato:",
+            alternativas: [
+              { letra: "A", texto: "realizar qualquer tipo de despesa." },
+              { letra: "B", texto: "contrair obrigação sem disponibilidade de caixa para pagamento." },
+              { letra: "C", texto: "empenhar despesas correntes." },
+              { letra: "D", texto: "liquidar despesas de capital." },
+              { letra: "E", texto: "pagar restos a pagar processados." },
+            ],
+            gabarito: "B",
+            justificativa: "Art. 42, LRF: nos últimos 2 quadrimestres (8 meses) é VEDADO contrair obrigação que não possa ser paga no exercício ou que tenha parcelas no ano seguinte SEM disponibilidade de caixa.",
+            dificuldade: "Média",
+            competencia: "LRF - final de mandato",
+            banca: "IADES",
+            tags: ["LRF", "art. 42"],
+          },
+          {
+            id: "ap-q-18-7",
+            enunciado: "A 'Regra de Ouro' prevista no art. 167, III, da Constituição Federal estabelece que:",
+            alternativas: [
+              { letra: "A", texto: "as despesas correntes não podem superar as receitas correntes." },
+              { letra: "B", texto: "as operações de crédito não podem exceder as despesas de capital." },
+              { letra: "C", texto: "a dívida fundada não pode superar 200% da RCL." },
+              { letra: "D", texto: "os restos a pagar devem ser pagos no exercício seguinte." },
+              { letra: "E", texto: "a ARO deve ser quitada até 31 de dezembro." },
+            ],
+            gabarito: "B",
+            justificativa: "A Regra de Ouro (art. 167, III, CF) veda operações de crédito que EXCEDAM as despesas de capital. Não se pode pegar empréstimo para pagar despesa corrente.",
+            dificuldade: "Média",
+            competencia: "Regra de Ouro",
+            banca: "IADES",
+            tags: ["regra de ouro", "art. 167"],
+          },
+          {
+            id: "ap-q-18-8",
+            enunciado: "A Antecipação de Receita Orçamentária (ARO) é classificada como:",
+            alternativas: [
+              { letra: "A", texto: "dívida fundada." },
+              { letra: "B", texto: "dívida flutuante." },
+              { letra: "C", texto: "receita de capital." },
+              { letra: "D", texto: "despesa corrente." },
+              { letra: "E", texto: "crédito especial." },
+            ],
+            gabarito: "B",
+            justificativa: "ARO é empréstimo de CURTO PRAZO (deve ser quitado até 10/dez do mesmo ano), portanto é DÍVIDA FLUTUANTE. Integra os 'débitos de tesouraria' do art. 92.",
+            dificuldade: "Fácil",
+            competencia: "ARO",
+            banca: "IADES",
+            tags: ["ARO", "flutuante"],
+          },
+          {
+            id: "ap-q-18-9",
+            enunciado: "Os limites de endividamento para Estados e Distrito Federal, conforme a LRF, são de:",
+            alternativas: [
+              { letra: "A", texto: "100% da Receita Corrente Líquida." },
+              { letra: "B", texto: "120% da Receita Corrente Líquida." },
+              { letra: "C", texto: "150% da Receita Corrente Líquida." },
+              { letra: "D", texto: "200% da Receita Corrente Líquida." },
+              { letra: "E", texto: "250% da Receita Corrente Líquida." },
+            ],
+            gabarito: "D",
+            justificativa: "Os limites de dívida consolidada são: Estados/DF = 200% da RCL e Municípios = 120% da RCL (Resolução SF 40/2001).",
+            dificuldade: "Média",
+            competencia: "Limites de endividamento",
+            banca: "IADES",
+            tags: ["limites", "200%"],
+          },
+          {
+            id: "ap-q-18-10",
+            enunciado: "O pagamento de Restos a Pagar no exercício seguinte ao da inscrição é considerado despesa:",
+            alternativas: [
+              { letra: "A", texto: "orçamentária corrente." },
+              { letra: "B", texto: "orçamentária de capital." },
+              { letra: "C", texto: "extraorçamentária." },
+              { letra: "D", texto: "intraorçamentária." },
+              { letra: "E", texto: "vinculada." },
+            ],
+            gabarito: "C",
+            justificativa: "O pagamento de RAP é despesa EXTRAORÇAMENTÁRIA no ano do pagamento, pois a despesa orçamentária já foi registrada no ano do empenho. Evita-se a dupla contagem.",
+            dificuldade: "Média",
+            competencia: "Classificação do pagamento de RAP",
+            banca: "IADES",
+            tags: ["RAP", "extraorçamentária"],
           },
         ],
       },
