@@ -12119,5 +12119,1516 @@ Na área de Vigilância Sanitária, diversas normas constitucionais têm aplicab
         ],
       },
     },
+    {
+      id: 'da-topico-19',
+      numero: 19,
+      titulo: 'Direitos e Garantias Fundamentais',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Localização na CF/88
+- **Título II** (arts. 5º a 17)
+- Dividido em 5 capítulos
+
+### Estrutura dos Direitos Fundamentais
+
+| Capítulo | Artigos | Conteúdo |
+|----------|---------|----------|
+| I | Art. 5º | Direitos e Deveres Individuais e Coletivos |
+| II | Arts. 6º a 11 | Direitos Sociais |
+| III | Arts. 12 e 13 | Nacionalidade |
+| IV | Arts. 14 a 16 | Direitos Políticos |
+| V | Art. 17 | Partidos Políticos |
+
+### Características dos Direitos Fundamentais
+
+| Característica | Significado |
+|----------------|-------------|
+| **Historicidade** | Evoluem ao longo do tempo |
+| **Universalidade** | Aplicam-se a todos |
+| **Relatividade** | Não são absolutos |
+| **Irrenunciabilidade** | Não podem ser renunciados |
+| **Inalienabilidade** | Não podem ser vendidos |
+| **Imprescritibilidade** | Não se perdem pelo tempo |
+| **Concorrência** | Podem ser exercidos juntos |
+
+### Gerações/Dimensões de Direitos
+
+| Geração | Direitos | Valor |
+|---------|----------|-------|
+| **1ª** | Liberdade (civis e políticos) | LIBERDADE |
+| **2ª** | Igualdade (sociais, econômicos) | IGUALDADE |
+| **3ª** | Fraternidade (difusos, coletivos) | SOLIDARIEDADE |
+| **4ª** | Biotecnologia, democracia | PLURALISMO |
+| **5ª** | Paz, internet | PAZ |
+
+### Art. 5º - Destaques para IADES
+
+- **78 incisos** + 4 parágrafos
+- §1º: Direitos fundamentais têm **aplicação imediata**
+- §2º: Rol **exemplificativo** (não taxativo)
+- §3º: Tratados de DH aprovados por 3/5 em 2 turnos = **EC**
+- §4º: Tribunal Penal Internacional
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Direitos e Deveres Individuais e Coletivos (Art. 5º)
+
+O art. 5º é o coração dos direitos fundamentais, com 78 incisos.
+
+#### Destinatários (caput)
+> "Todos são iguais perante a lei... garantindo-se aos **brasileiros e aos estrangeiros residentes no País**..."
+
+⚠️ **ATENÇÃO STF:** Estrangeiros NÃO residentes também têm direitos fundamentais (interpretação extensiva).
+
+#### Principais Direitos do Art. 5º
+
+##### Direito à VIDA (implícito no caput)
+- Proibição da pena de morte (salvo guerra declarada)
+- Proibição da tortura
+- Fundamento da dignidade humana
+
+##### Direito à LIBERDADE
+
+| Inciso | Liberdade | Conteúdo |
+|--------|-----------|----------|
+| IV | Pensamento | Livre manifestação, vedado anonimato |
+| VI | Consciência e crença | Liberdade religiosa |
+| IX | Expressão | Atividade intelectual, artística |
+| XIII | Trabalho | Livre exercício profissional |
+| XV | Locomoção | Ir e vir no território |
+| XVI | Reunião | Pacífica, sem armas |
+| XVII | Associação | Fins lícitos |
+
+##### Direito à IGUALDADE
+
+| Inciso | Conteúdo |
+|--------|----------|
+| Caput | Igualdade formal (perante a lei) |
+| I | Homens e mulheres são iguais |
+| XLI | Lei punirá discriminação |
+| XLII | Racismo é crime imprescritível |
+
+##### Direito à PROPRIEDADE
+
+| Inciso | Conteúdo |
+|--------|----------|
+| XXII | Garantia do direito de propriedade |
+| XXIII | Função social da propriedade |
+| XXIV | Desapropriação (necessidade, utilidade pública, interesse social) |
+| XXV | Requisição (iminente perigo público) |
+
+##### REMÉDIOS CONSTITUCIONAIS
+
+| Remédio | Inciso | Proteção |
+|---------|--------|----------|
+| **Habeas Corpus** | LXVIII | Liberdade de locomoção |
+| **Habeas Data** | LXXII | Acesso/retificação de dados pessoais |
+| **Mandado de Segurança** | LXIX | Direito líquido e certo (não amparado por HC/HD) |
+| **MS Coletivo** | LXX | Direitos coletivos (partidos, sindicatos, associações) |
+| **Mandado de Injunção** | LXXI | Falta de norma regulamentadora |
+| **Ação Popular** | LXXIII | Anular ato lesivo ao patrimônio público |
+
+##### Garantias PROCESSUAIS
+
+| Inciso | Garantia |
+|--------|----------|
+| XXXV | Inafastabilidade da jurisdição |
+| XXXVII | Vedação a juízo de exceção |
+| LIII | Juiz natural |
+| LIV | Devido processo legal |
+| LV | Contraditório e ampla defesa |
+| LVI | Provas ilícitas inadmissíveis |
+| LVII | Presunção de inocência |
+
+### 2. Direitos Sociais (Arts. 6º a 11)
+
+#### Art. 6º - Rol dos Direitos Sociais
+
+> "São direitos sociais a **educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados**..."
+
+**Mnemônico: EDU-SAÚ-ALI-TRA-MOR-TRANS-LA-SE-PRE-PRO-AS**
+
+#### Art. 7º - Direitos dos Trabalhadores (34 incisos)
+
+| Direito | Conteúdo |
+|---------|----------|
+| Salário mínimo | Nacionalmente unificado |
+| 13º salário | Remuneração integral |
+| FGTS | 8% do salário |
+| Jornada | 8h/dia, 44h/semana |
+| Hora extra | Mínimo 50% a mais |
+| Férias | + 1/3 constitucional |
+| Licença maternidade | 120 dias |
+| Licença paternidade | 5 dias (regra) |
+| Aviso prévio | Mínimo 30 dias |
+
+#### Arts. 8º a 11 - Direitos Coletivos do Trabalho
+
+- Art. 8º: Liberdade sindical
+- Art. 9º: Direito de greve
+- Art. 10º: Participação em colegiados
+- Art. 11º: Representante dos empregados (> 200)
+
+### 3. Nacionalidade (Arts. 12 e 13)
+
+#### Espécies de Brasileiro
+
+| Tipo | Aquisição | Hipóteses |
+|------|-----------|-----------|
+| **NATO** | Nascimento | Critérios: jus soli, jus sanguinis |
+| **NATURALIZADO** | Vontade | Ordinária, extraordinária, especial |
+
+#### Brasileiros NATOS (Art. 12, I)
+
+a) Nascidos no Brasil (mesmo de pais estrangeiros, salvo a serviço de seu país)
+b) Nascidos no exterior, de pai/mãe brasileiro a serviço do Brasil
+c) Nascidos no exterior, de pai/mãe brasileiro, registrados ou que venham residir e optem
+
+#### Brasileiros NATURALIZADOS (Art. 12, II)
+
+| Tipo | Requisitos |
+|------|------------|
+| **Ordinária** | Conforme a lei (estrangeiros em geral) |
+| **Extraordinária** | 15 anos ininterruptos, sem condenação |
+| **Especial** | Portugueses com reciprocidade |
+
+#### Cargos PRIVATIVOS de Brasileiro NATO (Art. 12, §3º)
+
+**Mnemônico: MP3.COM**
+
+- **M**inistro do STF
+- **P**residente da República e Vice
+- **P**residente da Câmara
+- **P**residente do Senado
+- **C**arreira diplomática
+- **O**ficial das Forças Armadas
+- **M**inistro de Estado da Defesa
+
+### 4. Direitos Políticos (Arts. 14 a 16)
+
+#### Soberania Popular (Art. 14)
+
+| Instrumento | Conceito |
+|-------------|----------|
+| **Plebiscito** | Consulta PRÉVIA ao ato |
+| **Referendo** | Consulta POSTERIOR ao ato |
+| **Iniciativa Popular** | Proposição de lei pelo povo |
+
+#### Capacidade Eleitoral
+
+| Capacidade | Idade | Requisitos |
+|------------|-------|------------|
+| **Ativa** (votar) | 16 anos (facultativo), 18 (obrigatório) | Alistamento |
+| **Passiva** (ser votado) | Varia por cargo | Elegibilidade |
+
+#### Idades Mínimas para Cargos (Art. 14, §3º, VI)
+
+| Idade | Cargos |
+|-------|--------|
+| **35 anos** | Presidente, Vice, Senador |
+| **30 anos** | Governador, Vice |
+| **21 anos** | Deputados, Prefeito, Vice, Juiz de paz |
+| **18 anos** | Vereador |
+
+**Mnemônico: 35-30-21-18 (de cima para baixo)**
+
+#### Inelegibilidades (Art. 14, §§4º a 7º)
+
+| Tipo | Situação |
+|------|----------|
+| **Absoluta** | Inalistáveis, analfabetos |
+| **Relativa** | Por motivo funcional, parentesco, etc. |
+
+### 5. Partidos Políticos (Art. 17)
+
+#### Princípios
+
+- Livre criação, fusão, incorporação e extinção
+- Caráter nacional
+- Proibição de paramilitares
+- Prestação de contas à Justiça Eleitoral
+
+#### Autonomia Partidária
+
+- Estatutos próprios
+- Estrutura interna
+- Coligações (com restrições pós-EC 97/2017)
+- Fundo partidário e acesso ao rádio/TV
+
+#### Fidelidade Partidária
+
+- Mandato pertence ao partido
+- Perda por desfiliação sem justa causa (cargos proporcionais)
+        `,
+
+        pontosChave: [
+          "Título II da CF/88 (arts. 5º a 17) = Direitos e Garantias Fundamentais",
+          "Art. 5º: 78 incisos + 4 parágrafos - direitos individuais e coletivos",
+          "§1º do art. 5º: direitos fundamentais têm APLICAÇÃO IMEDIATA",
+          "§2º: rol EXEMPLIFICATIVO (existem outros direitos implícitos e em tratados)",
+          "§3º: tratados de DH com 3/5 em 2 turnos = equivalem a EC",
+          "Gerações: 1ª Liberdade, 2ª Igualdade, 3ª Fraternidade",
+          "Remédios: HC (locomoção), HD (dados), MS (direito líquido e certo), MI (falta de norma), AP (patrimônio)",
+          "Direitos Sociais (art. 6º): educação, saúde, alimentação, trabalho, moradia...",
+          "Brasileiro NATO x NATURALIZADO - cargos privativos de nato: MP3.COM",
+          "Idades para cargos: 35 (PR/VP/Sen), 30 (Gov), 21 (Dep/Pref), 18 (Vereador)",
+          "Plebiscito = ANTES, Referendo = DEPOIS",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Direitos fundamentais são absolutos",
+            descricao: "NENHUM direito fundamental é absoluto, todos são RELATIVOS e podem ser limitados.",
+            dica: "Até o direito à vida é relativo (pena de morte em guerra declarada).",
+          },
+          {
+            titulo: "Art. 5º só protege brasileiros",
+            descricao: "Protege brasileiros E estrangeiros. STF estende até a não residentes.",
+            dica: "Direitos fundamentais têm vocação universal.",
+          },
+          {
+            titulo: "Confundir plebiscito com referendo",
+            descricao: "PLEBISCITO é ANTES (prévia). REFERENDO é DEPOIS (posterior).",
+            dica: "Plebiscito = Primeiro. Referendo = Ratifica.",
+          },
+          {
+            titulo: "Naturalizado pode ser Presidente",
+            descricao: "Presidente é cargo privativo de brasileiro NATO.",
+            dica: "MP3.COM = cargos só para NATOS.",
+          },
+          {
+            titulo: "Analfabeto pode ser eleito",
+            descricao: "Analfabeto é INELEGÍVEL (não pode ser votado), mas pode votar (facultativo).",
+            dica: "Analfabeto vota, mas não se elege.",
+          },
+          {
+            titulo: "Rol do art. 5º é taxativo",
+            descricao: "O §2º diz que o rol é EXEMPLIFICATIVO (há direitos implícitos e em tratados).",
+            dica: "§2º abre o catálogo de direitos fundamentais.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "MP3.COM",
+            significado: "Cargos privativos de brasileiro NATO",
+            frase: "Ministro STF, Presidente/Vice, Presidente Câmara/Senado, Carreira diplomática, Oficial FA, Min. Defesa",
+          },
+          {
+            termo: "35-30-21-18",
+            significado: "Idades mínimas para cargos",
+            frase: "35 (PR/VP/Sen), 30 (Gov), 21 (Dep/Pref), 18 (Vereador)",
+          },
+          {
+            termo: "LIF",
+            significado: "Gerações de direitos",
+            frase: "Liberdade (1ª), Igualdade (2ª), Fraternidade (3ª)",
+          },
+          {
+            termo: "HHMMMA",
+            significado: "Remédios constitucionais",
+            frase: "Habeas Corpus, Habeas Data, MS, MS Coletivo, Mandado de Injunção, Ação Popular",
+          },
+          {
+            termo: "Plebiscito = Prévio",
+            significado: "Diferença plebiscito x referendo",
+            frase: "Plebiscito = P de Prévio (antes). Referendo = R de Ratifica (depois).",
+          },
+          {
+            termo: "URIIIC",
+            significado: "Características dos direitos fundamentais",
+            frase: "Universalidade, Relatividade, Irrenunciabilidade, Inalienabilidade, Imprescritibilidade, Concorrência",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'da-fc-19-1',
+            frente: "Quais são as gerações/dimensões de direitos fundamentais?",
+            verso: "**1ª Geração**: LIBERDADE\\n- Direitos civis e políticos\\n- Abstenção do Estado\\n\\n**2ª Geração**: IGUALDADE\\n- Direitos sociais, econômicos\\n- Prestação do Estado\\n\\n**3ª Geração**: FRATERNIDADE\\n- Direitos difusos e coletivos\\n- Solidariedade",
+            tags: ["gerações", "dimensões"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-19-2',
+            frente: "Quais são os remédios constitucionais e suas proteções?",
+            verso: "**HC**: liberdade de locomoção\\n**HD**: dados pessoais\\n**MS**: direito líquido e certo\\n**MS Coletivo**: direitos coletivos\\n**MI**: falta de norma regulamentadora\\n**Ação Popular**: patrimônio público",
+            tags: ["remédios", "proteção"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-19-3',
+            frente: "Quais cargos são privativos de brasileiro NATO?",
+            verso: "**MP3.COM**:\\n\\n- **M**inistro do STF\\n- **P**residente e Vice\\n- **P**residente da Câmara\\n- **P**residente do Senado\\n- **C**arreira diplomática\\n- **O**ficial das Forças Armadas\\n- **M**inistro de Estado da Defesa",
+            tags: ["nato", "cargos privativos"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-19-4',
+            frente: "Quais são as idades mínimas para cargos eletivos?",
+            verso: "**35 anos**: Presidente, Vice, Senador\\n\\n**30 anos**: Governador, Vice\\n\\n**21 anos**: Deputados (Fed/Est), Prefeito, Vice, Juiz de paz\\n\\n**18 anos**: Vereador",
+            tags: ["idade", "cargos eletivos"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-19-5',
+            frente: "Qual a diferença entre PLEBISCITO e REFERENDO?",
+            verso: "**PLEBISCITO**:\\n- Consulta PRÉVIA (antes do ato)\\n- P de Prévio\\n\\n**REFERENDO**:\\n- Consulta POSTERIOR (depois do ato)\\n- R de Ratifica\\n\\nAmbos são formas de exercício da soberania popular (art. 14)",
+            tags: ["plebiscito", "referendo"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-19-6',
+            frente: "Quais são os direitos SOCIAIS do art. 6º?",
+            verso: "São direitos sociais:\\n\\n- Educação\\n- Saúde\\n- Alimentação\\n- Trabalho\\n- Moradia\\n- Transporte\\n- Lazer\\n- Segurança\\n- Previdência social\\n- Proteção à maternidade e infância\\n- Assistência aos desamparados",
+            tags: ["sociais", "art. 6º"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-19-7',
+            frente: "Brasileiro naturalizado pode ser Presidente?",
+            verso: "**NÃO!**\\n\\nPresidente da República é cargo **privativo de brasileiro NATO** (art. 12, §3º).\\n\\nAssim como: Vice-Presidente, Presidente da Câmara/Senado, Ministro do STF, Carreira diplomática, Oficial das FA, Ministro da Defesa.",
+            tags: ["nato", "naturalizado", "presidente"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-19-8',
+            frente: "O §1º do art. 5º diz o quê?",
+            verso: "§1º: As normas definidoras dos direitos e garantias fundamentais têm **APLICAÇÃO IMEDIATA**.\\n\\nSignifica que não dependem de regulamentação para produzir efeitos.\\n\\n(Porém, normas programáticas ainda podem exigir complementação)",
+            tags: ["§1º", "aplicação imediata"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-19-9',
+            frente: "Analfabeto pode votar e ser votado?",
+            verso: "**VOTAR**: SIM (facultativo)\\n\\n**SER VOTADO**: NÃO\\n\\nAnalfabetos são:\\n- Alistáveis (podem votar, de forma facultativa)\\n- INELEGÍVEIS (não podem ser candidatos)\\n\\n(Art. 14, §1º, II, a e §4º)",
+            tags: ["analfabeto", "elegibilidade"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-19-10',
+            frente: "Qual a diferença entre brasileiro NATO e NATURALIZADO?",
+            verso: "**NATO**:\\n- Aquisição involuntária (nascimento)\\n- Critérios: jus soli, jus sanguinis\\n- Acesso a TODOS os cargos\\n\\n**NATURALIZADO**:\\n- Aquisição voluntária (requerimento)\\n- Requisitos legais\\n- Restrições em alguns cargos",
+            tags: ["nato", "naturalizado", "diferença"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'da-q-19-1',
+            enunciado: "De acordo com o art. 5º, §1º, da CF/88, as normas definidoras de direitos e garantias fundamentais:",
+            alternativas: [
+              { letra: 'A', texto: 'dependem de lei para ter aplicação.' },
+              { letra: 'B', texto: 'têm aplicação imediata.' },
+              { letra: 'C', texto: 'são de eficácia limitada.' },
+              { letra: 'D', texto: 'dependem de regulamentação pelo Executivo.' },
+              { letra: 'E', texto: 'só se aplicam após regulamentação.' },
+            ],
+            gabarito: 'B',
+            justificativa: "O §1º do art. 5º estabelece que as normas definidoras de direitos fundamentais têm APLICAÇÃO IMEDIATA, ou seja, não dependem de regulamentação para produzir efeitos.",
+            dificuldade: 'Fácil',
+            competencia: 'Aplicação dos direitos fundamentais',
+            banca: 'IADES',
+            tags: ['§1º', 'aplicação imediata'],
+          },
+          {
+            id: 'da-q-19-2',
+            enunciado: "São cargos privativos de brasileiro NATO, EXCETO:",
+            alternativas: [
+              { letra: 'A', texto: 'Presidente da República.' },
+              { letra: 'B', texto: 'Ministro do STF.' },
+              { letra: 'C', texto: 'Ministro de Estado da Fazenda.' },
+              { letra: 'D', texto: 'Oficial das Forças Armadas.' },
+              { letra: 'E', texto: 'Presidente do Senado Federal.' },
+            ],
+            gabarito: 'C',
+            justificativa: "Ministro de Estado (exceto da Defesa) pode ser brasileiro naturalizado. Os cargos privativos de NATO são: MP3.COM (Min. STF, PR/VP, Pres. Câmara/Senado, Carreira diplomática, Oficial FA, Min. Defesa).",
+            dificuldade: 'Média',
+            competencia: 'Cargos privativos de nato',
+            banca: 'IADES',
+            tags: ['nato', 'cargos privativos'],
+          },
+          {
+            id: 'da-q-19-3',
+            enunciado: "O remédio constitucional cabível para proteger a liberdade de locomoção é:",
+            alternativas: [
+              { letra: 'A', texto: 'mandado de segurança.' },
+              { letra: 'B', texto: 'habeas data.' },
+              { letra: 'C', texto: 'habeas corpus.' },
+              { letra: 'D', texto: 'mandado de injunção.' },
+              { letra: 'E', texto: 'ação popular.' },
+            ],
+            gabarito: 'C',
+            justificativa: "O HABEAS CORPUS protege a liberdade de locomoção (ir e vir). Habeas data = dados. MS = direito líquido e certo. MI = falta de norma. AP = patrimônio público.",
+            dificuldade: 'Fácil',
+            competencia: 'Remédios constitucionais',
+            banca: 'IADES',
+            tags: ['habeas corpus', 'locomoção'],
+          },
+          {
+            id: 'da-q-19-4',
+            enunciado: "A idade mínima para o cargo de Senador da República é de:",
+            alternativas: [
+              { letra: 'A', texto: '18 anos.' },
+              { letra: 'B', texto: '21 anos.' },
+              { letra: 'C', texto: '25 anos.' },
+              { letra: 'D', texto: '30 anos.' },
+              { letra: 'E', texto: '35 anos.' },
+            ],
+            gabarito: 'E',
+            justificativa: "A idade mínima para Senador é 35 anos (mesma de Presidente e Vice). 30 anos = Governador. 21 anos = Deputados/Prefeito. 18 anos = Vereador.",
+            dificuldade: 'Fácil',
+            competencia: 'Idade mínima para cargos',
+            banca: 'IADES',
+            tags: ['idade', 'senador'],
+          },
+          {
+            id: 'da-q-19-5',
+            enunciado: "A consulta popular realizada ANTES da edição do ato legislativo ou administrativo denomina-se:",
+            alternativas: [
+              { letra: 'A', texto: 'referendo.' },
+              { letra: 'B', texto: 'plebiscito.' },
+              { letra: 'C', texto: 'iniciativa popular.' },
+              { letra: 'D', texto: 'voto popular.' },
+              { letra: 'E', texto: 'sufrágio.' },
+            ],
+            gabarito: 'B',
+            justificativa: "PLEBISCITO é a consulta PRÉVIA (antes do ato). REFERENDO é a consulta posterior (depois do ato). Ambos são formas de exercício da soberania popular.",
+            dificuldade: 'Fácil',
+            competencia: 'Plebiscito x Referendo',
+            banca: 'IADES',
+            tags: ['plebiscito', 'consulta prévia'],
+          },
+          {
+            id: 'da-q-19-6',
+            enunciado: "São direitos SOCIAIS previstos no art. 6º da CF/88, EXCETO:",
+            alternativas: [
+              { letra: 'A', texto: 'educação.' },
+              { letra: 'B', texto: 'saúde.' },
+              { letra: 'C', texto: 'propriedade.' },
+              { letra: 'D', texto: 'moradia.' },
+              { letra: 'E', texto: 'transporte.' },
+            ],
+            gabarito: 'C',
+            justificativa: "PROPRIEDADE é direito INDIVIDUAL (art. 5º), não social. Os direitos sociais do art. 6º são: educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência, proteção à maternidade/infância, assistência.",
+            dificuldade: 'Média',
+            competencia: 'Direitos sociais',
+            banca: 'IADES',
+            tags: ['sociais', 'exceção'],
+          },
+          {
+            id: 'da-q-19-7',
+            enunciado: "Quanto à nacionalidade, é CORRETO afirmar:",
+            alternativas: [
+              { letra: 'A', texto: 'Brasileiro nato e naturalizado têm os mesmos direitos em todos os casos.' },
+              { letra: 'B', texto: 'Naturalizado pode ser Presidente da República.' },
+              { letra: 'C', texto: 'A CF/88 só admite distinções entre nato e naturalizado nos casos nela previstos.' },
+              { letra: 'D', texto: 'Estrangeiro residente pode naturalizar-se automaticamente.' },
+              { letra: 'E', texto: 'A nacionalidade é direito absoluto e irrenunciável.' },
+            ],
+            gabarito: 'C',
+            justificativa: "Art. 12, §2º: A lei NÃO poderá estabelecer distinção entre brasileiros natos e naturalizados, SALVO nos casos previstos na própria Constituição. As distinções são taxativas (MP3.COM, extradição, etc.).",
+            dificuldade: 'Média',
+            competencia: 'Nacionalidade',
+            banca: 'IADES',
+            tags: ['nato', 'naturalizado', 'distinção'],
+          },
+          {
+            id: 'da-q-19-8',
+            enunciado: "Sobre o alistamento eleitoral, é CORRETO afirmar que é FACULTATIVO para:",
+            alternativas: [
+              { letra: 'A', texto: 'maiores de 18 e menores de 70 anos.' },
+              { letra: 'B', texto: 'estrangeiros naturalizados.' },
+              { letra: 'C', texto: 'os analfabetos e maiores de 70 anos.' },
+              { letra: 'D', texto: 'servidores públicos.' },
+              { letra: 'E', texto: 'brasileiros natos.' },
+            ],
+            gabarito: 'C',
+            justificativa: "O alistamento é FACULTATIVO para: analfabetos, maiores de 70 anos e maiores de 16/menores de 18 anos. Para os demais (18 a 70, alfabetizados), é obrigatório.",
+            dificuldade: 'Média',
+            competencia: 'Alistamento eleitoral',
+            banca: 'IADES',
+            tags: ['alistamento', 'facultativo'],
+          },
+          {
+            id: 'da-q-19-9',
+            enunciado: "O Habeas Data é cabível para:",
+            alternativas: [
+              { letra: 'A', texto: 'proteger a liberdade de locomoção.' },
+              { letra: 'B', texto: 'assegurar o conhecimento de informações pessoais em bancos de dados.' },
+              { letra: 'C', texto: 'anular ato lesivo ao patrimônio público.' },
+              { letra: 'D', texto: 'proteger direito líquido e certo não amparado por HC.' },
+              { letra: 'E', texto: 'suprir falta de norma regulamentadora.' },
+            ],
+            gabarito: 'B',
+            justificativa: "HABEAS DATA serve para: a) conhecer informações pessoais em bancos de dados; b) retificar dados. A = HC, C = Ação Popular, D = MS, E = Mandado de Injunção.",
+            dificuldade: 'Fácil',
+            competencia: 'Habeas Data',
+            banca: 'IADES',
+            tags: ['habeas data', 'dados pessoais'],
+          },
+          {
+            id: 'da-q-19-10',
+            enunciado: "Os direitos fundamentais são considerados relativos porque:",
+            alternativas: [
+              { letra: 'A', texto: 'só se aplicam aos brasileiros.' },
+              { letra: 'B', texto: 'dependem de lei para existir.' },
+              { letra: 'C', texto: 'podem ser limitados em caso de colisão com outros direitos.' },
+              { letra: 'D', texto: 'são renunciáveis pelo titular.' },
+              { letra: 'E', texto: 'prescrevem após determinado prazo.' },
+            ],
+            gabarito: 'C',
+            justificativa: "Direitos fundamentais são RELATIVOS (não absolutos) porque podem ser limitados quando colidem com outros direitos fundamentais. A ponderação resolve o conflito no caso concreto.",
+            dificuldade: 'Média',
+            competencia: 'Relatividade dos direitos',
+            banca: 'IADES',
+            tags: ['relatividade', 'limitação'],
+          },
+        ],
+      },
+    },
+    {
+      id: 'da-topico-20',
+      numero: 20,
+      titulo: 'Constituição do Estado de Goiás',
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Informações Gerais
+
+| Aspecto | Informação |
+|---------|------------|
+| **Promulgação** | 5 de outubro de 1989 |
+| **Base** | Poder Constituinte Derivado Decorrente |
+| **Fundamento** | Art. 25, CF/88 |
+| **Princípio** | Simetria com a CF/88 |
+
+### Estrutura da CE/GO
+
+| Título | Conteúdo |
+|--------|----------|
+| I | Princípios Fundamentais |
+| II | Direitos e Garantias Fundamentais |
+| III | **Organização do Estado** |
+| IV | **Organização dos Poderes** |
+| V | Tributação e Orçamento |
+| VI | **Ordem Econômica e Social** |
+| VII | Ordem Social |
+
+### Poder LEGISLATIVO (Assembleia Legislativa)
+
+| Aspecto | Regra |
+|---------|-------|
+| **Composição** | 41 Deputados Estaduais |
+| **Mandato** | 4 anos |
+| **Sede** | Goiânia |
+| **Legislatura** | Coincide com mandato |
+
+### Poder EXECUTIVO
+
+| Cargo | Eleição | Mandato |
+|-------|---------|---------|
+| **Governador** | Maioria absoluta | 4 anos, 1 reeleição |
+| **Vice-Governador** | Chapa com Governador | 4 anos |
+| **Secretários** | Livre nomeação | Livre exoneração |
+
+### Poder JUDICIÁRIO (TJGO)
+
+| Órgão | Composição/Função |
+|-------|-------------------|
+| **Tribunal de Justiça** | Desembargadores |
+| **Tribunal do Júri** | Crimes dolosos contra vida |
+| **Juízes de Direito** | 1ª instância |
+| **Juizados Especiais** | Pequenas causas |
+
+### Ordem Econômica e Social
+
+| Princípio | Aplicação |
+|-----------|-----------|
+| **Desenvolvimento sustentável** | Equilíbrio ambiental |
+| **Redução das desigualdades regionais** | Interior do Estado |
+| **Valorização do trabalho** | Geração de emprego |
+| **Livre iniciativa** | Apoio ao empreendedorismo |
+
+### Para IADES - Foco em:
+- 41 Deputados Estaduais
+- Competências do Governador
+- Política de desenvolvimento regional
+- Órgãos do Judiciário estadual
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Fundamentos da Constituição Estadual
+
+A **Constituição do Estado de Goiás** (CE/GO) foi promulgada em **5 de outubro de 1989**, exatamente um ano após a CF/88.
+
+#### Base Jurídica
+
+| Aspecto | Fundamento |
+|---------|------------|
+| **Poder Constituinte** | Derivado Decorrente |
+| **Previsão CF** | Art. 25: "Os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios desta Constituição" |
+| **Princípio** | Simetria constitucional |
+
+#### Princípio da Simetria
+
+A CE/GO deve observar:
+- Princípios da CF/88 (normas de reprodução obrigatória)
+- Pode ter normas próprias (autonomia federativa)
+- Não pode contrariar a CF (supremacia)
+
+### 2. Organização do Estado de Goiás
+
+#### 2.1 Estrutura Básica
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Capital** | Goiânia |
+| **Território** | 340.086,698 km² |
+| **Divisão** | 246 Municípios |
+| **Regiões** | 18 regiões de planejamento |
+
+#### 2.2 Símbolos do Estado (Art. 2º, CE/GO)
+
+- Bandeira do Estado
+- Brasão de Armas
+- Hino de Goiás
+- Selo do Estado
+
+### 3. PODER LEGISLATIVO - Assembleia Legislativa (Arts. 15 a 27)
+
+#### 3.1 Composição
+
+| Aspecto | Regra CE/GO |
+|---------|-------------|
+| **Órgão** | Assembleia Legislativa (ALEGO) |
+| **Membros** | **41 Deputados Estaduais** |
+| **Mandato** | 4 anos (1 legislatura) |
+| **Eleição** | Sistema proporcional |
+| **Sede** | Palácio Alfredo Nasser (Goiânia) |
+
+**Cálculo do número de deputados:**
+- CF/88, Art. 27: triplo da bancada federal até 12 + 1 para cada novo até 36
+- Goiás: 17 Dep. Federais × 2 + 7 = **41 Dep. Estaduais**
+
+#### 3.2 Competência da Assembleia Legislativa
+
+##### Competência EXCLUSIVA (não precisa de sanção)
+
+| Matéria | Forma |
+|---------|-------|
+| Regimento Interno | Resolução |
+| Criação de CPI | Requerimento |
+| Autorizar o Governador a se ausentar | Autorização |
+| Julgar contas do Governador | Decreto Legislativo |
+| Fixar subsídios dos deputados | Resolução |
+| Aprovar indicação de autoridades | Decreto Legislativo |
+| Sustar atos normativos do Executivo | Decreto Legislativo |
+
+##### Competência PRIVATIVA (processo legislativo comum)
+
+| Matéria | Iniciativa |
+|---------|------------|
+| Leis em geral | Deputados, Governador, Judiciário, MP, cidadãos |
+| Lei de organização do MP | Procurador-Geral |
+| Leis tributárias | Governador (algumas exclusivas) |
+| Lei orçamentária | Governador |
+
+#### 3.3 Processo Legislativo Estadual
+
+| Espécie Normativa | Características |
+|-------------------|-----------------|
+| Emenda à Constituição | 3/5 dos deputados, 2 turnos |
+| Lei Complementar | Maioria absoluta (21 deputados) |
+| Lei Ordinária | Maioria simples |
+| Lei Delegada | Delegação ao Governador |
+| Resolução | Matérias internas da ALEGO |
+| Decreto Legislativo | Competência exclusiva |
+
+#### 3.4 Imunidades dos Deputados Estaduais
+
+| Tipo | Conteúdo |
+|------|----------|
+| **Material** | Inviolabilidade por opiniões, palavras e votos |
+| **Formal** | Prerrogativa de foro (TJ-GO) |
+| **Prisão** | Só em flagrante de crime inafiançável |
+
+### 4. PODER EXECUTIVO (Arts. 28 a 47)
+
+#### 4.1 Composição
+
+| Cargo | Forma de Investidura |
+|-------|---------------------|
+| **Governador** | Eleição direta, maioria absoluta |
+| **Vice-Governador** | Eleição conjunta (chapa) |
+| **Secretários de Estado** | Livre nomeação e exoneração |
+
+#### 4.2 Requisitos para Governador
+
+| Requisito | Exigência |
+|-----------|-----------|
+| Nacionalidade | Brasileiro nato OU naturalizado |
+| Idade mínima | **30 anos** |
+| Filiação partidária | Obrigatória |
+| Domicílio eleitoral | No Estado |
+| Pleno exercício dos direitos políticos | Elegível |
+
+#### 4.3 Mandato e Reeleição
+
+| Aspecto | Regra |
+|---------|-------|
+| **Mandato** | 4 anos |
+| **Início** | 1º de janeiro do ano seguinte à eleição |
+| **Reeleição** | Permitida para UM período subsequente |
+| **Subsídio** | Fixado por lei, teto estadual |
+
+#### 4.4 Competências do Governador (Art. 37)
+
+##### Competências PRIVATIVAS
+
+| Competência | Descrição |
+|-------------|-----------|
+| Nomear e exonerar | Secretários de Estado, dirigentes |
+| Exercer a direção superior | Da administração estadual |
+| Iniciar o processo legislativo | Nas matérias de sua competência |
+| Sancionar, promulgar, vetar | Leis estaduais |
+| Decretar e executar | Intervenção nos municípios |
+| Celebrar convênios | Com União, Estados, Municípios |
+| Enviar à ALEGO | PPA, LDO, LOA |
+| Prestar contas | Anualmente à ALEGO |
+| Prover cargos públicos | Na forma da lei |
+| Comandar | Polícia Militar e Corpo de Bombeiros |
+
+##### Iniciativa RESERVADA ao Governador
+
+| Matéria | Justificativa |
+|---------|---------------|
+| Criação de cargos | Impacto financeiro |
+| Aumento de remuneração | Despesa de pessoal |
+| Regime jurídico dos servidores | Organização administrativa |
+| Organização da Administração | Estrutura do Executivo |
+| Matéria orçamentária | PPA, LDO, LOA |
+| Criação de autarquias/fundações | Administração Indireta |
+
+#### 4.5 Responsabilidade do Governador
+
+| Crime | Julgamento |
+|-------|------------|
+| **Crime de responsabilidade** | Assembleia Legislativa (Tribunal Especial) |
+| **Crime comum** | STJ (após autorização da ALEGO por 2/3) |
+
+#### 4.6 Vice-Governador
+
+| Função | Descrição |
+|--------|-----------|
+| Substituir | Impedimentos temporários |
+| Suceder | Vacância definitiva |
+| Auxiliar | Missões especiais |
+| Integrar | Conselhos de governo |
+
+#### 4.7 Secretários de Estado
+
+| Aspecto | Regra |
+|---------|-------|
+| Nomeação | Livre pelo Governador |
+| Requisitos | Brasileiro, > 21 anos, direitos políticos |
+| Responsabilidade | Crimes de responsabilidade (ALEGO) |
+| Foro | TJ-GO (crimes comuns) |
+
+### 5. PODER JUDICIÁRIO (Arts. 48 a 69)
+
+#### 5.1 Estrutura do Judiciário Goiano
+
+| Órgão | Competência/Composição |
+|-------|------------------------|
+| **Tribunal de Justiça** | 2ª instância, órgão de cúpula |
+| **Tribunal do Júri** | Crimes dolosos contra a vida |
+| **Juízes de Direito** | 1ª instância (comarcas) |
+| **Juizados Especiais** | Causas de menor complexidade |
+| **Juízes de Paz** | Conciliação, casamentos |
+
+#### 5.2 Tribunal de Justiça de Goiás (TJ-GO)
+
+| Aspecto | Regra |
+|---------|-------|
+| **Composição** | Desembargadores |
+| **Mínimo** | 7 Desembargadores |
+| **Atual** | Varia conforme organização judiciária |
+| **Sede** | Goiânia |
+
+##### Composição do TJ-GO (Regra do Quinto)
+
+| Origem | Proporção |
+|--------|-----------|
+| **Carreira** (juízes de direito) | 4/5 |
+| **Quinto constitucional** | 1/5 (MP + OAB) |
+
+##### Competências do TJ-GO
+
+| Competência | Descrição |
+|-------------|-----------|
+| **Originária** | Julgar autoridades estaduais (foro privilegiado) |
+| **Recursal** | Recursos das decisões de 1ª instância |
+| **Controle de constitucionalidade** | ADI estadual (leis municipais/estaduais x CE) |
+
+##### Autoridades com Foro no TJ-GO
+
+- Governador (crimes comuns, após autorização ALEGO)
+- Vice-Governador
+- Deputados Estaduais
+- Secretários de Estado
+- Procurador-Geral de Justiça
+- Procurador-Geral do Estado
+- Prefeitos
+- Juízes de Direito
+
+#### 5.3 Justiça de 1º Grau
+
+| Órgão | Competência |
+|-------|-------------|
+| **Juízes de Direito** | Julgar causas em geral |
+| **Juízes Substitutos** | Auxiliar juízes titulares |
+| **Juizados Especiais** | Menor complexidade, conciliação |
+| **Juízes de Paz** | Celebrar casamentos, conciliação |
+
+#### 5.4 Garantias da Magistratura
+
+| Garantia | Conteúdo |
+|----------|----------|
+| **Vitaliciedade** | Só perde cargo por sentença transitada |
+| **Inamovibilidade** | Não pode ser removido sem consentimento |
+| **Irredutibilidade** | Subsídio não pode ser reduzido |
+
+### 6. ORDEM ECONÔMICA E SOCIAL (Título VI)
+
+#### 6.1 Princípios da Ordem Econômica Goiana
+
+| Princípio | Aplicação |
+|-----------|-----------|
+| **Valorização do trabalho** | Base da ordem econômica |
+| **Livre iniciativa** | Estímulo ao empreendedorismo |
+| **Função social da propriedade** | Limita o direito de propriedade |
+| **Defesa do consumidor** | PROCON-GO |
+| **Defesa do meio ambiente** | Desenvolvimento sustentável |
+| **Redução das desigualdades regionais** | Política de desenvolvimento |
+| **Busca do pleno emprego** | Políticas de emprego |
+| **Tratamento favorecido às pequenas empresas** | Simples estadual, incentivos |
+
+#### 6.2 Política de Desenvolvimento (Arts. 100-103)
+
+##### Objetivos da Política de Desenvolvimento
+
+| Objetivo | Descrição |
+|----------|-----------|
+| **Desenvolvimento sustentável** | Conciliar crescimento e meio ambiente |
+| **Redução das desigualdades** | Entre regiões do Estado |
+| **Interiorização** | Levar desenvolvimento ao interior |
+| **Diversificação econômica** | Não depender de poucos setores |
+| **Geração de emprego e renda** | Inclusão social |
+| **Infraestrutura** | Estradas, energia, comunicações |
+
+##### Instrumentos da Política de Desenvolvimento
+
+| Instrumento | Finalidade |
+|-------------|------------|
+| **Planejamento estratégico** | Definir prioridades |
+| **Incentivos fiscais** | Atrair investimentos |
+| **Fundos de desenvolvimento** | Financiar projetos |
+| **Parcerias público-privadas** | PPPs |
+| **Distritos industriais** | Concentração de indústrias |
+| **Apoio ao agronegócio** | Vocação do Estado |
+
+##### Regiões de Planejamento
+
+O Estado de Goiás é dividido em **regiões de planejamento** para fins de política de desenvolvimento:
+
+| Região | Polo/Característica |
+|--------|---------------------|
+| Metropolitana de Goiânia | Capital, serviços, indústria |
+| Entorno de Brasília | Influência do DF |
+| Sul Goiano | Agronegócio forte |
+| Sudoeste | Jataí, Rio Verde - grãos |
+| Norte | Porangatu, pecuária |
+| Nordeste | Pobreza, semiárido |
+| Noroeste | Mineração |
+| Centro | Anápolis, indústria farmacêutica |
+
+##### Desenvolvimento Regional na CE/GO
+
+> Art. 100: "O Estado promoverá o desenvolvimento econômico e social de forma integrada, visando à redução das desigualdades regionais e sociais."
+
+| Diretriz | Ação |
+|----------|------|
+| Integração | Articular políticas públicas |
+| Descentralização | Fortalecer municípios |
+| Participação | Conselhos regionais |
+| Sustentabilidade | Preservar o Cerrado |
+
+#### 6.3 Agronegócio na Política de Desenvolvimento
+
+Goiás é um dos maiores produtores agrícolas do Brasil:
+
+| Produto | Importância |
+|---------|-------------|
+| Soja | Maior produção do Centro-Oeste |
+| Milho | Exportação e ração animal |
+| Algodão | Sul goiano |
+| Cana-de-açúcar | Etanol, açúcar |
+| Pecuária | Um dos maiores rebanhos |
+
+A CE/GO prevê apoio específico:
+- Pesquisa agrícola (EMATER, EMBRAPA)
+- Assistência técnica
+- Crédito rural
+- Infraestrutura logística
+- Defesa sanitária (AGRODEFESA)
+
+#### 6.4 Vigilância Sanitária na Ordem Econômica
+
+A **Vigilância Sanitária** está inserida na política de desenvolvimento por meio de:
+
+| Aspecto | Relação com VISA |
+|---------|------------------|
+| Saúde | Art. 153 CE/GO (SUS estadual) |
+| Defesa do consumidor | Segurança de produtos |
+| Meio ambiente | Controle de riscos sanitários |
+| Agronegócio | Inspeção de produtos |
+| Turismo | Estabelecimentos alimentícios |
+
+### 7. Disposições Relevantes para Concurso
+
+#### 7.1 Servidor Público na CE/GO
+
+| Aspecto | Regra |
+|---------|-------|
+| Regime jurídico | Estatutário (Lei 20.756/2020) |
+| Ingresso | Concurso público |
+| Estabilidade | Após 3 anos (estágio probatório) |
+| Teto remuneratório | Subsídio do Governador |
+| Acumulação | Mesmas regras da CF |
+
+#### 7.2 Controle da Administração
+
+| Órgão | Função |
+|-------|--------|
+| **Tribunal de Contas do Estado** | Controle externo (auxilia ALEGO) |
+| **Controladoria-Geral do Estado** | Controle interno |
+| **Ministério Público** | Defesa da ordem jurídica |
+| **Defensoria Pública** | Assistência jurídica gratuita |
+
+#### 7.3 Administração Pública Estadual
+
+| Aspecto | Regra |
+|---------|-------|
+| Princípios | LIMPE + legalidade, finalidade, motivação |
+| Licitação | Obrigatória (Lei 14.133/2021) |
+| Publicidade | Atos devem ser publicados |
+| Responsabilidade fiscal | LRF aplicável |
+        `,
+
+        pontosChave: [
+          "CE/GO promulgada em 05/10/1989, um ano após a CF/88",
+          "Assembleia Legislativa: 41 Deputados Estaduais, mandato de 4 anos",
+          "Governador: eleito por maioria absoluta, mandato 4 anos, 1 reeleição",
+          "Idade mínima para Governador: 30 anos",
+          "TJ-GO: órgão de cúpula do Judiciário estadual, 2ª instância",
+          "Quinto constitucional: 1/5 do TJ vem do MP e da OAB",
+          "Foro do Governador (crime comum): STJ (após autorização 2/3 ALEGO)",
+          "Secretários: livre nomeação e exoneração pelo Governador",
+          "Política de desenvolvimento: reduzir desigualdades regionais",
+          "18 regiões de planejamento em Goiás",
+          "Agronegócio é base da economia goiana (soja, milho, pecuária)",
+          "Princípio da simetria: CE/GO deve observar a CF/88",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Número de Deputados Estaduais",
+            descricao: "Goiás tem 41 Deputados Estaduais, não 40 ou 42.",
+            dica: "41 = triplo de 12 + diferença até a bancada federal (17).",
+          },
+          {
+            titulo: "Idade para Governador",
+            descricao: "Governador exige 30 anos (não 35 como Presidente).",
+            dica: "35 = PR/VP/Senador. 30 = Governador/Vice.",
+          },
+          {
+            titulo: "Foro do Governador por crime comum",
+            descricao: "É o STJ (não o STF ou TJ). Precisa autorização de 2/3 da ALEGO.",
+            dica: "Governador = STJ. Presidente = STF.",
+          },
+          {
+            titulo: "Crime de responsabilidade do Governador",
+            descricao: "Julgado pela ALEGO (Tribunal Especial), não pelo TJ.",
+            dica: "Crime de responsabilidade = político = Legislativo julga.",
+          },
+          {
+            titulo: "Composição do Quinto Constitucional",
+            descricao: "É 1/5 do TJ (MP + OAB), não 1/4 ou 1/3.",
+            dica: "Quinto = 1/5, dividido entre MP e advocacia.",
+          },
+          {
+            titulo: "Secretários têm estabilidade",
+            descricao: "Secretários são de livre nomeação e exoneração (cargos comissionados).",
+            dica: "Cargo de confiança = demissível ad nutum.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "41 DEPs",
+            significado: "Composição da ALEGO",
+            frase: "Goiás tem 41 Deputados Estaduais",
+          },
+          {
+            termo: "30-GOV / 35-PRES",
+            significado: "Idade mínima",
+            frase: "30 anos para Governador, 35 anos para Presidente",
+          },
+          {
+            termo: "STJ-GOV / STF-PRES",
+            significado: "Foro por crime comum",
+            frase: "Governador no STJ, Presidente no STF",
+          },
+          {
+            termo: "1/5 = MP + OAB",
+            significado: "Quinto Constitucional",
+            frase: "1/5 do TJ vem do MP e da OAB (advocacia)",
+          },
+          {
+            termo: "LNE",
+            significado: "Secretários de Estado",
+            frase: "Livre Nomeação e Exoneração pelo Governador",
+          },
+          {
+            termo: "4+1",
+            significado: "Mandato do Governador",
+            frase: "4 anos de mandato + 1 reeleição permitida",
+          },
+          {
+            termo: "2/3 ALEGO",
+            significado: "Autorização para processar Governador",
+            frase: "2/3 dos deputados para autorizar processo contra Governador",
+          },
+          {
+            termo: "18 REGIÕES",
+            significado: "Regiões de planejamento",
+            frase: "Goiás tem 18 regiões de planejamento",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: 'da-fc-20-1',
+            frente: "Quantos Deputados Estaduais compõem a Assembleia Legislativa de Goiás?",
+            verso: "**41 Deputados Estaduais**\\n\\nCálculo (art. 27, CF):\\n- Triplo da bancada federal (até 12)\\n- Mais 1 para cada deputado federal acima de 12\\n- GO tem 17 dep. federais\\n\\nMandato: 4 anos (1 legislatura)",
+            tags: ["ALEGO", "deputados", "composição"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-20-2',
+            frente: "Qual a idade mínima para ser Governador de Goiás?",
+            verso: "**30 anos**\\n\\nDiferente do Presidente (35 anos).\\n\\nOutros requisitos:\\n- Brasileiro (nato ou naturalizado)\\n- Filiação partidária\\n- Domicílio eleitoral no Estado\\n- Pleno exercício dos direitos políticos",
+            tags: ["governador", "idade", "requisitos"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-20-3',
+            frente: "Qual o foro do Governador de Goiás por crime COMUM?",
+            verso: "**STJ** (Superior Tribunal de Justiça)\\n\\n⚠️ Exige autorização de **2/3 da ALEGO** para processar.\\n\\nDiferente do Presidente (que é julgado no STF).\\n\\nCrime de RESPONSABILIDADE: julgado pela ALEGO.",
+            tags: ["governador", "foro", "STJ"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-20-4',
+            frente: "O que é o Quinto Constitucional no TJ-GO?",
+            verso: "**1/5 do TJ** é composto por membros:\\n- Do Ministério Público (metade do 1/5)\\n- Da Advocacia/OAB (outra metade)\\n\\nRequisitos: + 10 anos de carreira/advocacia, reputação ilibada, notório saber jurídico.\\n\\nOs outros 4/5 vêm da carreira (juízes de direito).",
+            tags: ["quinto", "TJ-GO", "composição"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-20-5',
+            frente: "Como é a nomeação dos Secretários de Estado?",
+            verso: "**Livre nomeação e exoneração** pelo Governador.\\n\\nRequisitos:\\n- Brasileiro\\n- Maior de 21 anos\\n- Exercício dos direitos políticos\\n\\nSão cargos de CONFIANÇA (comissionados), não há estabilidade.",
+            tags: ["secretários", "nomeação", "exoneração"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-20-6',
+            frente: "Qual o mandato do Governador e quantas vezes pode se reeleger?",
+            verso: "**Mandato: 4 anos**\\n**Reeleição: 1 vez** (período subsequente)\\n\\nInício: 1º de janeiro do ano seguinte à eleição.\\n\\nEleição: maioria absoluta (2º turno se necessário).",
+            tags: ["governador", "mandato", "reeleição"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-20-7',
+            frente: "Quais são os objetivos da Política de Desenvolvimento de Goiás?",
+            verso: "1. **Desenvolvimento sustentável**\\n2. **Redução das desigualdades regionais**\\n3. **Interiorização** do desenvolvimento\\n4. **Diversificação econômica**\\n5. **Geração de emprego e renda**\\n6. **Melhoria da infraestrutura**\\n\\n(Art. 100 e ss. da CE/GO)",
+            tags: ["desenvolvimento", "política", "objetivos"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-20-8',
+            frente: "Quantas regiões de planejamento existem em Goiás?",
+            verso: "**18 regiões de planejamento**\\n\\nPrincipais:\\n- Metropolitana de Goiânia\\n- Entorno de Brasília\\n- Sul Goiano (agronegócio)\\n- Centro (Anápolis)\\n- Norte, Nordeste, Noroeste, Sudoeste...\\n\\nFinalidade: descentralizar o desenvolvimento.",
+            tags: ["regiões", "planejamento"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-20-9',
+            frente: "Quem julga o Governador por crime de RESPONSABILIDADE?",
+            verso: "**Assembleia Legislativa** (Tribunal Especial)\\n\\n⚠️ Crime de responsabilidade é infração político-administrativa, não penal.\\n\\nDiferente de crime comum (STJ).\\n\\nAnalogia: Presidente → Senado / Governador → ALEGO",
+            tags: ["governador", "responsabilidade", "julgamento"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-20-10',
+            frente: "Quais são os órgãos do Poder Judiciário de Goiás?",
+            verso: "1. **Tribunal de Justiça (TJ-GO)** - 2ª instância\\n2. **Tribunal do Júri** - crimes dolosos contra a vida\\n3. **Juízes de Direito** - 1ª instância\\n4. **Juizados Especiais** - causas de menor complexidade\\n5. **Juízes de Paz** - conciliação, casamentos",
+            tags: ["judiciário", "órgãos", "Goiás"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-20-11',
+            frente: "Quais autoridades têm foro privilegiado no TJ-GO?",
+            verso: "- Vice-Governador\\n- Deputados Estaduais\\n- Secretários de Estado\\n- Procurador-Geral de Justiça\\n- Procurador-Geral do Estado\\n- **Prefeitos**\\n- Juízes de Direito\\n\\n⚠️ Governador = STJ (não TJ-GO)",
+            tags: ["foro", "privilegiado", "TJ-GO"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: 'da-fc-20-12',
+            frente: "Qual a base da economia goiana segundo a CE/GO?",
+            verso: "**Agronegócio** (vocação do Estado)\\n\\nPrincipais produtos:\\n- Soja (maior produtor Centro-Oeste)\\n- Milho\\n- Pecuária\\n- Cana-de-açúcar\\n- Algodão\\n\\nA CE/GO prevê: pesquisa agrícola, crédito rural, infraestrutura logística.",
+            tags: ["economia", "agronegócio", "Goiás"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: 'da-q-20-1',
+            enunciado: "A Assembleia Legislativa do Estado de Goiás é composta por:",
+            alternativas: [
+              { letra: 'A', texto: '24 Deputados Estaduais.' },
+              { letra: 'B', texto: '35 Deputados Estaduais.' },
+              { letra: 'C', texto: '41 Deputados Estaduais.' },
+              { letra: 'D', texto: '47 Deputados Estaduais.' },
+              { letra: 'E', texto: '51 Deputados Estaduais.' },
+            ],
+            gabarito: 'C',
+            justificativa: "A ALEGO é composta por 41 Deputados Estaduais, conforme cálculo do art. 27 da CF/88 (triplo da bancada federal até 12, mais um para cada deputado acima de 12).",
+            dificuldade: 'Fácil',
+            competencia: 'Composição da ALEGO',
+            banca: 'IADES',
+            tags: ['ALEGO', 'deputados', '41'],
+          },
+          {
+            id: 'da-q-20-2',
+            enunciado: "A idade mínima para ser Governador do Estado de Goiás é de:",
+            alternativas: [
+              { letra: 'A', texto: '18 anos.' },
+              { letra: 'B', texto: '21 anos.' },
+              { letra: 'C', texto: '25 anos.' },
+              { letra: 'D', texto: '30 anos.' },
+              { letra: 'E', texto: '35 anos.' },
+            ],
+            gabarito: 'D',
+            justificativa: "A idade mínima para Governador é 30 anos (art. 14, §3º, VI, b, CF). É diferente do Presidente (35 anos) e do Deputado Estadual (21 anos).",
+            dificuldade: 'Fácil',
+            competencia: 'Requisitos para Governador',
+            banca: 'IADES',
+            tags: ['governador', 'idade', '30 anos'],
+          },
+          {
+            id: 'da-q-20-3',
+            enunciado: "O Governador do Estado de Goiás, nos crimes comuns, será julgado pelo:",
+            alternativas: [
+              { letra: 'A', texto: 'Tribunal de Justiça do Estado de Goiás.' },
+              { letra: 'B', texto: 'Supremo Tribunal Federal.' },
+              { letra: 'C', texto: 'Superior Tribunal de Justiça, após autorização de 2/3 da ALEGO.' },
+              { letra: 'D', texto: 'Assembleia Legislativa.' },
+              { letra: 'E', texto: 'Tribunal Regional Federal.' },
+            ],
+            gabarito: 'C',
+            justificativa: "O Governador tem foro no STJ para crimes comuns (art. 105, I, a, CF), mas depende de autorização de 2/3 da Assembleia Legislativa para ser processado. Crime de responsabilidade é julgado pela ALEGO.",
+            dificuldade: 'Média',
+            competencia: 'Foro do Governador',
+            banca: 'IADES',
+            tags: ['governador', 'STJ', 'foro'],
+          },
+          {
+            id: 'da-q-20-4',
+            enunciado: "Os Secretários de Estado são:",
+            alternativas: [
+              { letra: 'A', texto: 'eleitos pelo povo.' },
+              { letra: 'B', texto: 'nomeados pela Assembleia Legislativa.' },
+              { letra: 'C', texto: 'concursados, com estabilidade.' },
+              { letra: 'D', texto: 'de livre nomeação e exoneração pelo Governador.' },
+              { letra: 'E', texto: 'indicados pelo Tribunal de Justiça.' },
+            ],
+            gabarito: 'D',
+            justificativa: "Os Secretários de Estado são cargos de CONFIANÇA, de livre nomeação e exoneração pelo Governador. Não há concurso público nem estabilidade para esses cargos.",
+            dificuldade: 'Fácil',
+            competencia: 'Secretários de Estado',
+            banca: 'IADES',
+            tags: ['secretários', 'nomeação', 'exoneração'],
+          },
+          {
+            id: 'da-q-20-5',
+            enunciado: "O chamado 'quinto constitucional' no Tribunal de Justiça de Goiás significa que:",
+            alternativas: [
+              { letra: 'A', texto: 'cinco desembargadores são escolhidos pelo Governador.' },
+              { letra: 'B', texto: '1/5 da composição é reservada a membros do MP e da advocacia.' },
+              { letra: 'C', texto: 'o tribunal se reúne a cada cinco anos.' },
+              { letra: 'D', texto: 'cinco vagas são destinadas a juízes federais.' },
+              { letra: 'E', texto: 'o presidente do TJ tem mandato de cinco anos.' },
+            ],
+            gabarito: 'B',
+            justificativa: "O quinto constitucional (art. 94, CF) determina que 1/5 dos lugares dos Tribunais é composto por membros do Ministério Público (metade) e advogados indicados pela OAB (outra metade).",
+            dificuldade: 'Média',
+            competencia: 'Quinto constitucional',
+            banca: 'IADES',
+            tags: ['quinto', 'TJ-GO', 'composição'],
+          },
+          {
+            id: 'da-q-20-6',
+            enunciado: "Sobre o mandato do Governador do Estado de Goiás, é CORRETO afirmar:",
+            alternativas: [
+              { letra: 'A', texto: 'O mandato é de 5 anos, sem direito à reeleição.' },
+              { letra: 'B', texto: 'O mandato é de 4 anos, permitida uma reeleição.' },
+              { letra: 'C', texto: 'O mandato é de 4 anos, vedada a reeleição.' },
+              { letra: 'D', texto: 'O mandato é de 6 anos, permitidas duas reeleições.' },
+              { letra: 'E', texto: 'O mandato é de 4 anos, permitidas reeleições ilimitadas.' },
+            ],
+            gabarito: 'B',
+            justificativa: "O Governador tem mandato de 4 anos, sendo permitida UMA reeleição para o período subsequente (EC 16/97). Após dois mandatos consecutivos, deve aguardar um período.",
+            dificuldade: 'Fácil',
+            competencia: 'Mandato do Governador',
+            banca: 'IADES',
+            tags: ['governador', 'mandato', 'reeleição'],
+          },
+          {
+            id: 'da-q-20-7',
+            enunciado: "A Política de Desenvolvimento do Estado de Goiás tem como um de seus objetivos:",
+            alternativas: [
+              { letra: 'A', texto: 'concentrar investimentos apenas na capital.' },
+              { letra: 'B', texto: 'reduzir as desigualdades regionais dentro do Estado.' },
+              { letra: 'C', texto: 'impedir a instalação de indústrias no interior.' },
+              { letra: 'D', texto: 'priorizar exclusivamente o setor de serviços.' },
+              { letra: 'E', texto: 'extinguir as regiões de planejamento.' },
+            ],
+            gabarito: 'B',
+            justificativa: "A Política de Desenvolvimento de Goiás (art. 100 e ss., CE/GO) visa reduzir as desigualdades regionais, promovendo a interiorização do desenvolvimento e a integração de todas as regiões do Estado.",
+            dificuldade: 'Fácil',
+            competencia: 'Política de Desenvolvimento',
+            banca: 'IADES',
+            tags: ['desenvolvimento', 'desigualdades'],
+          },
+          {
+            id: 'da-q-20-8',
+            enunciado: "A Constituição do Estado de Goiás foi promulgada em:",
+            alternativas: [
+              { letra: 'A', texto: '5 de outubro de 1988.' },
+              { letra: 'B', texto: '5 de outubro de 1989.' },
+              { letra: 'C', texto: '15 de novembro de 1989.' },
+              { letra: 'D', texto: '1º de janeiro de 1990.' },
+              { letra: 'E', texto: '7 de setembro de 1988.' },
+            ],
+            gabarito: 'B',
+            justificativa: "A CE/GO foi promulgada em 5 de outubro de 1989, exatamente um ano após a CF/88 (5 de outubro de 1988). Ela foi elaborada com base no poder constituinte derivado decorrente.",
+            dificuldade: 'Fácil',
+            competencia: 'Promulgação da CE/GO',
+            banca: 'IADES',
+            tags: ['CE/GO', 'promulgação', '1989'],
+          },
+          {
+            id: 'da-q-20-9',
+            enunciado: "Os Prefeitos municipais, nos crimes comuns, são julgados pelo:",
+            alternativas: [
+              { letra: 'A', texto: 'Supremo Tribunal Federal.' },
+              { letra: 'B', texto: 'Superior Tribunal de Justiça.' },
+              { letra: 'C', texto: 'Tribunal de Justiça do Estado.' },
+              { letra: 'D', texto: 'Câmara Municipal.' },
+              { letra: 'E', texto: 'Juiz de Direito da comarca.' },
+            ],
+            gabarito: 'C',
+            justificativa: "Os Prefeitos têm foro privilegiado no Tribunal de Justiça do Estado para crimes comuns (art. 29, X, CF). Crimes de responsabilidade são julgados pela Câmara Municipal.",
+            dificuldade: 'Média',
+            competencia: 'Foro dos Prefeitos',
+            banca: 'IADES',
+            tags: ['prefeitos', 'TJ-GO', 'foro'],
+          },
+          {
+            id: 'da-q-20-10',
+            enunciado: "São órgãos do Poder Judiciário do Estado de Goiás, EXCETO:",
+            alternativas: [
+              { letra: 'A', texto: 'Tribunal de Justiça.' },
+              { letra: 'B', texto: 'Juízes de Direito.' },
+              { letra: 'C', texto: 'Tribunal Regional Federal.' },
+              { letra: 'D', texto: 'Juizados Especiais.' },
+              { letra: 'E', texto: 'Tribunal do Júri.' },
+            ],
+            gabarito: 'C',
+            justificativa: "O Tribunal Regional Federal (TRF) é órgão da Justiça FEDERAL, não estadual. Os órgãos do Judiciário estadual são: TJ, Juízes de Direito, Tribunal do Júri, Juizados Especiais, Juízes de Paz.",
+            dificuldade: 'Fácil',
+            competencia: 'Órgãos do Judiciário estadual',
+            banca: 'IADES',
+            tags: ['judiciário', 'TRF', 'exceção'],
+          },
+          {
+            id: 'da-q-20-11',
+            enunciado: "O Estado de Goiás é dividido em quantas regiões de planejamento?",
+            alternativas: [
+              { letra: 'A', texto: '5 regiões.' },
+              { letra: 'B', texto: '10 regiões.' },
+              { letra: 'C', texto: '14 regiões.' },
+              { letra: 'D', texto: '18 regiões.' },
+              { letra: 'E', texto: '25 regiões.' },
+            ],
+            gabarito: 'D',
+            justificativa: "Goiás é dividido em 18 regiões de planejamento para fins de política de desenvolvimento regional, visando descentralizar ações e reduzir desigualdades entre as regiões do Estado.",
+            dificuldade: 'Média',
+            competencia: 'Regiões de planejamento',
+            banca: 'IADES',
+            tags: ['regiões', 'planejamento', '18'],
+          },
+          {
+            id: 'da-q-20-12',
+            enunciado: "O crime de responsabilidade praticado pelo Governador do Estado de Goiás é julgado:",
+            alternativas: [
+              { letra: 'A', texto: 'pelo Superior Tribunal de Justiça.' },
+              { letra: 'B', texto: 'pelo Supremo Tribunal Federal.' },
+              { letra: 'C', texto: 'pela Assembleia Legislativa.' },
+              { letra: 'D', texto: 'pelo Tribunal de Justiça.' },
+              { letra: 'E', texto: 'pelo Senado Federal.' },
+            ],
+            gabarito: 'C',
+            justificativa: "O crime de RESPONSABILIDADE do Governador é julgado pela Assembleia Legislativa (constitui-se em Tribunal Especial). Crime de responsabilidade é infração político-administrativa. Crime comum vai ao STJ.",
+            dificuldade: 'Média',
+            competencia: 'Julgamento do Governador',
+            banca: 'IADES',
+            tags: ['governador', 'responsabilidade', 'ALEGO'],
+          },
+        ],
+      },
+    },
   ],
 };
