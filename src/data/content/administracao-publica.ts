@@ -12094,5 +12094,1343 @@ Compromisso financeiro assumido em razão de mútuo, abertura de crédito, emiss
         ],
       },
     },
+    {
+      id: "ap-topico-19",
+      numero: 19,
+      titulo: "Lei de Responsabilidade Fiscal (LC nº 101/2000)",
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Informações Gerais da LRF
+
+| Aspecto | Informação |
+|---------|------------|
+| **Lei** | LC nº 101, de 4 de maio de 2000 |
+| **Fundamento** | Art. 163 e 169, CF/88 |
+| **Abrangência** | União, Estados, DF, Municípios e todos os Poderes |
+| **Objetivo** | Responsabilidade na gestão fiscal |
+
+### Pilares da LRF
+
+| Pilar | Conteúdo |
+|-------|----------|
+| **Planejamento** | PPA, LDO, LOA, metas fiscais |
+| **Transparência** | Publicidade, audiências, relatórios |
+| **Controle** | Fiscalização, sanções, prestação de contas |
+| **Responsabilização** | Penalidades por descumprimento |
+
+### Limites de Despesa com Pessoal (% da RCL)
+
+| Ente | Limite Global | Prudencial (95%) | Alerta (90%) |
+|------|---------------|------------------|--------------|
+| **União** | 50% | 47,5% | 45% |
+| **Estados** | 60% | 57% | 54% |
+| **Municípios** | 60% | 57% | 54% |
+
+### Distribuição por Poder (Estados/Municípios)
+
+| Poder | Estados | Municípios |
+|-------|---------|------------|
+| **Executivo** | 49% | 54% |
+| **Legislativo** (+ TC) | 6% | 6% |
+| **Judiciário** | 6% | - |
+| **MP** | 2% | - |
+
+### Para IADES - Memorize:
+- Limite global: União 50%, Estados/Municípios 60%
+- Prudencial: 95% do limite (vedações)
+- Alerta: 90% do limite (TC avisa)
+- Recondução: 2 quadrimestres (1/3 no primeiro)
+- RREO: a cada bimestre / RGF: a cada quadrimestre
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Fundamentos da LRF
+
+A **Lei de Responsabilidade Fiscal** (LC 101/2000) estabelece normas de finanças públicas voltadas para a **responsabilidade na gestão fiscal**.
+
+#### Base Constitucional
+
+| Dispositivo | Conteúdo |
+|-------------|----------|
+| Art. 163, CF | Finanças públicas (lei complementar) |
+| Art. 169, CF | Limites de despesa com pessoal |
+| Art. 165-167, CF | Orçamento público |
+
+#### Objetivos da LRF (Art. 1º, §1º)
+
+A responsabilidade fiscal pressupõe ação planejada e transparente, com:
+1. **Prevenção de riscos** e correção de desvios
+2. **Cumprimento de metas** de resultados (superávit/déficit)
+3. **Obediência a condições** quanto a renúncia de receita, geração de despesas, dívidas, etc.
+
+### 2. Abrangência da LRF (Art. 1º, §§2º e 3º)
+
+| Ente/Órgão | Alcance |
+|------------|---------|
+| **Entes Federativos** | União, Estados, DF e Municípios |
+| **Poderes** | Executivo, Legislativo e Judiciário |
+| **Órgãos** | Tribunais de Contas, MP, Defensoria |
+| **Administração** | Direta e Indireta (autarquias, fundações, EP, SEM dependentes) |
+
+### 3. Receita Corrente Líquida - RCL (Art. 2º, IV)
+
+A **RCL** é a base de cálculo para os limites da LRF.
+
+#### Cálculo da RCL
+
+\`\`\`
+RCL = Receitas Correntes
+      (-) Transferências constitucionais aos Municípios
+      (-) Contribuições do servidor para previdência
+      (-) Compensação financeira entre regimes
+      (-) Valores entregues por repartição (FPE, FPM, etc.)
+\`\`\`
+
+### 4. Limites de Despesa com Pessoal (Arts. 18 a 23)
+
+#### 4.1 Conceito de Despesa com Pessoal (Art. 18)
+
+Inclui:
+- Ativos, inativos e pensionistas
+- Mandatos eletivos, cargos, funções, empregos
+- Vencimentos, vantagens, subsídios
+- Encargos sociais e contribuições previdenciárias
+
+#### 4.2 Limites Globais (Art. 19)
+
+| Ente | Limite da RCL |
+|------|---------------|
+| **União** | **50%** |
+| **Estados** | **60%** |
+| **Municípios** | **60%** |
+
+#### 4.3 Repartição por Poder (Art. 20)
+
+##### UNIÃO (50% total)
+
+| Poder/Órgão | Limite |
+|-------------|--------|
+| Legislativo + TCU | 2,5% |
+| Judiciário | 6% |
+| Executivo | 40,9% |
+| MP da União | 0,6% |
+
+##### ESTADOS (60% total)
+
+| Poder/Órgão | Limite |
+|-------------|--------|
+| Legislativo + TCE | 3% |
+| Judiciário | 6% |
+| Executivo | 49% |
+| MP Estadual | 2% |
+
+##### MUNICÍPIOS (60% total)
+
+| Poder/Órgão | Limite |
+|-------------|--------|
+| Legislativo + TCM | 6% |
+| Executivo | 54% |
+
+#### 4.4 Limite PRUDENCIAL (Art. 22)
+
+**95% do limite** = Limite Prudencial
+
+Ao atingir o limite prudencial, ficam **VEDADOS**:
+- Concessão de vantagem, aumento, reajuste (salvo sentença judicial, lei anterior, revisão geral)
+- Criação de cargo, emprego ou função
+- Alteração de estrutura de carreira que implique aumento
+- Provimento de cargo público, admissão, contratação (EXCETO reposição de vacância nas áreas de educação, saúde e segurança)
+- Contratação de hora extra (EXCETO situações da LDO)
+
+#### 4.5 Limite de ALERTA (Art. 59, §1º, II)
+
+**90% do limite** = Alerta do Tribunal de Contas
+
+O TC alertará quando a despesa atingir 90% do limite.
+
+#### 4.6 Recondução ao Limite (Art. 23)
+
+Se ultrapassar o limite:
+- Prazo: **2 quadrimestres** (8 meses)
+- No primeiro quadrimestre: eliminar pelo menos **1/3** do excesso
+- Não reconduzindo: vedações do art. 22 + proibição de receber transferências voluntárias
+
+##### Medidas para Recondução (Art. 169, §§3º e 4º, CF)
+
+1. Redução de pelo menos 20% das despesas com cargos em comissão
+2. Exoneração de servidores não estáveis
+3. Exoneração de servidores estáveis (se insuficientes as anteriores)
+
+### 5. Transparência e Controle (Arts. 48 a 59)
+
+#### 5.1 Instrumentos de Transparência (Art. 48)
+
+- Planos, orçamentos e leis de diretrizes
+- Prestações de contas e parecer prévio
+- **RREO** (Relatório Resumido de Execução Orçamentária)
+- **RGF** (Relatório de Gestão Fiscal)
+- Versões simplificadas desses documentos
+
+#### 5.2 RREO - Relatório Resumido de Execução Orçamentária (Art. 52)
+
+| Aspecto | Regra |
+|---------|-------|
+| **Periodicidade** | **Bimestral** (a cada 2 meses) |
+| **Publicação** | Até 30 dias após o bimestre |
+| **Conteúdo** | Balanço orçamentário, demonstrativos de execução |
+
+#### 5.3 RGF - Relatório de Gestão Fiscal (Art. 54)
+
+| Aspecto | Regra |
+|---------|-------|
+| **Periodicidade** | **Quadrimestral** (a cada 4 meses) |
+| **Publicação** | Até 30 dias após o quadrimestre |
+| **Último ano mandato** | Último quadrimestre = mensal (dez, jan, fev) |
+| **Emissão** | Cada Poder e órgão emite seu RGF |
+
+##### Conteúdo do RGF
+
+- Despesa com pessoal (por Poder e órgão)
+- Dívida consolidada e mobiliária
+- Concessão de garantias
+- Operações de crédito
+- Disponibilidade de caixa
+
+#### 5.4 Audiências Públicas (Art. 48, §1º)
+
+- Incentivo à participação popular
+- Acompanhamento da execução orçamentária
+- Discussão do PPA, LDO e LOA
+
+### 6. Dívida e Endividamento (Arts. 29 a 42)
+
+#### 6.1 Limites de Dívida (Resolução SF 40/2001)
+
+| Ente | Dívida Consolidada (% RCL) |
+|------|---------------------------|
+| **União** | Definido pelo Senado |
+| **Estados/DF** | 200% da RCL |
+| **Municípios** | 120% da RCL |
+
+#### 6.2 Operações de Crédito (Art. 32)
+
+Requisitos para contratação:
+- Autorização na LOA ou crédito adicional
+- Parecer do TC (se for interno)
+- Observância dos limites
+- Autorização do Senado (dívida externa ou mobiliária da União)
+
+#### 6.3 ARO - Antecipação de Receita Orçamentária (Art. 38)
+
+| Regra | Descrição |
+|-------|-----------|
+| Prazo | Quitação até 10 de dezembro |
+| Vedação | Último ano de mandato (proibida) |
+| Vedação | Enquanto houver ARO anterior não resgatada |
+| Limite | Não pode exceder receita própria prevista |
+
+#### 6.4 Vedações no Final de Mandato (Arts. 21 e 42)
+
+| Vedação | Prazo |
+|---------|-------|
+| Aumento despesa pessoal | Últimos **180 dias** do mandato |
+| Contrair obrigação sem cobertura | Últimos **2 quadrimestres** (8 meses) |
+| ARO | Todo o último ano |
+
+### 7. Sanções e Responsabilização
+
+#### 7.1 Sanções Institucionais
+
+| Situação | Sanção |
+|----------|--------|
+| Não publicar RREO/RGF | Vedação de receber transferências voluntárias |
+| Exceder limite de pessoal | Vedações do art. 22, proibição de transferências |
+| Exceder limite de dívida | Vedação de operações de crédito |
+
+#### 7.2 Sanções Pessoais (Lei 10.028/2000)
+
+Crimes e infrações cometidas por gestores:
+- Ordenar/autorizar despesa sem cobertura
+- Deixar de ordenar redução de despesa
+- Ordenar/autorizar despesa não autorizada
+- Deixar de publicar relatórios
+
+### 8. Gestão de Pessoal e VISA
+
+Na Vigilância Sanitária, a LRF impacta:
+
+| Aspecto | Impacto |
+|---------|---------|
+| Concursos | Dependem de espaço fiscal (limite de pessoal) |
+| Contratações temporárias | Entram no limite |
+| Terceirizações | Despesa corrente, não pessoal |
+| Reajustes | Vedados no limite prudencial |
+        `,
+
+        pontosChave: [
+          "LRF (LC 101/2000): responsabilidade na gestão fiscal",
+          "Abrangência: União, Estados, DF, Municípios e todos os Poderes",
+          "RCL = Receita Corrente Líquida (base de cálculo dos limites)",
+          "Limites de pessoal: União 50%, Estados/Municípios 60% da RCL",
+          "Limite PRUDENCIAL = 95% do limite (vedações automáticas)",
+          "Limite de ALERTA = 90% do limite (TC avisa)",
+          "Recondução ao limite: 2 quadrimestres, 1/3 no primeiro",
+          "RREO: bimestral (a cada 2 meses)",
+          "RGF: quadrimestral (a cada 4 meses)",
+          "Limite de dívida: Estados 200% RCL, Municípios 120% RCL",
+          "Vedação no final de mandato: últimos 180 dias (pessoal) e 8 meses (obrigações)",
+          "ARO vedada no último ano de mandato",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Limite de pessoal da União",
+            descricao: "União é 50%, Estados e Municípios são 60%.",
+            dica: "União = 50 (5 letras). Estados/Municípios = 60.",
+          },
+          {
+            titulo: "Limite prudencial x alerta",
+            descricao: "PRUDENCIAL (95%) gera vedações. ALERTA (90%) é só aviso do TC.",
+            dica: "Prudencial = mais grave = vedações. Alerta = aviso = TC.",
+          },
+          {
+            titulo: "Periodicidade RREO x RGF",
+            descricao: "RREO é BIMESTRAL. RGF é QUADRIMESTRAL.",
+            dica: "RREO = Resumido = mais Rápido = Bimestre. RGF = Gestão = maior = Quadrimestre.",
+          },
+          {
+            titulo: "Recondução ao limite",
+            descricao: "Prazo é de 2 QUADRIMESTRES (8 meses), não 2 bimestres.",
+            dica: "Recondução = 2 quadrimestres, 1/3 no primeiro.",
+          },
+          {
+            titulo: "Vedação de aumento no final de mandato",
+            descricao: "Últimos 180 DIAS do mandato (não 180 dias do ANO).",
+            dica: "180 dias antes do FIM do mandato (julho a dezembro do último ano).",
+          },
+          {
+            titulo: "Limite de pessoal do Executivo estadual",
+            descricao: "Executivo estadual: 49%. O total do Estado é 60%.",
+            dica: "60% - 6% Leg - 6% Jud - 2% MP = 49% Executivo (sem a Def. Pub.).",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "50-60-60",
+            significado: "Limites de pessoal",
+            frase: "União 50%, Estados 60%, Municípios 60%",
+          },
+          {
+            termo: "95-90",
+            significado: "Prudencial e Alerta",
+            frase: "95% = Prudencial (vedações), 90% = Alerta (TC avisa)",
+          },
+          {
+            termo: "RREO = Bimestre / RGF = Quadrimestre",
+            significado: "Periodicidade dos relatórios",
+            frase: "RREO Resumido = Rápido = Bi. RGF Gestão = Grande = Quadri.",
+          },
+          {
+            termo: "2Q-1/3",
+            significado: "Recondução ao limite",
+            frase: "2 Quadrimestres para reconduzir, 1/3 no primeiro",
+          },
+          {
+            termo: "180-8",
+            significado: "Vedações no final de mandato",
+            frase: "180 dias (pessoal), 8 meses/2 quadrimestres (obrigações)",
+          },
+          {
+            termo: "200-120",
+            significado: "Limites de dívida",
+            frase: "Estados 200% RCL, Municípios 120% RCL",
+          },
+          {
+            termo: "PTCR",
+            significado: "Pilares da LRF",
+            frase: "Planejamento, Transparência, Controle, Responsabilização",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "ap-fc-19-1",
+            frente: "Quais são os limites GLOBAIS de despesa com pessoal na LRF?",
+            verso: "**Percentual da RCL:**\\n\\n- **União**: 50%\\n- **Estados**: 60%\\n- **Municípios**: 60%\\n\\n(Art. 19, LRF)",
+            tags: ["limites", "pessoal", "global"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-19-2",
+            frente: "O que é o limite PRUDENCIAL e quais suas consequências?",
+            verso: "**95% do limite de pessoal**\\n\\nVedações automáticas:\\n- Concessão de vantagens/aumentos\\n- Criação de cargos\\n- Provimento de cargos (exceto reposição em educação, saúde, segurança)\\n- Hora extra (exceto LDO)",
+            tags: ["prudencial", "vedações"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-19-3",
+            frente: "Qual a diferença entre RREO e RGF?",
+            verso: "**RREO** (Execução Orçamentária):\\n- BIMESTRAL\\n- Execução do orçamento\\n\\n**RGF** (Gestão Fiscal):\\n- QUADRIMESTRAL\\n- Despesa com pessoal, dívida\\n- Cada Poder emite o seu",
+            tags: ["RREO", "RGF", "diferença"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-19-4",
+            frente: "Qual o prazo para RECONDUÇÃO ao limite de pessoal?",
+            verso: "**2 quadrimestres** (8 meses)\\n\\nNo primeiro quadrimestre: eliminar pelo menos **1/3 do excesso**.\\n\\nSe não reconduzir: vedações + proibição de transferências voluntárias.",
+            tags: ["recondução", "prazo"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-19-5",
+            frente: "Quais são os limites de DÍVIDA na LRF?",
+            verso: "**Dívida Consolidada (% da RCL):**\\n\\n- **Estados/DF**: 200%\\n- **Municípios**: 120%\\n- **União**: definido pelo Senado\\n\\n(Resolução SF 40/2001)",
+            tags: ["dívida", "limites"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-19-6",
+            frente: "Quais são as vedações no FINAL DE MANDATO?",
+            verso: "**Últimos 180 dias:**\\n- Aumento de despesa com pessoal\\n\\n**Últimos 2 quadrimestres (8 meses):**\\n- Contrair obrigação sem disponibilidade de caixa\\n\\n**Todo o último ano:**\\n- ARO (Antecipação de Receita)",
+            tags: ["final de mandato", "vedações"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-19-7",
+            frente: "O que é a RCL (Receita Corrente Líquida)?",
+            verso: "**Base de cálculo da LRF**\\n\\nRCL = Receitas Correntes\\n(-) Transferências constitucionais\\n(-) Contribuições previdenciárias\\n(-) Compensação entre regimes\\n(-) Valores por repartição\\n\\nApurada no mês e nos 11 anteriores.",
+            tags: ["RCL", "conceito"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-19-8",
+            frente: "Qual o limite do EXECUTIVO estadual para despesa com pessoal?",
+            verso: "**49% da RCL**\\n\\nDistribuição no Estado (60% total):\\n- Executivo: 49%\\n- Legislativo + TC: 3%\\n- Judiciário: 6%\\n- MP: 2%",
+            tags: ["executivo", "estadual", "limite"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-19-9",
+            frente: "O que acontece quando se atinge 90% do limite de pessoal?",
+            verso: "**Limite de ALERTA**\\n\\nO Tribunal de Contas ALERTA os Poderes e órgãos.\\n\\nAinda não há vedações automáticas (essas vêm no prudencial - 95%).\\n\\n(Art. 59, §1º, II, LRF)",
+            tags: ["alerta", "90%"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-19-10",
+            frente: "Quais são os pilares da LRF?",
+            verso: "**PTCR:**\\n\\n1. **P**lanejamento (PPA, LDO, LOA, metas)\\n2. **T**ransparência (publicidade, relatórios)\\n3. **C**ontrole (fiscalização, TC)\\n4. **R**esponsabilização (sanções)",
+            tags: ["pilares", "LRF"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "ap-q-19-1",
+            enunciado: "De acordo com a LRF, o limite global de despesa com pessoal para os ESTADOS é de:",
+            alternativas: [
+              { letra: "A", texto: "40% da Receita Corrente Líquida." },
+              { letra: "B", texto: "50% da Receita Corrente Líquida." },
+              { letra: "C", texto: "60% da Receita Corrente Líquida." },
+              { letra: "D", texto: "70% da Receita Corrente Líquida." },
+              { letra: "E", texto: "80% da Receita Corrente Líquida." },
+            ],
+            gabarito: "C",
+            justificativa: "O limite global de despesa com pessoal é: União 50%, Estados 60%, Municípios 60% da RCL (art. 19, LRF).",
+            dificuldade: "Fácil",
+            competencia: "Limites de pessoal",
+            banca: "IADES",
+            tags: ["limites", "60%", "estados"],
+          },
+          {
+            id: "ap-q-19-2",
+            enunciado: "O limite PRUDENCIAL de despesa com pessoal, que gera vedações automáticas, corresponde a:",
+            alternativas: [
+              { letra: "A", texto: "80% do limite." },
+              { letra: "B", texto: "85% do limite." },
+              { letra: "C", texto: "90% do limite." },
+              { letra: "D", texto: "95% do limite." },
+              { letra: "E", texto: "100% do limite." },
+            ],
+            gabarito: "D",
+            justificativa: "O limite PRUDENCIAL é 95% do limite (art. 22). Ao atingi-lo, ficam vedados: aumento, criação de cargos, provimento (exceto reposição em áreas essenciais), hora extra.",
+            dificuldade: "Fácil",
+            competencia: "Limite prudencial",
+            banca: "IADES",
+            tags: ["prudencial", "95%"],
+          },
+          {
+            id: "ap-q-19-3",
+            enunciado: "O Relatório Resumido de Execução Orçamentária (RREO) deve ser publicado:",
+            alternativas: [
+              { letra: "A", texto: "mensalmente." },
+              { letra: "B", texto: "bimestralmente." },
+              { letra: "C", texto: "trimestralmente." },
+              { letra: "D", texto: "quadrimestralmente." },
+              { letra: "E", texto: "semestralmente." },
+            ],
+            gabarito: "B",
+            justificativa: "O RREO é publicado BIMESTRALMENTE (a cada 2 meses), até 30 dias após o encerramento do bimestre (art. 52, LRF).",
+            dificuldade: "Fácil",
+            competencia: "RREO",
+            banca: "IADES",
+            tags: ["RREO", "bimestral"],
+          },
+          {
+            id: "ap-q-19-4",
+            enunciado: "O Relatório de Gestão Fiscal (RGF) deve ser emitido:",
+            alternativas: [
+              { letra: "A", texto: "mensalmente." },
+              { letra: "B", texto: "bimestralmente." },
+              { letra: "C", texto: "trimestralmente." },
+              { letra: "D", texto: "quadrimestralmente." },
+              { letra: "E", texto: "anualmente." },
+            ],
+            gabarito: "D",
+            justificativa: "O RGF é emitido QUADRIMESTRALMENTE (a cada 4 meses), até 30 dias após o encerramento do quadrimestre (art. 54, LRF).",
+            dificuldade: "Fácil",
+            competencia: "RGF",
+            banca: "IADES",
+            tags: ["RGF", "quadrimestral"],
+          },
+          {
+            id: "ap-q-19-5",
+            enunciado: "O prazo para recondução da despesa com pessoal ao limite, quando este for ultrapassado, é de:",
+            alternativas: [
+              { letra: "A", texto: "1 bimestre." },
+              { letra: "B", texto: "2 bimestres." },
+              { letra: "C", texto: "1 quadrimestre." },
+              { letra: "D", texto: "2 quadrimestres." },
+              { letra: "E", texto: "1 semestre." },
+            ],
+            gabarito: "D",
+            justificativa: "O prazo de recondução é de 2 QUADRIMESTRES (8 meses), devendo ser eliminado pelo menos 1/3 do excesso no primeiro quadrimestre (art. 23, LRF).",
+            dificuldade: "Média",
+            competencia: "Recondução",
+            banca: "IADES",
+            tags: ["recondução", "prazo"],
+          },
+          {
+            id: "ap-q-19-6",
+            enunciado: "É VEDADO ao titular de Poder, nos últimos 180 dias do mandato:",
+            alternativas: [
+              { letra: "A", texto: "realizar licitações." },
+              { letra: "B", texto: "aumentar despesa total com pessoal." },
+              { letra: "C", texto: "pagar fornecedores." },
+              { letra: "D", texto: "emitir empenhos." },
+              { letra: "E", texto: "publicar relatórios." },
+            ],
+            gabarito: "B",
+            justificativa: "Nos últimos 180 dias do mandato, é VEDADO aumentar despesa com pessoal, salvo se houver lei de revisão geral (art. 21, parágrafo único, LRF).",
+            dificuldade: "Média",
+            competencia: "Vedações final de mandato",
+            banca: "IADES",
+            tags: ["180 dias", "vedação"],
+          },
+          {
+            id: "ap-q-19-7",
+            enunciado: "O Tribunal de Contas alertará os Poderes quando a despesa com pessoal atingir:",
+            alternativas: [
+              { letra: "A", texto: "80% do limite." },
+              { letra: "B", texto: "85% do limite." },
+              { letra: "C", texto: "90% do limite." },
+              { letra: "D", texto: "95% do limite." },
+              { letra: "E", texto: "100% do limite." },
+            ],
+            gabarito: "C",
+            justificativa: "O limite de ALERTA é 90% do limite. O TC alerta os Poderes, mas ainda não há vedações automáticas (estas vêm no prudencial - 95%).",
+            dificuldade: "Fácil",
+            competencia: "Limite de alerta",
+            banca: "IADES",
+            tags: ["alerta", "90%", "TC"],
+          },
+          {
+            id: "ap-q-19-8",
+            enunciado: "No âmbito do Poder EXECUTIVO estadual, o limite de despesa com pessoal é de:",
+            alternativas: [
+              { letra: "A", texto: "40% da RCL." },
+              { letra: "B", texto: "49% da RCL." },
+              { letra: "C", texto: "54% da RCL." },
+              { letra: "D", texto: "60% da RCL." },
+              { letra: "E", texto: "65% da RCL." },
+            ],
+            gabarito: "B",
+            justificativa: "O Executivo estadual tem limite de 49% da RCL (art. 20, II, c). O total do Estado (60%) se divide: Executivo 49%, Legislativo+TC 3%, Judiciário 6%, MP 2%.",
+            dificuldade: "Média",
+            competencia: "Repartição por Poder",
+            banca: "IADES",
+            tags: ["executivo", "49%"],
+          },
+          {
+            id: "ap-q-19-9",
+            enunciado: "A ARO (Antecipação de Receita Orçamentária) é VEDADA:",
+            alternativas: [
+              { letra: "A", texto: "no primeiro ano de mandato." },
+              { letra: "B", texto: "no último ano de mandato." },
+              { letra: "C", texto: "em anos eleitorais." },
+              { letra: "D", texto: "em anos de recessão." },
+              { letra: "E", texto: "nunca é vedada." },
+            ],
+            gabarito: "B",
+            justificativa: "A ARO é PROIBIDA no último ano de mandato do Chefe do Poder Executivo (art. 38, IV, b, LRF). Também é vedada se houver ARO anterior não resgatada.",
+            dificuldade: "Média",
+            competencia: "ARO",
+            banca: "IADES",
+            tags: ["ARO", "vedação", "último ano"],
+          },
+          {
+            id: "ap-q-19-10",
+            enunciado: "São pilares da Lei de Responsabilidade Fiscal, EXCETO:",
+            alternativas: [
+              { letra: "A", texto: "planejamento." },
+              { letra: "B", texto: "transparência." },
+              { letra: "C", texto: "centralização." },
+              { letra: "D", texto: "controle." },
+              { letra: "E", texto: "responsabilização." },
+            ],
+            gabarito: "C",
+            justificativa: "Os pilares da LRF são: Planejamento, Transparência, Controle e Responsabilização (PTCR). Centralização NÃO é pilar da LRF; pelo contrário, há descentralização na gestão.",
+            dificuldade: "Fácil",
+            competencia: "Pilares da LRF",
+            banca: "IADES",
+            tags: ["pilares", "exceção"],
+          },
+        ],
+      },
+    },
+    {
+      id: "ap-topico-20",
+      numero: 20,
+      titulo: "Gestão de Pessoas no Setor Público",
+      conteudo: {
+        resumo: `
+## Resumo Rápido
+
+### Regimes Jurídicos de Pessoal
+
+| Regime | Vínculo | Legislação |
+|--------|---------|------------|
+| **Estatutário** | Legal (unilateral) | Estatuto (lei) |
+| **Celetista** | Contratual (bilateral) | CLT |
+| **Temporário** | Contrato por prazo determinado | Lei específica |
+
+### Formas de Provimento (Art. 8º, Lei 8.112/90)
+
+| Originário | Derivado |
+|------------|----------|
+| Nomeação | Promoção, Readaptação, Reversão, Aproveitamento, Reintegração, Recondução |
+
+### Formas de Vacância (Art. 33, Lei 8.112/90)
+
+| Forma | Descrição |
+|-------|-----------|
+| Exoneração | A pedido ou de ofício (não estável) |
+| Demissão | Penalidade (PAD) |
+| Promoção | Vacância no cargo anterior |
+| Readaptação | Vacância no cargo anterior |
+| Aposentadoria | Compulsória (75), voluntária, invalidez |
+| Posse em outro cargo inacumulável | Vacância no cargo anterior |
+| Falecimento | Extinção do vínculo |
+
+### Estágio Probatório
+
+| Aspecto | Regra |
+|---------|-------|
+| **Duração** | 3 anos (36 meses) |
+| **Fatores de avaliação** | Assiduidade, Disciplina, Capacidade de iniciativa, Produtividade, Responsabilidade |
+| **Estabilidade** | Após aprovação no estágio |
+| **Reprovação** | Exoneração ou recondução |
+
+### Mnemônico: ADCPR
+- **A**ssiduidade
+- **D**isciplina
+- **C**apacidade de iniciativa
+- **P**rodutividade
+- **R**esponsabilidade
+        `,
+
+        explicacao: `
+## Explicação Didática
+
+### 1. Regimes Jurídicos de Pessoal
+
+#### 1.1 Regime ESTATUTÁRIO
+
+| Aspecto | Características |
+|---------|-----------------|
+| **Vínculo** | LEGAL (não contratual) |
+| **Natureza** | Unilateral (Estado define) |
+| **Legislação** | Estatuto próprio (ex: Lei 8.112/90 federal, Lei 20.756/2020 GO) |
+| **Alteração** | Lei pode alterar unilateralmente |
+| **Aplicação** | Administração Direta, Autarquias, Fundações Públicas |
+
+#### 1.2 Regime CELETISTA
+
+| Aspecto | Características |
+|---------|-----------------|
+| **Vínculo** | CONTRATUAL (bilateral) |
+| **Natureza** | Acordo de vontades |
+| **Legislação** | CLT (Consolidação das Leis do Trabalho) |
+| **Alteração** | Respeita cláusulas do contrato |
+| **Aplicação** | Empresas Públicas, Sociedades de Economia Mista |
+
+#### 1.3 Regime TEMPORÁRIO
+
+| Aspecto | Características |
+|---------|-----------------|
+| **Base** | Art. 37, IX, CF/88 |
+| **Requisitos** | Necessidade temporária + Excepcional interesse público |
+| **Vínculo** | Contrato por prazo determinado |
+| **Concurso** | NÃO exige (processo seletivo simplificado) |
+| **Exemplos** | Calamidade, surto, epidemia, censo |
+
+### 2. Formas de Provimento
+
+**Provimento** é o ato de preenchimento de cargo público.
+
+#### 2.1 Provimento ORIGINÁRIO
+
+| Forma | Descrição |
+|-------|-----------|
+| **Nomeação** | Único provimento originário (primeiro vínculo) |
+
+#### 2.2 Provimento DERIVADO
+
+| Forma | Descrição | Requisitos |
+|-------|-----------|------------|
+| **Promoção** | Progressão na carreira | Avaliação, tempo |
+| **Readaptação** | Limitação física/mental superveniente | Habilitação, atribuições compatíveis |
+| **Reversão** | Retorno do aposentado | De ofício (ilegal) ou a pedido |
+| **Aproveitamento** | Retorno do servidor em disponibilidade | Cargo compatível |
+| **Reintegração** | Retorno por decisão judicial | Invalidação da demissão |
+| **Recondução** | Retorno ao cargo anterior | Inabilitação em estágio ou reintegração do anterior |
+
+#### Mnemônico Provimento Derivado: PRR-RAR
+- **P**romoção
+- **R**eadaptação
+- **R**eversão
+- **A**proveitamento
+- **R**eintegração
+- **R**econdução
+
+### 3. Formas de Vacância
+
+**Vacância** é o ato que torna vago o cargo público.
+
+| Forma | Situação |
+|-------|----------|
+| **Exoneração** | A pedido do servidor OU de ofício (cargo em comissão ou inabilitação em estágio) |
+| **Demissão** | PENALIDADE por infração grave (via PAD) |
+| **Promoção** | Vaga o cargo inferior para ocupar superior |
+| **Readaptação** | Vaga o cargo para ocupar outro compatível |
+| **Aposentadoria** | Compulsória (75 anos), voluntária, invalidez |
+| **Posse em outro cargo** | Inacumulável, vaga o anterior |
+| **Falecimento** | Extinção do vínculo |
+
+#### Diferença: Exoneração x Demissão
+
+| Aspecto | EXONERAÇÃO | DEMISSÃO |
+|---------|------------|----------|
+| Natureza | NÃO é penalidade | É PENALIDADE |
+| Motivo | Pedido, conveniência, inabilitação | Infração grave |
+| Processo | Não exige PAD | Exige PAD com ampla defesa |
+| Voluntária | Pode ser | Nunca é |
+
+### 4. Estágio Probatório
+
+#### 4.1 Conceito e Prazo
+
+| Aspecto | Regra |
+|---------|-------|
+| **Conceito** | Período de avaliação do servidor nomeado |
+| **Duração** | **3 ANOS** (36 meses) |
+| **Início** | Entrada em exercício |
+| **Término** | Aquisição da estabilidade (se aprovado) |
+
+⚠️ **EC 19/98** alterou para 3 anos. Antes era 2 anos.
+
+#### 4.2 Fatores de Avaliação (ADCPR)
+
+| Fator | Descrição |
+|-------|-----------|
+| **A**ssiduidade | Frequência, pontualidade |
+| **D**isciplina | Cumprimento de normas, hierarquia |
+| **C**apacidade de iniciativa | Proatividade, soluções |
+| **P**rodutividade | Resultados, qualidade |
+| **R**esponsabilidade | Compromisso, ética |
+
+#### 4.3 Resultado do Estágio Probatório
+
+| Resultado | Consequência |
+|-----------|--------------|
+| **Aprovação** | Aquisição de ESTABILIDADE |
+| **Reprovação** | EXONERAÇÃO (não é demissão!) |
+
+#### 4.4 Estabilidade x Efetividade
+
+| Conceito | Significado |
+|----------|-------------|
+| **Efetividade** | Atributo do CARGO (provimento efetivo, concurso) |
+| **Estabilidade** | Atributo do SERVIDOR (após 3 anos aprovado) |
+
+### 5. Avaliação de Desempenho
+
+#### 5.1 Base Constitucional (Art. 41, §1º, III)
+
+O servidor estável pode perder o cargo por **avaliação periódica de desempenho**, na forma de lei complementar.
+
+#### 5.2 Objetivo da Avaliação
+
+- Melhoria da gestão pública
+- Identificação de necessidades de capacitação
+- Progressão e promoção
+- Gratificações de desempenho
+- Perda de cargo (último caso)
+
+#### 5.3 Princípios da Avaliação
+
+| Princípio | Descrição |
+|-----------|-----------|
+| **Objetividade** | Critérios claros e mensuráveis |
+| **Transparência** | Servidor conhece os critérios |
+| **Contraditório** | Direito de contestar resultado |
+| **Periodicidade** | Avaliações regulares |
+
+### 6. Direitos dos Servidores
+
+#### 6.1 Direitos Pecuniários
+
+| Direito | Descrição |
+|---------|-----------|
+| Vencimento | Retribuição pelo exercício do cargo |
+| Vantagens | Indenizações, gratificações, adicionais |
+| Férias | + 1/3 constitucional |
+| 13º salário | Gratificação natalina |
+| Licenças | Saúde, maternidade, paternidade, etc. |
+
+#### 6.2 Direitos Sociais
+
+| Direito | Descrição |
+|---------|-----------|
+| Aposentadoria | RPPS (Regime Próprio) |
+| Assistência à saúde | Plano de saúde, auxílios |
+| Proteção ao trabalho | Segurança, ambiente saudável |
+| Previdência | Pensão, auxílio-doença |
+
+#### 6.3 Direitos Associativos
+
+| Direito | Base |
+|---------|------|
+| Sindicalização | Art. 37, VI, CF |
+| Greve | Art. 37, VII, CF (nos termos da lei) |
+| Associação | Art. 5º, XVII, CF |
+
+### 7. Deveres dos Servidores
+
+| Dever | Descrição |
+|-------|-----------|
+| **Lealdade** | Às instituições |
+| **Legalidade** | Cumprir as leis |
+| **Moralidade** | Ética no serviço |
+| **Assiduidade** | Comparecer regularmente |
+| **Pontualidade** | Cumprir horários |
+| **Urbanidade** | Tratar bem o público |
+| **Discrição** | Sigilo quando necessário |
+| **Zelo** | Cuidar do patrimônio público |
+| **Eficiência** | Realizar bem as tarefas |
+
+### 8. Ética no Serviço Público
+
+#### 8.1 Base Normativa
+
+| Norma | Âmbito |
+|-------|--------|
+| CF/88, art. 37 | Moralidade como princípio |
+| Lei 8.112/90 | Deveres e proibições federais |
+| Decreto 1.171/94 | Código de Ética federal |
+| Decreto 9.837/2021 | Código de Ética GO |
+| Portaria 170/2018-SES | Ética do Fiscal de VISA |
+
+#### 8.2 Princípios Éticos
+
+| Princípio | Aplicação |
+|-----------|-----------|
+| **Dignidade** | Respeito a todos |
+| **Decoro** | Comportamento adequado |
+| **Boa-fé** | Agir com honestidade |
+| **Probidade** | Integridade moral |
+| **Zelo** | Dedicação ao serviço |
+
+#### 8.3 Vedações ao Servidor
+
+| Vedação | Descrição |
+|---------|-----------|
+| Valer-se do cargo | Para proveito pessoal |
+| Receber propina | Qualquer vantagem indevida |
+| Usar informação privilegiada | Para benefício próprio |
+| Exercer atividade incompatível | Com o cargo |
+| Coagir subordinados | Para fins político-partidários |
+
+### 9. Gestão de Pessoas na Vigilância Sanitária
+
+| Aspecto | Aplicação |
+|---------|-----------|
+| **Regime** | Estatutário (SES-GO) |
+| **Código de Ética** | Decreto 9.837/2021 + Portaria 170/2018 |
+| **Fiscais** | Lei 13.266/98 (carreira do fisco) |
+| **Estágio probatório** | 3 anos, avaliação ADCPR |
+| **Capacitação** | Contínua (Escola de Governo) |
+
+### 10. Estatuto de Goiás (Lei 20.756/2020)
+
+| Aspecto | Regra |
+|---------|-------|
+| **Regime** | Estatutário |
+| **Estágio probatório** | 3 anos |
+| **Estabilidade** | Após aprovação no estágio |
+| **Direitos** | Capítulos próprios |
+| **Deveres** | Rol específico |
+| **Processo disciplinar** | PAD, sindicância |
+        `,
+
+        pontosChave: [
+          "Regimes: Estatutário (legal), Celetista (contratual), Temporário (excepcional)",
+          "Provimento originário: NOMEAÇÃO (único)",
+          "Provimento derivado: PRR-RAR (Promoção, Readaptação, Reversão, Aproveitamento, Reintegração, Recondução)",
+          "Vacância: exoneração, demissão, promoção, readaptação, aposentadoria, posse em outro cargo, falecimento",
+          "EXONERAÇÃO ≠ DEMISSÃO: exoneração não é penalidade, demissão é",
+          "Estágio probatório: 3 ANOS (EC 19/98)",
+          "Fatores de avaliação: ADCPR (Assiduidade, Disciplina, Capacidade de iniciativa, Produtividade, Responsabilidade)",
+          "Reprovação no estágio = EXONERAÇÃO (não demissão)",
+          "EFETIVIDADE = atributo do cargo / ESTABILIDADE = atributo do servidor",
+          "Servidor estável: só perde cargo por PAD, sentença judicial ou avaliação periódica",
+          "Deveres: lealdade, legalidade, moralidade, assiduidade, urbanidade, eficiência",
+          "Ética: Decreto 1.171/94 (federal), Decreto 9.837/2021 (GO)",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir exoneração com demissão",
+            descricao: "EXONERAÇÃO não é penalidade. DEMISSÃO é penalidade (via PAD).",
+            dica: "Pediu para sair = exoneração. Foi punido = demissão.",
+          },
+          {
+            titulo: "Estágio probatório de 2 anos",
+            descricao: "O prazo é de 3 ANOS desde a EC 19/98 (não mais 2 anos).",
+            dica: "3 anos de estágio = 3 anos para estabilidade.",
+          },
+          {
+            titulo: "Nomeação é provimento derivado",
+            descricao: "NOMEAÇÃO é o ÚNICO provimento ORIGINÁRIO.",
+            dica: "Nomeação = primeiro cargo = originário.",
+          },
+          {
+            titulo: "Reversão é volta de disponibilidade",
+            descricao: "REVERSÃO = volta de aposentadoria. APROVEITAMENTO = volta de disponibilidade.",
+            dica: "Reversão = Reverter aposentadoria. Aproveitamento = Aproveitar o disponível.",
+          },
+          {
+            titulo: "Temporário precisa de concurso",
+            descricao: "Contratação temporária NÃO exige concurso, apenas processo seletivo simplificado.",
+            dica: "Temporário = excepcional = sem concurso (mas com seleção).",
+          },
+          {
+            titulo: "Estabilidade x Efetividade",
+            descricao: "EFETIVIDADE é do cargo (concursado). ESTABILIDADE é do servidor (após 3 anos).",
+            dica: "Pode ser efetivo sem ser estável (durante o estágio).",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "ADCPR",
+            significado: "Fatores do estágio probatório",
+            frase: "Assiduidade, Disciplina, Capacidade de iniciativa, Produtividade, Responsabilidade",
+          },
+          {
+            termo: "PRR-RAR",
+            significado: "Provimento derivado",
+            frase: "Promoção, Readaptação, Reversão, Aproveitamento, Reintegração, Recondução",
+          },
+          {
+            termo: "NOMEAÇÃO = NO",
+            significado: "Único provimento originário",
+            frase: "Nomeação é o único provimento Originário (NO)",
+          },
+          {
+            termo: "3-3-3",
+            significado: "Estágio probatório",
+            frase: "3 anos de estágio = 3 anos para estabilidade",
+          },
+          {
+            termo: "Exo = Ex / Demo = Demo",
+            significado: "Exoneração x Demissão",
+            frase: "Exoneração = Ex-funcionário (pediu). Demissão = Demolido (punido).",
+          },
+          {
+            termo: "Reversão = Reverter aposentadoria",
+            significado: "Diferença reversão x aproveitamento",
+            frase: "Reversão = volta da aposentadoria. Aproveitamento = volta da disponibilidade.",
+          },
+          {
+            termo: "EfeTIvo = aTITudo do cargo",
+            significado: "Efetividade x Estabilidade",
+            frase: "Efetividade = cargo (TI de atitTUde). Estabilidade = servidor (após 3 anos).",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "ap-fc-20-1",
+            frente: "Quais são os REGIMES JURÍDICOS de pessoal na Administração Pública?",
+            verso: "1. **Estatutário**: vínculo legal, unilateral\\n   (Adm. Direta, Autarquias, Fundações)\\n\\n2. **Celetista**: vínculo contratual, CLT\\n   (EP, SEM)\\n\\n3. **Temporário**: contrato prazo determinado\\n   (excepcional interesse público)",
+            tags: ["regimes", "estatutário", "celetista"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-20-2",
+            frente: "Quais são as formas de PROVIMENTO de cargo público?",
+            verso: "**ORIGINÁRIO**: NOMEAÇÃO (única)\\n\\n**DERIVADO** (PRR-RAR):\\n- **P**romoção\\n- **R**eadaptação\\n- **R**eversão\\n- **A**proveitamento\\n- **R**eintegração\\n- **R**econdução",
+            tags: ["provimento", "originário", "derivado"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-20-3",
+            frente: "Qual a diferença entre EXONERAÇÃO e DEMISSÃO?",
+            verso: "**EXONERAÇÃO**:\\n- NÃO é penalidade\\n- A pedido ou de ofício\\n- Não exige PAD\\n\\n**DEMISSÃO**:\\n- É PENALIDADE\\n- Por infração grave\\n- Exige PAD com ampla defesa",
+            tags: ["exoneração", "demissão", "diferença"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-20-4",
+            frente: "Qual a duração do ESTÁGIO PROBATÓRIO e quais os fatores de avaliação?",
+            verso: "**Duração**: 3 ANOS (EC 19/98)\\n\\n**Fatores (ADCPR)**:\\n- **A**ssiduidade\\n- **D**isciplina\\n- **C**apacidade de iniciativa\\n- **P**rodutividade\\n- **R**esponsabilidade",
+            tags: ["estágio probatório", "ADCPR"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-20-5",
+            frente: "O que acontece se o servidor for REPROVADO no estágio probatório?",
+            verso: "**EXONERAÇÃO** (não é demissão!)\\n\\nOu, se ocupava cargo anterior:\\n**RECONDUÇÃO** ao cargo de origem.\\n\\nA exoneração no estágio NÃO é penalidade, é por inaptidão.",
+            tags: ["estágio probatório", "reprovação"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-20-6",
+            frente: "Qual a diferença entre EFETIVIDADE e ESTABILIDADE?",
+            verso: "**EFETIVIDADE**:\\n- Atributo do CARGO\\n- Provimento por concurso\\n- Desde a nomeação\\n\\n**ESTABILIDADE**:\\n- Atributo do SERVIDOR\\n- Após 3 anos aprovado\\n- Garantia contra perda do cargo",
+            tags: ["efetividade", "estabilidade", "diferença"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-20-7",
+            frente: "Quais as formas de VACÂNCIA de cargo público?",
+            verso: "1. Exoneração\\n2. Demissão\\n3. Promoção\\n4. Readaptação\\n5. Aposentadoria\\n6. Posse em outro cargo inacumulável\\n7. Falecimento\\n\\n(Art. 33, Lei 8.112/90)",
+            tags: ["vacância", "formas"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-20-8",
+            frente: "O que é REVERSÃO e o que é APROVEITAMENTO?",
+            verso: "**REVERSÃO**:\\nRetorno do servidor APOSENTADO\\n(de ofício = ilegal ou a pedido)\\n\\n**APROVEITAMENTO**:\\nRetorno do servidor em DISPONIBILIDADE\\n(cargo foi extinto/desnecessário)",
+            tags: ["reversão", "aproveitamento"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-20-9",
+            frente: "Em quais hipóteses o servidor ESTÁVEL pode perder o cargo?",
+            verso: "1. **Sentença judicial** transitada em julgado\\n\\n2. **PAD** (processo administrativo disciplinar)\\n\\n3. **Avaliação periódica de desempenho** (mediante lei complementar)\\n\\n(Art. 41, §1º, CF/88)",
+            tags: ["estabilidade", "perda do cargo"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-20-10",
+            frente: "Quais são os principais DEVERES dos servidores públicos?",
+            verso: "- **Lealdade** às instituições\\n- **Legalidade** (cumprir leis)\\n- **Moralidade** (ética)\\n- **Assiduidade** (frequência)\\n- **Pontualidade** (horários)\\n- **Urbanidade** (trato cortês)\\n- **Eficiência** (qualidade)",
+            tags: ["deveres", "servidor"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "ap-q-20-1",
+            enunciado: "O único provimento ORIGINÁRIO de cargo público é:",
+            alternativas: [
+              { letra: "A", texto: "promoção." },
+              { letra: "B", texto: "nomeação." },
+              { letra: "C", texto: "readaptação." },
+              { letra: "D", texto: "reintegração." },
+              { letra: "E", texto: "reversão." },
+            ],
+            gabarito: "B",
+            justificativa: "A NOMEAÇÃO é o único provimento originário, pois é o primeiro vínculo do servidor com o cargo. As demais formas (promoção, readaptação, etc.) são provimentos DERIVADOS.",
+            dificuldade: "Fácil",
+            competencia: "Provimento originário",
+            banca: "IADES",
+            tags: ["nomeação", "originário"],
+          },
+          {
+            id: "ap-q-20-2",
+            enunciado: "O estágio probatório dos servidores públicos tem duração de:",
+            alternativas: [
+              { letra: "A", texto: "6 meses." },
+              { letra: "B", texto: "1 ano." },
+              { letra: "C", texto: "2 anos." },
+              { letra: "D", texto: "3 anos." },
+              { letra: "E", texto: "5 anos." },
+            ],
+            gabarito: "D",
+            justificativa: "O estágio probatório tem duração de 3 ANOS, conforme alteração da EC 19/98 (antes era 2 anos). É o período em que o servidor é avaliado para adquirir estabilidade.",
+            dificuldade: "Fácil",
+            competencia: "Estágio probatório",
+            banca: "IADES",
+            tags: ["estágio probatório", "3 anos"],
+          },
+          {
+            id: "ap-q-20-3",
+            enunciado: "São fatores de avaliação no estágio probatório, EXCETO:",
+            alternativas: [
+              { letra: "A", texto: "assiduidade." },
+              { letra: "B", texto: "disciplina." },
+              { letra: "C", texto: "antiguidade." },
+              { letra: "D", texto: "produtividade." },
+              { letra: "E", texto: "responsabilidade." },
+            ],
+            gabarito: "C",
+            justificativa: "Os fatores são ADCPR: Assiduidade, Disciplina, Capacidade de iniciativa, Produtividade, Responsabilidade. ANTIGUIDADE não é fator de avaliação no estágio probatório.",
+            dificuldade: "Média",
+            competencia: "Fatores do estágio probatório",
+            banca: "IADES",
+            tags: ["ADCPR", "exceção"],
+          },
+          {
+            id: "ap-q-20-4",
+            enunciado: "A diferença entre exoneração e demissão está no fato de que:",
+            alternativas: [
+              { letra: "A", texto: "ambas são formas de penalidade." },
+              { letra: "B", texto: "demissão é penalidade, exoneração não é." },
+              { letra: "C", texto: "exoneração é penalidade, demissão não é." },
+              { letra: "D", texto: "exoneração só ocorre a pedido do servidor." },
+              { letra: "E", texto: "demissão não exige processo administrativo." },
+            ],
+            gabarito: "B",
+            justificativa: "DEMISSÃO é PENALIDADE (exige PAD). EXONERAÇÃO não é penalidade (pode ser a pedido ou de ofício para cargo em comissão ou inabilitação em estágio).",
+            dificuldade: "Fácil",
+            competencia: "Exoneração x Demissão",
+            banca: "IADES",
+            tags: ["exoneração", "demissão"],
+          },
+          {
+            id: "ap-q-20-5",
+            enunciado: "O servidor que é reprovado no estágio probatório será:",
+            alternativas: [
+              { letra: "A", texto: "demitido." },
+              { letra: "B", texto: "exonerado." },
+              { letra: "C", texto: "suspenso." },
+              { letra: "D", texto: "advertido." },
+              { letra: "E", texto: "readaptado." },
+            ],
+            gabarito: "B",
+            justificativa: "O servidor reprovado no estágio probatório será EXONERADO (ou reconduzido ao cargo anterior, se houver). NÃO é demissão, pois não é penalidade.",
+            dificuldade: "Fácil",
+            competencia: "Reprovação no estágio",
+            banca: "IADES",
+            tags: ["estágio", "reprovação", "exoneração"],
+          },
+          {
+            id: "ap-q-20-6",
+            enunciado: "O retorno do servidor aposentado ao serviço público denomina-se:",
+            alternativas: [
+              { letra: "A", texto: "reintegração." },
+              { letra: "B", texto: "recondução." },
+              { letra: "C", texto: "readaptação." },
+              { letra: "D", texto: "reversão." },
+              { letra: "E", texto: "aproveitamento." },
+            ],
+            gabarito: "D",
+            justificativa: "REVERSÃO é o retorno do aposentado. REINTEGRAÇÃO é por decisão judicial. APROVEITAMENTO é do servidor em disponibilidade. RECONDUÇÃO é do inabilitado ou por reintegração do anterior.",
+            dificuldade: "Média",
+            competencia: "Formas de provimento",
+            banca: "IADES",
+            tags: ["reversão", "aposentado"],
+          },
+          {
+            id: "ap-q-20-7",
+            enunciado: "Quanto à efetividade e estabilidade, é CORRETO afirmar:",
+            alternativas: [
+              { letra: "A", texto: "são sinônimas." },
+              { letra: "B", texto: "efetividade é atributo do cargo, estabilidade é do servidor." },
+              { letra: "C", texto: "estabilidade é atributo do cargo, efetividade é do servidor." },
+              { letra: "D", texto: "ambas são adquiridas após o concurso público." },
+              { letra: "E", texto: "não há distinção jurídica entre elas." },
+            ],
+            gabarito: "B",
+            justificativa: "EFETIVIDADE é atributo do CARGO (provimento efetivo via concurso). ESTABILIDADE é atributo do SERVIDOR (adquirida após 3 anos de estágio probatório aprovado).",
+            dificuldade: "Média",
+            competencia: "Efetividade x Estabilidade",
+            banca: "IADES",
+            tags: ["efetividade", "estabilidade"],
+          },
+          {
+            id: "ap-q-20-8",
+            enunciado: "O servidor estável só perderá o cargo em virtude de:",
+            alternativas: [
+              { letra: "A", texto: "avontade do chefe imediato." },
+              { letra: "B", texto: "necessidade de redução de despesas." },
+              { letra: "C", texto: "sentença judicial, PAD ou avaliação periódica de desempenho." },
+              { letra: "D", texto: "apenas sentença judicial transitada em julgado." },
+              { letra: "E", texto: "conveniência administrativa." },
+            ],
+            gabarito: "C",
+            justificativa: "O servidor estável só perde o cargo por: 1) Sentença judicial transitada em julgado; 2) PAD; 3) Avaliação periódica de desempenho (art. 41, §1º, CF).",
+            dificuldade: "Média",
+            competencia: "Perda do cargo de servidor estável",
+            banca: "IADES",
+            tags: ["estabilidade", "perda do cargo"],
+          },
+          {
+            id: "ap-q-20-9",
+            enunciado: "São formas de VACÂNCIA de cargo público, EXCETO:",
+            alternativas: [
+              { letra: "A", texto: "exoneração." },
+              { letra: "B", texto: "demissão." },
+              { letra: "C", texto: "nomeação." },
+              { letra: "D", texto: "promoção." },
+              { letra: "E", texto: "aposentadoria." },
+            ],
+            gabarito: "C",
+            justificativa: "NOMEAÇÃO é forma de PROVIMENTO (preenchimento), não de vacância. Vacância: exoneração, demissão, promoção, readaptação, aposentadoria, posse em outro cargo, falecimento.",
+            dificuldade: "Fácil",
+            competencia: "Formas de vacância",
+            banca: "IADES",
+            tags: ["vacância", "exceção"],
+          },
+          {
+            id: "ap-q-20-10",
+            enunciado: "A contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público:",
+            alternativas: [
+              { letra: "A", texto: "exige concurso público." },
+              { letra: "B", texto: "dispensa qualquer processo seletivo." },
+              { letra: "C", texto: "gera estabilidade após 3 anos." },
+              { letra: "D", texto: "dispensa concurso, mas exige processo seletivo simplificado." },
+              { letra: "E", texto: "é vedada pela Constituição." },
+            ],
+            gabarito: "D",
+            justificativa: "A contratação temporária (art. 37, IX, CF) dispensa CONCURSO, mas deve haver processo seletivo simplificado. É para necessidade temporária de excepcional interesse público.",
+            dificuldade: "Média",
+            competencia: "Contratação temporária",
+            banca: "IADES",
+            tags: ["temporário", "processo seletivo"],
+          },
+        ],
+      },
+    },
   ],
 };
