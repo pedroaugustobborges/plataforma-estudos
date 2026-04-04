@@ -14311,5 +14311,1679 @@ A Lei 14.133/2021 criou o **PNCP** como sistema obrigatório para:
         ],
       },
     },
+    // ==================== TÓPICO 22 ====================
+    {
+      id: "ap-topico-22",
+      numero: 22,
+      titulo:
+        "Controle, transparência e accountability: atuação dos Tribunais de Contas, prestação de contas, Lei nº 12.527/2011 (Lei de Acesso à Informação), transparência pública e participação social",
+      conteudo: {
+        resumo: `
+## Resumo Rápido - Controle, Transparência e Accountability
+
+### Conceitos Fundamentais
+| Conceito | Significado |
+|----------|-------------|
+| **Controle** | Fiscalização da Administração Pública |
+| **Transparência** | Divulgação ampla de informações públicas |
+| **Accountability** | Responsabilização e prestação de contas |
+
+### Tipos de Controle
+| Tipo | Quem exerce | Momento |
+|------|-------------|---------|
+| **Interno** | Própria Administração | Preventivo/Concomitante/Posterior |
+| **Externo** | Legislativo + TCU/TCE | Posterior (principalmente) |
+| **Social** | Cidadãos e sociedade civil | Qualquer momento |
+| **Judicial** | Poder Judiciário | Posterior (mediante provocação) |
+
+### Tribunais de Contas
+| Âmbito | Tribunal | Vinculação |
+|--------|----------|------------|
+| **Federal** | TCU | Auxilia o Congresso Nacional |
+| **Estadual** | TCE-GO | Auxilia a Assembleia Legislativa |
+| **Municipal** | TCM (onde houver) | Auxilia a Câmara Municipal |
+
+### Competências do TCU (Art. 71, CF)
+- Apreciar contas do Presidente
+- Julgar contas dos administradores
+- Fiscalizar aplicação de recursos federais
+- Realizar auditorias e inspeções
+- Aplicar sanções (multas, inabilitação)
+
+### Lei de Acesso à Informação (Lei 12.527/2011)
+| Aspecto | Regra |
+|---------|-------|
+| **Regra geral** | PUBLICIDADE é a regra |
+| **Exceção** | Sigilo (segurança, privacidade) |
+| **Prazo resposta** | 20 dias (prorrogável por +10) |
+| **Transparência ativa** | Divulgação independente de pedido |
+| **Transparência passiva** | Resposta a pedidos |
+
+### Classificação de Sigilo
+| Grau | Prazo máximo |
+|------|--------------|
+| **Ultrassecreto** | 25 anos |
+| **Secreto** | 15 anos |
+| **Reservado** | 5 anos |
+
+### Para IADES - Foco em:
+- Diferença entre controle interno e externo
+- Competências do TCU/TCE
+- Prazos da LAI (20+10 dias)
+- Classificação de sigilo e prazos
+        `,
+
+        explicacao: `
+## Explicação Didática - Controle, Transparência e Accountability
+
+### 1. Conceito de Controle da Administração Pública
+
+O **controle** é a atividade de fiscalização e verificação da regularidade dos atos praticados pela Administração Pública. Busca garantir que a atuação estatal seja:
+- **Legal** (conforme as leis)
+- **Legítima** (conforme princípios)
+- **Econômica** (relação custo-benefício)
+- **Eficiente** (melhores resultados)
+
+#### Fundamento Constitucional
+A CF/88 estabelece um amplo sistema de controle, previsto especialmente nos arts. 70 a 75 (fiscalização contábil, financeira e orçamentária).
+
+### 2. Classificação do Controle
+
+#### 2.1 Quanto à Origem (INTERNO x EXTERNO)
+
+**CONTROLE INTERNO** (Art. 74, CF)
+| Aspecto | Descrição |
+|---------|-----------|
+| **Quem exerce** | A própria Administração (mesmo Poder) |
+| **Exemplos** | CGU (federal), CGE-GO (estadual) |
+| **Fundamento** | Autotutela administrativa |
+| **Característica** | Permanente e obrigatório |
+
+**Finalidades do Controle Interno (Art. 74, CF)**:
+1. Avaliar o cumprimento de metas do PPA
+2. Comprovar a legalidade da gestão
+3. Avaliar resultados quanto à eficácia e eficiência
+4. Controlar operações de crédito, avais e garantias
+5. Apoiar o controle externo
+
+**CONTROLE EXTERNO** (Art. 71, CF)
+| Aspecto | Descrição |
+|---------|-----------|
+| **Quem exerce** | Poder Legislativo + Tribunal de Contas |
+| **Federal** | Congresso Nacional + TCU |
+| **Estadual** | Assembleia Legislativa + TCE |
+| **Municipal** | Câmara Municipal + TCE/TCM |
+| **Fundamento** | Separação de poderes |
+
+#### 2.2 Quanto ao Momento
+
+| Momento | Descrição | Exemplo |
+|---------|-----------|---------|
+| **Prévio** | Antes do ato | Autorização legislativa |
+| **Concomitante** | Durante a execução | Auditoria em andamento |
+| **Posterior** | Após a conclusão | Julgamento de contas |
+
+#### 2.3 Quanto à Amplitude
+
+| Tipo | Descrição |
+|------|-----------|
+| **Hierárquico** | Superior sobre subordinado |
+| **Finalístico** | Tutela sobre entidades vinculadas |
+
+### 3. Tribunais de Contas
+
+#### 3.1 Natureza Jurídica
+Os Tribunais de Contas são **órgãos de controle externo**, de natureza técnica, que AUXILIAM o Poder Legislativo na fiscalização contábil, financeira e orçamentária.
+
+**IMPORTANTE**: Os TCs NÃO pertencem ao Poder Judiciário!
+
+#### 3.2 Estrutura no Brasil
+| Nível | Tribunal | Composição |
+|-------|----------|------------|
+| **Federal** | TCU | 9 Ministros |
+| **Estadual** | TCE | 7 Conselheiros |
+| **Municipal** | TCM* | 7 Conselheiros |
+
+*TCM só existe em SP e RJ (anteriores à CF/88).
+
+#### 3.3 Competências do TCU (Art. 71, CF)
+
+**Competências EXCLUSIVAS do TCU**:
+1. Apreciar contas anuais do **Presidente da República**
+2. Apreciar contas dos chefes dos Poderes Legislativo e Judiciário
+
+**Competências TÍPICAS dos TCs**:
+1. **Julgar contas** dos administradores e responsáveis por recursos públicos
+2. **Apreciar a legalidade** de admissões e aposentadorias
+3. **Realizar inspeções e auditorias**
+4. **Fiscalizar** recursos federais repassados a Estados/Municípios
+5. **Aplicar sanções**: multa, inabilitação para cargo em comissão
+6. **Sustar** atos impugnados (se não atendidas as determinações)
+7. Representar ao Congresso sobre irregularidades
+
+#### 3.4 Natureza das Decisões dos TCs
+
+| Decisão | Natureza |
+|---------|----------|
+| Julgamento de contas | **Administrativa** (não judicial) |
+| Imputação de débito | Título executivo extrajudicial |
+| Multa | Título executivo extrajudicial |
+
+**IMPORTANTE**: O Judiciário NÃO pode rever o mérito das decisões dos TCs, apenas vícios de legalidade e formalidade.
+
+### 4. Lei de Acesso à Informação (Lei 12.527/2011)
+
+#### 4.1 Princípios e Diretrizes
+
+A LAI estabelece que:
+> **"O acesso é a REGRA; o sigilo, a EXCEÇÃO"** (Art. 3º)
+
+**Diretrizes da LAI**:
+1. Publicidade como preceito geral
+2. Divulgação de informações de interesse público independentemente de solicitações
+3. Utilização de meios de comunicação viabilizados pela tecnologia
+4. Fomento ao desenvolvimento da cultura de transparência
+5. Desenvolvimento do controle social da Administração
+
+#### 4.2 Abrangência
+
+A LAI aplica-se a:
+- **União, Estados, DF e Municípios**
+- Poderes Executivo, Legislativo e Judiciário
+- Ministério Público
+- Tribunais de Contas
+- Defensoria Pública
+- Autarquias, fundações, empresas públicas, SEM
+- Entidades privadas sem fins lucrativos que recebam recursos públicos
+
+#### 4.3 Transparência Ativa x Passiva
+
+| Tipo | Descrição | Obrigação |
+|------|-----------|-----------|
+| **Ativa** | Divulgação espontânea | Sites oficiais, portais |
+| **Passiva** | Resposta a pedidos | SIC (Serviço de Informação ao Cidadão) |
+
+**Informações de divulgação OBRIGATÓRIA (Art. 8º)**:
+- Registro de competências e estrutura organizacional
+- Repasses e transferências de recursos
+- Despesas e execução orçamentária
+- Procedimentos licitatórios e contratos
+- Programas, projetos e ações
+- Respostas a perguntas frequentes
+
+#### 4.4 Procedimento de Acesso
+
+**Pedido de Informação**:
+- Qualquer pessoa (física ou jurídica)
+- Não precisa justificar motivo
+- Identificação do requerente
+- Especificação da informação
+
+**Prazos**:
+| Etapa | Prazo |
+|-------|-------|
+| Resposta ao pedido | **20 dias** |
+| Prorrogação | **+ 10 dias** (justificada) |
+| Recurso (1ª instância) | 10 dias para recorrer |
+| Recurso (2ª instância) | 10 dias para recorrer |
+
+#### 4.5 Classificação de Sigilo
+
+| Grau | Prazo máximo | Quem classifica |
+|------|--------------|-----------------|
+| **ULTRASSECRETO** | **25 anos** | Presidente, VP, Ministros, Comandantes, Chefes de missão |
+| **SECRETO** | **15 anos** | Autoridades acima + titulares de autarquias, fundações, etc. |
+| **RESERVADO** | **5 anos** | As acima + dirigentes de grau hierárquico = DAS 101.5 |
+
+**Mnemônico para os prazos**: **5-15-25** (Reservado-Secreto-Ultrassecreto)
+
+#### 4.6 Informações SIGILOSAS (Exceções)
+
+São passíveis de sigilo:
+1. Segurança do Estado ou da sociedade
+2. Relações internacionais
+3. Atividades de inteligência
+4. Investigações e processos judiciais sigilosos
+5. Segredo industrial
+6. Dados pessoais protegidos
+
+**NUNCA pode haver sigilo sobre**:
+- Violações de direitos humanos
+- Ações do Estado na repressão a movimentos políticos
+
+### 5. Accountability e Prestação de Contas
+
+#### 5.1 Conceito de Accountability
+
+**Accountability** = responsabilização + prestação de contas
+
+Envolve:
+1. **Transparência**: divulgar informações
+2. **Responsabilização**: assumir consequências
+3. **Prestação de contas**: demonstrar resultados
+4. **Controle**: verificação por órgãos competentes
+
+#### 5.2 Tipos de Accountability
+
+| Tipo | Descrição | Exemplo |
+|------|-----------|---------|
+| **Vertical** | Eleitor → Eleito | Eleições |
+| **Horizontal** | Poderes entre si | TC fiscaliza Executivo |
+| **Societal** | Sociedade → Estado | Conselhos, ONGs |
+
+#### 5.3 Prestação de Contas
+
+**Quem deve prestar contas** (Art. 70, parágrafo único, CF):
+> "Prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos."
+
+**Prazos para prestação de contas**:
+- Presidente da República: até 60 dias após abertura da sessão legislativa
+- Demais: conforme legislação específica
+
+### 6. Participação Social e Controle Social
+
+#### 6.1 Instrumentos de Participação
+
+| Instrumento | Descrição |
+|-------------|-----------|
+| **Audiências públicas** | Discussão de políticas com a sociedade |
+| **Consultas públicas** | Coleta de opiniões e sugestões |
+| **Conselhos de políticas públicas** | Participação deliberativa |
+| **Ouvidorias** | Canal de denúncias e sugestões |
+| **Orçamento participativo** | Escolha de prioridades orçamentárias |
+| **Ação popular** | Anulação de ato lesivo (art. 5º, LXXIII, CF) |
+
+#### 6.2 Controle Social
+
+O **controle social** é a participação da sociedade no acompanhamento e verificação das ações da gestão pública.
+
+**Mecanismos**:
+- Acesso à informação (LAI)
+- Portais de transparência
+- Conselhos (saúde, educação, assistência)
+- Observatórios sociais
+- Ouvidorias e canais de denúncia
+
+### 7. Aplicação na Vigilância Sanitária
+
+| Mecanismo | Aplicação na VISA |
+|-----------|-------------------|
+| **Controle interno** | CGE-GO fiscaliza atos da SES |
+| **Controle externo** | TCE-GO audita convênios federais |
+| **LAI** | Acesso a processos, licenças, autos |
+| **Participação** | Conselhos de Saúde (deliberativos) |
+| **Ouvidoria** | Denúncias de irregularidades sanitárias |
+| **Transparência** | Portal com empresas licenciadas |
+
+### 8. Portal da Transparência e PNCP
+
+**Portal da Transparência**: divulgação de receitas, despesas, convênios, servidores, etc.
+
+**PNCP** (Portal Nacional de Contratações Públicas): concentra informações sobre licitações e contratos (Lei 14.133/2021).
+
+**Obrigatoriedade**:
+- Municípios > 10 mil habitantes: portal próprio
+- Municípios ≤ 10 mil habitantes: pode usar portal do Estado
+        `,
+
+        pontosChave: [
+          "Controle INTERNO = própria Administração (CGU, CGE); EXTERNO = Legislativo + TC",
+          "Tribunais de Contas AUXILIAM o Legislativo (não pertencem ao Judiciário)",
+          "TCU: 9 Ministros; TCE: 7 Conselheiros",
+          "TC JULGA contas de administradores (decisão administrativa, não judicial)",
+          "Decisão do TC: título executivo extrajudicial (multa, débito)",
+          "LAI (12.527/2011): PUBLICIDADE é a regra, SIGILO é exceção",
+          "Prazo de resposta LAI: 20 dias + 10 dias (prorrogação)",
+          "Sigilos: RESERVADO (5 anos), SECRETO (15 anos), ULTRASSECRETO (25 anos)",
+          "Accountability = transparência + responsabilização + prestação de contas",
+          "Qualquer pessoa que gerencie recursos públicos DEVE prestar contas",
+          "Transparência ATIVA: divulgação espontânea; PASSIVA: resposta a pedidos",
+          "Controle social: participação da sociedade (conselhos, ouvidorias)",
+          "Ação popular: qualquer cidadão pode anular ato lesivo ao patrimônio público",
+          "NUNCA sigilo: violações de direitos humanos",
+          "Portais de transparência obrigatórios para municípios > 10 mil habitantes",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Achar que TC pertence ao Poder Judiciário",
+            descricao:
+              "Os Tribunais de Contas NÃO são órgãos do Judiciário. São órgãos de controle externo que auxiliam o Legislativo.",
+            dica: "TC auxilia o LEGISLATIVO (não o Judiciário).",
+          },
+          {
+            titulo: "Confundir 'apreciar' com 'julgar' contas",
+            descricao:
+              "TC APRECIA contas do Presidente e dos chefes de Poderes (parecer). TC JULGA contas de administradores.",
+            dica: "Chefe de Poder = aprecia. Administrador = julga.",
+          },
+          {
+            titulo: "Errar os prazos de sigilo",
+            descricao:
+              "Ultrassecreto: 25 anos; Secreto: 15 anos; Reservado: 5 anos.",
+            dica: "Lembre: 5-15-25 (do menor ao maior grau).",
+          },
+          {
+            titulo: "Achar que o pedido LAI exige justificativa",
+            descricao:
+              "O cidadão NÃO precisa justificar o motivo do pedido de informação.",
+            dica: "É só pedir. Motivo não é necessário.",
+          },
+          {
+            titulo: "Confundir prazo de resposta com prazo de recurso",
+            descricao:
+              "Resposta: 20 dias (+10). Recurso: 10 dias para interpor.",
+            dica: "Resposta = 20+10. Recurso = 10.",
+          },
+          {
+            titulo: "Pensar que decisão do TC é definitiva",
+            descricao:
+              "O Judiciário pode analisar vícios de LEGALIDADE (não o mérito) das decisões dos TCs.",
+            dica: "Judiciário não revê mérito, só legalidade.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "5-15-25",
+            significado: "Reservado (5), Secreto (15), Ultrassecreto (25)",
+            frase: "Sigilo cresce: 5-15-25 anos",
+          },
+          {
+            termo: "TCU = 9; TCE = 7",
+            significado:
+              "TCU tem 9 Ministros; TCE tem 7 Conselheiros",
+            frase: "TCU são NOVE ministros; TCE são SETE conselheiros",
+          },
+          {
+            termo: "20+10",
+            significado: "Prazo LAI: 20 dias + 10 de prorrogação",
+            frase: "LAI: vinte mais dez para responder",
+          },
+          {
+            termo: "APJU",
+            significado: "Aprecia Presidente, Julga Administrador",
+            frase: "TC: Aprecia Presidente, Julga Unidade (administrador)",
+          },
+          {
+            termo: "Accountability = TRP",
+            significado:
+              "Transparência, Responsabilização, Prestação de contas",
+            frase: "Accountability = TRP (Transparência + Responsabilização + Prestação de contas)",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "ap-fc-22-1",
+            frente:
+              "Qual a diferença entre CONTROLE INTERNO e CONTROLE EXTERNO?",
+            verso:
+              "**CONTROLE INTERNO**:\n- Exercido pela PRÓPRIA Administração\n- Mesmo Poder\n- Ex: CGU (federal), CGE-GO (estadual)\n- Fundamento: autotutela\n\n**CONTROLE EXTERNO**:\n- Exercido por OUTRO Poder\n- Legislativo + Tribunal de Contas\n- Ex: Congresso + TCU\n- Fundamento: separação de poderes",
+            tags: ["controle interno", "controle externo"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-22-2",
+            frente:
+              "Qual a diferença entre APRECIAR e JULGAR contas no TCU?",
+            verso:
+              "**APRECIAR** (parecer prévio):\n- Contas do PRESIDENTE da República\n- Contas dos chefes dos Poderes\n- É parecer, quem julga é o Legislativo\n\n**JULGAR** (decisão):\n- Contas dos ADMINISTRADORES\n- Responsáveis por recursos públicos\n- O TC é quem decide\n\nArt. 71, I e II, CF",
+            tags: ["TCU", "apreciar", "julgar"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-22-3",
+            frente:
+              "Quais são os PRAZOS DE SIGILO na Lei de Acesso à Informação?",
+            verso:
+              "**Graus de sigilo e prazos máximos:**\n\n| Grau | Prazo |\n|------|-------|\n| **Ultrassecreto** | 25 anos |\n| **Secreto** | 15 anos |\n| **Reservado** | 5 anos |\n\n**Mnemônico:** 5-15-25\n\n⚠️ NUNCA pode haver sigilo sobre violações de direitos humanos!",
+            tags: ["sigilo", "LAI", "prazos"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-22-4",
+            frente:
+              "Qual o PRAZO para resposta a pedido de informação (LAI)?",
+            verso:
+              "**Prazo de resposta:**\n- **20 dias** (prazo inicial)\n- **+ 10 dias** (prorrogação justificada)\n\n**Total máximo:** 30 dias\n\n**Recurso:** 10 dias para interpor\n\n⚠️ Não precisa justificar o MOTIVO do pedido!",
+            tags: ["LAI", "prazo", "resposta"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-22-5",
+            frente:
+              "O que é ACCOUNTABILITY e quais são seus elementos?",
+            verso:
+              "**Accountability** = responsabilização com prestação de contas\n\n**Elementos (TRP):**\n1. **Transparência** - divulgar informações\n2. **Responsabilização** - assumir consequências\n3. **Prestação de contas** - demonstrar resultados\n\n**Tipos:**\n- Vertical (eleitor → eleito)\n- Horizontal (Poderes entre si)\n- Societal (sociedade → Estado)",
+            tags: ["accountability", "prestação de contas"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-22-6",
+            frente:
+              "Qual a diferença entre transparência ATIVA e PASSIVA?",
+            verso:
+              "**TRANSPARÊNCIA ATIVA:**\n- Divulgação ESPONTÂNEA\n- Independe de pedido\n- Portais, sites oficiais\n- Art. 8º da LAI\n\n**TRANSPARÊNCIA PASSIVA:**\n- Resposta a PEDIDOS\n- Mediante solicitação\n- SIC (Serviço de Informação ao Cidadão)\n- Arts. 10-14 da LAI",
+            tags: ["transparência", "ativa", "passiva"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-22-7",
+            frente:
+              "Quem deve PRESTAR CONTAS segundo a Constituição Federal?",
+            verso:
+              "**Art. 70, parágrafo único, CF:**\n\n\"Qualquer pessoa física ou jurídica, pública ou privada, que:\n- Utilize\n- Arrecade\n- Guarde\n- Gerencie\n- Administre\n\n...dinheiros, bens e valores **PÚBLICOS**.\"\n\n⚠️ Inclui ONGs e entidades privadas que recebam recursos públicos!",
+            tags: ["prestação de contas", "obrigatoriedade"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-22-8",
+            frente:
+              "Os Tribunais de Contas pertencem a qual Poder?",
+            verso:
+              "**Tribunais de Contas NÃO pertencem ao Poder Judiciário!**\n\nSão **órgãos de controle externo** que AUXILIAM o **Poder Legislativo** na fiscalização contábil, financeira e orçamentária.\n\n- TCU auxilia o Congresso Nacional\n- TCE auxilia a Assembleia Legislativa\n- TCM auxilia a Câmara Municipal\n\n(Art. 71, caput, CF)",
+            tags: ["TCU", "TCE", "natureza jurídica"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-22-9",
+            frente:
+              "Quais são os instrumentos de PARTICIPAÇÃO SOCIAL no controle?",
+            verso:
+              "**Instrumentos de participação social:**\n\n1. **Audiências públicas** - discussão de políticas\n2. **Consultas públicas** - coleta de opiniões\n3. **Conselhos** - participação deliberativa\n4. **Ouvidorias** - denúncias e sugestões\n5. **Orçamento participativo** - prioridades\n6. **Ação popular** - anular ato lesivo\n\nTodos são mecanismos de **controle social**.",
+            tags: ["participação social", "controle social"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-22-10",
+            frente:
+              "Qual a natureza das DECISÕES dos Tribunais de Contas?",
+            verso:
+              "**Natureza: ADMINISTRATIVA (não judicial)**\n\nAs decisões dos TCs:\n- Têm força de título executivo extrajudicial\n- Multas podem ser executadas judicialmente\n- Imputação de débito gera obrigação de ressarcir\n\n**Judiciário pode analisar:**\n- Vícios de LEGALIDADE\n- Violação ao devido processo legal\n\n**Judiciário NÃO pode rever:**\n- O MÉRITO da decisão técnica",
+            tags: ["TC", "decisão", "natureza"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "ap-q-22-1",
+            enunciado:
+              "Os Tribunais de Contas são órgãos:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "do Poder Judiciário, com jurisdição sobre contas públicas.",
+              },
+              {
+                letra: "B",
+                texto: "do Poder Executivo, responsáveis pela gestão orçamentária.",
+              },
+              {
+                letra: "C",
+                texto: "de controle externo, que auxiliam o Poder Legislativo.",
+              },
+              {
+                letra: "D",
+                texto: "de controle interno, subordinados ao chefe do Executivo.",
+              },
+              {
+                letra: "E",
+                texto: "autônomos, sem vinculação a qualquer Poder.",
+              },
+            ],
+            gabarito: "C",
+            justificativa:
+              "Os Tribunais de Contas são órgãos de CONTROLE EXTERNO que AUXILIAM o Poder Legislativo na fiscalização contábil, financeira e orçamentária (art. 71, CF). NÃO pertencem ao Poder Judiciário.",
+            dificuldade: "Fácil",
+            competencia: "Natureza dos TCs",
+            banca: "IADES",
+            tags: ["TCU", "controle externo"],
+          },
+          {
+            id: "ap-q-22-2",
+            enunciado:
+              "De acordo com a Lei de Acesso à Informação (Lei nº 12.527/2011), o prazo para resposta a pedido de acesso à informação é de:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "10 dias, prorrogáveis por mais 5 dias.",
+              },
+              {
+                letra: "B",
+                texto: "15 dias, prorrogáveis por mais 15 dias.",
+              },
+              {
+                letra: "C",
+                texto: "20 dias, prorrogáveis por mais 10 dias.",
+              },
+              {
+                letra: "D",
+                texto: "30 dias, improrrogáveis.",
+              },
+              {
+                letra: "E",
+                texto: "60 dias, prorrogáveis por mais 30 dias.",
+              },
+            ],
+            gabarito: "C",
+            justificativa:
+              "Conforme art. 11 da LAI, o órgão ou entidade tem 20 dias para responder, podendo ser prorrogado por mais 10 dias mediante justificativa expressa. Total máximo: 30 dias.",
+            dificuldade: "Fácil",
+            competencia: "Prazos da LAI",
+            banca: "IADES",
+            tags: ["LAI", "prazo"],
+          },
+          {
+            id: "ap-q-22-3",
+            enunciado:
+              "Os prazos máximos de sigilo previstos na Lei de Acesso à Informação são:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "reservado: 5 anos; secreto: 10 anos; ultrassecreto: 20 anos.",
+              },
+              {
+                letra: "B",
+                texto: "reservado: 5 anos; secreto: 15 anos; ultrassecreto: 25 anos.",
+              },
+              {
+                letra: "C",
+                texto: "reservado: 10 anos; secreto: 20 anos; ultrassecreto: 30 anos.",
+              },
+              {
+                letra: "D",
+                texto: "reservado: 3 anos; secreto: 10 anos; ultrassecreto: 15 anos.",
+              },
+              {
+                letra: "E",
+                texto: "reservado: 5 anos; secreto: 10 anos; ultrassecreto: 15 anos.",
+              },
+            ],
+            gabarito: "B",
+            justificativa:
+              "Art. 24 da LAI: RESERVADO = 5 anos; SECRETO = 15 anos; ULTRASSECRETO = 25 anos. Mnemônico: 5-15-25.",
+            dificuldade: "Fácil",
+            competencia: "Classificação de sigilo",
+            banca: "IADES",
+            tags: ["sigilo", "prazo"],
+          },
+          {
+            id: "ap-q-22-4",
+            enunciado:
+              "Quanto à competência dos Tribunais de Contas, é CORRETO afirmar que:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "o TCU julga as contas do Presidente da República.",
+              },
+              {
+                letra: "B",
+                texto: "o TCU aprecia as contas do Presidente da República, cabendo ao Congresso Nacional julgá-las.",
+              },
+              {
+                letra: "C",
+                texto: "o TCU não pode aplicar sanções aos gestores públicos.",
+              },
+              {
+                letra: "D",
+                texto: "as decisões do TCU são de natureza jurisdicional.",
+              },
+              {
+                letra: "E",
+                texto: "o Poder Judiciário pode rever o mérito das decisões do TCU.",
+              },
+            ],
+            gabarito: "B",
+            justificativa:
+              "O TCU APRECIA as contas do Presidente da República, emitindo parecer prévio (art. 71, I, CF). Quem JULGA é o Congresso Nacional (art. 49, IX, CF). O TCU JULGA as contas de administradores (não de chefes de Poder).",
+            dificuldade: "Média",
+            competencia: "Competências do TCU",
+            banca: "IADES",
+            tags: ["TCU", "apreciar", "julgar"],
+          },
+          {
+            id: "ap-q-22-5",
+            enunciado:
+              "No contexto da Lei de Acesso à Informação, a transparência ATIVA refere-se a:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "resposta a pedidos de informação formulados por cidadãos.",
+              },
+              {
+                letra: "B",
+                texto: "divulgação de informações de forma espontânea, independentemente de solicitação.",
+              },
+              {
+                letra: "C",
+                texto: "classificação de documentos como sigilosos.",
+              },
+              {
+                letra: "D",
+                texto: "recurso contra negativa de acesso.",
+              },
+              {
+                letra: "E",
+                texto: "fiscalização pelo Ministério Público.",
+              },
+            ],
+            gabarito: "B",
+            justificativa:
+              "Transparência ATIVA é a divulgação de informações de forma espontânea, independentemente de solicitação (art. 8º, LAI). Deve ser feita em sites oficiais. Transparência PASSIVA é a resposta a pedidos.",
+            dificuldade: "Fácil",
+            competencia: "Transparência ativa",
+            banca: "IADES",
+            tags: ["transparência", "LAI"],
+          },
+          {
+            id: "ap-q-22-6",
+            enunciado:
+              "Segundo a Constituição Federal, deve prestar contas:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "apenas o chefe do Poder Executivo.",
+              },
+              {
+                letra: "B",
+                texto: "somente os órgãos da Administração Direta.",
+              },
+              {
+                letra: "C",
+                texto: "qualquer pessoa que utilize, arrecade, guarde, gerencie ou administre recursos públicos.",
+              },
+              {
+                letra: "D",
+                texto: "exclusivamente os ordenadores de despesa.",
+              },
+              {
+                letra: "E",
+                texto: "apenas as empresas públicas e sociedades de economia mista.",
+              },
+            ],
+            gabarito: "C",
+            justificativa:
+              "O art. 70, parágrafo único, da CF estabelece que prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos.",
+            dificuldade: "Fácil",
+            competencia: "Prestação de contas",
+            banca: "IADES",
+            tags: ["prestação de contas", "CF"],
+          },
+          {
+            id: "ap-q-22-7",
+            enunciado:
+              "O conceito de accountability engloba:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "apenas a prestação de contas financeiras.",
+              },
+              {
+                letra: "B",
+                texto: "exclusivamente o controle judicial dos atos administrativos.",
+              },
+              {
+                letra: "C",
+                texto: "transparência, responsabilização e prestação de contas.",
+              },
+              {
+                letra: "D",
+                texto: "somente o processo eleitoral.",
+              },
+              {
+                letra: "E",
+                texto: "apenas a atuação dos Tribunais de Contas.",
+              },
+            ],
+            gabarito: "C",
+            justificativa:
+              "Accountability é um conceito amplo que engloba: TRANSPARÊNCIA (divulgar informações), RESPONSABILIZAÇÃO (assumir consequências) e PRESTAÇÃO DE CONTAS (demonstrar resultados). Vai além da simples prestação de contas financeiras.",
+            dificuldade: "Média",
+            competencia: "Accountability",
+            banca: "IADES",
+            tags: ["accountability"],
+          },
+          {
+            id: "ap-q-22-8",
+            enunciado:
+              "Sobre a Lei de Acesso à Informação (Lei nº 12.527/2011), é INCORRETO afirmar que:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "a publicidade é a regra; o sigilo, a exceção.",
+              },
+              {
+                letra: "B",
+                texto: "qualquer pessoa pode solicitar informações, sem necessidade de justificar o motivo.",
+              },
+              {
+                letra: "C",
+                texto: "aplica-se aos três Poderes da União, Estados, DF e Municípios.",
+              },
+              {
+                letra: "D",
+                texto: "informações sobre violações de direitos humanos podem ser classificadas como ultrassecretas.",
+              },
+              {
+                letra: "E",
+                texto: "entidades privadas sem fins lucrativos que recebam recursos públicos estão sujeitas à LAI.",
+              },
+            ],
+            gabarito: "D",
+            justificativa:
+              "Informações sobre violações de direitos humanos praticadas por agentes públicos NUNCA podem ser objeto de restrição de acesso (art. 21, parágrafo único, LAI). É uma das exceções absolutas ao sigilo.",
+            dificuldade: "Média",
+            competencia: "Exceções ao sigilo",
+            banca: "IADES",
+            tags: ["LAI", "sigilo", "direitos humanos"],
+          },
+          {
+            id: "ap-q-22-9",
+            enunciado:
+              "São instrumentos de participação social e controle social, EXCETO:",
+            alternativas: [
+              { letra: "A", texto: "audiências públicas." },
+              { letra: "B", texto: "conselhos de políticas públicas." },
+              { letra: "C", texto: "ouvidorias." },
+              { letra: "D", texto: "ação popular." },
+              { letra: "E", texto: "mandado de segurança coletivo." },
+            ],
+            gabarito: "E",
+            justificativa:
+              "Mandado de segurança coletivo é instrumento de TUTELA JUDICIAL de direitos, não de participação social ou controle social. Participação social inclui: audiências públicas, conselhos, ouvidorias, ação popular, orçamento participativo, etc.",
+            dificuldade: "Média",
+            competencia: "Participação social",
+            banca: "IADES",
+            tags: ["participação social", "exceção"],
+          },
+          {
+            id: "ap-q-22-10",
+            enunciado:
+              "O controle interno da Administração Pública Federal é exercido prioritariamente:",
+            alternativas: [
+              { letra: "A", texto: "pelo Tribunal de Contas da União." },
+              { letra: "B", texto: "pelo Congresso Nacional." },
+              { letra: "C", texto: "pela Controladoria-Geral da União (CGU)." },
+              { letra: "D", texto: "pelo Ministério Público Federal." },
+              { letra: "E", texto: "pelo Supremo Tribunal Federal." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A CGU (Controladoria-Geral da União) é o órgão central do sistema de controle interno do Poder Executivo Federal (art. 74, CF). O TCU exerce controle EXTERNO. O MPF é órgão de fiscalização, não de controle interno.",
+            dificuldade: "Fácil",
+            competencia: "Controle interno",
+            banca: "IADES",
+            tags: ["controle interno", "CGU"],
+          },
+        ],
+      },
+    },
+    // ==================== TÓPICO 23 ====================
+    {
+      id: "ap-topico-23",
+      numero: 23,
+      titulo:
+        "Administração pública no Estado de Goiás: organização administrativa estadual, competências constitucionais, planejamento, orçamento, controle interno e externo",
+      conteudo: {
+        resumo: `
+## Resumo Rápido - Administração Pública no Estado de Goiás
+
+### Estrutura dos Poderes em Goiás
+| Poder | Órgão/Composição |
+|-------|------------------|
+| **Executivo** | Governador + Vice-Governador |
+| **Legislativo** | Assembleia Legislativa (41 deputados) |
+| **Judiciário** | Tribunal de Justiça (TJ-GO) |
+
+### Organização Administrativa
+| Tipo | Característica | Exemplos em GO |
+|------|----------------|----------------|
+| **Administração Direta** | Secretarias, órgãos sem personalidade própria | SES-GO, SEFAZ, SSP |
+| **Administração Indireta** | Entidades com personalidade jurídica | GOINFRA, IPASGO, SANEAGO |
+
+### Secretarias de Estado (principais)
+| Sigla | Nome |
+|-------|------|
+| **SES-GO** | Secretaria de Estado da Saúde |
+| **SEFAZ** | Secretaria da Fazenda |
+| **SEDUC** | Secretaria de Educação |
+| **SSP** | Secretaria de Segurança Pública |
+| **CGE** | Controladoria-Geral do Estado |
+
+### Planejamento e Orçamento em Goiás
+| Instrumento | Prazo | Conteúdo |
+|-------------|-------|----------|
+| **PPA** | 4 anos | Diretrizes, objetivos, metas |
+| **LDO** | 1 ano | Metas e prioridades |
+| **LOA** | 1 ano | Receitas e despesas |
+
+### Controle em Goiás
+| Tipo | Órgão |
+|------|-------|
+| **Interno** | CGE-GO (Controladoria-Geral do Estado) |
+| **Externo** | Assembleia Legislativa + TCE-GO |
+
+### TCE-GO
+- **Composição**: 7 Conselheiros
+- **Função**: Auxiliar a Assembleia Legislativa no controle externo
+- **Competência**: Fiscalizar contas estaduais e municipais (não há TCM em GO)
+
+### Para IADES/Concursos GO - Foco em:
+- Estrutura da Administração Direta e Indireta em GO
+- Papel da CGE-GO no controle interno
+- Competências do TCE-GO
+- Instrumentos de planejamento (PPA, LDO, LOA)
+        `,
+
+        explicacao: `
+## Explicação Didática - Administração Pública no Estado de Goiás
+
+### 1. Fundamentos Constitucionais
+
+#### 1.1 Constituição do Estado de Goiás
+A Constituição Estadual de Goiás (CE-GO), promulgada em 5 de outubro de 1989, organiza o Estado seguindo os princípios da Constituição Federal.
+
+**Princípios fundamentais** (Art. 1º, CE-GO):
+- Soberania popular
+- Cidadania
+- Dignidade da pessoa humana
+- Valores sociais do trabalho e da livre iniciativa
+- Pluralismo político
+
+#### 1.2 Competências do Estado de Goiás
+
+**Competências EXCLUSIVAS** (próprias do Estado):
+- Organização administrativa estadual
+- Criação de cargos e órgãos estaduais
+- Gestão do patrimônio estadual
+- Exploração de serviços estaduais
+
+**Competências COMUNS** (com União e Municípios):
+- Saúde, educação, meio ambiente
+- Assistência social, habitação
+- Proteção ao patrimônio cultural
+- Combate às causas da pobreza
+
+**Competências CONCORRENTES** (legislar junto com a União):
+- Direito tributário, financeiro
+- Educação, cultura, ensino
+- Proteção ao meio ambiente
+- Previdência social
+
+### 2. Organização dos Poderes em Goiás
+
+#### 2.1 Poder Executivo
+
+**Composição**:
+- **Governador** do Estado
+- **Vice-Governador**
+- Mandato: 4 anos (permitida uma reeleição)
+
+**Competências do Governador** (Art. 37, CE-GO):
+1. Representar o Estado nas relações jurídicas
+2. Exercer a direção superior da administração
+3. Iniciar o processo legislativo (projetos de lei)
+4. Sancionar, promulgar e fazer publicar as leis
+5. Expedir decretos e regulamentos
+6. Nomear e exonerar Secretários de Estado
+7. Prover cargos públicos estaduais
+8. Enviar à Assembleia o PPA, LDO e LOA
+
+**Secretarias de Estado** (principais):
+| Secretaria | Sigla | Área |
+|------------|-------|------|
+| Saúde | SES-GO | Saúde pública, vigilância sanitária |
+| Fazenda | SEFAZ | Tributação, finanças |
+| Educação | SEDUC | Ensino |
+| Segurança Pública | SSP | Polícia, segurança |
+| Administração | SEAD | Gestão de pessoal |
+| Meio Ambiente | SEMAD | Ambiente, recursos hídricos |
+| Infraestrutura | SEINFRA | Obras, transportes |
+
+#### 2.2 Poder Legislativo
+
+**Assembleia Legislativa de Goiás (ALEGO)**:
+- **Composição**: 41 Deputados Estaduais
+- **Mandato**: 4 anos
+- **Sede**: Goiânia
+
+**Competências** (Art. 11, CE-GO):
+1. Legislar sobre matérias estaduais
+2. Fiscalizar o Poder Executivo
+3. Julgar contas do Governador (com auxílio do TCE-GO)
+4. Autorizar operações de crédito
+5. Aprovar PPA, LDO e LOA
+6. Criar CPIs (Comissões Parlamentares de Inquérito)
+7. Convocar Secretários para prestar informações
+
+#### 2.3 Poder Judiciário
+
+**Tribunal de Justiça de Goiás (TJ-GO)**:
+- Órgão de cúpula do Judiciário estadual
+- Sede em Goiânia
+- Competência: julgar matérias de direito estadual
+
+**Estrutura**:
+- Tribunal de Justiça
+- Juízes de Direito (1ª instância)
+- Juizados Especiais
+- Varas Especializadas
+
+### 3. Organização Administrativa Estadual
+
+#### 3.1 Administração Direta
+
+São os órgãos **sem personalidade jurídica própria**, vinculados diretamente ao Governador:
+
+| Órgão | Natureza |
+|-------|----------|
+| Secretarias de Estado | Órgãos de 1º escalão |
+| Superintendências | Órgãos subordinados |
+| Diretorias | Unidades administrativas |
+| Gerências | Unidades operacionais |
+
+**Características**:
+- Não têm personalidade jurídica própria
+- Respondem em nome do Estado de Goiás
+- Subordinação hierárquica ao Governador
+- Desconcentração administrativa
+
+#### 3.2 Administração Indireta
+
+Entidades **com personalidade jurídica própria**, vinculadas (não subordinadas) às Secretarias:
+
+| Tipo | Exemplos em Goiás | Natureza |
+|------|-------------------|----------|
+| **Autarquias** | IPASGO, DETRAN-GO, AGEHAB | Direito público |
+| **Fundações** | Fundação Tiradentes (PMGO) | Direito público ou privado |
+| **Empresas Públicas** | GOINFRA, METROBUS | Direito privado |
+| **Sociedades de Economia Mista** | SANEAGO, CELG GT | Direito privado |
+
+**Principais entidades**:
+
+| Entidade | Tipo | Vinculação | Função |
+|----------|------|------------|--------|
+| **IPASGO** | Autarquia | SEAD | Previdência dos servidores |
+| **DETRAN-GO** | Autarquia | SSP | Trânsito |
+| **GOINFRA** | Empresa Pública | SEINFRA | Infraestrutura |
+| **SANEAGO** | SEM | SEINFRA | Saneamento |
+| **METROBUS** | Empresa Pública | SEINFRA | Transporte público |
+| **AGEHAB** | Autarquia | SEDI | Habitação |
+
+#### 3.3 Vigilância Sanitária em Goiás
+
+A **Vigilância Sanitária Estadual** está vinculada à **SES-GO** (Secretaria de Estado da Saúde):
+
+| Órgão | Função |
+|-------|--------|
+| **Superintendência de Vigilância em Saúde** | Coordenação das ações |
+| **Gerência de Vigilância Sanitária** | Execução das ações |
+| **Regionais de Saúde** | Descentralização |
+
+**Competências da VISA-GO**:
+1. Fiscalizar estabelecimentos de saúde
+2. Licenciar estabelecimentos
+3. Autuar infrações sanitárias
+4. Coordenar ações com municípios
+5. Implementar normas da ANVISA
+
+### 4. Planejamento e Orçamento em Goiás
+
+#### 4.1 Instrumentos de Planejamento
+
+O planejamento governamental em Goiás segue os mesmos instrumentos federais:
+
+| Instrumento | Prazo | Iniciativa | Conteúdo |
+|-------------|-------|------------|----------|
+| **PPA** | 4 anos | Governador | Diretrizes, objetivos, metas |
+| **LDO** | 1 ano | Governador | Metas, prioridades, regras fiscais |
+| **LOA** | 1 ano | Governador | Receitas e despesas detalhadas |
+
+#### 4.2 Plano Plurianual (PPA)
+
+**Características**:
+- Vigência: 4 anos (do 2º ano do mandato ao 1º ano do mandato seguinte)
+- Conteúdo: programas, ações, metas
+- Orienta os demais instrumentos
+
+**Estrutura do PPA-GO**:
+- Dimensão estratégica (visão de longo prazo)
+- Programas temáticos (políticas públicas)
+- Programas de gestão (suporte administrativo)
+
+#### 4.3 Lei de Diretrizes Orçamentárias (LDO)
+
+**Funções da LDO**:
+1. Definir metas e prioridades para o ano seguinte
+2. Orientar a elaboração da LOA
+3. Dispor sobre alterações na legislação tributária
+4. Estabelecer política de pessoal
+5. Definir limites para créditos adicionais
+
+#### 4.4 Lei Orçamentária Anual (LOA)
+
+**Composição** (3 orçamentos):
+1. **Orçamento fiscal**: receitas e despesas do Estado
+2. **Orçamento de investimento**: empresas estatais
+3. **Orçamento da seguridade social**: saúde, previdência, assistência
+
+**Princípios orçamentários aplicáveis**:
+- Universalidade, unidade, anualidade
+- Exclusividade, não afetação, legalidade
+- Publicidade, clareza, equilíbrio
+
+### 5. Controle Interno em Goiás
+
+#### 5.1 Controladoria-Geral do Estado (CGE-GO)
+
+A **CGE-GO** é o órgão central do sistema de controle interno do Poder Executivo estadual.
+
+**Competências da CGE-GO**:
+1. Avaliar cumprimento de metas do PPA
+2. Comprovar legalidade e avaliar resultados da gestão
+3. Exercer controle das operações de crédito
+4. Apoiar o controle externo (TCE-GO)
+5. Realizar auditorias e inspeções
+6. Apurar irregularidades e responsabilidades
+7. Promover a transparência pública
+
+**Estrutura da CGE-GO**:
+| Unidade | Função |
+|---------|--------|
+| Auditoria-Geral | Auditorias |
+| Corregedoria-Geral | Apurações disciplinares |
+| Ouvidoria-Geral | Canal com o cidadão |
+| Transparência | Acesso à informação |
+
+#### 5.2 Finalidades do Controle Interno (Art. 74, CF/CE-GO)
+
+1. Avaliar cumprimento de metas do PPA e programas de governo
+2. Comprovar legalidade e avaliar resultados da gestão orçamentária
+3. Exercer controle sobre operações de crédito, avais e garantias
+4. Apoiar o controle externo no exercício de sua missão institucional
+
+### 6. Controle Externo em Goiás
+
+#### 6.1 Tribunal de Contas do Estado de Goiás (TCE-GO)
+
+O **TCE-GO** é o órgão de controle externo que auxilia a Assembleia Legislativa na fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Estado e dos Municípios.
+
+**Composição**:
+- **7 Conselheiros** (equivalentes a Ministros do TCU)
+- Nomeação pelo Governador e Assembleia Legislativa
+
+**Requisitos para Conselheiro**:
+- Mais de 35 e menos de 65 anos
+- Idoneidade moral e reputação ilibada
+- Notórios conhecimentos jurídicos, contábeis, econômicos, financeiros ou de administração pública
+- Mais de 10 anos de exercício de função ou atividade profissional
+
+**Competências do TCE-GO**:
+1. Apreciar contas anuais do Governador
+2. Julgar contas dos administradores e responsáveis
+3. Apreciar legalidade de admissões e aposentadorias
+4. Realizar auditorias e inspeções
+5. Fiscalizar recursos estaduais repassados a Municípios
+6. Aplicar sanções (multas, inabilitação)
+7. Representar sobre irregularidades
+
+**IMPORTANTE**: Em Goiás, **não existe TCM** (Tribunal de Contas dos Municípios). O **TCE-GO** fiscaliza tanto o Estado quanto os **246 municípios** goianos.
+
+#### 6.2 Fiscalização Municipal pelo TCE-GO
+
+| Aspecto | Detalhamento |
+|---------|--------------|
+| **Quem fiscaliza** | TCE-GO |
+| **O que fiscaliza** | Contas das prefeituras e câmaras |
+| **Base legal** | CE-GO e Lei Orgânica do TCE |
+| **Julgamento** | TCE julga administradores; Câmara julga Prefeito |
+
+### 7. Lei de Responsabilidade Fiscal em Goiás
+
+#### 7.1 Aplicação da LRF (LC 101/2000)
+
+A LRF aplica-se integralmente ao Estado de Goiás:
+
+| Limite | Percentual da RCL |
+|--------|-------------------|
+| **Despesa com pessoal** | 60% |
+| - Executivo | 49% |
+| - Legislativo (inclui TCE) | 3% |
+| - Judiciário | 6% |
+| - MP | 2% |
+
+**Instrumentos de transparência**:
+- Portal da Transparência (transparencia.go.gov.br)
+- Relatório Resumido de Execução Orçamentária (RREO)
+- Relatório de Gestão Fiscal (RGF)
+- Audiências públicas
+
+### 8. Estatuto dos Servidores Públicos de Goiás
+
+#### 8.1 Lei Estadual nº 20.756/2020
+
+O Estatuto dos Servidores Públicos Civis do Estado de Goiás estabelece:
+
+| Aspecto | Regra |
+|---------|-------|
+| **Regime** | Estatutário |
+| **Estabilidade** | Após 3 anos de efetivo exercício |
+| **Estágio probatório** | 3 anos |
+| **Jornada** | 30 a 40 horas semanais |
+| **Férias** | 30 dias anuais |
+
+**Formas de provimento**:
+- Nomeação, readaptação, reversão
+- Aproveitamento, reintegração, recondução
+
+**Formas de vacância**:
+- Exoneração, demissão, aposentadoria
+- Posse em outro cargo, falecimento
+
+### 9. Vigilância Sanitária e a Estrutura Estadual
+
+#### 9.1 Integração ao SUS
+
+A Vigilância Sanitária estadual integra o **Sistema Único de Saúde (SUS)** e atua de forma articulada com:
+- **ANVISA** (nível federal)
+- **VISAs Municipais** (nível local)
+
+#### 9.2 Competências da VISA Estadual
+
+| Competência | Descrição |
+|-------------|-----------|
+| **Coordenar** | Ações de VISA no Estado |
+| **Fiscalizar** | Estabelecimentos de média/alta complexidade |
+| **Licenciar** | Atividades de competência estadual |
+| **Capacitar** | Municípios para descentralização |
+| **Supervisionar** | Ações municipais |
+| **Investigar** | Surtos e agravos sanitários |
+
+#### 9.3 O Fiscal de Saúde Pública no Contexto Estadual
+
+O **Fiscal de Saúde Pública** atua vinculado à SES-GO, com competência para:
+1. Fiscalizar estabelecimentos sujeitos à vigilância sanitária
+2. Lavrar autos de infração
+3. Coletar amostras para análise
+4. Apreender produtos irregulares
+5. Interditar estabelecimentos
+6. Elaborar relatórios técnicos
+7. Orientar sobre legislação sanitária
+        `,
+
+        pontosChave: [
+          "Goiás tem 3 Poderes: Executivo (Governador), Legislativo (41 deputados), Judiciário (TJ-GO)",
+          "Administração Direta: Secretarias (SES-GO, SEFAZ, etc.) - sem personalidade jurídica",
+          "Administração Indireta: Autarquias (IPASGO), EP (GOINFRA), SEM (SANEAGO) - com personalidade jurídica",
+          "Vigilância Sanitária estadual está vinculada à SES-GO",
+          "Planejamento: PPA (4 anos), LDO (1 ano), LOA (1 ano) - iniciativa do Governador",
+          "Controle interno: CGE-GO (Controladoria-Geral do Estado)",
+          "Controle externo: Assembleia Legislativa + TCE-GO (7 Conselheiros)",
+          "TCE-GO fiscaliza Estado E Municípios (não há TCM em Goiás)",
+          "TCE APRECIA contas do Governador; JULGA contas de administradores",
+          "LRF: limite de 60% da RCL para despesa com pessoal",
+          "Estatuto dos Servidores de GO: Lei 20.756/2020",
+          "Estabilidade: após 3 anos de efetivo exercício (estágio probatório)",
+          "Portal da Transparência: transparencia.go.gov.br",
+          "Fiscal de Saúde Pública: vinculado à SES-GO, exerce poder de polícia sanitária",
+          "VISA estadual coordena ações e fiscaliza estabelecimentos de média/alta complexidade",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Achar que existe TCM em Goiás",
+            descricao:
+              "Em Goiás NÃO existe Tribunal de Contas dos Municípios. O TCE-GO fiscaliza tanto o Estado quanto os 246 municípios.",
+            dica: "TCE-GO = Estado + Municípios. Não há TCM em GO.",
+          },
+          {
+            titulo: "Confundir vinculação com subordinação",
+            descricao:
+              "Entidades da Administração Indireta são VINCULADAS (tutela), não SUBORDINADAS às Secretarias.",
+            dica: "Adm. Indireta = vinculação (tutela). Adm. Direta = subordinação (hierarquia).",
+          },
+          {
+            titulo: "Errar a composição do TCE-GO",
+            descricao:
+              "TCE-GO tem 7 Conselheiros (não 9 como o TCU).",
+            dica: "TCU = 9 Ministros. TCE = 7 Conselheiros.",
+          },
+          {
+            titulo: "Confundir PPA com mandato",
+            descricao:
+              "O PPA não coincide com o mandato: vai do 2º ano de um mandato ao 1º ano do mandato seguinte.",
+            dica: "PPA = 4 anos, mas começa no 2º ano do mandato.",
+          },
+          {
+            titulo: "Pensar que CGE-GO faz controle externo",
+            descricao:
+              "A CGE-GO é órgão de CONTROLE INTERNO. Controle externo é feito pelo TCE-GO + Assembleia.",
+            dica: "CGE = interno. TCE = externo.",
+          },
+          {
+            titulo: "Achar que TCE julga contas do Governador",
+            descricao:
+              "O TCE APRECIA (parecer) as contas do Governador. Quem JULGA é a Assembleia Legislativa.",
+            dica: "TCE aprecia; Assembleia julga (contas do Governador).",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "SES-GO = Saúde; SEFAZ = Fazenda",
+            significado: "Principais secretarias estaduais",
+            frase: "SES cuida da Saúde; SEFAZ cuida da FAZenda (dinheiro)",
+          },
+          {
+            termo: "CGE = Controle INTERNO",
+            significado: "Controladoria-Geral é controle interno",
+            frase: "CGE fica dentro (interno) do Executivo",
+          },
+          {
+            termo: "TCE = 7; TCU = 9",
+            significado: "Composição dos Tribunais de Contas",
+            frase: "TCE-GO tem SETE; TCU tem NOVE",
+          },
+          {
+            termo: "PPA-LDO-LOA",
+            significado: "Instrumentos de planejamento",
+            frase: "PPA planeja 4 anos; LDO e LOA detalham cada ano",
+          },
+          {
+            termo: "60-49-3-6-2",
+            significado: "Limites LRF para despesa com pessoal",
+            frase: "60% total: 49% Executivo, 3% Legislativo, 6% Judiciário, 2% MP",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "ap-fc-23-1",
+            frente:
+              "Qual órgão exerce o CONTROLE INTERNO no Estado de Goiás?",
+            verso:
+              "**CGE-GO** (Controladoria-Geral do Estado de Goiás)\n\n**Competências:**\n- Auditoria e fiscalização\n- Corregedoria (apurações)\n- Ouvidoria (canal cidadão)\n- Transparência\n\n**Função principal:**\nApoiar o controle externo (TCE-GO) e avaliar a gestão do Executivo estadual.",
+            tags: ["controle interno", "CGE-GO"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-23-2",
+            frente:
+              "Quantos Conselheiros compõem o TCE-GO e qual sua função?",
+            verso:
+              "**Composição:** 7 Conselheiros\n\n**Função:**\nAuxiliar a Assembleia Legislativa no CONTROLE EXTERNO.\n\n**Competências:**\n- Apreciar contas do Governador\n- Julgar contas de administradores\n- Fiscalizar Estado E Municípios\n- Realizar auditorias\n- Aplicar sanções\n\n⚠️ Em GO não existe TCM!",
+            tags: ["TCE-GO", "controle externo"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-23-3",
+            frente:
+              "Quais são os instrumentos de PLANEJAMENTO e seus prazos em Goiás?",
+            verso:
+              "**Instrumentos de planejamento:**\n\n| Instrumento | Prazo | Conteúdo |\n|-------------|-------|---------|\n| **PPA** | 4 anos | Diretrizes, objetivos, metas |\n| **LDO** | 1 ano | Prioridades, orientações |\n| **LOA** | 1 ano | Receitas e despesas |\n\nTodos de iniciativa do **Governador**.\nAprovados pela **Assembleia Legislativa**.",
+            tags: ["planejamento", "PPA", "LDO", "LOA"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-23-4",
+            frente:
+              "Qual a diferença entre Administração DIRETA e INDIRETA em Goiás?",
+            verso:
+              "**ADMINISTRAÇÃO DIRETA:**\n- Sem personalidade jurídica própria\n- Secretarias, superintendências\n- Ex: SES-GO, SEFAZ, SEDUC\n- Subordinação hierárquica\n\n**ADMINISTRAÇÃO INDIRETA:**\n- Com personalidade jurídica própria\n- Autarquias, EP, SEM, Fundações\n- Ex: IPASGO, SANEAGO, GOINFRA\n- Vinculação (tutela), não subordinação",
+            tags: ["administração direta", "indireta"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-23-5",
+            frente:
+              "A qual órgão está vinculada a Vigilância Sanitária em Goiás?",
+            verso:
+              "A Vigilância Sanitária Estadual está vinculada à **SES-GO** (Secretaria de Estado da Saúde).\n\n**Estrutura:**\n- Superintendência de Vigilância em Saúde\n- Gerência de Vigilância Sanitária\n- Regionais de Saúde\n\n**Competências:**\n- Fiscalizar estabelecimentos\n- Licenciar atividades\n- Coordenar ações com municípios\n- Implementar normas da ANVISA",
+            tags: ["vigilância sanitária", "SES-GO"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-23-6",
+            frente:
+              "Qual o limite de despesa com pessoal conforme a LRF para o Estado de Goiás?",
+            verso:
+              "**Limite total: 60% da RCL**\n\nDistribuição:\n- **Executivo**: 49%\n- **Legislativo** (+ TCE): 3%\n- **Judiciário**: 6%\n- **Ministério Público**: 2%\n\n**Alertas (art. 59, LRF):**\n- 90% do limite: TCE alerta\n- 95% do limite: vedações\n- 100%: sanções",
+            tags: ["LRF", "despesa pessoal", "limite"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-23-7",
+            frente:
+              "Qual a composição do Poder Legislativo em Goiás?",
+            verso:
+              "**Assembleia Legislativa de Goiás (ALEGO)**\n\n- **Composição**: 41 Deputados Estaduais\n- **Mandato**: 4 anos\n- **Sede**: Goiânia\n\n**Competências principais:**\n- Legislar sobre matérias estaduais\n- Fiscalizar o Executivo\n- Aprovar PPA, LDO, LOA\n- Julgar contas do Governador\n- Criar CPIs",
+            tags: ["legislativo", "assembleia", "ALEGO"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-23-8",
+            frente:
+              "Quais são as principais entidades da Administração Indireta em Goiás?",
+            verso:
+              "**Principais entidades:**\n\n| Entidade | Tipo | Área |\n|----------|------|------|\n| **IPASGO** | Autarquia | Previdência |\n| **DETRAN-GO** | Autarquia | Trânsito |\n| **SANEAGO** | SEM | Saneamento |\n| **GOINFRA** | EP | Infraestrutura |\n| **METROBUS** | EP | Transporte |\n| **AGEHAB** | Autarquia | Habitação |",
+            tags: ["administração indireta", "entidades"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-23-9",
+            frente:
+              "Quem JULGA as contas do Governador de Goiás?",
+            verso:
+              "**A Assembleia Legislativa** julga as contas do Governador.\n\nO **TCE-GO** apenas **APRECIA** (emite parecer prévio).\n\n**Distinção importante:**\n- **Contas do Governador**: TCE aprecia → Assembleia julga\n- **Contas de administradores**: TCE julga diretamente\n\n(Mesma lógica do TCU em relação ao Presidente)",
+            tags: ["contas", "governador", "julgamento"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-23-10",
+            frente:
+              "Qual a lei que institui o Estatuto dos Servidores Públicos de Goiás?",
+            verso:
+              "**Lei Estadual nº 20.756/2020**\n\n**Principais regras:**\n- Regime: estatutário\n- Estágio probatório: 3 anos\n- Estabilidade: após 3 anos\n- Jornada: 30 a 40 horas/semana\n- Férias: 30 dias anuais\n\n**Provimento:** nomeação, readaptação, reversão, aproveitamento, reintegração, recondução\n\n**Vacância:** exoneração, demissão, aposentadoria, posse em outro cargo, falecimento",
+            tags: ["estatuto", "servidores", "Lei 20.756"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "ap-q-23-1",
+            enunciado:
+              "O órgão central do sistema de controle interno do Poder Executivo do Estado de Goiás é:",
+            alternativas: [
+              { letra: "A", texto: "o Tribunal de Contas do Estado de Goiás." },
+              { letra: "B", texto: "a Assembleia Legislativa de Goiás." },
+              { letra: "C", texto: "a Controladoria-Geral do Estado de Goiás." },
+              { letra: "D", texto: "o Ministério Público do Estado de Goiás." },
+              { letra: "E", texto: "a Procuradoria-Geral do Estado." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A CGE-GO (Controladoria-Geral do Estado de Goiás) é o órgão central do sistema de controle INTERNO do Poder Executivo estadual. O TCE-GO exerce controle EXTERNO, auxiliando a Assembleia Legislativa.",
+            dificuldade: "Fácil",
+            competencia: "Controle interno em GO",
+            banca: "IADES",
+            tags: ["controle interno", "CGE-GO"],
+          },
+          {
+            id: "ap-q-23-2",
+            enunciado:
+              "O Tribunal de Contas do Estado de Goiás é composto por:",
+            alternativas: [
+              { letra: "A", texto: "5 Conselheiros." },
+              { letra: "B", texto: "7 Conselheiros." },
+              { letra: "C", texto: "9 Conselheiros." },
+              { letra: "D", texto: "11 Conselheiros." },
+              { letra: "E", texto: "15 Conselheiros." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "O TCE-GO é composto por 7 Conselheiros (equivalentes aos Ministros do TCU, que são 9). A composição segue o modelo constitucional para Tribunais de Contas estaduais.",
+            dificuldade: "Fácil",
+            competencia: "Composição do TCE-GO",
+            banca: "IADES",
+            tags: ["TCE-GO", "composição"],
+          },
+          {
+            id: "ap-q-23-3",
+            enunciado:
+              "Em Goiás, a fiscalização das contas dos municípios é realizada:",
+            alternativas: [
+              { letra: "A", texto: "pelo Tribunal de Contas dos Municípios de Goiás." },
+              { letra: "B", texto: "exclusivamente pelas Câmaras Municipais." },
+              { letra: "C", texto: "pelo Tribunal de Contas do Estado de Goiás." },
+              { letra: "D", texto: "pelo Tribunal de Contas da União." },
+              { letra: "E", texto: "pela Controladoria-Geral da União." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "Em Goiás NÃO existe Tribunal de Contas dos Municípios (TCM). O TCE-GO fiscaliza tanto as contas do Estado quanto as dos 246 municípios goianos. O TCU fiscaliza apenas recursos federais.",
+            dificuldade: "Média",
+            competencia: "Fiscalização municipal em GO",
+            banca: "IADES",
+            tags: ["TCE-GO", "municípios"],
+          },
+          {
+            id: "ap-q-23-4",
+            enunciado:
+              "A Vigilância Sanitária do Estado de Goiás está vinculada à:",
+            alternativas: [
+              { letra: "A", texto: "Secretaria de Estado de Meio Ambiente." },
+              { letra: "B", texto: "Secretaria de Estado da Saúde (SES-GO)." },
+              { letra: "C", texto: "Controladoria-Geral do Estado." },
+              { letra: "D", texto: "Secretaria de Segurança Pública." },
+              { letra: "E", texto: "ANVISA." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "A Vigilância Sanitária Estadual está vinculada à SES-GO (Secretaria de Estado da Saúde). A ANVISA é federal e coordena o SNVS, mas a execução estadual é feita pela SES.",
+            dificuldade: "Fácil",
+            competencia: "Vigilância Sanitária em GO",
+            banca: "IADES",
+            tags: ["vigilância sanitária", "SES-GO"],
+          },
+          {
+            id: "ap-q-23-5",
+            enunciado:
+              "São instrumentos de planejamento orçamentário previstos na Constituição do Estado de Goiás:",
+            alternativas: [
+              { letra: "A", texto: "PPA, LDO e LOA." },
+              { letra: "B", texto: "apenas o orçamento anual." },
+              { letra: "C", texto: "PPA e orçamento quinquenal." },
+              { letra: "D", texto: "LOA e plano decenal." },
+              { letra: "E", texto: "apenas o PPA." },
+            ],
+            gabarito: "A",
+            justificativa:
+              "A CE-GO, seguindo a CF/88, prevê três instrumentos de planejamento: PPA (Plano Plurianual - 4 anos), LDO (Lei de Diretrizes Orçamentárias - anual) e LOA (Lei Orçamentária Anual). São de iniciativa do Governador.",
+            dificuldade: "Fácil",
+            competencia: "Instrumentos de planejamento",
+            banca: "IADES",
+            tags: ["PPA", "LDO", "LOA"],
+          },
+          {
+            id: "ap-q-23-6",
+            enunciado:
+              "São entidades da Administração Indireta do Estado de Goiás, EXCETO:",
+            alternativas: [
+              { letra: "A", texto: "IPASGO." },
+              { letra: "B", texto: "SANEAGO." },
+              { letra: "C", texto: "GOINFRA." },
+              { letra: "D", texto: "SES-GO." },
+              { letra: "E", texto: "DETRAN-GO." },
+            ],
+            gabarito: "D",
+            justificativa:
+              "A SES-GO (Secretaria de Estado da Saúde) é órgão da Administração DIRETA (não tem personalidade jurídica própria). IPASGO, SANEAGO, GOINFRA e DETRAN-GO são entidades da Administração INDIRETA.",
+            dificuldade: "Média",
+            competencia: "Administração Indireta",
+            banca: "IADES",
+            tags: ["administração indireta", "exceção"],
+          },
+          {
+            id: "ap-q-23-7",
+            enunciado:
+              "As contas anuais do Governador do Estado de Goiás são:",
+            alternativas: [
+              { letra: "A", texto: "julgadas diretamente pelo TCE-GO." },
+              { letra: "B", texto: "apreciadas pelo TCE-GO, que emite parecer prévio, e julgadas pela Assembleia Legislativa." },
+              { letra: "C", texto: "julgadas pelo Tribunal de Justiça de Goiás." },
+              { letra: "D", texto: "apreciadas pela CGE-GO e julgadas pelo TCE-GO." },
+              { letra: "E", texto: "julgadas diretamente pela Assembleia Legislativa, sem parecer do TCE-GO." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "O TCE-GO APRECIA as contas do Governador, emitindo parecer prévio (recomendando aprovação ou rejeição). Quem JULGA é a Assembleia Legislativa. É a mesma sistemática aplicada às contas do Presidente da República.",
+            dificuldade: "Média",
+            competencia: "Contas do Governador",
+            banca: "IADES",
+            tags: ["contas", "governador", "TCE-GO"],
+          },
+          {
+            id: "ap-q-23-8",
+            enunciado:
+              "O limite máximo de despesa com pessoal para o Poder Executivo estadual, conforme a Lei de Responsabilidade Fiscal, é de:",
+            alternativas: [
+              { letra: "A", texto: "40% da receita corrente líquida." },
+              { letra: "B", texto: "49% da receita corrente líquida." },
+              { letra: "C", texto: "54% da receita corrente líquida." },
+              { letra: "D", texto: "60% da receita corrente líquida." },
+              { letra: "E", texto: "65% da receita corrente líquida." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "A LRF estabelece limite de 60% da RCL para despesa com pessoal nos Estados. Deste total, o Poder EXECUTIVO pode usar até 49%. Os demais: Legislativo + TCE: 3%; Judiciário: 6%; MP: 2%.",
+            dificuldade: "Média",
+            competencia: "LRF em Goiás",
+            banca: "IADES",
+            tags: ["LRF", "despesa pessoal", "Executivo"],
+          },
+          {
+            id: "ap-q-23-9",
+            enunciado:
+              "A Assembleia Legislativa do Estado de Goiás é composta por:",
+            alternativas: [
+              { letra: "A", texto: "24 Deputados Estaduais." },
+              { letra: "B", texto: "30 Deputados Estaduais." },
+              { letra: "C", texto: "41 Deputados Estaduais." },
+              { letra: "D", texto: "47 Deputados Estaduais." },
+              { letra: "E", texto: "54 Deputados Estaduais." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A Assembleia Legislativa de Goiás (ALEGO) é composta por 41 Deputados Estaduais, eleitos pelo sistema proporcional para mandatos de 4 anos.",
+            dificuldade: "Fácil",
+            competencia: "Poder Legislativo em GO",
+            banca: "IADES",
+            tags: ["assembleia", "deputados"],
+          },
+          {
+            id: "ap-q-23-10",
+            enunciado:
+              "De acordo com o Estatuto dos Servidores Públicos Civis do Estado de Goiás (Lei Estadual nº 20.756/2020), o estágio probatório tem duração de:",
+            alternativas: [
+              { letra: "A", texto: "1 ano." },
+              { letra: "B", texto: "2 anos." },
+              { letra: "C", texto: "3 anos." },
+              { letra: "D", texto: "4 anos." },
+              { letra: "E", texto: "5 anos." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "Conforme a Lei Estadual nº 20.756/2020 e a CF/88 (art. 41), o estágio probatório dos servidores públicos estaduais de Goiás tem duração de 3 anos. Após este período, adquirem estabilidade.",
+            dificuldade: "Fácil",
+            competencia: "Estágio probatório",
+            banca: "IADES",
+            tags: ["estágio probatório", "estabilidade"],
+          },
+        ],
+      },
+    },
   ],
 };
