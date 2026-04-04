@@ -15985,5 +15985,859 @@ O **Fiscal de Saúde Pública** atua vinculado à SES-GO, com competência para:
         ],
       },
     },
+    // ==================== TÓPICO 24 ====================
+    {
+      id: "ap-topico-24",
+      numero: 24,
+      titulo:
+        "Temas contemporâneos em administração pública: inovação no setor público, governo digital, desburocratização, sustentabilidade, integridade, compliance e governança pública",
+      conteudo: {
+        resumo: `
+## Resumo Rápido - Temas Contemporâneos em Administração Pública
+
+### Visão Geral dos Temas
+| Tema | Conceito Central |
+|------|-----------------|
+| **Inovação** | Novas soluções para problemas públicos |
+| **Governo Digital** | Tecnologia para serviços públicos |
+| **Desburocratização** | Simplificação de processos |
+| **Sustentabilidade** | Desenvolvimento sustentável |
+| **Integridade** | Ética e combate à corrupção |
+| **Compliance** | Conformidade com normas |
+| **Governança** | Direção, controle e accountability |
+
+### Governo Digital
+| Aspecto | Descrição |
+|---------|-----------|
+| **Lei do Governo Digital** | Lei nº 14.129/2021 |
+| **Plataforma Gov.br** | Portal único de serviços |
+| **Identidade digital** | CPF como identificador único |
+| **Assinatura eletrônica** | Validade jurídica |
+
+### Desburocratização
+| Norma | Objetivo |
+|-------|----------|
+| **Lei 13.726/2018** | Simplificação de atos |
+| **Decreto 10.178/2019** | Licenciamento simplificado |
+| **Lei de Liberdade Econômica** | Redução de barreiras |
+
+### Integridade e Compliance
+| Elemento | Função |
+|----------|--------|
+| **Código de Ética** | Padrões de conduta |
+| **Canal de denúncias** | Receber irregularidades |
+| **Programa de integridade** | Prevenir corrupção |
+| **Gestão de riscos** | Identificar e mitigar riscos |
+
+### Governança Pública (Decreto 9.203/2017)
+| Princípio | Significado |
+|-----------|-------------|
+| **Capacidade de resposta** | Atender demandas dos cidadãos |
+| **Integridade** | Ética e combate à corrupção |
+| **Confiabilidade** | Coerência nas ações |
+| **Melhoria regulatória** | Normas claras e proporcionais |
+| **Prestação de contas** | Accountability |
+| **Transparência** | Informação acessível |
+
+### Para IADES - Foco em:
+- Lei do Governo Digital (14.129/2021)
+- Decreto de Governança (9.203/2017)
+- Princípios de governança pública
+- Elementos de compliance
+        `,
+
+        explicacao: `
+## Explicação Didática - Temas Contemporâneos em Administração Pública
+
+### 1. Inovação no Setor Público
+
+#### 1.1 Conceito de Inovação Pública
+**Inovação no setor público** é a implementação de novas ideias, métodos, processos, produtos ou serviços que criam valor público e melhoram a eficiência, eficácia e qualidade dos serviços prestados à sociedade.
+
+#### 1.2 Tipos de Inovação
+| Tipo | Descrição | Exemplo |
+|------|-----------|---------|
+| **Inovação de serviço** | Novos serviços ou melhorias | Agendamento online |
+| **Inovação de processo** | Novos métodos de trabalho | Automação de processos |
+| **Inovação organizacional** | Mudanças na estrutura | Laboratórios de inovação |
+| **Inovação de comunicação** | Novas formas de interação | Chatbots, redes sociais |
+| **Inovação de política** | Novas políticas públicas | Sandbox regulatório |
+
+#### 1.3 Laboratórios de Inovação
+São espaços dedicados à experimentação e cocriação de soluções:
+- **GNova** (Escola Nacional de Administração Pública - ENAP)
+- **InovaGov** (Rede de Inovação no Setor Público)
+- **Laboratórios estaduais e municipais**
+
+#### 1.4 Design Thinking no Setor Público
+Metodologia centrada no usuário:
+1. **Empatia**: entender o cidadão
+2. **Definição**: delimitar o problema
+3. **Ideação**: gerar soluções
+4. **Prototipagem**: testar rapidamente
+5. **Teste**: validar com usuários
+
+### 2. Governo Digital
+
+#### 2.1 Lei do Governo Digital (Lei nº 14.129/2021)
+
+A Lei estabelece princípios, regras e instrumentos para o Governo Digital e a eficiência pública.
+
+**Princípios do Governo Digital** (Art. 3º):
+| Princípio | Significado |
+|-----------|-------------|
+| **Desburocratização** | Simplificação de processos |
+| **Modernização** | Uso de tecnologias atuais |
+| **Transparência** | Dados abertos |
+| **Acessibilidade** | Inclusão digital |
+| **Eficiência** | Melhores resultados |
+| **Qualidade** | Serviços de excelência |
+| **Segurança** | Proteção de dados |
+| **Interoperabilidade** | Sistemas integrados |
+
+**Direitos dos cidadãos** (Art. 4º):
+1. Gratuidade no acesso a serviços digitais
+2. Atendimento por múltiplos canais
+3. Não exigência de documentos que a Administração já possui
+4. Equivalência de documentos digitais aos físicos
+5. Proteção de dados pessoais
+
+#### 2.2 Plataforma Gov.br
+
+O **Gov.br** é a plataforma única do governo federal para:
+- Acesso a serviços públicos digitais
+- Identidade digital do cidadão
+- Autenticação única (login único)
+- Assinatura eletrônica de documentos
+
+**Níveis de conta Gov.br**:
+| Nível | Autenticação | Serviços |
+|-------|--------------|----------|
+| **Bronze** | Dados básicos | Serviços simples |
+| **Prata** | Validação facial/bancária | Serviços intermediários |
+| **Ouro** | Certificado digital/biometria | Todos os serviços |
+
+#### 2.3 Assinatura Eletrônica
+
+A Lei 14.063/2020 estabelece três tipos:
+| Tipo | Características | Uso |
+|------|-----------------|-----|
+| **Simples** | Identificação básica | Atos internos de baixo risco |
+| **Avançada** | Vinculada ao signatário | Atos com terceiros |
+| **Qualificada** | Certificado ICP-Brasil | Máxima segurança jurídica |
+
+#### 2.4 Interoperabilidade
+
+Capacidade de sistemas trocarem informações:
+- **Conecta Gov.br**: plataforma de integração
+- **APIs governamentais**: interfaces de programação
+- **Dados abertos**: informações públicas acessíveis
+
+### 3. Desburocratização
+
+#### 3.1 Lei de Desburocratização (Lei nº 13.726/2018)
+
+Também conhecida como "Lei da Desburocratização" ou "Lei da Simplificação":
+
+**Dispensa de exigências** (Art. 3º):
+- Reconhecimento de firma
+- Autenticação de cópias
+- Juntada de documento pessoal do usuário
+- Apresentação de certidão de nascimento (CPF substitui)
+- Apresentação de título de eleitor (exceto voto)
+- Autorização com firma reconhecida para viagem de menor
+
+**Carta de Serviços ao Usuário** (Art. 7º):
+Todo órgão deve publicar carta informando:
+- Serviços oferecidos
+- Requisitos para acesso
+- Prazos de atendimento
+- Formas de prestação
+- Locais e horários
+
+#### 3.2 Lei de Liberdade Econômica (Lei nº 13.874/2019)
+
+Princípios para redução de burocracia empresarial:
+1. **Liberdade como garantia** no exercício de atividades econômicas
+2. **Boa-fé** do particular perante o poder público
+3. **Intervenção mínima** do Estado
+4. **Presunção de boa-fé** nos atos praticados
+
+**Atividades de baixo risco**: dispensa de alvará e licença prévia.
+
+#### 3.3 Decreto 10.178/2019 (Licenciamento 4.0)
+
+Critérios para simplificação do licenciamento:
+- Classificação de atividades por risco
+- Licenciamento eletrônico
+- Integração entre entes federativos
+- Redução de prazo para análise
+
+### 4. Sustentabilidade na Administração Pública
+
+#### 4.1 Conceito de Sustentabilidade
+
+Desenvolvimento que atende às necessidades do presente sem comprometer as gerações futuras.
+
+**Três pilares (Triple Bottom Line)**:
+| Pilar | Descrição | Aplicação |
+|-------|-----------|-----------|
+| **Ambiental** | Preservação do meio ambiente | Compras sustentáveis, eficiência energética |
+| **Social** | Responsabilidade social | Inclusão, acessibilidade |
+| **Econômico** | Viabilidade financeira | Eficiência no gasto público |
+
+#### 4.2 Agenda 2030 e ODS
+
+Os **Objetivos de Desenvolvimento Sustentável (ODS)** da ONU orientam políticas públicas:
+- 17 objetivos
+- 169 metas
+- Horizonte até 2030
+
+**ODS relevantes para Administração Pública**:
+- ODS 16: Paz, justiça e instituições eficazes
+- ODS 12: Consumo e produção responsáveis
+- ODS 11: Cidades e comunidades sustentáveis
+
+#### 4.3 Contratações Públicas Sustentáveis
+
+A Lei 14.133/2021 estabelece:
+- **Desenvolvimento nacional sustentável** como objetivo das licitações (Art. 11)
+- Critérios de sustentabilidade no edital
+- Preferência por bens reciclados ou recicláveis
+- Exigência de logística reversa
+
+#### 4.4 Plano de Logística Sustentável (PLS)
+
+Instrumento de planejamento que contém:
+- Objetivos e metas de sustentabilidade
+- Ações para redução de consumo (água, energia, papel)
+- Práticas de gestão de resíduos
+- Compras sustentáveis
+- Qualidade de vida no trabalho
+
+### 5. Integridade na Administração Pública
+
+#### 5.1 Conceito de Integridade
+
+**Integridade pública** é o alinhamento entre valores, princípios e normas éticas para priorizar o interesse público sobre interesses privados.
+
+#### 5.2 Sistema de Integridade
+
+| Componente | Função |
+|------------|--------|
+| **Alta administração** | Liderança pelo exemplo |
+| **Unidade de integridade** | Coordenação do programa |
+| **Gestão de riscos** | Identificar vulnerabilidades |
+| **Código de conduta** | Padrões de comportamento |
+| **Canal de denúncias** | Receber relatos |
+| **Capacitação** | Conscientizar servidores |
+
+#### 5.3 Programa de Integridade
+
+Conjunto de mecanismos para prevenir, detectar e remediar irregularidades:
+
+**Pilares do programa**:
+1. **Comprometimento da alta direção**
+2. **Instância responsável** (unidade de integridade)
+3. **Análise de riscos**
+4. **Código de ética e conduta**
+5. **Controles internos**
+6. **Treinamento e comunicação**
+7. **Canal de denúncias**
+8. **Investigação e remediação**
+9. **Due diligence** (devida diligência)
+10. **Monitoramento contínuo**
+
+#### 5.4 Conflito de Interesses
+
+**Conflito de interesses** ocorre quando o interesse privado do agente público pode influenciar suas decisões.
+
+**Lei 12.813/2013** (Conflito de Interesses):
+- Vedações durante o exercício do cargo
+- Quarentena após deixar o cargo (6 meses)
+- Comunicação obrigatória de situações de conflito
+
+### 6. Compliance no Setor Público
+
+#### 6.1 Conceito de Compliance
+
+**Compliance** = conformidade com leis, normas e padrões éticos.
+
+Significa estar em conformidade ("to comply" = cumprir).
+
+#### 6.2 Elementos de Compliance
+
+| Elemento | Descrição |
+|----------|-----------|
+| **Tone at the top** | Exemplo da liderança |
+| **Políticas e procedimentos** | Normas internas |
+| **Gestão de riscos** | Mapear e tratar riscos |
+| **Controles internos** | Verificações e aprovações |
+| **Monitoramento** | Acompanhamento contínuo |
+| **Canal de denúncias** | Relatos de irregularidades |
+| **Due diligence** | Verificação de terceiros |
+| **Investigação** | Apuração de ocorrências |
+| **Remediação** | Correção de falhas |
+
+#### 6.3 Compliance e a Lei Anticorrupção (Lei 12.846/2013)
+
+A Lei prevê:
+- Responsabilidade objetiva da pessoa jurídica
+- Sanções administrativas e cíveis
+- **Acordo de leniência**
+- **Programa de integridade** como atenuante
+
+**Programa de integridade efetivo reduz sanções!**
+
+#### 6.4 Compliance na VISA
+
+Aplicação na Vigilância Sanitária:
+- Conformidade com normas sanitárias
+- Treinamento de equipes
+- Gestão de riscos em fiscalização
+- Transparência nos processos
+- Canal de denúncias (ouvidoria)
+
+### 7. Governança Pública
+
+#### 7.1 Conceito de Governança
+
+**Governança pública** é o conjunto de mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a gestão, com vistas à condução de políticas públicas e à prestação de serviços de interesse da sociedade.
+
+**Diferença entre GOVERNANÇA e GESTÃO**:
+| Aspecto | Governança | Gestão |
+|---------|------------|--------|
+| **Foco** | Direção estratégica | Execução |
+| **Quem** | Alta administração | Gestores |
+| **O quê** | Decide o que fazer | Faz o que foi decidido |
+| **Como** | Define diretrizes | Implementa ações |
+
+#### 7.2 Decreto de Governança (Decreto nº 9.203/2017)
+
+Estabelece a política de governança da administração pública federal.
+
+**Princípios de Governança** (Art. 3º):
+| Princípio | Descrição |
+|-----------|-----------|
+| **Capacidade de resposta** | Atender expectativas dos cidadãos |
+| **Integridade** | Combater desvios e corrupção |
+| **Confiabilidade** | Previsibilidade e coerência |
+| **Melhoria regulatória** | Normas necessárias e proporcionais |
+| **Prestação de contas** | Responsabilização pelos resultados |
+| **Transparência** | Informação acessível e compreensível |
+
+**Diretrizes de Governança** (Art. 4º):
+1. Direcionar ações para resultados
+2. Simplificar estruturas organizacionais
+3. Compartilhar informações
+4. Modernizar a gestão de pessoas
+5. Articular instituições
+6. Promover participação social
+7. Estabelecer objetivos alinhados às necessidades
+8. Comunicar o desempenho
+
+#### 7.3 Mecanismos de Governança
+
+| Mecanismo | Função |
+|-----------|--------|
+| **Liderança** | Práticas de alta administração |
+| **Estratégia** | Definição de objetivos e monitoramento |
+| **Controle** | Gestão de riscos e auditoria |
+
+#### 7.4 Comitê Interministerial de Governança (CIG)
+
+Órgão colegiado que:
+- Propõe medidas de governança
+- Incita e monitora aplicação do decreto
+- Aprova manuais e guias
+- Publica recomendações
+
+### 8. Governo Aberto
+
+#### 8.1 Conceito
+
+**Governo aberto** é a cultura de governança baseada em:
+- Transparência
+- Participação cidadã
+- Accountability
+- Tecnologia e inovação
+
+#### 8.2 Parceria para Governo Aberto (OGP)
+
+O Brasil é membro fundador da **Open Government Partnership (OGP)** desde 2011.
+
+**Planos de Ação**:
+- Compromissos de transparência
+- Metas de participação social
+- Iniciativas de dados abertos
+- Monitoramento pela sociedade
+
+#### 8.3 Dados Abertos
+
+Dados públicos disponíveis em formato aberto:
+- **Dados.gov.br**: portal federal
+- Formatos abertos (CSV, JSON, XML)
+- Licença aberta (uso livre)
+- Acesso gratuito e irrestrito
+
+### 9. Transformação Digital no Setor Público
+
+#### 9.1 Estratégia de Governo Digital
+
+A **Estratégia de Governo Digital 2020-2026** estabelece:
+- Transformação digital dos serviços
+- Unificação de canais
+- Infraestrutura compartilhada
+- Segurança cibernética
+
+#### 9.2 Serviços Digitais
+
+Características de um serviço digital:
+- 100% online (do início ao fim)
+- Sem necessidade de presença física
+- Disponível 24/7
+- Acessível em dispositivos móveis
+
+**Meta**: Digitalização de todos os serviços públicos.
+
+### 10. Aplicação na Vigilância Sanitária
+
+| Tema | Aplicação na VISA |
+|------|-------------------|
+| **Inovação** | Sistemas de fiscalização inteligente |
+| **Governo Digital** | Licenciamento online, e-VISA |
+| **Desburocratização** | Dispensa de documentos, classificação de risco |
+| **Sustentabilidade** | Compras sustentáveis, descarte adequado |
+| **Integridade** | Código de ética do fiscal, conflito de interesses |
+| **Compliance** | Conformidade com RDCs, normas ANVISA |
+| **Governança** | Gestão por resultados, indicadores |
+        `,
+
+        pontosChave: [
+          "Inovação pública = novas soluções para problemas públicos (não só tecnologia)",
+          "Lei do Governo Digital (14.129/2021): princípios e direitos do cidadão",
+          "Gov.br: plataforma única, identidade digital, login único",
+          "Assinatura eletrônica: simples, avançada, qualificada (Lei 14.063/2020)",
+          "Lei de Desburocratização (13.726/2018): dispensa de firma reconhecida, autenticação",
+          "Lei de Liberdade Econômica (13.874/2019): atividades de baixo risco sem alvará",
+          "Sustentabilidade: três pilares (ambiental, social, econômico)",
+          "ODS (Agenda 2030): 17 objetivos de desenvolvimento sustentável",
+          "Integridade = ética + interesse público sobre o privado",
+          "Compliance = conformidade com normas (programa de integridade)",
+          "Lei Anticorrupção (12.846/2013): programa de integridade reduz sanções",
+          "Governança ≠ Gestão: governança direciona, gestão executa",
+          "Decreto 9.203/2017: política de governança pública federal",
+          "Princípios de governança: capacidade de resposta, integridade, confiabilidade, melhoria regulatória, prestação de contas, transparência",
+          "Governo aberto: transparência + participação + accountability + tecnologia",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir GOVERNANÇA com GESTÃO",
+            descricao:
+              "Governança = direção estratégica (decide O QUE). Gestão = execução (faz COMO).",
+            dica: "Governança dirige; Gestão faz.",
+          },
+          {
+            titulo: "Achar que inovação é só tecnologia",
+            descricao:
+              "Inovação pode ser de processo, serviço, organização, comunicação ou política. Não é só tecnológica.",
+            dica: "Inovação = nova solução, não necessariamente tecnológica.",
+          },
+          {
+            titulo: "Confundir os tipos de assinatura eletrônica",
+            descricao:
+              "Simples (básica), Avançada (vinculada ao signatário), Qualificada (certificado ICP-Brasil).",
+            dica: "SAQ: Simples < Avançada < Qualificada (crescente em segurança).",
+          },
+          {
+            titulo: "Pensar que compliance é só para empresas",
+            descricao:
+              "O setor público também deve ter programas de compliance e integridade.",
+            dica: "Compliance público: conformidade com normas e ética.",
+          },
+          {
+            titulo: "Errar os princípios de governança do Decreto 9.203/2017",
+            descricao:
+              "São 6: capacidade de resposta, integridade, confiabilidade, melhoria regulatória, prestação de contas, transparência.",
+            dica: "Mnemônico: CIC-MPT (Capacidade, Integridade, Confiabilidade, Melhoria, Prestação, Transparência).",
+          },
+          {
+            titulo: "Confundir dados abertos com LAI",
+            descricao:
+              "Dados abertos = divulgação proativa em formato aberto. LAI = acesso mediante pedido (também).",
+            dica: "Dados abertos = transparência ativa em formato reutilizável.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "CIC-MPT",
+            significado:
+              "Capacidade de resposta, Integridade, Confiabilidade, Melhoria regulatória, Prestação de contas, Transparência",
+            frase: "Princípios de governança (Decreto 9.203/2017): CIC-MPT",
+          },
+          {
+            termo: "SAQ",
+            significado:
+              "Simples, Avançada, Qualificada (assinaturas eletrônicas)",
+            frase: "Assinaturas eletrônicas crescem em segurança: SAQ",
+          },
+          {
+            termo: "TPA",
+            significado:
+              "Transparência, Participação, Accountability (governo aberto)",
+            frase: "Governo aberto = TPA + inovação",
+          },
+          {
+            termo: "ESA",
+            significado: "Econômico, Social, Ambiental (sustentabilidade)",
+            frase: "Três pilares da sustentabilidade: ESA",
+          },
+          {
+            termo: "GovDigital = Gov.br",
+            significado:
+              "Plataforma Gov.br é o portal único do governo digital",
+            frase: "Gov.br: um só login para todos os serviços",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "ap-fc-24-1",
+            frente:
+              "Quais são os PRINCÍPIOS DE GOVERNANÇA do Decreto 9.203/2017?",
+            verso:
+              "**6 princípios** (CIC-MPT):\n\n1. **C**apacidade de resposta\n2. **I**ntegridade\n3. **C**onfiabilidade\n4. **M**elhoria regulatória\n5. **P**restação de contas\n6. **T**ransparência\n\n(Art. 3º do Decreto 9.203/2017)",
+            tags: ["governança", "princípios", "Decreto 9.203"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-24-2",
+            frente:
+              "Qual a diferença entre GOVERNANÇA e GESTÃO?",
+            verso:
+              "**GOVERNANÇA:**\n- Foco: direção estratégica\n- Quem: alta administração\n- O quê: decide O QUE fazer\n- Define diretrizes\n\n**GESTÃO:**\n- Foco: execução\n- Quem: gestores\n- O quê: faz COMO foi decidido\n- Implementa ações\n\nGovernança DIRECIONA; Gestão EXECUTA.",
+            tags: ["governança", "gestão", "diferença"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-24-3",
+            frente:
+              "Quais são os tipos de ASSINATURA ELETRÔNICA (Lei 14.063/2020)?",
+            verso:
+              "**3 tipos (SAQ):**\n\n| Tipo | Característica |\n|------|----------------|\n| **Simples** | Identificação básica |\n| **Avançada** | Vinculada ao signatário |\n| **Qualificada** | Certificado ICP-Brasil |\n\nSegurança crescente: S → A → Q\n\nQualificada = máxima segurança jurídica",
+            tags: ["assinatura eletrônica", "Lei 14.063"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-24-4",
+            frente:
+              "O que estabelece a Lei do GOVERNO DIGITAL (Lei 14.129/2021)?",
+            verso:
+              "**Lei do Governo Digital** (14.129/2021):\n\n**Princípios:**\n- Desburocratização\n- Modernização\n- Transparência\n- Acessibilidade\n- Eficiência\n\n**Direitos do cidadão:**\n- Serviços digitais gratuitos\n- Não repetir documentos\n- Múltiplos canais\n- Equivalência digital = físico",
+            tags: ["governo digital", "Lei 14.129"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-24-5",
+            frente:
+              "O que é COMPLIANCE no setor público?",
+            verso:
+              "**Compliance** = conformidade com leis, normas e padrões éticos.\n\n**Elementos:**\n- Tone at the top (exemplo da liderança)\n- Políticas e procedimentos\n- Gestão de riscos\n- Controles internos\n- Canal de denúncias\n- Monitoramento\n- Investigação e remediação\n\n**Lei 12.846/2013:** programa de integridade reduz sanções!",
+            tags: ["compliance", "integridade"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-24-6",
+            frente:
+              "Quais exigências são DISPENSADAS pela Lei de Desburocratização (13.726/2018)?",
+            verso:
+              "**Dispensa de exigências (Art. 3º):**\n\n1. ❌ Reconhecimento de firma\n2. ❌ Autenticação de cópias\n3. ❌ Juntada de documento pessoal\n4. ❌ Certidão de nascimento (CPF substitui)\n5. ❌ Título de eleitor (exceto voto)\n6. ❌ Autorização com firma reconhecida\n\n**Obrigação:** Carta de Serviços ao Usuário",
+            tags: ["desburocratização", "Lei 13.726"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-24-7",
+            frente:
+              "Quais são os três PILARES DA SUSTENTABILIDADE?",
+            verso:
+              "**Triple Bottom Line (ESA):**\n\n| Pilar | Foco | Exemplo |\n|-------|------|--------|\n| **E**conômico | Viabilidade | Eficiência no gasto |\n| **S**ocial | Pessoas | Inclusão, acessibilidade |\n| **A**mbiental | Planeta | Compras sustentáveis |\n\n**ODS:** 17 Objetivos de Desenvolvimento Sustentável (Agenda 2030)",
+            tags: ["sustentabilidade", "ESG"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-24-8",
+            frente:
+              "O que é GOVERNO ABERTO e quais seus pilares?",
+            verso:
+              "**Governo Aberto** = cultura de governança baseada em:\n\n1. **T**ransparência - informação acessível\n2. **P**articipação - cidadão na decisão\n3. **A**ccountability - responsabilização\n4. **Tecnologia/Inovação** - ferramentas digitais\n\n**OGP:** Brasil é membro fundador (2011)\n**Dados abertos:** dados.gov.br",
+            tags: ["governo aberto", "OGP"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-24-9",
+            frente:
+              "O que é INTEGRIDADE PÚBLICA e quais seus componentes?",
+            verso:
+              "**Integridade pública** = alinhamento entre valores, princípios e normas éticas para priorizar o interesse público.\n\n**Componentes:**\n1. Comprometimento da alta direção\n2. Unidade de integridade\n3. Gestão de riscos\n4. Código de conduta\n5. Canal de denúncias\n6. Capacitação\n7. Investigação\n\n**Lei 12.813/2013:** Conflito de interesses",
+            tags: ["integridade", "ética"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-24-10",
+            frente:
+              "O que é a plataforma GOV.BR?",
+            verso:
+              "**Gov.br** = plataforma única do governo federal\n\n**Funções:**\n- Portal de serviços digitais\n- Identidade digital do cidadão\n- Login único (autenticação)\n- Assinatura eletrônica\n\n**Níveis de conta:**\n- Bronze (básico)\n- Prata (validação facial/bancária)\n- Ouro (certificado/biometria)\n\n**Lei 14.129/2021**",
+            tags: ["Gov.br", "governo digital"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "ap-q-24-1",
+            enunciado:
+              "De acordo com o Decreto nº 9.203/2017, que estabelece a política de governança pública federal, são princípios de governança, EXCETO:",
+            alternativas: [
+              { letra: "A", texto: "capacidade de resposta." },
+              { letra: "B", texto: "integridade." },
+              { letra: "C", texto: "hierarquia." },
+              { letra: "D", texto: "transparência." },
+              { letra: "E", texto: "prestação de contas." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "Os 6 princípios de governança do Decreto 9.203/2017 são: capacidade de resposta, integridade, confiabilidade, melhoria regulatória, prestação de contas e transparência. HIERARQUIA não é princípio de governança, mas sim característica do modelo burocrático.",
+            dificuldade: "Média",
+            competencia: "Princípios de governança",
+            banca: "IADES",
+            tags: ["governança", "Decreto 9.203", "princípios"],
+          },
+          {
+            id: "ap-q-24-2",
+            enunciado:
+              "A Lei nº 14.129/2021, conhecida como Lei do Governo Digital, estabelece que os cidadãos têm direito a:",
+            alternativas: [
+              { letra: "A", texto: "pagar taxa para acessar serviços digitais." },
+              { letra: "B", texto: "apresentar todos os documentos que a Administração solicitar." },
+              { letra: "C", texto: "acessar serviços públicos digitais de forma gratuita." },
+              { letra: "D", texto: "utilizar apenas o canal presencial para atendimento." },
+              { letra: "E", texto: "recusar a digitalização de seus documentos." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A Lei 14.129/2021 garante ao cidadão, entre outros direitos: gratuidade no acesso a serviços digitais, não exigência de documentos que a Administração já possui, atendimento por múltiplos canais e equivalência de documentos digitais aos físicos.",
+            dificuldade: "Fácil",
+            competencia: "Lei do Governo Digital",
+            banca: "IADES",
+            tags: ["governo digital", "Lei 14.129"],
+          },
+          {
+            id: "ap-q-24-3",
+            enunciado:
+              "De acordo com a Lei nº 14.063/2020, a assinatura eletrônica que utiliza certificado digital da ICP-Brasil é denominada:",
+            alternativas: [
+              { letra: "A", texto: "assinatura simples." },
+              { letra: "B", texto: "assinatura avançada." },
+              { letra: "C", texto: "assinatura qualificada." },
+              { letra: "D", texto: "assinatura digital." },
+              { letra: "E", texto: "assinatura autenticada." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A Lei 14.063/2020 estabelece três tipos de assinatura eletrônica: SIMPLES (identificação básica), AVANÇADA (vinculada ao signatário) e QUALIFICADA (utiliza certificado digital ICP-Brasil). A qualificada oferece o maior nível de segurança jurídica.",
+            dificuldade: "Média",
+            competencia: "Assinatura eletrônica",
+            banca: "IADES",
+            tags: ["assinatura eletrônica", "Lei 14.063"],
+          },
+          {
+            id: "ap-q-24-4",
+            enunciado:
+              "A Lei nº 13.726/2018, conhecida como Lei da Desburocratização, dispensa a exigência de:",
+            alternativas: [
+              { letra: "A", texto: "documento de identificação com foto." },
+              { letra: "B", texto: "comprovante de residência." },
+              { letra: "C", texto: "reconhecimento de firma." },
+              { letra: "D", texto: "certidão de antecedentes criminais." },
+              { letra: "E", texto: "comprovante de escolaridade." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A Lei 13.726/2018 dispensa exigências como: reconhecimento de firma, autenticação de cópias, juntada de documento pessoal do usuário, certidão de nascimento (CPF substitui), título de eleitor (exceto para votar) e autorização com firma reconhecida.",
+            dificuldade: "Fácil",
+            competencia: "Lei da Desburocratização",
+            banca: "IADES",
+            tags: ["desburocratização", "Lei 13.726"],
+          },
+          {
+            id: "ap-q-24-5",
+            enunciado:
+              "A diferença fundamental entre governança e gestão na Administração Pública é que:",
+            alternativas: [
+              { letra: "A", texto: "governança e gestão são sinônimos." },
+              { letra: "B", texto: "governança direciona estrategicamente, enquanto gestão executa." },
+              { letra: "C", texto: "gestão define diretrizes, enquanto governança implementa." },
+              { letra: "D", texto: "governança é exercida apenas pelo Poder Legislativo." },
+              { letra: "E", texto: "gestão é responsável apenas por questões financeiras." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "GOVERNANÇA é o conjunto de mecanismos de liderança, estratégia e controle para DIRECIONAR a gestão. GESTÃO é a execução das ações. Governança decide O QUE fazer; Gestão faz COMO foi decidido.",
+            dificuldade: "Fácil",
+            competencia: "Governança x Gestão",
+            banca: "IADES",
+            tags: ["governança", "gestão"],
+          },
+          {
+            id: "ap-q-24-6",
+            enunciado:
+              "No contexto do compliance público, o programa de integridade previsto na Lei Anticorrupção (Lei nº 12.846/2013):",
+            alternativas: [
+              { letra: "A", texto: "é obrigatório apenas para empresas privadas." },
+              { letra: "B", texto: "não tem qualquer efeito sobre as sanções aplicáveis." },
+              { letra: "C", texto: "pode ser considerado como atenuante na aplicação de sanções." },
+              { letra: "D", texto: "substitui a responsabilização da pessoa jurídica." },
+              { letra: "E", texto: "aplica-se apenas a contratos internacionais." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A Lei 12.846/2013 (Lei Anticorrupção) prevê que a existência de programa de integridade efetivo pode ser considerada ATENUANTE na aplicação de sanções à pessoa jurídica. O programa não exime de responsabilidade, mas reduz sanções.",
+            dificuldade: "Média",
+            competencia: "Compliance e Lei Anticorrupção",
+            banca: "IADES",
+            tags: ["compliance", "Lei 12.846"],
+          },
+          {
+            id: "ap-q-24-7",
+            enunciado:
+              "Os três pilares da sustentabilidade, conhecidos como Triple Bottom Line, são:",
+            alternativas: [
+              { letra: "A", texto: "político, econômico e tecnológico." },
+              { letra: "B", texto: "econômico, social e ambiental." },
+              { letra: "C", texto: "jurídico, financeiro e institucional." },
+              { letra: "D", texto: "estratégico, tático e operacional." },
+              { letra: "E", texto: "público, privado e misto." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "O Triple Bottom Line (tripé da sustentabilidade) é composto por três pilares: ECONÔMICO (viabilidade financeira), SOCIAL (responsabilidade social) e AMBIENTAL (preservação do meio ambiente). São também conhecidos como ESG (Environmental, Social, Governance).",
+            dificuldade: "Fácil",
+            competencia: "Sustentabilidade",
+            banca: "IADES",
+            tags: ["sustentabilidade", "ESG"],
+          },
+          {
+            id: "ap-q-24-8",
+            enunciado:
+              "A plataforma Gov.br é utilizada para:",
+            alternativas: [
+              { letra: "A", texto: "exclusivamente para pagamento de tributos federais." },
+              { letra: "B", texto: "acesso unificado a serviços públicos digitais e identidade digital do cidadão." },
+              { letra: "C", texto: "apenas para consulta de processos judiciais." },
+              { letra: "D", texto: "controle de fronteiras e imigração." },
+              { letra: "E", texto: "somente para servidores públicos federais." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "O Gov.br é a plataforma única do governo federal para acesso a serviços públicos digitais, funcionando como identidade digital do cidadão, login único e assinatura eletrônica. Possui níveis de conta (bronze, prata, ouro) conforme a autenticação.",
+            dificuldade: "Fácil",
+            competencia: "Gov.br",
+            banca: "IADES",
+            tags: ["Gov.br", "governo digital"],
+          },
+          {
+            id: "ap-q-24-9",
+            enunciado:
+              "No conceito de governo aberto, a accountability refere-se a:",
+            alternativas: [
+              { letra: "A", texto: "contabilidade pública." },
+              { letra: "B", texto: "responsabilização e prestação de contas." },
+              { letra: "C", texto: "abertura de contas bancárias públicas." },
+              { letra: "D", texto: "auditoria contábil." },
+              { letra: "E", texto: "acesso a crédito público." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "Accountability é um dos pilares do governo aberto e significa RESPONSABILIZAÇÃO e PRESTAÇÃO DE CONTAS. Os agentes públicos devem responder por suas ações e demonstrar os resultados alcançados. Não se confunde com contabilidade (accounting).",
+            dificuldade: "Média",
+            competencia: "Accountability",
+            banca: "IADES",
+            tags: ["accountability", "governo aberto"],
+          },
+          {
+            id: "ap-q-24-10",
+            enunciado:
+              "São elementos de um programa de integridade (compliance) no setor público, EXCETO:",
+            alternativas: [
+              { letra: "A", texto: "código de ética e conduta." },
+              { letra: "B", texto: "canal de denúncias." },
+              { letra: "C", texto: "gestão de riscos." },
+              { letra: "D", texto: "nepotismo institucionalizado." },
+              { letra: "E", texto: "treinamento e capacitação." },
+            ],
+            gabarito: "D",
+            justificativa:
+              "Os elementos de um programa de integridade incluem: código de ética, canal de denúncias, gestão de riscos, treinamento, monitoramento, investigação, etc. NEPOTISMO é justamente o que o programa de integridade busca COMBATER, não um elemento dele.",
+            dificuldade: "Fácil",
+            competencia: "Programa de integridade",
+            banca: "IADES",
+            tags: ["compliance", "integridade", "exceção"],
+          },
+        ],
+      },
+    },
   ],
 };
