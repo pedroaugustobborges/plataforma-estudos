@@ -13432,5 +13432,884 @@ O servidor estável pode perder o cargo por **avaliação periódica de desempen
         ],
       },
     },
+    // ==================== TÓPICO 21 ====================
+    {
+      id: "ap-topico-21",
+      numero: 21,
+      titulo:
+        "Licitações e contratos administrativos: princípios, Lei nº 14.133/2021, fases da licitação, modalidades, critérios de julgamento, contratos administrativos, gestão e fiscalização contratual",
+      conteudo: {
+        resumo: `
+## Resumo Rápido - Licitações e Contratos (Lei 14.133/2021)
+
+### O que é Licitação?
+**Procedimento administrativo** pelo qual a Administração seleciona a proposta mais vantajosa para contratar obras, serviços, compras e alienações.
+
+### Princípios da Licitação (Art. 5º da Lei 14.133/2021)
+| Princípio | Significado |
+|-----------|-------------|
+| **Legalidade** | Vinculação às normas legais |
+| **Impessoalidade** | Tratamento igualitário |
+| **Moralidade** | Conduta ética e proba |
+| **Publicidade** | Transparência dos atos |
+| **Eficiência** | Melhor resultado |
+| **Interesse público** | Prevalência do coletivo |
+| **Probidade** | Honestidade na gestão |
+| **Igualdade** | Isonomia entre licitantes |
+| **Planejamento** | Preparação adequada |
+| **Transparência** | Acesso às informações |
+| **Segregação de funções** | Separação de atribuições |
+| **Julgamento objetivo** | Critérios claros e predefinidos |
+
+### Modalidades de Licitação (Art. 28)
+| Modalidade | Utilização | Características |
+|------------|-----------|-----------------|
+| **Pregão** | Bens e serviços comuns | Obrigatório para bens/serviços comuns |
+| **Concorrência** | Qualquer valor | Ampla publicidade |
+| **Concurso** | Trabalho técnico/artístico | Prêmio ou remuneração |
+| **Leilão** | Alienação de bens | Maior lance |
+| **Diálogo Competitivo** | Inovação/complexidade | Soluções não disponíveis |
+
+### Fases da Licitação (Art. 17)
+1. **Preparatória** (planejamento)
+2. **Divulgação do edital**
+3. **Apresentação de propostas/lances**
+4. **Julgamento**
+5. **Habilitação**
+6. **Recursal**
+7. **Homologação**
+
+### Critérios de Julgamento (Art. 33)
+- **Menor preço** (mais comum)
+- **Maior desconto**
+- **Melhor técnica ou conteúdo artístico**
+- **Técnica e preço**
+- **Maior lance** (leilão)
+- **Maior retorno econômico**
+
+### Contratação Direta (Sem Licitação)
+| Tipo | Hipóteses principais |
+|------|---------------------|
+| **Dispensa** | Valor até R$ 50 mil (obras) / R$ 25 mil (outros), emergência, guerra |
+| **Inexigibilidade** | Inviabilidade de competição (fornecedor exclusivo, artista consagrado) |
+
+### Para IADES - Foco em:
+- Princípios específicos da Lei 14.133/2021
+- Diferença entre dispensa e inexigibilidade
+- Fases da licitação e sua ordem
+- Modalidades e quando usar cada uma
+        `,
+
+        explicacao: `
+## Explicação Didática - Licitações e Contratos (Lei 14.133/2021)
+
+### 1. Conceito e Fundamento Constitucional
+
+A **licitação** é o procedimento administrativo formal pelo qual a Administração Pública seleciona a proposta mais vantajosa para a celebração de contrato.
+
+#### Base Constitucional (Art. 37, XXI, CF/88)
+> "Ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública..."
+
+#### Objetivos da Licitação (Art. 11 da Lei 14.133/2021)
+1. **Assegurar seleção da proposta apta a gerar o resultado mais vantajoso**
+2. **Assegurar tratamento isonômico** entre os licitantes
+3. **Evitar contratações com sobrepreço ou superfaturamento**
+4. **Incentivar a inovação e o desenvolvimento nacional sustentável**
+
+### 2. Princípios da Licitação (Art. 5º)
+
+#### Princípios Expressos na Lei 14.133/2021
+| Princípio | Aplicação Prática |
+|-----------|-------------------|
+| **Legalidade** | Edital deve seguir a lei |
+| **Impessoalidade** | Não favorece nenhum licitante |
+| **Moralidade** | Probidade em todo o processo |
+| **Publicidade** | Divulgação ampla do edital |
+| **Eficiência** | Obter o melhor resultado |
+| **Interesse público** | Finalidade da contratação |
+| **Probidade administrativa** | Honestidade na condução |
+| **Igualdade** | Mesmas condições a todos |
+| **Planejamento** | Estudo técnico preliminar, TR |
+| **Transparência** | Portal Nacional de Contratações Públicas |
+| **Segregação de funções** | Quem licita não fiscaliza |
+| **Julgamento objetivo** | Critérios claros no edital |
+
+#### Novos Princípios na Lei 14.133/2021
+- **Celeridade**: procedimento mais ágil
+- **Economicidade**: menor custo-benefício
+- **Desenvolvimento nacional sustentável**: preferência por produtos/empresas nacionais
+- **Vinculação ao edital**: o edital é a "lei" da licitação
+- **Competitividade**: estimular a participação
+
+### 3. Modalidades de Licitação (Art. 28)
+
+#### PREGÃO (Art. 29)
+| Aspecto | Descrição |
+|---------|-----------|
+| **Uso** | Aquisição de **bens e serviços COMUNS** |
+| **Obrigatoriedade** | OBRIGATÓRIO quando bens/serviços forem comuns |
+| **Forma** | Preferencialmente eletrônico |
+| **Critério** | Menor preço ou maior desconto |
+| **Inversão** | Primeiro proposta, depois habilitação |
+
+**Bens/serviços comuns**: aqueles cujos padrões de desempenho e qualidade podem ser objetivamente definidos pelo edital.
+
+#### CONCORRÊNCIA (Art. 29)
+| Aspecto | Descrição |
+|---------|-----------|
+| **Uso** | Contratação de **bens e serviços especiais** e obras |
+| **Valor** | Qualquer valor |
+| **Publicidade** | Ampla divulgação |
+| **Critérios** | Todos os previstos em lei |
+
+**Bens/serviços especiais**: aqueles que não são comuns (ex: consultoria complexa).
+
+#### CONCURSO (Art. 30)
+| Aspecto | Descrição |
+|---------|-----------|
+| **Uso** | Trabalho **técnico, científico ou artístico** |
+| **Prêmio** | Vencedor recebe prêmio ou remuneração |
+| **Comissão** | Julgamento por comissão especial |
+| **Prazo** | Mínimo 35 dias úteis |
+
+#### LEILÃO (Art. 31)
+| Aspecto | Descrição |
+|---------|-----------|
+| **Uso** | **Alienação** de bens imóveis ou móveis inservíveis |
+| **Critério** | **Maior lance** |
+| **Condução** | Leiloeiro oficial ou servidor |
+
+#### DIÁLOGO COMPETITIVO (Art. 32) - NOVIDADE!
+| Aspecto | Descrição |
+|---------|-----------|
+| **Uso** | Inovação tecnológica, soluções não disponíveis no mercado |
+| **Característica** | Diálogos com licitantes pré-selecionados |
+| **Quando** | Objeto complexo, condições não precisas |
+| **Fases** | Diálogo + Apresentação de propostas |
+
+### 4. Fases da Licitação (Art. 17)
+
+A Lei 14.133/2021 estabelece uma **ordem específica** para as fases:
+
+#### Sequência das Fases
+\`\`\`
+1. PREPARATÓRIA
+   ↓
+2. DIVULGAÇÃO DO EDITAL
+   ↓
+3. APRESENTAÇÃO DE PROPOSTAS E LANCES
+   ↓
+4. JULGAMENTO
+   ↓
+5. HABILITAÇÃO
+   ↓
+6. RECURSAL
+   ↓
+7. HOMOLOGAÇÃO
+\`\`\`
+
+#### Detalhamento de Cada Fase
+
+**1. FASE PREPARATÓRIA (Art. 18)**
+- Estudo Técnico Preliminar (ETP)
+- Termo de Referência (TR) ou Projeto Básico
+- Orçamento estimado
+- Análise de riscos
+- Pesquisa de preços
+
+**2. DIVULGAÇÃO DO EDITAL**
+- Portal Nacional de Contratações Públicas (PNCP)
+- Diário Oficial
+- Prazos mínimos conforme modalidade
+
+**3. APRESENTAÇÃO DE PROPOSTAS E LANCES**
+- Propostas escritas ou eletrônicas
+- Lances (no pregão e leilão)
+- Modo aberto, fechado ou combinado
+
+**4. JULGAMENTO**
+- Aplicação do critério definido no edital
+- Classificação das propostas
+- Negociação com melhor classificado
+
+**5. HABILITAÇÃO**
+- Verificação documental
+- Capacidade técnica, econômica, jurídica
+- Regularidade fiscal e trabalhista
+
+**INVERSÃO DE FASES**: Na Lei 14.133/2021, o julgamento vem ANTES da habilitação (como já ocorria no pregão).
+
+**6. FASE RECURSAL**
+- Recurso único após habilitação
+- Prazo de 3 dias úteis
+- Efeito suspensivo automático
+
+**7. HOMOLOGAÇÃO**
+- Autoridade competente
+- Verifica regularidade do processo
+- Adjudicação ao vencedor
+
+### 5. Critérios de Julgamento (Art. 33)
+
+| Critério | Quando usar | Vencedor |
+|----------|-------------|----------|
+| **Menor preço** | Bens/serviços comuns | Menor valor ofertado |
+| **Maior desconto** | Sobre tabela de preços | Maior % de desconto |
+| **Melhor técnica** | Predominância intelectual | Maior nota técnica |
+| **Técnica e preço** | Técnica relevante | Ponderação dos dois |
+| **Maior lance** | Leilão | Maior valor oferecido |
+| **Maior retorno econômico** | Concessões | Maior ganho para Administração |
+
+### 6. Contratação Direta (Arts. 74 e 75)
+
+#### DISPENSA de Licitação (Art. 75)
+A licitação é **dispensável** (a Administração pode optar):
+
+| Hipótese | Valor/Situação |
+|----------|----------------|
+| **Pequeno valor - obras** | Até R$ 100.000,00 (atualização 2024) |
+| **Pequeno valor - outros** | Até R$ 50.000,00 (atualização 2024) |
+| **Emergência** | Urgência de atendimento |
+| **Guerra ou perturbação** | Defesa nacional |
+| **Licitação deserta** | Ninguém compareceu |
+| **Licitação fracassada** | Propostas desclassificadas |
+| **Empresa pública** | Para outra entidade da Adm. |
+| **Compra de imóvel** | Necessidades específicas |
+
+#### INEXIGIBILIDADE de Licitação (Art. 74)
+A licitação é **inexigível** (impossível competir):
+
+| Hipótese | Exemplo |
+|----------|---------|
+| **Fornecedor exclusivo** | Representante comercial único |
+| **Profissional de notória especialização** | Consultor renomado |
+| **Artista consagrado** | Show musical, exposição |
+| **Credenciamento** | Quando todos podem prestar |
+
+#### Diferença Fundamental
+| DISPENSA | INEXIGIBILIDADE |
+|----------|-----------------|
+| Competição é POSSÍVEL | Competição é IMPOSSÍVEL |
+| A Administração ESCOLHE não licitar | A Administração NÃO PODE licitar |
+| Rol TAXATIVO (listado na lei) | Rol EXEMPLIFICATIVO |
+
+### 7. Contratos Administrativos (Arts. 89 a 137)
+
+#### Conceito
+Acordo de vontades entre a Administração e o particular para a consecução de fins públicos.
+
+#### Características dos Contratos Administrativos
+| Característica | Descrição |
+|----------------|-----------|
+| **Formalismo** | Escrito, publicado, etc. |
+| **Pessoalidade** | Intuitu personae |
+| **Comutativo** | Prestações equivalentes |
+| **Adesão** | Cláusulas definidas pela Administração |
+| **Cláusulas exorbitantes** | Prerrogativas especiais |
+
+#### Cláusulas Exorbitantes (Art. 104)
+A Administração pode, unilateralmente:
+1. **Modificar o contrato** (alteração unilateral)
+2. **Rescindir o contrato** (rescisão unilateral)
+3. **Fiscalizar a execução**
+4. **Aplicar sanções**
+5. **Ocupar temporariamente** bens e pessoal
+
+#### Duração dos Contratos (Art. 105-115)
+| Tipo | Prazo máximo |
+|------|--------------|
+| **Regra geral** | 5 anos (prorrogável até 10) |
+| **Serviços contínuos** | 5 anos (prorrogável até 10) |
+| **Aluguel de equipamentos/TI** | 5 anos (prorrogável até 15) |
+| **Concessão de serviço público** | Conforme lei específica |
+
+#### Alteração dos Contratos (Art. 124)
+| Tipo | Quem decide | Limite |
+|------|-------------|--------|
+| **Unilateral** | Administração | 25% (acréscimo/supressão) |
+| **Consensual** | Acordo | Conforme interesse público |
+| **Reequilíbrio** | Fato superveniente | Restabelecer equação |
+
+### 8. Gestão e Fiscalização Contratual (Arts. 117-118)
+
+#### Agentes Responsáveis
+| Agente | Função |
+|--------|--------|
+| **Gestor do Contrato** | Coordenação e gerenciamento |
+| **Fiscal Técnico** | Acompanhamento técnico |
+| **Fiscal Administrativo** | Acompanhamento administrativo |
+| **Fiscal Setorial** | Por etapa ou localidade |
+
+#### Atribuições do Fiscal
+1. **Acompanhar** a execução do contrato
+2. **Registrar** ocorrências em relatório
+3. **Comunicar** falhas ao gestor
+4. **Verificar** medições e pagamentos
+5. **Atestar** notas fiscais
+6. **Propor** aplicação de sanções
+
+#### Sanções por Inexecução (Art. 155-163)
+| Sanção | Hipótese |
+|--------|----------|
+| **Advertência** | Infrações leves |
+| **Multa** | Atraso ou inadimplemento |
+| **Impedimento de licitar** | Infrações graves (até 3 anos) |
+| **Declaração de inidoneidade** | Infrações gravíssimas (3-6 anos) |
+
+### 9. Vigilância Sanitária e Licitações
+
+#### Aplicação Prática
+| Situação | Procedimento |
+|----------|--------------|
+| **Aquisição de equipamentos** | Pregão (bens comuns) |
+| **Contratação de laboratórios** | Concorrência ou pregão |
+| **Serviços de análise** | Pregão ou credenciamento |
+| **Obras em postos de saúde** | Concorrência |
+
+#### Requisitos de Habilitação para Área de Saúde
+- Alvará sanitário vigente
+- Registro na ANVISA (quando aplicável)
+- Responsável técnico habilitado
+- Certidões do conselho profissional
+
+### 10. Portal Nacional de Contratações Públicas (PNCP)
+
+A Lei 14.133/2021 criou o **PNCP** como sistema obrigatório para:
+- Divulgação de editais
+- Publicação de atas
+- Registro de contratos
+- Catálogo eletrônico de compras
+- Transparência das contratações
+        `,
+
+        pontosChave: [
+          "Licitação = procedimento para selecionar a proposta MAIS VANTAJOSA",
+          "Lei 14.133/2021 é a NOVA Lei de Licitações (substitui Lei 8.666/93)",
+          "Princípios: LIMPE + planejamento, transparência, segregação de funções, julgamento objetivo",
+          "Modalidades: Pregão, Concorrência, Concurso, Leilão e Diálogo Competitivo (NOVIDADE)",
+          "Pregão = OBRIGATÓRIO para bens e serviços COMUNS",
+          "Diálogo Competitivo = para inovação e soluções complexas (NOVA modalidade)",
+          "Fases: Preparatória → Edital → Propostas → Julgamento → Habilitação → Recurso → Homologação",
+          "INVERSÃO: Julgamento vem ANTES da Habilitação (diferente da Lei 8.666/93)",
+          "DISPENSA: competição possível, mas dispensada (rol TAXATIVO)",
+          "INEXIGIBILIDADE: competição IMPOSSÍVEL (fornecedor exclusivo, artista, etc.)",
+          "Contratos: prazo máximo 5 anos (prorrogável até 10 anos)",
+          "Alteração unilateral: limite de 25% (acréscimo ou supressão)",
+          "Cláusulas exorbitantes: poderes especiais da Administração",
+          "Gestor e Fiscal: responsáveis pela gestão e fiscalização contratual",
+          "PNCP: Portal Nacional de Contratações Públicas (obrigatório)",
+        ],
+
+        armadilhas: [
+          {
+            titulo: "Confundir DISPENSA com INEXIGIBILIDADE",
+            descricao:
+              "Dispensa = competição é possível, mas a lei dispensa. Inexigibilidade = competição é IMPOSSÍVEL.",
+            dica: "DISPENSA: posso licitar, mas não preciso. INEXIGIBILIDADE: não consigo licitar.",
+          },
+          {
+            titulo: "Errar a ordem das FASES da licitação",
+            descricao:
+              "Na Lei 14.133/2021, o JULGAMENTO vem ANTES da HABILITAÇÃO (inversão de fases).",
+            dica: "Primeiro julga as propostas, depois verifica documentos do vencedor.",
+          },
+          {
+            titulo: "Achar que TOMADA DE PREÇOS ainda existe",
+            descricao:
+              "A Lei 14.133/2021 EXTINGUIU as modalidades Tomada de Preços e Convite.",
+            dica: "Modalidades: Pregão, Concorrência, Concurso, Leilão e Diálogo Competitivo.",
+          },
+          {
+            titulo: "Confundir Pregão com Concorrência",
+            descricao:
+              "Pregão = bens/serviços COMUNS (obrigatório). Concorrência = bens/serviços ESPECIAIS.",
+            dica: "Comum = padrão de mercado. Especial = complexidade técnica.",
+          },
+          {
+            titulo: "Errar os LIMITES para dispensa por valor",
+            descricao:
+              "Os valores são atualizados anualmente. Em 2024: R$ 100 mil (obras) e R$ 50 mil (outros).",
+            dica: "Verifique os valores atualizados pelo Decreto de atualização anual.",
+          },
+          {
+            titulo: "Achar que cláusula exorbitante é ilegal",
+            descricao:
+              "Cláusulas exorbitantes são LEGAIS nos contratos administrativos. São prerrogativas da Administração.",
+            dica: "No contrato administrativo, a Administração tem poderes especiais.",
+          },
+        ],
+
+        mnemonicos: [
+          {
+            termo: "PCCLD",
+            significado:
+              "Pregão, Concorrência, Concurso, Leilão, Diálogo Competitivo",
+            frase: "PCCLD: as 5 modalidades da Lei 14.133/2021",
+          },
+          {
+            termo: "PEDEJURE-HO",
+            significado:
+              "Preparatória, EDital, JUlgamento, REcurso, HOmologação",
+            frase: "PEDEJURE-HO: ordem das fases da licitação",
+          },
+          {
+            termo: "DIsPENsa = PENsei e dispensei",
+            significado: "Na dispensa, a competição é possível, mas dispensada",
+            frase: "DisPENsa: PENSEI em licitar, mas a lei me dispensou",
+          },
+          {
+            termo: "IneXIgibilidade = eXIste um só",
+            significado: "Na inexigibilidade, só existe um fornecedor",
+            frase: "IneXIgibilidade: só eXIste uma opção, não dá para competir",
+          },
+          {
+            termo: "25%",
+            significado: "Limite de alteração unilateral do contrato",
+            frase: "Limite de 25% para acréscimo ou supressão unilateral",
+          },
+        ],
+
+        flashcards: [
+          {
+            id: "ap-fc-21-1",
+            frente:
+              "Quais são as MODALIDADES de licitação na Lei 14.133/2021?",
+            verso:
+              "**5 modalidades**:\n\n1. **PREGÃO** - bens/serviços comuns\n2. **CONCORRÊNCIA** - bens/serviços especiais, obras\n3. **CONCURSO** - trabalho técnico/artístico\n4. **LEILÃO** - alienação de bens\n5. **DIÁLOGO COMPETITIVO** - inovação (NOVA!)\n\n⚠️ EXTINGUIU: Tomada de Preços e Convite",
+            tags: ["modalidades", "14.133"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-21-2",
+            frente: "Qual a diferença entre DISPENSA e INEXIGIBILIDADE?",
+            verso:
+              "**DISPENSA**:\n- Competição é POSSÍVEL\n- Lei PERMITE não licitar\n- Rol TAXATIVO (listado)\n- Ex: pequeno valor, emergência\n\n**INEXIGIBILIDADE**:\n- Competição é IMPOSSÍVEL\n- NÃO HÁ como licitar\n- Rol EXEMPLIFICATIVO\n- Ex: fornecedor exclusivo, artista",
+            tags: ["dispensa", "inexigibilidade", "contratação direta"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-21-3",
+            frente: "Quais são as FASES da licitação na Lei 14.133/2021?",
+            verso:
+              "**Ordem das fases**:\n\n1. **Preparatória** (ETP, TR)\n2. **Divulgação do edital**\n3. **Apresentação de propostas/lances**\n4. **Julgamento** ← ANTES\n5. **Habilitação** ← DEPOIS\n6. **Recursal** (fase única)\n7. **Homologação**\n\n⚠️ INVERSÃO: Julgamento vem ANTES da Habilitação!",
+            tags: ["fases", "ordem", "inversão"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-21-4",
+            frente:
+              "Quando é OBRIGATÓRIO usar a modalidade PREGÃO?",
+            verso:
+              "**PREGÃO é OBRIGATÓRIO** para aquisição de:\n\n- **Bens COMUNS**\n- **Serviços COMUNS**\n\n**O que são bens/serviços comuns?**\nAqueles cujos padrões de desempenho e qualidade podem ser **objetivamente definidos** pelo edital.\n\nForma preferencial: **eletrônico**\nCritério: menor preço ou maior desconto",
+            tags: ["pregão", "obrigatório", "bens comuns"],
+            dificuldade: "facil",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-21-5",
+            frente: "O que é o DIÁLOGO COMPETITIVO?",
+            verso:
+              "**Nova modalidade** da Lei 14.133/2021.\n\n**Quando usar:**\n- Inovação tecnológica\n- Soluções não disponíveis no mercado\n- Objeto complexo\n- Condições não podem ser previamente definidas\n\n**Como funciona:**\n1. Pré-seleção de licitantes\n2. Diálogos para desenvolver solução\n3. Apresentação de propostas finais\n4. Julgamento",
+            tags: ["diálogo competitivo", "nova modalidade", "inovação"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-21-6",
+            frente:
+              "Quais são os CRITÉRIOS DE JULGAMENTO previstos na Lei 14.133/2021?",
+            verso:
+              "**6 critérios** (Art. 33):\n\n1. **Menor preço** - mais comum\n2. **Maior desconto** - sobre tabela\n3. **Melhor técnica** - predominância intelectual\n4. **Técnica e preço** - ponderação\n5. **Maior lance** - leilão\n6. **Maior retorno econômico** - concessões\n\nO critério deve estar DEFINIDO no edital.",
+            tags: ["critérios", "julgamento"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-21-7",
+            frente:
+              "O que são CLÁUSULAS EXORBITANTES nos contratos administrativos?",
+            verso:
+              "**Prerrogativas especiais** da Administração:\n\n1. **Modificar unilateralmente** o contrato\n2. **Rescindir unilateralmente**\n3. **Fiscalizar** a execução\n4. **Aplicar sanções** diretamente\n5. **Ocupar temporariamente** bens/pessoal\n\n**Limite alteração unilateral:** 25%\n\nSão LEGAIS, pois protegem o interesse público.",
+            tags: ["cláusulas exorbitantes", "contrato", "prerrogativas"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-21-8",
+            frente: "Qual o prazo máximo dos CONTRATOS na Lei 14.133/2021?",
+            verso:
+              "**Prazos máximos:**\n\n| Tipo | Prazo |\n|------|-------|\n| Regra geral | 5 anos (prorrog. até 10) |\n| Serviços contínuos | 5 anos (prorrog. até 10) |\n| Aluguel equip./TI | 5 anos (prorrog. até 15) |\n\n⚠️ Diferente da Lei 8.666/93 (prazo vinculado ao crédito orçamentário)",
+            tags: ["prazo", "contrato", "prorrogação"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-21-9",
+            frente:
+              "Quem são os agentes responsáveis pela FISCALIZAÇÃO contratual?",
+            verso:
+              "**Agentes de fiscalização:**\n\n1. **Gestor do Contrato** - coordena e gerencia\n2. **Fiscal Técnico** - acompanha aspectos técnicos\n3. **Fiscal Administrativo** - acompanha aspectos admin.\n4. **Fiscal Setorial** - por etapa ou localidade\n\n**Atribuições:** acompanhar, registrar, comunicar, verificar, atestar, propor sanções.\n\nPrincípio: **segregação de funções**",
+            tags: ["fiscal", "gestor", "fiscalização"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+          {
+            id: "ap-fc-21-10",
+            frente:
+              "Quais são as SANÇÕES por inexecução contratual na Lei 14.133/2021?",
+            verso:
+              "**4 sanções** (Art. 155-163):\n\n1. **Advertência** - infrações leves\n2. **Multa** - atraso, inadimplemento\n3. **Impedimento de licitar** - até 3 anos (infrações graves)\n4. **Declaração de inidoneidade** - 3 a 6 anos (gravíssimas)\n\n⚠️ EXTINGUIU: Suspensão temporária\n\nDevido processo legal: contraditório e ampla defesa.",
+            tags: ["sanções", "inexecução", "penalidades"],
+            dificuldade: "medio",
+            caixa: 1,
+            proximaRevisao: null,
+            ultimaRevisao: null,
+            acertos: 0,
+            erros: 0,
+          },
+        ],
+
+        questoes: [
+          {
+            id: "ap-q-21-1",
+            enunciado:
+              "De acordo com a Lei nº 14.133/2021, as modalidades de licitação são:",
+            alternativas: [
+              {
+                letra: "A",
+                texto:
+                  "concorrência, tomada de preços, convite, concurso e leilão.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "pregão, concorrência, concurso, leilão e diálogo competitivo.",
+              },
+              {
+                letra: "C",
+                texto: "pregão, tomada de preços, concorrência e leilão.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "concorrência, convite, pregão, concurso e consulta.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "leilão, pregão eletrônico, concurso, tomada de preços e concorrência.",
+              },
+            ],
+            gabarito: "B",
+            justificativa:
+              "A Lei 14.133/2021 estabelece 5 modalidades: PREGÃO, CONCORRÊNCIA, CONCURSO, LEILÃO e DIÁLOGO COMPETITIVO (novidade). A lei EXTINGUIU as modalidades Tomada de Preços e Convite, que existiam na Lei 8.666/93.",
+            dificuldade: "Fácil",
+            competencia: "Modalidades de licitação",
+            banca: "IADES",
+            tags: ["modalidades", "14.133/2021"],
+          },
+          {
+            id: "ap-q-21-2",
+            enunciado:
+              "A respeito da dispensa e da inexigibilidade de licitação previstas na Lei nº 14.133/2021, assinale a alternativa CORRETA:",
+            alternativas: [
+              {
+                letra: "A",
+                texto:
+                  "A dispensa ocorre quando há inviabilidade de competição.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "A inexigibilidade é aplicável quando a competição é possível, mas a lei permite não licitar.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "A inexigibilidade ocorre quando a competição é inviável, como no caso de fornecedor exclusivo.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "As hipóteses de inexigibilidade estão previstas em rol taxativo.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "A dispensa é aplicável apenas em situações de emergência.",
+              },
+            ],
+            gabarito: "C",
+            justificativa:
+              "INEXIGIBILIDADE ocorre quando a competição é INVIÁVEL (impossível), como fornecedor exclusivo, artista consagrado, profissional de notória especialização. DISPENSA = competição possível, mas a lei dispensa. O rol de dispensa é taxativo; o de inexigibilidade é exemplificativo.",
+            dificuldade: "Média",
+            competencia: "Dispensa e inexigibilidade",
+            banca: "IADES",
+            tags: ["dispensa", "inexigibilidade"],
+          },
+          {
+            id: "ap-q-21-3",
+            enunciado:
+              "Na Lei nº 14.133/2021, a ordem das fases do procedimento licitatório é:",
+            alternativas: [
+              {
+                letra: "A",
+                texto:
+                  "habilitação, julgamento, recurso e homologação.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "julgamento, habilitação, recurso e homologação.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "edital, habilitação, julgamento, recurso e homologação.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "edital, classificação, habilitação e adjudicação.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "publicação, qualificação, julgamento e contratação.",
+              },
+            ],
+            gabarito: "B",
+            justificativa:
+              "Na Lei 14.133/2021, há INVERSÃO de fases: primeiro ocorre o JULGAMENTO das propostas, depois a HABILITAÇÃO do vencedor, em seguida a fase RECURSAL (única) e por fim a HOMOLOGAÇÃO. Isso já era aplicado no pregão e foi generalizado.",
+            dificuldade: "Média",
+            competencia: "Fases da licitação",
+            banca: "IADES",
+            tags: ["fases", "ordem", "inversão"],
+          },
+          {
+            id: "ap-q-21-4",
+            enunciado:
+              "A modalidade de licitação obrigatória para aquisição de bens e serviços comuns é:",
+            alternativas: [
+              { letra: "A", texto: "concorrência." },
+              { letra: "B", texto: "pregão." },
+              { letra: "C", texto: "diálogo competitivo." },
+              { letra: "D", texto: "leilão." },
+              { letra: "E", texto: "concurso." },
+            ],
+            gabarito: "B",
+            justificativa:
+              "O PREGÃO é a modalidade OBRIGATÓRIA para aquisição de bens e serviços COMUNS, conforme art. 29 da Lei 14.133/2021. Bens/serviços comuns são aqueles cujos padrões podem ser objetivamente definidos no edital. Preferencialmente, deve ser realizado na forma eletrônica.",
+            dificuldade: "Fácil",
+            competencia: "Pregão",
+            banca: "IADES",
+            tags: ["pregão", "bens comuns", "obrigatório"],
+          },
+          {
+            id: "ap-q-21-5",
+            enunciado:
+              "O Diálogo Competitivo, modalidade prevista na Lei nº 14.133/2021, é utilizado quando:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "a Administração precisa alienar bens móveis.",
+              },
+              {
+                letra: "B",
+                texto:
+                  "há necessidade de selecionar trabalho técnico, científico ou artístico.",
+              },
+              {
+                letra: "C",
+                texto:
+                  "a inovação tecnológica ou técnica impossibilita que a Administração defina previamente a solução.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "os bens e serviços são comuns e padronizados.",
+              },
+              {
+                letra: "E",
+                texto:
+                  "há urgência no atendimento de situação emergencial.",
+              },
+            ],
+            gabarito: "C",
+            justificativa:
+              "O DIÁLOGO COMPETITIVO (art. 32) é modalidade NOVA da Lei 14.133/2021, utilizada quando a inovação tecnológica ou técnica impede que a Administração defina previamente a solução. Envolve diálogos com licitantes pré-selecionados para desenvolver soluções.",
+            dificuldade: "Média",
+            competencia: "Diálogo Competitivo",
+            banca: "IADES",
+            tags: ["diálogo competitivo", "inovação"],
+          },
+          {
+            id: "ap-q-21-6",
+            enunciado:
+              "São critérios de julgamento previstos na Lei nº 14.133/2021, EXCETO:",
+            alternativas: [
+              { letra: "A", texto: "menor preço." },
+              { letra: "B", texto: "maior desconto." },
+              { letra: "C", texto: "melhor técnica ou conteúdo artístico." },
+              { letra: "D", texto: "menor prazo de entrega." },
+              { letra: "E", texto: "técnica e preço." },
+            ],
+            gabarito: "D",
+            justificativa:
+              "Os critérios de julgamento previstos no art. 33 da Lei 14.133/2021 são: menor preço, maior desconto, melhor técnica ou conteúdo artístico, técnica e preço, maior lance (leilão) e maior retorno econômico. 'Menor prazo de entrega' NÃO é critério de julgamento autônomo.",
+            dificuldade: "Média",
+            competencia: "Critérios de julgamento",
+            banca: "IADES",
+            tags: ["critérios", "julgamento", "exceção"],
+          },
+          {
+            id: "ap-q-21-7",
+            enunciado:
+              "Nos contratos administrativos regidos pela Lei nº 14.133/2021, a Administração pode alterar unilateralmente o contrato em até:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "10% do valor inicial atualizado.",
+              },
+              {
+                letra: "B",
+                texto: "15% do valor inicial atualizado.",
+              },
+              {
+                letra: "C",
+                texto: "20% do valor inicial atualizado.",
+              },
+              {
+                letra: "D",
+                texto: "25% do valor inicial atualizado.",
+              },
+              {
+                letra: "E",
+                texto: "30% do valor inicial atualizado.",
+              },
+            ],
+            gabarito: "D",
+            justificativa:
+              "A Administração pode alterar UNILATERALMENTE o contrato em até 25% do valor inicial atualizado, tanto para acréscimos quanto para supressões (art. 125 da Lei 14.133/2021). Este limite decorre das cláusulas exorbitantes típicas dos contratos administrativos.",
+            dificuldade: "Fácil",
+            competencia: "Alteração contratual",
+            banca: "IADES",
+            tags: ["alteração", "25%", "contrato"],
+          },
+          {
+            id: "ap-q-21-8",
+            enunciado:
+              "De acordo com a Lei nº 14.133/2021, são sanções aplicáveis ao contratado por infrações, EXCETO:",
+            alternativas: [
+              { letra: "A", texto: "advertência." },
+              { letra: "B", texto: "multa." },
+              { letra: "C", texto: "suspensão temporária de participação em licitação." },
+              { letra: "D", texto: "impedimento de licitar e contratar." },
+              { letra: "E", texto: "declaração de inidoneidade." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "A Lei 14.133/2021 prevê 4 sanções: advertência, multa, impedimento de licitar (até 3 anos) e declaração de inidoneidade (3-6 anos). A 'SUSPENSÃO TEMPORÁRIA' existia na Lei 8.666/93, mas foi EXTINTA pela nova lei.",
+            dificuldade: "Média",
+            competencia: "Sanções contratuais",
+            banca: "IADES",
+            tags: ["sanções", "penalidades", "exceção"],
+          },
+          {
+            id: "ap-q-21-9",
+            enunciado:
+              "O agente público responsável por coordenar e gerenciar a execução do contrato, com atribuições de acompanhamento e fiscalização, é denominado:",
+            alternativas: [
+              { letra: "A", texto: "ordenador de despesa." },
+              { letra: "B", texto: "autoridade competente." },
+              { letra: "C", texto: "gestor do contrato." },
+              { letra: "D", texto: "pregoeiro." },
+              { letra: "E", texto: "comissário de licitação." },
+            ],
+            gabarito: "C",
+            justificativa:
+              "O GESTOR DO CONTRATO é o agente responsável por coordenar e gerenciar a execução contratual (art. 117). Ele é auxiliado pelo fiscal técnico (aspectos técnicos) e fiscal administrativo (aspectos administrativos). Aplica-se o princípio da segregação de funções.",
+            dificuldade: "Fácil",
+            competencia: "Gestão contratual",
+            banca: "IADES",
+            tags: ["gestor", "fiscal", "contrato"],
+          },
+          {
+            id: "ap-q-21-10",
+            enunciado:
+              "É hipótese de INEXIGIBILIDADE de licitação prevista na Lei nº 14.133/2021:",
+            alternativas: [
+              {
+                letra: "A",
+                texto: "contratação de pequeno valor.",
+              },
+              {
+                letra: "B",
+                texto: "casos de emergência ou calamidade pública.",
+              },
+              {
+                letra: "C",
+                texto: "licitação deserta.",
+              },
+              {
+                letra: "D",
+                texto:
+                  "aquisição de materiais que só possam ser fornecidos por produtor exclusivo.",
+              },
+              {
+                letra: "E",
+                texto: "contratação de remanescente de obra.",
+              },
+            ],
+            gabarito: "D",
+            justificativa:
+              "A INEXIGIBILIDADE ocorre quando há INVIABILIDADE de competição. O caso de produtor/fornecedor EXCLUSIVO é hipótese clássica de inexigibilidade (art. 74, I). As demais alternativas são hipóteses de DISPENSA (art. 75).",
+            dificuldade: "Média",
+            competencia: "Inexigibilidade",
+            banca: "IADES",
+            tags: ["inexigibilidade", "fornecedor exclusivo"],
+          },
+        ],
+      },
+    },
   ],
 };
