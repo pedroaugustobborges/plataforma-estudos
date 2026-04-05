@@ -6,6 +6,7 @@ import {
   Topico,
   Revisoes,
   Simulados,
+  Discursivas,
   Estatisticas,
 } from './pages';
 
@@ -19,6 +20,7 @@ function App() {
           <Route path="topico/:topicoId" element={<Topico />} />
           <Route path="revisoes" element={<Revisoes />} />
           <Route path="simulados" element={<Simulados />} />
+          <Route path="discursivas" element={<Discursivas />} />
           <Route path="estatisticas" element={<Estatisticas />} />
         </Route>
       </Routes>
