@@ -1460,6 +1460,560 @@ Em conclusão, a atuação do fiscal em casos de produtos falsificados deve ser 
       'Fundamente os riscos: reações alérgicas, contaminação microbiológica, substâncias proibidas',
     ],
   },
+  {
+    id: 'tema-11',
+    tema: 'Boas Práticas em Serviços de Alimentação: RDC nº 216/2004 e RDC nº 275/2002',
+    area: 'Vigilância Sanitária de Alimentos',
+    enunciado: `A Agência Nacional de Vigilância Sanitária (ANVISA), por meio da Resolução da Diretoria Colegiada – RDC nº 216/2004, e da RDC nº 275/2002, tornou obrigatória, no Brasil, a adoção de boas práticas nas empresas ou para prestadores de serviços que exerçam atividades econômicas relacionadas a alimentos. Inclusive, a inobservância ou a desobediência ao disposto nessas resoluções configuram infração de natureza sanitária, sujeitando o infrator às penalidades previstas na Lei Federal nº 6.437/1977.
+
+Considerando que as informações apresentadas têm caráter meramente motivador, redija um texto dissertativo e (ou) descritivo acerca das boas práticas na área de alimentos. Aborde, necessariamente, os seguintes tópicos:
+
+a) identifique os pontos ou aspectos nos quais as referidas boas práticas podem ser aplicadas dentro de uma empresa ou por prestadores de serviços dessa área;
+
+b) descreva os objetivos de cada uma das normas citadas (RDC nº 216 e RDC nº 275); e
+
+c) indique os seus âmbitos de atuação.`,
+    espelhoCorrecao: [
+      {
+        criterio: 'Tipo de Texto (TX)',
+        pontuacao: 3,
+        descricao: 'Adequação ao gênero dissertativo e/ou descritivo',
+        aspectosAvaliados: [
+          'Estrutura textual clara: introdução, desenvolvimento e conclusão',
+          'Linguagem formal, técnica e impessoal',
+          'Progressão textual lógica e coesa',
+          'Posicionamento fundamentado sobre as boas práticas',
+        ],
+      },
+      {
+        criterio: 'Tema/Assunto (TM)',
+        pontuacao: 3,
+        descricao: 'Abordagem completa e precisa dos três tópicos obrigatórios',
+        aspectosAvaliados: [
+          'Identificação correta dos aspectos de aplicação das boas práticas (higiene, manipulação, estrutura, controle de pragas, água, descarte de resíduos)',
+          'Objetivo da RDC 216/2004: boas práticas em serviços de alimentação',
+          'Objetivo da RDC 275/2002: procedimentos operacionais padronizados e lista de verificação',
+          'Âmbito da RDC 216 (serviços de alimentação) vs. âmbito da RDC 275 (indústrias de alimentos)',
+        ],
+      },
+      {
+        criterio: 'Coerência (CR)',
+        pontuacao: 3,
+        descricao: 'Organização lógica e ausência de contradições',
+        aspectosAvaliados: [
+          'Progressão lógica dos aspectos gerais para os específicos',
+          'Diferenciação clara entre as duas normas sem contradições',
+          'Argumentos tecnicamente consistentes',
+          'Conclusão coerente com o desenvolvimento',
+        ],
+      },
+      {
+        criterio: 'Coesão (CS)',
+        pontuacao: 3,
+        descricao: 'Uso adequado de elementos coesivos',
+        aspectosAvaliados: [
+          'Conectivos e operadores argumentativos adequados',
+          'Referenciação clara (pronomes, sinônimos)',
+          'Articulação entre parágrafos e tópicos',
+          'Progressão temática sem rupturas',
+        ],
+      },
+      {
+        criterio: 'Expressão (ER)',
+        pontuacao: 3,
+        descricao: 'Clareza, precisão e adequação vocabular',
+        aspectosAvaliados: [
+          'Vocabulário técnico de boas práticas em alimentos',
+          'Precisão conceitual nas definições normativas',
+          'Clareza na exposição dos âmbitos',
+          'Adequação ao registro formal',
+        ],
+      },
+      {
+        criterio: 'Aspectos Registrais (AR)',
+        pontuacao: 15,
+        descricao: 'Correção gramatical e ortográfica',
+        aspectosAvaliados: [
+          'Ortografia correta',
+          'Concordância verbal e nominal',
+          'Regência verbal e nominal',
+          'Pontuação adequada',
+          'Acentuação correta',
+          'Estrutura sintática adequada',
+        ],
+      },
+    ],
+    respostaModelo: `As boas práticas na área de alimentos constituem conjunto de medidas que visam garantir a segurança sanitária dos alimentos produzidos e comercializados no Brasil, protegendo a saúde dos consumidores. Nesse contexto, a ANVISA editou a RDC nº 216/2004 e a RDC nº 275/2002, normas que, juntas, formam o arcabouço regulatório fundamental para o controle higiênico-sanitário em toda a cadeia produtiva de alimentos.
+
+As boas práticas podem ser aplicadas em diversos aspectos dentro de uma empresa ou serviço de alimentação. No que tange à edificação e instalações, exige-se estrutura física adequada, com superfícies laváveis, ventilação suficiente e separação entre áreas sujas e limpas. Quanto à higienização, devem-se adotar Procedimentos Operacionais Padronizados (POPs) para a limpeza e desinfecção de equipamentos, utensílios e ambientes. O controle integrado de pragas constitui aspecto essencial para impedir a contaminação cruzada. O abastecimento de água deve atender aos padrões de potabilidade, e o manejo adequado dos resíduos sólidos previne a atração de vetores. Por fim, o controle de temperatura das preparações, especialmente no armazenamento e na distribuição, e a comprovação de capacitação em higiene dos manipuladores são pontos críticos amplamente verificados em fiscalizações.
+
+A RDC nº 216/2004 tem como objetivo estabelecer procedimentos de boas práticas para serviços de alimentação, a fim de garantir as condições higiênico-sanitárias dos alimentos preparados. Sua finalidade é assegurar que o alimento chegue ao consumidor final em condições seguras, abrangendo todas as etapas de preparo, desde a recepção de matérias-primas até a distribuição das preparações. Já a RDC nº 275/2002 objetiva estabelecer Procedimentos Operacionais Padronizados (POPs) obrigatórios e introduzir o uso de Lista de Verificação das Boas Práticas de Fabricação para avaliação e monitoramento das condições higiênico-sanitárias nas indústrias produtoras de alimentos, contribuindo para a melhoria contínua dos processos produtivos.
+
+No que se refere ao âmbito de aplicação, as normas se distinguem pelo segmento que regulam. A RDC nº 216/2004 aplica-se aos serviços de alimentação que realizam atividades de manipulação, preparação, fracionamento, armazenamento, distribuição, transporte, exposição à venda e entrega de alimentos preparados ao consumidor, como restaurantes, lanchonetes, cantinas, bufês, padarias, confeitarias e estabelecimentos congêneres. A RDC nº 275/2002, por sua vez, aplica-se aos estabelecimentos produtores e industrializadores de alimentos, regulando as indústrias alimentícias em geral, com foco na padronização documental e no automonitoramento por meio das listas de verificação.
+
+Portanto, ambas as normas são instrumentos complementares e indispensáveis para a efetiva proteção da saúde coletiva, cabendo à vigilância sanitária, especialmente aos fiscais de saúde, verificar seu cumprimento mediante inspeções periódicas, com a aplicação das penalidades previstas na Lei nº 6.437/1977 aos infratores.`,
+    analise: `Esta resposta atende plenamente ao estilo da banca IADES, conforme padrão verificado em provas anteriores:
+
+**Tipo de Texto (TX - 3 pontos):** O texto apresenta estrutura dissertativo-descritiva clara, com introdução contextualizadora, desenvolvimento temático por tópicos e conclusão integradora. Linguagem formal e impessoal ao longo de todo o texto.
+
+**Tema/Assunto (TM - 3 pontos):** Todos os três tópicos obrigatórios foram contemplados: (a) aspectos de aplicação das boas práticas detalhados em seis dimensões; (b) objetivos de cada norma claramente diferenciados; (c) âmbitos de atuação distinguidos com precisão (serviços vs. indústrias).
+
+**Coerência (CR - 3 pontos):** Progressão lógica da norma geral para os específicos, com diferenciação consistente entre as duas RDCs. Ausência de contradições e conclusão derivada do desenvolvimento.
+
+**Coesão (CS - 3 pontos):** Uso adequado de conectivos ("no que tange", "quanto a", "já", "por sua vez"), articulando fluidamente os três tópicos solicitados.
+
+**Expressão (ER - 3 pontos):** Vocabulário técnico preciso (POPs, contaminação cruzada, potabilidade, cadeia produtiva), demonstrando domínio da área.
+
+**Aspectos Registrais (AR - 15 pontos):** Texto sem erros gramaticais, ortográficos ou de pontuação.`,
+    errosComuns: [
+      {
+        erro: 'Inverter os âmbitos das normas: aplicar RDC 216 às indústrias e RDC 275 aos serviços',
+        impacto: 'Perda grave no TM por erro conceitual central — o tópico "c" trata especificamente dos âmbitos',
+        comoEvitar: 'RDC 216/2004 = serviços de alimentação (restaurantes, lanchonetes); RDC 275/2002 = indústrias de alimentos',
+      },
+      {
+        erro: 'Não citar os POPs como instrumento central da RDC 275/2002',
+        impacto: 'Perda de pontos no TM por omissão do principal elemento normativo da resolução',
+        comoEvitar: 'Os POPs (Procedimentos Operacionais Padronizados) são o coração da RDC 275 — obrigatoriamente mencione-os',
+      },
+      {
+        erro: 'Abordar apenas higiene de manipuladores, ignorando outros aspectos das boas práticas',
+        impacto: 'Abordagem incompleta do tópico "a", reduzindo a nota em TM',
+        comoEvitar: 'Liste pelo menos 5 aspectos: instalações, higienização, controle de pragas, água, resíduos, temperatura, manipuladores',
+      },
+      {
+        erro: 'Não mencionar a Lei nº 6.437/1977 como fundamento punitivo',
+        impacto: 'Perda de pontos em ER por não demonstrar conhecimento do respaldo legal das normas',
+        comoEvitar: 'O enunciado já cita a Lei 6.437/1977 — mencione-a na conclusão para fechar o raciocínio jurídico',
+      },
+      {
+        erro: 'Confundir "boas práticas de fabricação" com "boas práticas de manipulação"',
+        impacto: 'Imprecisão terminológica que afeta a nota em ER',
+        comoEvitar: 'RDC 216 usa o termo "boas práticas para serviços de alimentação"; RDC 275 trata das "boas práticas de fabricação"',
+      },
+    ],
+    dicasEspecificas: [
+      'Este tema foi cobrado pela IADES em prova de Vigilância Sanitária — alta probabilidade de recorrência',
+      'Memorize o âmbito: RDC 216 → estabelecimentos que preparam alimentos para consumo direto; RDC 275 → indústrias processadoras',
+      'Cite pelo menos dois tipos de estabelecimentos para cada norma ao especificar o âmbito',
+      'A temperatura mínima para alimentos quentes é 60°C (RDC 216) — dado técnico que valoriza a resposta',
+      'Mencione que a RDC 275 introduziu a Lista de Verificação como ferramenta de automonitoramento',
+    ],
+  },
+  {
+    id: 'tema-12',
+    tema: 'Regulação Sanitária de Cosméticos, Produtos de Higiene Pessoal e Perfumes',
+    area: 'Vigilância Sanitária de Cosméticos',
+    enunciado: `A regulação sanitária de cosméticos, produtos de higiene pessoal, perfumes e similares constitui importante frente de atuação da Agência Nacional de Vigilância Sanitária (ANVISA), pautada na Resolução RDC nº 7/2015 e na Lei nº 6.360/1976. O setor de cosméticos no Brasil é um dos maiores do mundo, com ampla variedade de produtos que, por sua natureza de uso sobre a pele, cabelos e mucosas, apresentam potencial de risco sanitário quando fabricados ou comercializados em desconformidade com os padrões regulatórios vigentes.
+
+Considerando a relevância da regulação sanitária nesse setor, redija um texto dissertativo-argumentativo, entre 20 e 40 linhas, abordando os seguintes aspectos:
+
+a) a classificação dos cosméticos em graus de risco (Grau 1 e Grau 2), indicando as implicações regulatórias dessa distinção, especialmente quanto aos procedimentos de regularização junto à ANVISA;
+
+b) as exigências de Boas Práticas de Fabricação (BPF) para a indústria cosmética e os principais riscos sanitários associados ao descumprimento dessas normas;
+
+c) as atribuições do Fiscal de Saúde Pública estadual na fiscalização do comércio varejista de cosméticos, incluindo os procedimentos de coleta de amostras e os critérios para identificação de irregularidades.`,
+    espelhoCorrecao: [
+      {
+        criterio: 'Tipo de Texto (TX)',
+        pontuacao: 3,
+        descricao: 'Adequação ao gênero dissertativo-argumentativo',
+        aspectosAvaliados: [
+          'Estrutura tripartite bem definida',
+          'Argumentação sobre riscos e regulação',
+          'Linguagem técnica e formal',
+          'Posicionamento fundamentado sobre o tema',
+        ],
+      },
+      {
+        criterio: 'Tema/Assunto (TM)',
+        pontuacao: 3,
+        descricao: 'Abordagem completa dos três aspectos',
+        aspectosAvaliados: [
+          'Classificação Grau 1 e Grau 2 com implicações regulatórias corretas (notificação vs. registro)',
+          'BPF cosmética e riscos do descumprimento descritos',
+          'Atribuições do fiscal estadual no varejo especificadas',
+          'Procedimentos de coleta e critérios de irregularidade',
+        ],
+      },
+      {
+        criterio: 'Coerência (CR)',
+        pontuacao: 3,
+        descricao: 'Organização lógica das ideias',
+        aspectosAvaliados: [
+          'Progressão: classificação → fabricação → fiscalização',
+          'Articulação entre os aspectos sem contradições',
+          'Argumentos tecnicamente consistentes',
+          'Conclusão que integra os aspectos',
+        ],
+      },
+      {
+        criterio: 'Coesão (CS)',
+        pontuacao: 3,
+        descricao: 'Articulação textual adequada',
+        aspectosAvaliados: [
+          'Conectivos que articulam os aspectos',
+          'Referenciação clara à legislação citada',
+          'Progressão temática sem rupturas',
+          'Transições bem construídas',
+        ],
+      },
+      {
+        criterio: 'Expressão (ER)',
+        pontuacao: 3,
+        descricao: 'Clareza e precisão vocabular',
+        aspectosAvaliados: [
+          'Terminologia técnica de cosméticos correta',
+          'Diferenciação precisa entre notificação e registro',
+          'Clareza na exposição dos procedimentos',
+          'Registro formal mantido',
+        ],
+      },
+      {
+        criterio: 'Aspectos Registrais (AR)',
+        pontuacao: 15,
+        descricao: 'Correção linguística',
+        aspectosAvaliados: [
+          'Ortografia e acentuação',
+          'Concordância e regência',
+          'Pontuação adequada',
+          'Estrutura sintática correta',
+        ],
+      },
+    ],
+    respostaModelo: `A regulação sanitária de cosméticos, produtos de higiene pessoal e perfumes no Brasil reflete a necessidade de equilibrar o acesso da população a esses produtos com a proteção da saúde, dado o contato direto desses itens com pele, cabelos e mucosas. A Resolução RDC nº 7/2015 da ANVISA, em consonância com a Lei nº 6.360/1976, estabelece o sistema regulatório que classifica os produtos e define os requisitos para sua fabricação, comercialização e fiscalização.
+
+A classificação dos cosméticos em Grau 1 e Grau 2 é o eixo central do sistema regulatório brasileiro. Os produtos de Grau 1 são aqueles de baixo risco, cuja formulação e finalidade não requerem demonstração prévia de eficácia e segurança, bastando a notificação à ANVISA antes de sua comercialização. Exemplos incluem shampoos, condicionadores, cremes hidratantes e batons. Já os produtos de Grau 2 apresentam indicações específicas, concentrações elevadas de princípios ativos ou ações sobre a pele e cabelos que demandam comprovação de segurança, exigindo registro prévio na ANVISA para sua comercialização. Filtros solares, produtos para alisamento capilar com formol e produtos despigmentantes são exemplos desse grupo. Essa distinção implica obrigações regulatórias distintas para as empresas, com diferentes níveis de controle pré-mercado.
+
+As Boas Práticas de Fabricação (BPF) para a indústria cosmética, regulamentadas pela RDC nº 48/2013, estabelecem padrões para instalações, equipamentos, pessoal, documentação e controle de qualidade. O descumprimento das BPF acarreta riscos sanitários significativos: contaminação microbiológica pode causar infecções cutâneas e oculares; substâncias proibidas ou em concentrações inadequadas provocam reações alérgicas, dermatites e, em casos graves, danos tóxicos sistêmicos; a ausência de controle de pH pode causar queimaduras químicas. Para o consumidor, esses riscos são agravados pela falsa segurança de usar um produto aparentemente legítimo.
+
+No varejo, o Fiscal de Saúde Pública estadual exerce papel fundamental na verificação da regularidade dos produtos expostos à venda. Suas atribuições incluem: conferir a regularização dos produtos na ANVISA (número de notificação ou registro no rótulo); verificar condições de armazenamento e prazo de validade; identificar produtos com indícios de falsificação ou adulteração; e realizar coleta de amostras para análise laboratorial. A coleta deve seguir protocolos técnicos de cadeia de custódia, com amostras encaminhadas ao LACEN-GO, observando-se as quantidades mínimas estabelecidas nas normas. A identificação de irregularidades enseja a lavratura de auto de infração, apreensão dos produtos e comunicação à ANVISA para adoção de medidas complementares em âmbito nacional.
+
+Em síntese, a fiscalização de cosméticos pelo Estado de Goiás, articulada com a regulação federal da ANVISA, constitui instrumento essencial para proteger a saúde dos consumidores goianos, combater a falsificação e o contrabando e garantir que apenas produtos seguros e regularizados cheguem ao mercado.`,
+    analise: `Esta resposta demonstra domínio técnico e regulatório do tema:
+
+**Tipo de Texto (TX - 3 pontos):** Estrutura dissertativo-argumentativa completa, com introdução contextualizadora, três parágrafos de desenvolvimento correspondentes aos aspectos solicitados, e conclusão integradora.
+
+**Tema/Assunto (TM - 3 pontos):** Todos os aspectos contemplados: classificação Grau 1 e Grau 2 com implicações (notificação vs. registro); BPF e riscos do descumprimento detalhados; atribuições do fiscal no varejo com menção ao LACEN-GO e à ANVISA.
+
+**Coerência (CR - 3 pontos):** Progressão lógica da regulação nacional (classificação → fabricação) para a atuação local (fiscalização estadual). Argumentação consistente e conclusão que retoma os pontos principais.
+
+**Coesão (CS - 3 pontos):** Conectivos adequados ("já", "em consonância", "em síntese"), referenciação legal consistente e transições bem construídas.
+
+**Expressão (ER - 3 pontos):** Vocabulário técnico preciso (despigmentantes, princípios ativos, cadeia de custódia, pré-mercado), demonstrando domínio da terminologia cosmética e regulatória.
+
+**Aspectos Registrais (AR - 15 pontos):** Texto gramaticalmente correto em todos os aspectos.`,
+    errosComuns: [
+      {
+        erro: 'Inverter os graus: classificar produtos de baixo risco como Grau 2 ou afirmar que todos exigem registro',
+        impacto: 'Erro conceitual grave no item "a", com perda significativa no TM',
+        comoEvitar: 'Grau 1 = notificação (baixo risco); Grau 2 = registro (maior risco/concentração de ativos)',
+      },
+      {
+        erro: 'Confundir "notificação" com "registro" — usar os termos como sinônimos',
+        impacto: 'Perda de pontos em TM e ER por imprecisão terminológica fundamental',
+        comoEvitar: 'Notificação é o procedimento simplificado para Grau 1; registro é o processo mais rigoroso exigido para Grau 2',
+      },
+      {
+        erro: 'Tratar a fiscalização estadual como idêntica à federal, sem diferenciar âmbitos',
+        impacto: 'Perda de pontos no item "c" por não demonstrar compreensão da repartição de competências',
+        comoEvitar: 'Estado fiscaliza o comércio varejista e serviços locais; ANVISA cuida do registro, pós-mercado e portos/fronteiras',
+      },
+      {
+        erro: 'Não mencionar o LACEN-GO na descrição dos procedimentos de coleta de amostras',
+        impacto: 'Perda de pontos por não demonstrar conhecimento da estrutura laboratorial estadual',
+        comoEvitar: 'Toda coleta de amostra em Goiás deve mencionar o encaminhamento ao LACEN-GO',
+      },
+      {
+        erro: 'Listar riscos apenas como "reações alérgicas" sem detalhar os mecanismos',
+        impacto: 'Abordagem superficial do item "b", resultando em perda de pontos em TM',
+        comoEvitar: 'Detalhe: contaminação microbiológica, substâncias proibidas, pH inadequado, princípios ativos em concentração excessiva',
+      },
+    ],
+    dicasEspecificas: [
+      'A RDC 7/2015 é a norma central para classificação de cosméticos — cite-a expressamente',
+      'Para Grau 1: shampoo, hidratante, batom, perfume simples; Para Grau 2: filtro solar, alisante com formol, clareador',
+      'Mencione que o número de notificação/registro deve constar obrigatoriamente no rótulo',
+      'Cite a RDC 48/2013 ao tratar das BPF para a indústria cosmética',
+      'Lembre-se que o fiscal pode apreender produtos irregulares independentemente de processo administrativo (medida cautelar)',
+    ],
+  },
+  {
+    id: 'tema-13',
+    tema: 'Licenciamento Sanitário de Estabelecimentos: Competência Estadual e Municipal',
+    area: 'Direito Sanitário',
+    enunciado: `O licenciamento sanitário constitui instrumento fundamental de controle prévio do Estado sobre atividades que possam representar riscos à saúde da população. No Estado de Goiás, esse instrumento é regulado pela Lei Estadual nº 16.140/2007 e pela Lei Federal nº 9.782/1999, que definem as competências de cada ente federativo na concessão e renovação de licenças sanitárias. A Resolução de Diretoria Colegiada – RDC nº 11/2022 da ANVISA estabelece os requisitos para o funcionamento de serviços de atenção à saúde e define responsabilidades sobre o processo de licenciamento.
+
+Considerando a relevância do licenciamento sanitário como instrumento preventivo de proteção à saúde, redija um texto dissertativo-argumentativo, entre 20 e 40 linhas, abordando os seguintes aspectos:
+
+a) o licenciamento sanitário como manifestação do poder de polícia preventivo, diferenciando-o do poder de polícia repressivo exercido nas ações fiscalizatórias;
+
+b) a repartição de competências entre Estado e Municípios para a concessão de licenças sanitárias no âmbito do Sistema Nacional de Vigilância Sanitária, indicando os critérios utilizados para essa divisão;
+
+c) as consequências jurídicas e sanitárias do funcionamento de estabelecimentos sem licença sanitária e as medidas cabíveis ao Fiscal de Saúde Pública diante dessa irregularidade.`,
+    espelhoCorrecao: [
+      {
+        criterio: 'Tipo de Texto (TX)',
+        pontuacao: 3,
+        descricao: 'Adequação ao gênero dissertativo-argumentativo',
+        aspectosAvaliados: [
+          'Estrutura argumentativa clara e bem definida',
+          'Fundamentação jurídica consistente',
+          'Linguagem técnico-jurídica apropriada',
+          'Posicionamento sobre a importância do licenciamento',
+        ],
+      },
+      {
+        criterio: 'Tema/Assunto (TM)',
+        pontuacao: 3,
+        descricao: 'Abordagem completa dos três aspectos',
+        aspectosAvaliados: [
+          'Conceito de poder de polícia preventivo e sua distinção do repressivo',
+          'Repartição de competências com critérios explicados (complexidade, porte)',
+          'Consequências jurídicas e sanitárias do funcionamento irregular descritas',
+          'Medidas cabíveis ao fiscal corretamente indicadas',
+        ],
+      },
+      {
+        criterio: 'Coerência (CR)',
+        pontuacao: 3,
+        descricao: 'Organização lógica',
+        aspectosAvaliados: [
+          'Progressão: fundamento → competências → consequências',
+          'Argumentação juridicamente coerente',
+          'Proporcionalidade nas medidas propostas',
+          'Conclusão derivada do desenvolvimento',
+        ],
+      },
+      {
+        criterio: 'Coesão (CS)',
+        pontuacao: 3,
+        descricao: 'Articulação textual',
+        aspectosAvaliados: [
+          'Conectivos adequados',
+          'Referenciação jurídica clara',
+          'Transições lógicas entre aspectos',
+          'Unidade argumentativa mantida',
+        ],
+      },
+      {
+        criterio: 'Expressão (ER)',
+        pontuacao: 3,
+        descricao: 'Clareza e precisão técnico-jurídica',
+        aspectosAvaliados: [
+          'Terminologia jurídica correta',
+          'Distinção precisa entre institutos legais',
+          'Clareza na exposição das competências',
+          'Registro formal mantido',
+        ],
+      },
+      {
+        criterio: 'Aspectos Registrais (AR)',
+        pontuacao: 15,
+        descricao: 'Correção linguística',
+        aspectosAvaliados: [
+          'Ortografia e acentuação',
+          'Concordância e regência',
+          'Pontuação adequada',
+          'Estrutura sintática correta',
+        ],
+      },
+    ],
+    respostaModelo: `O licenciamento sanitário representa manifestação do poder de polícia administrativa em sua dimensão preventiva, por meio do qual o Estado condiciona o início de atividades potencialmente geradoras de riscos à saúde à comprovação prévia de que o estabelecimento reúne as condições sanitárias adequadas. Trata-se de instrumento indispensável para a proteção da saúde coletiva, distinguindo-se do poder de polícia repressivo que se manifesta nas ações fiscalizatórias posteriores.
+
+No poder de polícia preventivo, a intervenção estatal ocorre antes do início da atividade, mediante análise documental e vistoria das instalações, resultando na concessão ou denegação da licença sanitária. O alvará sanitário, documento que materializa essa licença, constitui condição de funcionamento do estabelecimento, sem a qual a atividade é considerada irregular. O poder de polícia repressivo, por seu turno, atua após o início da atividade, verificando o cumprimento das normas sanitárias mediante inspeções, com a consequente aplicação de penalidades em caso de irregularidades. Ambas as dimensões são complementares e igualmente fundamentadas na supremacia do interesse público sobre o privado.
+
+A repartição de competências para concessão de licenças sanitárias no SNVS baseia-se no princípio da descentralização e no critério da complexidade do risco sanitário. Em regra, os municípios são responsáveis pelo licenciamento de estabelecimentos de baixo e médio risco, como restaurantes, salões de beleza, academias, farmácias e pequenas clínicas. O Estado detém competência para licenciar estabelecimentos de maior complexidade ou risco, como hospitais, laboratórios de análises clínicas de alta complexidade, indústrias alimentícias e estabelecimentos que exijam avaliação técnica especializada. Em Goiás, essas competências são definidas pela Lei Estadual nº 16.140/2007 e pactuadas na Comissão Intergestores Bipartite (CIB-GO), assegurando coerência com as diretrizes nacionais.
+
+O funcionamento sem licença sanitária configura infração grave, tipificada na Lei nº 6.437/1977 e sujeitando o infrator a penalidades que variam de multa à interdição do estabelecimento. Sanitariamente, representa risco imediato à saúde dos usuários, uma vez que não há garantia de que o local atende às condições mínimas de segurança. Diante dessa irregularidade, o Fiscal de Saúde Pública deve, em primeiro lugar, intimar o responsável a regularizar a situação em prazo definido; caso o risco à saúde seja iminente, cabe a interdição cautelar imediata, seguida da lavratura de auto de infração com o enquadramento legal correspondente. Quando identificados indícios de crime contra a saúde pública, cabe ainda comunicação ao Ministério Público.
+
+Em conclusão, o licenciamento sanitário, em suas dimensões preventiva e repressiva, constitui pilar do sistema de proteção à saúde, sendo dever do Fiscal de Saúde Pública zelar pelo seu cumprimento, garantindo que apenas estabelecimentos que atendam às exigências sanitárias legais funcionem e prestem serviços à população goiana.`,
+    analise: `Esta resposta demonstra sólido domínio jurídico-administrativo do tema:
+
+**Tipo de Texto (TX - 3 pontos):** Estrutura dissertativo-argumentativa exemplar, com introdução que apresenta a tese, desenvolvimento em três parágrafos e conclusão derivada da argumentação.
+
+**Tema/Assunto (TM - 3 pontos):** Todos os aspectos contemplados: distinção preventivo/repressivo bem fundamentada; competências diferenciadas com critérios (complexidade, risco) e menção à CIB-GO; consequências e medidas do fiscal detalhadas.
+
+**Coerência (CR - 3 pontos):** Progressão lógica do fundamento teórico para a aplicação prática. Proporcionalidade das medidas (intimação para regularização, interdição apenas se risco iminente).
+
+**Coesão (CS - 3 pontos):** Conectivos adequados ("por seu turno", "em conclusão", "em primeiro lugar"), referenciação legal precisa e transições claras.
+
+**Expressão (ER - 3 pontos):** Terminologia jurídico-administrativa precisa (supremacia do interesse público, alvará sanitário, denegação), demonstrando domínio da linguagem técnica.
+
+**Aspectos Registrais (AR - 15 pontos):** Correção linguística completa.`,
+    errosComuns: [
+      {
+        erro: 'Não diferenciar poder de polícia preventivo do repressivo, tratando-os como iguais',
+        impacto: 'Perda significativa no item "a" do TM — é a distinção central da questão',
+        comoEvitar: 'Preventivo = antes da atividade (licença); Repressivo = durante/após a atividade (fiscalização, autuação)',
+      },
+      {
+        erro: 'Afirmar que estados e municípios têm competência idêntica, sem diferenciar por critério de risco',
+        impacto: 'Erro na repartição de competências do item "b", com perda no TM',
+        comoEvitar: 'Estado: alta complexidade/risco; Município: baixo e médio risco. O critério é a complexidade do risco sanitário',
+      },
+      {
+        erro: 'Propor apenas multa diante de estabelecimento sem licença, sem mencionar interdição',
+        impacto: 'Abordagem incompleta do item "c", especialmente se houver risco à saúde',
+        comoEvitar: 'Avalie o risco: sem risco iminente → intimação para regularização; risco iminente → interdição cautelar imediata',
+      },
+      {
+        erro: 'Não citar a Lei Estadual nº 16.140/2007 ao tratar das competências em Goiás',
+        impacto: 'Perda de pontos por não demonstrar conhecimento da legislação estadual específica',
+        comoEvitar: 'A Lei 16.140/2007 define as competências do sistema estadual de vigilância — cite-a no item "b"',
+      },
+      {
+        erro: 'Omitir a CIB-GO como instância de pactuação de competências entre estado e municípios',
+        impacto: 'Perda de pontos por desconhecimento da estrutura de governança do SNVS em Goiás',
+        comoEvitar: 'A CIB-GO é o fórum onde Estado e municípios goianos pactuam responsabilidades na vigilância em saúde',
+      },
+    ],
+    dicasEspecificas: [
+      'O alvará sanitário é o documento que materializa a licença — use esse termo no texto',
+      'Cite a RDC 11/2022 ao tratar de serviços de atenção à saúde (hospitais, clínicas)',
+      'Mencione que a licença sanitária tem validade definida e precisa ser renovada periodicamente',
+      'Destaque que o funcionamento sem licença configura infração autônoma, independente de outras irregularidades',
+      'Relacione o licenciamento com o princípio constitucional da prevenção do dano à saúde (art. 196 CF/88)',
+    ],
+  },
+  {
+    id: 'tema-14',
+    tema: 'Promoção da Saúde e Educação Sanitária como Instrumentos da Vigilância Sanitária',
+    area: 'Saúde Coletiva',
+    enunciado: `A Política Nacional de Promoção da Saúde (PNPS), instituída pela Portaria nº 2.446/2014 do Ministério da Saúde, e a Política Nacional de Vigilância em Saúde (PNVS), aprovada pela Resolução CNS nº 588/2018, reconhecem que as ações de vigilância sanitária não se restringem ao controle e à fiscalização, devendo também incorporar dimensões educativas e promocionais. A educação sanitária, como estratégia de comunicação de risco e de empoderamento dos cidadãos para a adoção de práticas saudáveis, é componente essencial para a efetividade das ações de proteção à saúde coletiva.
+
+Considerando a complementaridade entre fiscalização e promoção da saúde no campo da vigilância sanitária, redija um texto dissertativo-argumentativo, entre 20 e 40 linhas, abordando os seguintes aspectos:
+
+a) a dimensão educativa da atuação do Fiscal de Saúde Pública, demonstrando de que forma as ações de orientação e de comunicação de risco complementam e potencializam as ações fiscalizatórias tradicionais;
+
+b) as estratégias de educação sanitária que podem ser desenvolvidas no âmbito da vigilância sanitária estadual, direcionadas tanto a estabelecimentos sujeitos à fiscalização quanto à população em geral;
+
+c) os desafios para a integração entre vigilância sanitária e promoção da saúde no contexto do SUS, considerando as limitações estruturais e a necessidade de atuação intersetorial.`,
+    espelhoCorrecao: [
+      {
+        criterio: 'Tipo de Texto (TX)',
+        pontuacao: 3,
+        descricao: 'Adequação ao gênero dissertativo-argumentativo',
+        aspectosAvaliados: [
+          'Estrutura argumentativa bem construída',
+          'Tese clara sobre a complementaridade',
+          'Linguagem formal e técnica',
+          'Argumentação consistente sobre promoção da saúde',
+        ],
+      },
+      {
+        criterio: 'Tema/Assunto (TM)',
+        pontuacao: 3,
+        descricao: 'Abordagem completa dos três aspectos',
+        aspectosAvaliados: [
+          'Dimensão educativa do fiscal explicada com clareza',
+          'Estratégias de educação sanitária diversificadas e concretas',
+          'Desafios identificados e analisados criticamente',
+          'Intersetorialidade e SUS mencionados',
+        ],
+      },
+      {
+        criterio: 'Coerência (CR)',
+        pontuacao: 3,
+        descricao: 'Organização lógica e ausência de contradições',
+        aspectosAvaliados: [
+          'Progressão: individual (fiscal) → institucional (estratégias) → sistêmico (desafios)',
+          'Argumentação sobre complementaridade sem contradições',
+          'Exemplos concretos que fundamentam os argumentos',
+          'Conclusão que sintetiza a tese',
+        ],
+      },
+      {
+        criterio: 'Coesão (CS)',
+        pontuacao: 3,
+        descricao: 'Articulação textual',
+        aspectosAvaliados: [
+          'Conectivos que articulam as dimensões',
+          'Referenciação às políticas públicas citadas',
+          'Progressão temática clara',
+          'Transições adequadas entre aspectos',
+        ],
+      },
+      {
+        criterio: 'Expressão (ER)',
+        pontuacao: 3,
+        descricao: 'Clareza e precisão vocabular',
+        aspectosAvaliados: [
+          'Vocabulário de saúde coletiva e promoção da saúde',
+          'Terminologia da vigilância sanitária correta',
+          'Clareza na exposição das estratégias',
+          'Registro formal e técnico mantido',
+        ],
+      },
+      {
+        criterio: 'Aspectos Registrais (AR)',
+        pontuacao: 15,
+        descricao: 'Correção linguística',
+        aspectosAvaliados: [
+          'Ortografia e acentuação',
+          'Concordância e regência',
+          'Pontuação adequada',
+          'Estrutura sintática correta',
+        ],
+      },
+    ],
+    respostaModelo: `A vigilância sanitária, historicamente associada ao exercício do poder de polícia e às ações de controle e fiscalização, tem passado por importante reorientação conceitual e prática, incorporando a dimensão da promoção da saúde como estratégia complementar e indissociável de sua missão. Essa transformação reflete a compreensão de que a mera imposição de normas e sanções é insuficiente para garantir, de forma sustentável, a proteção da saúde coletiva, sendo necessário empoderar os cidadãos e os estabelecimentos para a adoção espontânea de boas práticas.
+
+A dimensão educativa permeia, de forma transversal, toda a atuação do Fiscal de Saúde Pública. Durante as inspeções, o fiscal não apenas constata irregularidades, mas orienta os responsáveis sobre as normas aplicáveis, explica as razões técnicas das exigências e indica os procedimentos para adequação. Essa postura educativa potencializa a efetividade das ações fiscalizatórias, pois um estabelecimento que compreende o fundamento técnico de uma exigência sanitária tende a cumpri-la com maior engajamento e perenidade do que aquele que simplesmente recebe uma autuação. A comunicação de risco sanitário, estratégia que traduz para a linguagem do público-alvo as ameaças à saúde identificadas, é ferramenta central nesse processo, articulando a expertise técnica do fiscal com a capacidade de compreensão e mudança de comportamento dos interlocutores.
+
+As estratégias de educação sanitária no âmbito estadual podem ser diversificadas e complementares. Para os estabelecimentos sujeitos à fiscalização, destacam-se: a oferta de capacitações em boas práticas de manipulação de alimentos, gerenciamento de resíduos e controle de infecções; a elaboração e distribuição de guias e manuais de autoavaliação; e a realização de visitas orientadoras, anteriores às inspeções formais, que promovam a adequação voluntária. Para a população em geral, a educação sanitária pode ocorrer por meio de campanhas de conscientização sobre direitos do consumidor, alertas sobre produtos irregulares, ações em escolas e unidades de saúde, e uso de mídias sociais para disseminação de informações sobre riscos sanitários, aproveitando o alcance das plataformas digitais.
+
+Os desafios para a integração entre vigilância sanitária e promoção da saúde são concretos e relevantes. As limitações de pessoal e recursos das vigilâncias estaduais restringem a capacidade de desenvolver ações educativas além das fiscalizatórias. A cultura organizacional ainda prevalente, centrada na punição, resiste à incorporação de abordagens promocionais. A necessidade de atuação intersetorial — envolvendo educação, assistência social, meio ambiente e outros setores — demanda coordenação que frequentemente esbarra em fragmentação institucional. Superar esses desafios requer investimento em formação dos profissionais de vigilância sanitária, revisão dos modelos de avaliação de desempenho e fortalecimento dos mecanismos de governança intersetorial no âmbito do SUS.
+
+Em síntese, a integração entre vigilância sanitária e promoção da saúde representa avanço necessário e inadiável para que a proteção da saúde coletiva se consolide de forma sustentável no Brasil, transformando o Fiscal de Saúde Pública em agente não apenas de controle, mas também de transformação social.`,
+    analise: `Esta resposta demonstra visão ampliada e crítica do campo da vigilância sanitária:
+
+**Tipo de Texto (TX - 3 pontos):** Estrutura dissertativo-argumentativa exemplar, com tese clara (vigilância sanitária deve incorporar promoção da saúde), desenvolvimento em quatro parágrafos e conclusão que sintetiza a transformação necessária.
+
+**Tema/Assunto (TM - 3 pontos):** Todos os aspectos contemplados com profundidade: dimensão educativa do fiscal explicada com o conceito de comunicação de risco; estratégias diversificadas para estabelecimentos e população; desafios sistêmicos identificados com propostas de superação.
+
+**Coerência (CR - 3 pontos):** Progressão lógica do individual para o sistêmico. A tese da complementaridade é sustentada ao longo de todo o texto sem contradições.
+
+**Coesão (CS - 3 pontos):** Conectivos adequados ("de forma transversal", "em síntese", "por sua vez"), referenciação às políticas públicas e articulação fluida entre os três aspectos.
+
+**Expressão (ER - 3 pontos):** Vocabulário técnico de saúde coletiva preciso (empoderamento, comunicação de risco, intersetorialidade, governança), demonstrando formação ampla na área.
+
+**Aspectos Registrais (AR - 15 pontos):** Correção linguística completa em todos os aspectos avaliados.`,
+    errosComuns: [
+      {
+        erro: 'Tratar promoção da saúde como sinônimo de prevenção, sem diferenciar os conceitos',
+        impacto: 'Imprecisão conceitual que afeta a nota em ER e TM',
+        comoEvitar: 'Promoção da saúde é mais ampla — envolve empoderamento, autonomia e determinantes sociais; prevenção foca na evitação de doenças específicas',
+      },
+      {
+        erro: 'Apresentar educação sanitária apenas como "palestras e panfletos", sem estratégias concretas',
+        impacto: 'Abordagem superficial do item "b", resultando em perda de pontos no TM',
+        comoEvitar: 'Diversifique as estratégias: capacitações, manuais, visitas orientadoras, campanhas, redes sociais, ações em escolas',
+      },
+      {
+        erro: 'Não identificar desafios concretos, limitando-se a afirmar que a integração "é necessária"',
+        impacto: 'Perda de pontos no item "c" por falta de análise crítica',
+        comoEvitar: 'Cite limitações reais: carência de pessoal, cultura punitiva, fragmentação intersetorial, subfinanciamento',
+      },
+      {
+        erro: 'Não citar a PNPS (Portaria 2.446/2014) ou a PNVS (Resolução CNS 588/2018)',
+        impacto: 'Perda de pontos em TM e ER por não demonstrar conhecimento das políticas nacionais',
+        comoEvitar: 'Ambas as políticas estão no enunciado — cite-as no texto para demonstrar domínio normativo',
+      },
+      {
+        erro: 'Apresentar promoção da saúde como substituta da fiscalização, não como complementar',
+        impacto: 'Erro conceitual que contradiz a proposta do enunciado, afetando CR e TM',
+        comoEvitar: 'A questão pede "complementaridade" — deixe claro que educação potencializa, mas não substitui, a fiscalização',
+      },
+    ],
+    dicasEspecificas: [
+      'Cite a Portaria 2.446/2014 (PNPS) e a Resolução CNS 588/2018 (PNVS) na introdução',
+      'Use o conceito de "comunicação de risco" como estratégia técnica central da educação sanitária',
+      'Mencione a intersetorialidade como elemento obrigatório — envolva pelo menos dois outros setores (educação, assistência social)',
+      'Relacione com o conceito de "vigilância sanitária cidadã" ou "educação em saúde" como política',
+      'Destaque que o fiscal como "educador sanitário" é papel reconhecido pela PNVS',
+    ],
+  },
 ];
 
 interface TabPanelProps {
