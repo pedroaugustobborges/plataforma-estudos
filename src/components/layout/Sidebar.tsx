@@ -25,6 +25,7 @@ import {
   BarChart,
   ChevronLeft,
   Create,
+  AutoStories,
 } from '@mui/icons-material';
 import { materias } from '../../data';
 import { coresMateria } from '../../theme';
@@ -64,6 +65,7 @@ export const Sidebar = ({ open, onClose, drawerWidth }: SidebarProps) => {
     { label: 'Revisões', path: '/revisoes', icon: <Style /> },
     { label: 'Simulados', path: '/simulados', icon: <Quiz /> },
     { label: 'Discursivas', path: '/discursivas', icon: <Create /> },
+    { label: 'Gabarito Discursivo', path: '/gabarito-discursivo', icon: <AutoStories /> },
     { label: 'Estatísticas', path: '/estatisticas', icon: <BarChart /> },
   ];
 

@@ -5,3 +5,4 @@ export { Revisoes } from './Revisoes';
 export { Simulados } from './Simulados';
 export { Discursivas } from './Discursivas';
 export { Estatisticas } from './Estatisticas';
+export { GabaritoDiscursivo } from './GabaritoDiscursivo';

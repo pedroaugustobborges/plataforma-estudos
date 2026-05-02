@@ -2014,6 +2014,423 @@ Em síntese, a integração entre vigilância sanitária e promoção da saúde 
       'Destaque que o fiscal como "educador sanitário" é papel reconhecido pela PNVS',
     ],
   },
+  {
+    id: 'tema-16',
+    tema: 'Inteligência Artificial na Vigilância Sanitária: Oportunidades, Desafios e Marco Regulatório',
+    area: 'Vigilância Sanitária',
+    enunciado: `O avanço acelerado das tecnologias de inteligência artificial (IA) tem transformado profundamente diversas áreas da administração pública, incluindo a vigilância sanitária. No Brasil, a ANVISA e as vigilâncias estaduais têm explorado o uso de sistemas de IA para análise de grandes volumes de dados, monitoramento de redes sociais para identificação de eventos adversos, rastreabilidade de produtos e apoio à fiscalização. Em 2023, o Brasil aprovou a Estratégia Nacional de Inteligência Artificial (ENIAC), e o Congresso Nacional avança na regulamentação da IA com o PL nº 2.338/2023, que estabelece princípios éticos e responsabilidades para o uso dessas tecnologias, inclusive no setor saúde.
+
+Considerando esse contexto, elabore um texto dissertativo-argumentativo, entre 20 e 40 linhas, abordando os seguintes aspectos:
+
+a) as principais aplicações da inteligência artificial no campo da vigilância sanitária, destacando os benefícios para a proteção da saúde coletiva;
+
+b) os riscos e desafios éticos, jurídicos e técnicos do uso de IA em processos de fiscalização e regulação sanitária, com ênfase na proteção de dados e nas garantias do devido processo legal;
+
+c) o papel do Fiscal de Saúde Pública diante da incorporação de ferramentas de IA na rotina de vigilância, discutindo como a tecnologia deve complementar, e não substituir, o julgamento técnico humano.`,
+    espelhoCorrecao: [
+      {
+        criterio: 'Tipo de Texto (TX)',
+        pontuacao: 3,
+        descricao: 'Adequação ao gênero dissertativo-argumentativo',
+        aspectosAvaliados: [
+          'Estrutura tripartite com introdução, desenvolvimento e conclusão',
+          'Argumentação equilibrada sobre benefícios e riscos da IA',
+          'Linguagem técnica e formal adequada ao contexto',
+          'Posicionamento fundamentado sobre o papel humano',
+        ],
+      },
+      {
+        criterio: 'Tema/Assunto (TM)',
+        pontuacao: 3,
+        descricao: 'Abordagem completa dos três aspectos solicitados',
+        aspectosAvaliados: [
+          'Aplicações concretas da IA na vigilância sanitária',
+          'Riscos éticos, jurídicos e técnicos identificados',
+          'Proteção de dados e devido processo legal discutidos',
+          'Papel do fiscal diante da IA apresentado de forma crítica',
+        ],
+      },
+      {
+        criterio: 'Coerência (CR)',
+        pontuacao: 3,
+        descricao: 'Organização lógica e ausência de contradições',
+        aspectosAvaliados: [
+          'Progressão lógica: benefícios → riscos → papel humano',
+          'Argumentos consistentes e bem fundamentados',
+          'Ausência de contradições internas',
+          'Conclusão coerente com o desenvolvimento',
+        ],
+      },
+      {
+        criterio: 'Coesão (CS)',
+        pontuacao: 3,
+        descricao: 'Articulação textual adequada',
+        aspectosAvaliados: [
+          'Conectivos que estabelecem relações de contraste e complementaridade',
+          'Referenciação clara à legislação citada',
+          'Transições suaves entre os aspectos',
+          'Unidade temática mantida',
+        ],
+      },
+      {
+        criterio: 'Expressão (ER)',
+        pontuacao: 3,
+        descricao: 'Clareza e precisão vocabular',
+        aspectosAvaliados: [
+          'Terminologia tecnológica e sanitária correta',
+          'Definições precisas e acessíveis',
+          'Clareza na exposição de conceitos complexos',
+          'Registro formal mantido',
+        ],
+      },
+      {
+        criterio: 'Aspectos Registrais (AR)',
+        pontuacao: 15,
+        descricao: 'Correção linguística',
+        aspectosAvaliados: [
+          'Ortografia e acentuação',
+          'Concordância verbal e nominal',
+          'Regência adequada',
+          'Pontuação correta',
+          'Estrutura sintática adequada',
+        ],
+      },
+    ],
+    respostaModelo: `A incorporação da inteligência artificial (IA) na vigilância sanitária representa uma das mais significativas transformações no campo da proteção à saúde pública nas últimas décadas. Ao processar volumes massivos de dados com velocidade e precisão inacessíveis ao trabalho humano convencional, os sistemas de IA ampliam a capacidade do Estado de monitorar riscos, identificar irregularidades e proteger a população — ao mesmo tempo em que suscitam relevantes questões éticas, jurídicas e técnicas que demandam regulação adequada.
+
+As aplicações da IA na vigilância sanitária já são realidade em múltiplos domínios. O monitoramento automatizado de redes sociais e plataformas digitais permite a identificação precoce de eventos adversos a medicamentos, surtos de doenças transmitidas por alimentos e a comercialização ilegal de produtos sem registro. Sistemas de visão computacional auxiliam a inspeção de rotulagem e embalagens de produtos, identificando inconsistências com maior rapidez do que a análise manual. A rastreabilidade de medicamentos ao longo da cadeia logística, com uso de algoritmos de detecção de anomalias, contribui para o combate à falsificação. Na análise de prontuários e notificações compulsórias, modelos preditivos antecipam tendências epidemiológicas e subsidiam decisões de vigilância epidemiológica integrada.
+
+Contudo, a adoção de IA em processos regulatórios e fiscalizatórios impõe desafios que não podem ser ignorados. No plano jurídico, decisões automatizadas que resultam em autuações ou restrições de atividades devem observar os princípios constitucionais do devido processo legal, da ampla defesa e do contraditório — garantias que exigem fundamentação humana e transparência algorítmica. O PL nº 2.338/2023, em tramitação no Congresso, propõe que sistemas de IA de alto risco utilizados na administração pública sejam submetidos a avaliação de impacto, com mecanismos de contestação acessíveis ao cidadão. No plano técnico, o chamado "viés algorítmico" pode reproduzir desigualdades históricas, prejudicando estabelecimentos ou regiões sistematicamente sub-representados nos dados de treinamento. A segurança da informação e a conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018) são exigências inafastáveis no tratamento de dados sensíveis de saúde.
+
+Nesse cenário, o Fiscal de Saúde Pública ocupa papel insubstituível como agente crítico e responsável pela decisão final. A IA deve ser compreendida como ferramenta de apoio à inteligência humana, não como substituta do julgamento técnico e ético do profissional. Cabe ao fiscal avaliar as evidências geradas pelos sistemas automatizados, contextualizar os achados à realidade do estabelecimento inspecionado e garantir que as medidas adotadas sejam proporcionais, motivadas e juridicamente embasadas. A capacitação continuada em tecnologia e ética na IA torna-se, portanto, competência essencial para o exercício qualificado da função.
+
+Em conclusão, a inteligência artificial representa aliada estratégica da vigilância sanitária, desde que seu uso seja pautado pela transparência, pela proteção de dados, pelo respeito ao devido processo legal e pela primazia do julgamento humano qualificado, consolidando um modelo de regulação sanitária mais eficiente e democraticamente responsável.`,
+    analise: `Esta resposta demonstra visão integrada entre tecnologia, direito sanitário e ética pública:
+
+**Tipo de Texto (TX - 3 pontos):** Estrutura dissertativo-argumentativa exemplar, com introdução que contextualiza a transformação tecnológica, desenvolvimento em três parágrafos correspondentes aos itens solicitados, e conclusão que sintetiza a argumentação de forma propositiva.
+
+**Tema/Assunto (TM - 3 pontos):** Todos os aspectos contemplados: aplicações concretas (redes sociais, visão computacional, rastreabilidade, modelos preditivos); riscos identificados (devido processo legal, viés algorítmico, LGPD, PL 2.338/2023); papel do fiscal como agente crítico e decisor final.
+
+**Coerência (CR - 3 pontos):** Progressão lógica clara do potencial da IA para seus limites e, em seguida, para o papel humano que os endereça. Argumentação equilibrada, sem ingenuidade tecnológica nem rejeição infundada.
+
+**Coesão (CS - 3 pontos):** Conectivos de contraste ("contudo", "ao mesmo tempo") e complementaridade ("portanto") bem empregados. Referenciação clara à legislação (PL 2.338/2023, LGPD) e transições suaves.
+
+**Expressão (ER - 3 pontos):** Vocabulário técnico preciso (viés algorítmico, visão computacional, transparência algorítmica, avaliação de impacto), demonstrando domínio da interface entre tecnologia e direito sanitário.
+
+**Aspectos Registrais (AR - 15 pontos):** Texto gramaticalmente correto em todos os aspectos.`,
+    errosComuns: [
+      {
+        erro: 'Abordar IA de forma superficial, sem citar aplicações concretas na vigilância sanitária',
+        impacto: 'Perda de até 1,5 pontos no TM por abordagem genérica e não aplicada ao tema',
+        comoEvitar: 'Cite exemplos específicos: monitoramento de redes sociais, visão computacional para rótulos, rastreabilidade de medicamentos, modelos preditivos para vigilância epidemiológica',
+      },
+      {
+        erro: 'Ignorar a Lei Geral de Proteção de Dados (LGPD) e o PL 2.338/2023',
+        impacto: 'Perda de pontos no TM por não demonstrar conhecimento do marco regulatório vigente e em construção',
+        comoEvitar: 'A LGPD (Lei 13.709/2018) é norma vigente que se aplica diretamente ao uso de dados de saúde; o PL 2.338/2023 é a proposta de regulação específica de IA no Brasil',
+      },
+      {
+        erro: 'Apresentar a IA como substituta do fiscal, sem discutir o papel humano',
+        impacto: 'Contradiz o item "c" e representa erro conceitual grave sobre o modelo de regulação',
+        comoEvitar: 'O item "c" pede explicitamente que a IA "complemente" e não "substitua" o julgamento humano — desenvolva esse argumento com exemplos',
+      },
+      {
+        erro: 'Não mencionar o devido processo legal como limitador do uso de IA em fiscalização',
+        impacto: 'Perda de pontos no item "b" por omissão de garantia constitucional central',
+        comoEvitar: 'Decisões automatizadas que resultem em sanções devem admitir contestação e ser motivadas — isso é exigência constitucional (art. 5º, LIV e LV, CF/88)',
+      },
+      {
+        erro: 'Confundir inteligência artificial com simples automação ou informatização',
+        impacto: 'Imprecisão conceitual que reduz a qualidade da argumentação no TM e ER',
+        comoEvitar: 'IA envolve aprendizado de máquina, redes neurais e tomada de decisão autônoma baseada em dados — diferencie de sistemas informatizados convencionais',
+      },
+    ],
+    dicasEspecificas: [
+      'Cite a LGPD (Lei 13.709/2018) como norma que rege o tratamento de dados de saúde pela administração pública',
+      'Mencione o PL 2.338/2023 como proposta de Marco Regulatório de IA no Brasil, destacando a avaliação de impacto para sistemas de alto risco',
+      'Use o conceito de "transparência algorítmica" ao tratar das garantias do due process',
+      'Relacione "viés algorítmico" com o princípio da equidade do SUS — desigualdades nos dados reproduzem desigualdades nas decisões',
+      'Destaque que a responsabilidade pelo ato administrativo final permanece sempre com o agente público, não com o sistema de IA',
+    ],
+  },
+  {
+    id: 'tema-17',
+    tema: 'Cigarro Eletrônico (Vape) e Vigilância Sanitária: Regulação, Riscos à Saúde e o Papel do Estado',
+    area: 'Vigilância Sanitária',
+    enunciado: `O uso de cigarros eletrônicos — conhecidos como vapes, pods ou e-cigarettes — cresceu exponencialmente no Brasil, especialmente entre adolescentes e jovens adultos. Dados do Instituto Nacional de Câncer (INCA) e da Pesquisa Nacional de Saúde (PNS) revelam que o Brasil registra uma das maiores taxas de experimentação de vape entre jovens da América Latina. A ANVISA proibiu a comercialização, importação e publicidade de cigarros eletrônicos no país desde 2009, por meio da RDC nº 46/2009, mantendo e reforçando essa proibição em 2023 após consulta pública. Não obstante a proibição, o produto é amplamente comercializado de forma clandestina, inclusive pela internet e em estabelecimentos do comércio varejista, impondo desafios concretos à fiscalização sanitária.
+
+Considerando essa problemática, elabore um texto dissertativo-argumentativo, entre 20 e 40 linhas, abordando:
+
+a) os riscos à saúde pública decorrentes do uso de cigarros eletrônicos, com ênfase nos danos pulmonares, na dependência à nicotina e na atração especial sobre o público jovem;
+
+b) o marco regulatório brasileiro sobre cigarros eletrônicos, discutindo os fundamentos da proibição mantida pela ANVISA e os instrumentos de fiscalização disponíveis aos órgãos de vigilância sanitária;
+
+c) as estratégias intersetoriais necessárias para o enfrentamento eficaz do uso de vapes, articulando vigilância sanitária, educação em saúde, políticas de proteção ao adolescente e ação penal.`,
+    espelhoCorrecao: [
+      {
+        criterio: 'Tipo de Texto (TX)',
+        pontuacao: 3,
+        descricao: 'Adequação ao gênero dissertativo-argumentativo',
+        aspectosAvaliados: [
+          'Estrutura dissertativa com introdução, desenvolvimento e conclusão',
+          'Argumentação fundamentada em evidências técnicas e legais',
+          'Linguagem formal e impessoal',
+          'Posicionamento crítico sobre o problema de saúde pública',
+        ],
+      },
+      {
+        criterio: 'Tema/Assunto (TM)',
+        pontuacao: 3,
+        descricao: 'Abordagem completa dos três aspectos solicitados',
+        aspectosAvaliados: [
+          'Riscos à saúde descritos com base em evidências (EVALI, nicotina, público jovem)',
+          'Marco regulatório explicado com a RDC 46/2009 e a decisão de 2023',
+          'Instrumentos de fiscalização identificados',
+          'Estratégias intersetoriais apresentadas de forma articulada',
+        ],
+      },
+      {
+        criterio: 'Coerência (CR)',
+        pontuacao: 3,
+        descricao: 'Organização lógica e ausência de contradições',
+        aspectosAvaliados: [
+          'Progressão lógica: problema sanitário → regulação → enfrentamento',
+          'Argumentos consistentes e não contraditórios',
+          'Proporcionalidade entre gravidade do problema e medidas propostas',
+          'Conclusão coerente com o desenvolvimento',
+        ],
+      },
+      {
+        criterio: 'Coesão (CS)',
+        pontuacao: 3,
+        descricao: 'Articulação textual adequada',
+        aspectosAvaliados: [
+          'Conectivos de causalidade e consequência bem empregados',
+          'Referenciação clara à legislação e às fontes técnicas',
+          'Transições suaves entre os três aspectos',
+          'Unidade textual mantida',
+        ],
+      },
+      {
+        criterio: 'Expressão (ER)',
+        pontuacao: 3,
+        descricao: 'Clareza e precisão vocabular',
+        aspectosAvaliados: [
+          'Terminologia técnica de saúde e vigilância sanitária correta',
+          'Precisão na denominação dos produtos e das normas',
+          'Clareza na exposição de riscos e medidas',
+          'Registro formal mantido',
+        ],
+      },
+      {
+        criterio: 'Aspectos Registrais (AR)',
+        pontuacao: 15,
+        descricao: 'Correção linguística',
+        aspectosAvaliados: [
+          'Ortografia e acentuação',
+          'Concordância verbal e nominal',
+          'Regência adequada',
+          'Pontuação correta',
+          'Estrutura sintática adequada',
+        ],
+      },
+    ],
+    respostaModelo: `O uso de cigarros eletrônicos representa um dos mais urgentes desafios da vigilância sanitária contemporânea no Brasil, configurando fenômeno que combina estratégia agressiva de marketing direcionada ao público jovem, grave potencial de danos à saúde e ampla comercialização clandestina desafiadora do ordenamento jurídico vigente. A resposta do Estado exige articulação de instrumentos regulatórios, fiscalizatórios, educacionais e penais.
+
+Os danos à saúde associados ao uso de cigarros eletrônicos são clinicamente documentados e tecnicamente graves. A inalação dos aerossóis gerados pelos dispositivos expõe o usuário a substâncias tóxicas, metais pesados, compostos orgânicos voláteis e partículas ultrafinas que causam inflamação pulmonar. A lesão pulmonar associada ao uso de cigarro eletrônico (EVALI — E-cigarette or Vaping product use-Associated Lung Injury) foi identificada como síndrome específica por autoridades sanitárias internacionais, incluindo os Centers for Disease Control and Prevention (CDC) dos Estados Unidos. A nicotina presente na maioria dos dispositivos provoca dependência química intensa, sendo particularmente prejudicial para o desenvolvimento neurológico de adolescentes. A estratégia da indústria de comercializar os produtos em sabores atrativos — frutas, doces, menta — e com embalagens coloridas e voltadas ao universo jovem constitui técnica deliberada de captação de novos usuários, reproduzindo o modelo historicamente utilizado pela indústria do tabaco convencional.
+
+O marco regulatório brasileiro é claro: a ANVISA proibiu a comercialização, importação e publicidade de cigarros eletrônicos no país por meio da RDC nº 46/2009, fundada na ausência de evidências de segurança e eficácia, e manteve a proibição em 2023 após ampla consulta pública que considerou as crescentes evidências de danos. A comercialização, importação e distribuição desses produtos configuram infrações sanitárias graves, sujeitas às penalidades da Lei nº 6.437/1977, incluindo apreensão de produtos, multa, interdição do estabelecimento e comunicação ao Ministério Público. A venda pela internet acrescenta a competência da Secretaria Nacional do Consumidor (SENACON) e das plataformas de e-commerce como atores responsáveis pela retirada de anúncios irregulares. Os fiscais estaduais têm competência para autuar estabelecimentos que comercializem vapes no varejo, com lavratura de auto de infração e apreensão imediata dos produtos.
+
+O enfrentamento eficaz do problema exige abordagem intersetorial e integrada. No âmbito da saúde, campanhas de educação sanitária nas escolas, com linguagem adequada ao público adolescente, são fundamentais para desconstruir a percepção de que vapes são inofensivos. A articulação com o sistema de ensino, prevista na Lei nº 9.394/1996 (LDB) e reforçada pelas diretrizes do Programa Saúde na Escola, potencializa o alcance dessas ações. Na esfera da proteção ao adolescente, o Estatuto da Criança e do Adolescente (ECA) veda a venda de produtos nocivos à saúde a menores, impondo responsabilização dos comerciantes. Na dimensão penal, a comercialização clandestina em larga escala pode configurar crime de contrabando, justificando comunicação às autoridades policiais e à Receita Federal.
+
+Em conclusão, o enfrentamento do uso de cigarros eletrônicos no Brasil demanda atuação coordenada da vigilância sanitária com os setores de educação, segurança pública e justiça, reconhecendo que a proteção da saúde de crianças e jovens é obrigação constitucional do Estado que transcende os limites da fiscalização sanitária convencional.`,
+    analise: `Esta resposta demonstra domínio técnico, legal e de saúde pública sobre o tema:
+
+**Tipo de Texto (TX - 3 pontos):** Estrutura dissertativo-argumentativa completa, com introdução que enquadra o problema, desenvolvimento em quatro parágrafos (riscos, regulação, fiscalização e intersetorialidade) e conclusão que integra as dimensões discutidas.
+
+**Tema/Assunto (TM - 3 pontos):** Todos os aspectos contemplados: riscos documentados (EVALI, nicotina, público jovem); marco regulatório (RDC 46/2009, manutenção em 2023, Lei 6.437/1977); estratégias intersetoriais (saúde, educação, ECA, penal).
+
+**Coerência (CR - 3 pontos):** Progressão lógica do diagnóstico (danos) para a regulação (proibição) e para a solução (intersetorialidade). A proporcionalidade entre gravidade e medidas é bem argumentada.
+
+**Coesão (CS - 3 pontos):** Conectivos adequados, referenciação legal consistente e transições bem construídas entre os aspectos.
+
+**Expressão (ER - 3 pontos):** Vocabulário técnico preciso (EVALI, aerossóis, dependência química, intersetorialidade, contrabando), demonstrando domínio das dimensões sanitária e jurídica do tema.
+
+**Aspectos Registrais (AR - 15 pontos):** Texto gramaticalmente correto em todos os aspectos.`,
+    errosComuns: [
+      {
+        erro: 'Confundir cigarro eletrônico com cigarro convencional ao descrever os riscos',
+        impacto: 'Imprecisão técnica que demonstra desconhecimento específico do tema',
+        comoEvitar: 'Os riscos são distintos: o vape não queima tabaco, mas produz aerossóis com metais pesados e compostos orgânicos — mencione a EVALI como síndrome específica',
+      },
+      {
+        erro: 'Não mencionar a RDC 46/2009 da ANVISA como fundamento da proibição',
+        impacto: 'Perda significativa no TM por não demonstrar conhecimento do marco regulatório central',
+        comoEvitar: 'A RDC 46/2009 é a norma vigente que proíbe commercialização, importação e publicidade — cite-a expressamente',
+      },
+      {
+        erro: 'Ignorar a dimensão do ECA e da proteção ao adolescente',
+        impacto: 'Abordagem incompleta do item "c", que pede estratégias de proteção ao público jovem',
+        comoEvitar: 'O ECA proíbe venda de produtos nocivos a menores — é norma central na estratégia de enfrentamento focada em jovens',
+      },
+      {
+        erro: 'Tratar a proibição como definitivamente resolvida, sem mencionar os desafios de fiscalização',
+        impacto: 'Abordagem ingênua que ignora a tensão entre a norma e a realidade da comercialização clandestina',
+        comoEvitar: 'O enunciado menciona explicitamente a venda clandestina como desafio — discuta os instrumentos para enfrentá-la',
+      },
+      {
+        erro: 'Não mencionar a competência estadual para autuar estabelecimentos varejistas',
+        impacto: 'Omissão do papel específico do Fiscal Estadual, central para o cargo em disputa',
+        comoEvitar: 'Os Fiscais Estaduais têm competência para autuar no varejo — isso é essencial para demonstrar o papel do cargo na questão',
+      },
+    ],
+    dicasEspecificas: [
+      'Cite a RDC 46/2009 e sua confirmação em 2023 após consulta pública como demonstração da solidez técnica da proibição',
+      'Use a sigla EVALI (E-cigarette or Vaping product use-Associated Lung Injury) ao descrever as lesões pulmonares específicas',
+      'Mencione o Programa Saúde na Escola como mecanismo intersetorial de educação sanitária',
+      'Cite o ECA (Lei 8.069/1990) ao tratar da proteção de adolescentes contra produtos nocivos',
+      'Destaque que a venda clandestina em grande escala pode configurar crime de contrabando (art. 334, CP), justificando comunicação às autoridades policiais',
+    ],
+  },
+  {
+    id: 'tema-18',
+    tema: 'Epidemia de Dengue em Goiás: Vigilância em Saúde, Resposta Intersetorial e Papel do Fiscal',
+    area: 'Vigilância Epidemiológica',
+    enunciado: `O Brasil registrou em 2024 a maior epidemia de dengue de sua história, com mais de 6 milhões de casos notificados e mais de 4.000 óbitos confirmados. O Estado de Goiás foi gravemente afetado, declarando situação de emergência em saúde pública e ativando o Centro de Operações de Emergências em Saúde (COES-GO). Municípios goianos como Goiânia, Aparecida de Goiânia e Anápolis registraram altas taxas de incidência, sobrecarregando os serviços de saúde. O cenário evidenciou fragilidades na vigilância entomológica, na eliminação de criadouros em ambientes coletivos — como estabelecimentos comerciais, indústrias e imóveis abandonados — e na articulação entre os componentes da vigilância em saúde.
+
+Considerando esse contexto, elabore um texto dissertativo-argumentativo, entre 20 e 40 linhas, abordando:
+
+a) o papel da vigilância sanitária no controle de vetores e na redução de criadouros do Aedes aegypti em estabelecimentos sujeitos à sua fiscalização, diferenciando essa competência da vigilância epidemiológica e da vigilância ambiental em saúde;
+
+b) as medidas sanitárias aplicáveis pelo Fiscal de Saúde Pública em estabelecimentos com criadouros identificados, fundamentando-as na legislação pertinente e nos princípios do poder de polícia;
+
+c) a importância da resposta intersetorial e da participação social no enfrentamento de epidemias, discutindo o papel das instâncias de controle social do SUS e dos demais setores de governo na prevenção e controle da dengue.`,
+    espelhoCorrecao: [
+      {
+        criterio: 'Tipo de Texto (TX)',
+        pontuacao: 3,
+        descricao: 'Adequação ao gênero dissertativo-argumentativo',
+        aspectosAvaliados: [
+          'Estrutura dissertativa clara e bem definida',
+          'Argumentação técnica fundada em evidências epidemiológicas',
+          'Linguagem formal e impessoal',
+          'Posicionamento crítico sobre a resposta sanitária à epidemia',
+        ],
+      },
+      {
+        criterio: 'Tema/Assunto (TM)',
+        pontuacao: 3,
+        descricao: 'Abordagem completa dos três aspectos solicitados',
+        aspectosAvaliados: [
+          'Papel da VISA no controle vetorial diferenciado da VE e da VSAS',
+          'Medidas sanitárias cabíveis com fundamentação legal',
+          'Resposta intersetorial e participação social discutidas',
+          'Contexto goiano da epidemia incorporado ao texto',
+        ],
+      },
+      {
+        criterio: 'Coerência (CR)',
+        pontuacao: 3,
+        descricao: 'Organização lógica e ausência de contradições',
+        aspectosAvaliados: [
+          'Progressão lógica: competências → medidas → resposta coletiva',
+          'Diferenciação correta entre componentes da vigilância',
+          'Proporcionalidade das medidas às infrações',
+          'Conclusão coerente com o desenvolvimento',
+        ],
+      },
+      {
+        criterio: 'Coesão (CS)',
+        pontuacao: 3,
+        descricao: 'Articulação textual adequada',
+        aspectosAvaliados: [
+          'Conectivos de contraste e complementaridade bem empregados',
+          'Referenciação clara à legislação e ao contexto epidemiológico',
+          'Transições suaves entre os aspectos',
+          'Unidade textual mantida',
+        ],
+      },
+      {
+        criterio: 'Expressão (ER)',
+        pontuacao: 3,
+        descricao: 'Clareza e precisão vocabular',
+        aspectosAvaliados: [
+          'Terminologia epidemiológica e sanitária correta',
+          'Precisão na distinção dos componentes de vigilância',
+          'Clareza na exposição de medidas e fundamentações',
+          'Registro formal mantido',
+        ],
+      },
+      {
+        criterio: 'Aspectos Registrais (AR)',
+        pontuacao: 15,
+        descricao: 'Correção linguística',
+        aspectosAvaliados: [
+          'Ortografia e acentuação',
+          'Concordância verbal e nominal',
+          'Regência adequada',
+          'Pontuação correta',
+          'Estrutura sintática adequada',
+        ],
+      },
+    ],
+    respostaModelo: `A epidemia de dengue que assolou o Brasil em 2024, atingindo o Estado de Goiás de forma particularmente severa, revelou com nitidez os limites de uma resposta fragmentada ao problema do Aedes aegypti e a necessidade de articulação efetiva entre os componentes da vigilância em saúde e os demais setores de governo. O enfrentamento eficaz dessa arbovirose exige que cada componente do sistema cumpra seu papel específico, com destaque para a atuação da vigilância sanitária sobre os ambientes sob sua jurisdição.
+
+No contexto do controle vetorial, as competências de cada componente da vigilância em saúde são complementares e não se confundem. À vigilância epidemiológica cabe o monitoramento dos casos de dengue, a investigação de surtos, a análise da situação epidemiológica e a emissão de alertas aos gestores de saúde. À vigilância em saúde ambiental compete o monitoramento e o controle de fatores ambientais — como o levantamento de índices de infestação predial pelo Aedes aegypti, o acompanhamento de indicadores entomológicos e a gestão de ações de controle vetorial em espaços públicos. À vigilância sanitária, por sua vez, cabe fiscalizar os estabelecimentos sujeitos à sua competência — borracharias, ferros-velhos, depósitos, cemitérios, comércios em geral, indústrias — para verificar a existência de criadouros e exigir sua eliminação, integrando o esforço coletivo de redução da população do vetor.
+
+Quando o Fiscal de Saúde Pública identifica criadouros do Aedes aegypti durante inspeção sanitária, dispõe de instrumentos legais proporcionais à situação. A notificação formal do estabelecimento, com prazo determinado para eliminação dos focos, é medida inicial adequada, fundamentada no poder de polícia preventivo. Caso os criadouros representem risco iminente à saúde pública ou o infrator se recuse a cumprir a notificação, cabe a lavratura de auto de infração com base na Lei nº 6.437/1977 e na legislação estadual (Lei nº 16.140/2007), podendo-se aplicar desde advertência e multa até a interdição parcial do espaço onde os focos foram identificados. A discricionariedade, a autoexecutoriedade e a coercibilidade — atributos do poder de polícia — conferem eficácia à atuação do fiscal em situações de urgência sanitária.
+
+O enfrentamento de epidemias, porém, transcende a ação fiscalizatória e exige resposta intersetorial robusta. No âmbito do SUS, os Conselhos Municipais e Estaduais de Saúde constituem instâncias fundamentais de mobilização social e acompanhamento das ações de controle. As Conferências de Saúde oferecem espaço para proposição de políticas de longo prazo. A articulação com secretarias de meio ambiente, obras, educação e limpeza urbana é indispensável para abordar os determinantes estruturais — acúmulo de lixo, deficiências de saneamento, imóveis abandonados — que favorecem a proliferação do vetor. Em Goiás, o COES-GO ativado em 2024 ilustra a importância de centros integrados de coordenação de resposta a emergências sanitárias.
+
+Em síntese, a epidemia de dengue em Goiás expôs a necessidade de uma vigilância em saúde integrada, com a vigilância sanitária desempenhando papel ativo no controle de criadouros em estabelecimentos fiscalizados, articulada com a vigilância epidemiológica, ambiental e com os demais setores de governo, sob o controle social das instâncias participativas do SUS.`,
+    analise: `Esta resposta demonstra conhecimento aprofundado do contexto epidemiológico e das competências da vigilância em saúde:
+
+**Tipo de Texto (TX - 3 pontos):** Estrutura dissertativo-argumentativa exemplar, com introdução que contextualiza a epidemia, desenvolvimento em quatro parágrafos (diferenciação de competências, medidas sanitárias, resposta intersetorial) e conclusão sintética.
+
+**Tema/Assunto (TM - 3 pontos):** Todos os aspectos contemplados: diferenciação clara entre VE, VSAS e VISA no controle vetorial; medidas sanitárias (notificação, auto de infração, interdição) com fundamentação legal dupla (Lei 6.437/1977 e Lei 16.140/2007); resposta intersetorial com menção ao COES-GO, Conselhos de Saúde e setores extrasaúde.
+
+**Coerência (CR - 3 pontos):** Progressão lógica das competências específicas para as medidas e, em seguida, para a resposta coletiva. A proporcionalidade das medidas ao risco é bem desenvolvida.
+
+**Coesão (CS - 3 pontos):** Conectivos de complementaridade e contraste adequados, referenciação ao contexto goiano e à legislação, transições suaves entre os aspectos.
+
+**Expressão (ER - 3 pontos):** Vocabulário técnico preciso (arbovirose, índice de infestação predial, COES-GO, determinantes estruturais), demonstrando domínio das dimensões epidemiológica e sanitária.
+
+**Aspectos Registrais (AR - 15 pontos):** Texto gramaticalmente correto em todos os aspectos.`,
+    errosComuns: [
+      {
+        erro: 'Não diferenciar as competências da vigilância sanitária, epidemiológica e ambiental no controle vetorial',
+        impacto: 'Perda significativa no TM e CR por confusão conceitual grave — o item "a" pede expressamente essa diferenciação',
+        comoEvitar: 'Memorize: VE = monitora casos; VSAS = monitora o vetor e o ambiente; VISA = fiscaliza estabelecimentos e exige eliminação de criadouros',
+      },
+      {
+        erro: 'Não citar a Lei nº 16.140/2007 ao tratar das medidas sanitárias estaduais',
+        impacto: 'Perda de pontos por não demonstrar conhecimento da legislação estadual goiana',
+        comoEvitar: 'Em questões sobre atuação do Fiscal Estadual de Goiás, sempre cite a Lei 16.140/2007 em conjunto com a Lei federal 6.437/1977',
+      },
+      {
+        erro: 'Tratar a dengue como problema exclusivamente de saúde, ignorando os determinantes ambientais e sociais',
+        impacto: 'Abordagem unidimensional que não contempla a resposta intersetorial pedida no item "c"',
+        comoEvitar: 'Mencione saneamento, coleta de lixo, imóveis abandonados e a articulação com secretarias de meio ambiente e obras como parte da solução',
+      },
+      {
+        erro: 'Confundir o papel do COES-GO com o dos Conselhos de Saúde',
+        impacto: 'Imprecisão conceitual sobre as instâncias de resposta a emergências e controle social',
+        comoEvitar: 'COES-GO é centro de coordenação de resposta a emergências (técnico-operacional); Conselhos de Saúde são instâncias de controle social (deliberativo)',
+      },
+      {
+        erro: 'Propor a interdição imediata do estabelecimento como primeira medida para qualquer criadouro identificado',
+        impacto: 'Desproporcionalidade que contradiz o princípio da gradação das sanções',
+        comoEvitar: 'A gradação é: notificação → auto de infração → interdição (para risco iminente ou reincidência). Aplique proporcionalidade',
+      },
+    ],
+    dicasEspecificas: [
+      'Mencione que Goiás ativou o COES-GO em 2024 durante a maior epidemia de dengue da história do Brasil',
+      'Cite a Lei 6.437/1977 e a Lei Estadual 16.140/2007 como fundamentos da atuação fiscalizatória em criadouros',
+      'Diferencie claramente: VE monitora casos, VSAS monitora o vetor, VISA fiscaliza os estabelecimentos',
+      'Use o conceito de "determinantes estruturais" (saneamento, lixo, imóveis abandonados) ao tratar da intersetorialidade',
+      'Mencione os Conselhos Municipais e Estaduais de Saúde como instâncias de controle social e mobilização durante a epidemia',
+    ],
+  },
 ];
 
 interface TabPanelProps {

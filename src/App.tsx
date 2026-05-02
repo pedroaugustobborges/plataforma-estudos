@@ -8,6 +8,7 @@ import {
   Simulados,
   Discursivas,
   Estatisticas,
+  GabaritoDiscursivo,
 } from './pages';
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
           <Route path="revisoes" element={<Revisoes />} />
           <Route path="simulados" element={<Simulados />} />
           <Route path="discursivas" element={<Discursivas />} />
+          <Route path="gabarito-discursivo" element={<GabaritoDiscursivo />} />
           <Route path="estatisticas" element={<Estatisticas />} />
         </Route>
       </Routes>
