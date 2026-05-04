@@ -10,7 +10,6 @@ import {
   ToggleButtonGroup,
   Divider,
 } from '@mui/material';
-import Grid from '@mui/material/Grid';
 import { Print, FilterList, Warning, CheckCircle, Gavel, Star } from '@mui/icons-material';
 
 interface Esquema {
@@ -442,6 +441,25 @@ const esquemas: Esquema[] = [
     mnemônico: 'CONITEC → incorpora tecnologia no SUS com base em EVIDÊNCIAS (ATS)',
   },
   {
+    id: 'e24',
+    gatilho: 'Acidente com Césio-137 / Goiânia 1987 / Segurança Radiológica / Fontes Radioativas em Serviços de Saúde',
+    area: 'Resíduos e Ambiente',
+    cor: AREA_CORES['Resíduos e Ambiente'],
+    fraseAncora:
+      'O acidente com Césio-137 em Goiânia (1987), nível 5 na INES, expôs a ausência de controle sobre o ciclo de vida das fontes radioativas e impulsionou a reestruturação do marco regulatório de segurança radiológica no Brasil.',
+    pontosObrigatorios: [
+      'Fatos centrais: setembro/1987, Goiânia-GO; aparelho de radioterapia abandonado no IGR; 249 contaminados; 4 mortos (inclusive Leide das Neves, 6 anos); 112.800 monitorados; INES nível 5',
+      'CNEN: licencia e regula fontes radioativas (Lei 4.118/1962) — competência nuclear/radiológica',
+      'ANVISA/VISA estadual: fiscaliza estabelecimentos de saúde que usam radiação (alvará CNEN, proteção radiológica, registros de dose)',
+      'Resposta à emergência: isolamento → acionamento da CNEN → notificação à VE → comunicação de risco → dosimetria das vítimas → SINAN',
+      'Lições regulatórias: Portaria SVS/MS 453/1998 (radiodiagnóstico) + Lei 9.782/1999 (ANVISA) + normas CNEN sobre fontes orfãs + protocolos AIEA',
+    ],
+    citeSempre: ['Lei 4.118/1962 (CNEN)', 'Portaria SVS/MS 453/1998', 'Lei 9.782/1999', 'CNEN NN 3.01'],
+    naoEsqueca:
+      'IRRADIAÇÃO ≠ CONTAMINAÇÃO: irradiação é exposição externa (sem incorporar o material); contaminação é incorporação do Cs-137 no organismo. Em Goiânia ocorreram AMBAS. Confundir os termos é erro eliminatório em ER.',
+    mnemônico: 'CNEN licencia a FONTE → VISA fiscaliza o SERVIÇO → EMERGÊNCIA: isola → aciona CNEN → notifica VE → comunica população',
+  },
+  {
     id: 'e22',
     gatilho: 'Abastecimento de Água / Potabilidade / Licenciamento de Água / Portaria SES-GO 2145/2024',
     area: 'Resíduos e Ambiente',
@@ -484,9 +502,47 @@ const esquemas: Esquema[] = [
 const PRINT_STYLES = `
 @media print {
   @page { size: A4; margin: 10mm; }
+
+  /* Cores preservadas */
   body { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+
+  /* Ocultar toda a navegação do Layout */
+  .MuiAppBar-root,
+  .MuiDrawer-root,
+  .MuiDrawer-paper,
+  header,
+  nav {
+    display: none !important;
+  }
+
+  /* Reset completo no container raiz */
+  body > #root,
+  body > #root > div,
+  body > #root > div > div {
+    display: block !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* O <main> (componente Box do Layout) ocupa tudo sem margem */
+  main {
+    margin: 0 !important;
+    padding: 8mm !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-height: auto !important;
+  }
+
+  /* Elementos sem impressão */
   .no-print { display: none !important; }
+
+  /* Grid de cards: 2 colunas */
   .print-grid { display: grid !important; grid-template-columns: 1fr 1fr; gap: 6mm; }
+
+  /* Cards */
   .esquema-card { break-inside: avoid; page-break-inside: avoid; border: 1.5px solid #ccc; border-radius: 6px; overflow: hidden; margin-bottom: 4mm; }
   .esquema-header { padding: 4mm 5mm !important; }
   .esquema-body { padding: 4mm 5mm !important; font-size: 9pt !important; }

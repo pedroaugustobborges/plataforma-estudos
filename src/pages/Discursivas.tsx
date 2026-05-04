@@ -2431,6 +2431,145 @@ Em síntese, a epidemia de dengue em Goiás expôs a necessidade de uma vigilân
       'Mencione os Conselhos Municipais e Estaduais de Saúde como instâncias de controle social e mobilização durante a epidemia',
     ],
   },
+  {
+    id: 'tema-19',
+    tema: 'Acidente com Césio-137 em Goiânia: Lições para a Vigilância Sanitária e a Segurança Radiológica',
+    area: 'Segurança Radiológica',
+    enunciado: `Em setembro de 1987, a cidade de Goiânia viveu o maior acidente radiológico do Brasil e um dos mais graves do mundo: a contaminação por Césio-137 (Cs-137). Um aparelho de radioterapia abandonado no Instituto Goiano de Radioterapia (IGR), clínica desativada no centro da cidade, foi removido por catadores de materiais recicláveis e desmontado em um ferro-velho. O pó luminescente de cloreto de Césio-137 encontrado no interior do equipamento despertou curiosidade e foi distribuído entre amigos e familiares. O resultado foi uma catástrofe: 249 pessoas contaminadas, 4 óbitos — incluindo a menina Leide das Neves Ferreira, de 6 anos —, 112.800 pessoas monitoradas e toneladas de material contaminado recolhidas. O acidente foi classificado como nível 5 na Escala Internacional de Eventos Nucleares (INES) e revelou graves lacunas na regulação e na fiscalização de fontes radioativas no país.
+
+Considerando a relevância histórica, sanitária e regulatória do acidente, elabore um texto dissertativo-argumentativo, entre 20 e 40 linhas, abordando os seguintes aspectos:
+
+a) o papel da vigilância sanitária e da CNEN na regulação, fiscalização e controle de fontes radioativas em estabelecimentos de saúde, diferenciando as competências de cada órgão no contexto do Sistema Nacional de Vigilância Sanitária;
+
+b) as medidas de resposta a emergências radiológicas que devem ser adotadas pelo Fiscal de Saúde Pública e pelos demais componentes da vigilância em saúde, com ênfase na proteção das vítimas, na comunicação de risco e na articulação interinstitucional;
+
+c) as principais lições regulatórias e institucionais deixadas pelo acidente com Césio-137 em Goiânia e sua contribuição para o aperfeiçoamento do marco normativo de segurança radiológica no Brasil.`,
+    espelhoCorrecao: [
+      {
+        criterio: 'Tipo de Texto (TX)',
+        pontuacao: 3,
+        descricao: 'Adequação ao gênero dissertativo-argumentativo',
+        aspectosAvaliados: [
+          'Estrutura tripartite clara: introdução, desenvolvimento e conclusão',
+          'Argumentação técnica e histórica sobre o acidente e suas consequências',
+          'Linguagem formal e impessoal com vocabulário técnico-regulatório',
+          'Posicionamento crítico sobre as falhas e avanços na regulação radiológica',
+        ],
+      },
+      {
+        criterio: 'Tema/Assunto (TM)',
+        pontuacao: 3,
+        descricao: 'Abordagem completa e precisa dos três aspectos solicitados',
+        aspectosAvaliados: [
+          'Distinção correta entre competências da CNEN e da VISA/ANVISA',
+          'Medidas de resposta à emergência descritas com precisão técnica',
+          'Articulação interinstitucional (CNEN, ANVISA, VISAs, VE, MS) demonstrada',
+          'Lições regulatórias identificadas e relacionadas ao marco normativo atual',
+        ],
+      },
+      {
+        criterio: 'Coerência (CR)',
+        pontuacao: 3,
+        descricao: 'Organização lógica e ausência de contradições',
+        aspectosAvaliados: [
+          'Progressão lógica: contexto histórico → regulação vigente → resposta → lições',
+          'Proporcionalidade entre a gravidade do acidente e as medidas propostas',
+          'Argumentos consistentes e tecnicamente embasados',
+          'Conclusão derivada do desenvolvimento e prospectiva',
+        ],
+      },
+      {
+        criterio: 'Coesão (CS)',
+        pontuacao: 3,
+        descricao: 'Articulação textual adequada',
+        aspectosAvaliados: [
+          'Conectivos de causa, consequência e contraste bem empregados',
+          'Referenciação clara ao caso histórico e à legislação',
+          'Transições suaves entre os três aspectos solicitados',
+          'Unidade temática mantida ao longo do texto',
+        ],
+      },
+      {
+        criterio: 'Expressão (ER)',
+        pontuacao: 3,
+        descricao: 'Clareza e precisão vocabular',
+        aspectosAvaliados: [
+          'Terminologia radiológica e sanitária correta (Cs-137, INES, mSv, contaminação, irradiação)',
+          'Distinção precisa entre "irradiação" (exposição externa) e "contaminação" (incorporação do material)',
+          'Precisão na denominação dos órgãos e normas',
+          'Registro formal e técnico mantido',
+        ],
+      },
+      {
+        criterio: 'Aspectos Registrais (AR)',
+        pontuacao: 15,
+        descricao: 'Correção linguística plena',
+        aspectosAvaliados: [
+          'Ortografia e acentuação corretas',
+          'Concordância verbal e nominal',
+          'Regência verbal e nominal adequadas',
+          'Pontuação correta e estrutura sintática adequada',
+        ],
+      },
+    ],
+    respostaModelo: `O acidente com Césio-137 ocorrido em Goiânia em setembro de 1987 constitui marco trágico e indelével na história da vigilância sanitária e da segurança radiológica no Brasil. Classificado como nível 5 na Escala Internacional de Eventos Nucleares (INES), o acidente expôs a ausência de um sistema integrado de controle sobre fontes radioativas, resultando em 249 pessoas contaminadas, 4 óbitos e uma operação de descontaminação de proporções inéditas no país. Sua análise permanece indispensável para a compreensão do marco regulatório atual e das responsabilidades dos órgãos de vigilância em saúde.
+
+A regulação de fontes radioativas no Brasil é exercida de forma complementar pela CNEN e pelos órgãos de vigilância sanitária. À Comissão Nacional de Energia Nuclear (CNEN), autarquia federal criada pela Lei 4.118/1962, compete regular e fiscalizar todas as atividades que envolvam materiais nucleares e radioativos, incluindo o licenciamento de equipamentos de radioterapia, medicina nuclear e radiodiagnóstico industrial. À ANVISA e, por delegação, às VISAs estaduais, cabe a fiscalização dos estabelecimentos de saúde que utilizam fontes radioativas, verificando se possuem os devidos alvarás da CNEN, se adotam as normas de proteção radiológica e se mantêm os registros de monitoramento das doses ocupacionais. Em Goiânia, a ruptura desse sistema ficou evidente: o equipamento de radioterapia abandonado não havia sido adequadamente desativado, transferido ou recolhido, revelando a inexistência de controle sobre o ciclo de vida das fontes radioativas em serviços de saúde.
+
+Diante de uma emergência radiológica, os componentes da vigilância em saúde têm atribuições específicas e complementares. O Fiscal de Saúde Pública, ao ser acionado, deve adotar medidas imediatas de isolamento da área contaminada, acionar a CNEN para suporte técnico especializado e notificar a vigilância epidemiológica para o monitoramento das vítimas. A comunicação de risco à população é elemento crítico: informações claras, tempestivas e baseadas em evidências evitam o pânico coletivo e o comportamento de fuga que, no acidente de 1987, dificultou o rastreamento dos contaminados. A articulação com a defesa civil, os serviços hospitalares e as forças de segurança pública integra o protocolo de resposta a emergências radiológicas previsto no Plano Nacional de Proteção Radiológica de Emergência. A coleta de dados dosimétricos e biológicos dos expostos é responsabilidade da VE, que deve abrir fichas de investigação no SINAN e acompanhar as vítimas em longo prazo, dado o risco aumentado de neoplasias radiorradioterapia-induzidas.
+
+O legado regulatório do acidente de Goiânia foi profundo e duradouro. Em resposta ao desastre, o Brasil aperfeiçoou substancialmente sua legislação radiológica: a CNEN editou resoluções específicas para controle de fontes radioativas em serviços de saúde; a Portaria SVS/MS 453/1998 estabeleceu o regulamento técnico para proteção radiológica em radiodiagnóstico; e a criação da ANVISA, em 1999, pela Lei 9.782/1999, organizou de forma mais robusta o sistema de vigilância sanitária, incluindo a fiscalização de equipamentos médicos que utilizam radiação. O acidente também projetou Goiânia no debate internacional sobre segurança radiológica, levando a AIEA (Agência Internacional de Energia Atômica) a aprimorar protocolos para o gerenciamento de fontes orfãs — aquelas que se perdem do controle regulatório.
+
+Em conclusão, o acidente com Césio-137 em Goiânia não apenas marcou a história de Goiás e do Brasil, mas transformou a regulação da segurança radiológica no país, reforçando a necessidade de integração permanente entre CNEN, ANVISA, VISAs estaduais e demais componentes da vigilância em saúde na proteção da população contra os riscos da radiação ionizante.`,
+    analise: `Esta resposta demonstra domínio técnico, histórico e regulatório do tema:
+
+**Tipo de Texto (TX - 3 pontos):** Estrutura dissertativo-argumentativa completa, com introdução que contextualiza o acidente e apresenta a tese, desenvolvimento em três parágrafos correspondentes aos itens solicitados, e conclusão prospectiva que integra os pontos discutidos.
+
+**Tema/Assunto (TM - 3 pontos):** Todos os aspectos contemplados com profundidade: distinção CNEN vs. VISA/ANVISA fundamentada em legislação; medidas de resposta detalhadas (isolamento, comunicação, notificação, dosimetria, VE); lições regulatórias com normas específicas (Portaria 453/1998, Lei 9.782/1999, AIEA/fontes orfãs).
+
+**Coerência (CR - 3 pontos):** Progressão lógica impecável: o contexto histórico sustenta a análise regulatória, que fundamenta as medidas de resposta, que por sua vez explicam as lições. A menção ao acidente de 1987 ancora todas as argumentações.
+
+**Coesão (CS - 3 pontos):** Conectivos de causalidade e contraste ("em resposta ao desastre", "em Goiânia, a ruptura desse sistema ficou evidente"), referenciação histórica consistente e transições bem construídas.
+
+**Expressão (ER - 3 pontos):** Vocabulário técnico preciso e raro: INES nível 5, fontes orfãs, dosimetria, neoplasias radio-induzidas, ciclo de vida das fontes. A distinção implícita entre irradiação e contaminação demonstra domínio especializado.
+
+**Aspectos Registrais (AR - 15 pontos):** Texto gramaticalmente correto em todos os aspectos.`,
+    errosComuns: [
+      {
+        erro: 'Confundir "irradiação" com "contaminação"',
+        impacto: 'Erro técnico grave que demonstra desconhecimento do vocabulário radiológico básico',
+        comoEvitar: 'Irradiação = exposição externa à radiação sem incorporação do material. Contaminação = incorporação do material radioativo no organismo ou na superfície. No acidente de Goiânia, houve AMBOS.',
+      },
+      {
+        erro: 'Atribuir à ANVISA a competência de licenciar fontes radioativas',
+        impacto: 'Erro conceitual grave na distinção de competências — item "a" exige exatamente essa diferenciação',
+        comoEvitar: 'CNEN licencia as fontes radioativas; ANVISA/VISAs fiscalizam os estabelecimentos de saúde que as utilizam. São papéis complementares, não idênticos.',
+      },
+      {
+        erro: 'Não mencionar a comunicação de risco como elemento da resposta à emergência',
+        impacto: 'Omissão relevante no item "b" — em Goiânia, a falha na comunicação foi fator agravante do acidente',
+        comoEvitar: 'A comunicação de risco é dever do poder público em emergências sanitárias — mencione sua importância para evitar pânico, fuga e dispersão de contaminados.',
+      },
+      {
+        erro: 'Não citar a Portaria 453/1998 ou a criação da ANVISA como consequências regulatórias do acidente',
+        impacto: 'Perda de pontos no item "c" por abordagem das lições sem fundamentação normativa',
+        comoEvitar: 'O item "c" pede as lições regulatórias — é obrigatório citar ao menos uma norma criada ou fortalecida após o acidente de Goiânia.',
+      },
+      {
+        erro: 'Ignorar o conceito de "fonte radiativa orfã" e o papel da AIEA',
+        impacto: 'Perda de oportunidade de demonstrar conhecimento avançado que eleva a pontuação em ER',
+        comoEvitar: 'Fontes orfãs são aquelas que saem do controle regulatório — exatamente o que ocorreu em Goiânia. Citá-las vincula o caso ao debate internacional.',
+      },
+    ],
+    dicasEspecificas: [
+      'Mencione que o acidente de Goiânia (1987) foi classificado como nível 5 na INES — o segundo mais grave depois de Chernobyl (nível 7) e Fukushima (nível 7)',
+      'Cite os números: 249 contaminados, 4 mortos, 112.800 monitorados — demonstra domínio dos fatos históricos',
+      'Diferencie CNEN (licenciamento e regulação nuclear) de ANVISA/VISA (fiscalização sanitária dos serviços de saúde que usam radiação)',
+      'A Portaria SVS/MS 453/1998 (radiodiagnóstico) e a Lei 9.782/1999 (criação da ANVISA) são marcos regulatórios pós-acidente obrigatórios de citar',
+      'Mencione o conceito de "fonte radioativa orfã" (aquela que sai do controle regulatório) como o que ocorreu com o aparelho do IGR',
+      'Cite a AIEA (Agência Internacional de Energia Atômica) ao tratar das lições internacionais — demonstra visão sistêmica',
+    ],
+  },
 ];
 
 interface TabPanelProps {
